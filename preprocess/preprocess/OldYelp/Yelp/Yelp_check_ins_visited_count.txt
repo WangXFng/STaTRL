@@ -1,0 +1,2 @@
+arrived_poi_length visited_again_count
+27.87275788383086 1.2958622029398432

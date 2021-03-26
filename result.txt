@@ -1,0 +1,90 @@
+[ Epoch 1 ]
+   - (Training)    precision@5:  0.00505, recall@5:  0.01276, elapse: 1.491 min
+   - (Testing)     precision@5:  0.01646, recall@5:  0.01584, elapse: 0.727 min
+[ Epoch 2 ]
+   - (Training)    precision@5:  0.01013, recall@5:  0.02336, elapse: 1.491 min
+   - (Testing)     precision@5:  0.02443, recall@5:  0.02369, elapse: 0.729 min
+[ Epoch 3 ]
+   - (Training)    precision@5:  0.01311, recall@5:  0.03016, elapse: 1.492 min
+   - (Testing)     precision@5:  0.02730, recall@5:  0.02619, elapse: 0.726 min
+[ Epoch 4 ]
+   - (Training)    precision@5:  0.01557, recall@5:  0.03578, elapse: 1.494 min
+   - (Testing)     precision@5:  0.02777, recall@5:  0.02651, elapse: 0.731 min
+[ Epoch 5 ]
+   - (Training)    precision@5:  0.01847, recall@5:  0.04249, elapse: 1.487 min
+   - (Testing)     precision@5:  0.02823, recall@5:  0.02690, elapse: 0.728 min
+[ Epoch 6 ]
+   - (Training)    precision@5:  0.02191, recall@5:  0.05011, elapse: 1.490 min
+   - (Testing)     precision@5:  0.02859, recall@5:  0.02696, elapse: 0.728 min
+[ Epoch 7 ]
+   - (Training)    precision@5:  0.02531, recall@5:  0.05715, elapse: 1.500 min
+   - (Testing)     precision@5:  0.02942, recall@5:  0.02810, elapse: 0.723 min
+[ Epoch 8 ]
+   - (Training)    precision@5:  0.02863, recall@5:  0.06393, elapse: 1.495 min
+   - (Testing)     precision@5:  0.02937, recall@5:  0.02787, elapse: 0.729 min
+[ Epoch 9 ]
+   - (Training)    precision@5:  0.03216, recall@5:  0.07125, elapse: 1.499 min
+   - (Testing)     precision@5:  0.02957, recall@5:  0.02799, elapse: 0.725 min
+[ Epoch 10 ]
+   - (Training)    precision@5:  0.03550, recall@5:  0.07819, elapse: 1.493 min
+   - (Testing)     precision@5:  0.03047, recall@5:  0.02893, elapse: 0.726 min
+[ Epoch 11 ]
+   - (Training)    precision@5:  0.04342, recall@5:  0.09457, elapse: 1.495 min
+   - (Testing)     precision@5:  0.03100, recall@5:  0.02936, elapse: 0.725 min
+[ Epoch 12 ]
+   - (Training)    precision@5:  0.04612, recall@5:  0.09869, elapse: 1.495 min
+   - (Testing)     precision@5:  0.03050, recall@5:  0.02897, elapse: 0.729 min
+[ Epoch 13 ]
+   - (Training)    precision@5:  0.04885, recall@5:  0.10435, elapse: 1.494 min
+   - (Testing)     precision@5:  0.03052, recall@5:  0.02864, elapse: 0.728 min
+[ Epoch 14 ]
+   - (Training)    precision@5:  0.05131, recall@5:  0.10978, elapse: 1.477 min
+   - (Testing)     precision@5:  0.03076, recall@5:  0.02934, elapse: 0.730 min
+[ Epoch 15 ]
+   - (Training)    precision@5:  0.05404, recall@5:  0.11506, elapse: 1.495 min
+   - (Testing)     precision@5:  0.03083, recall@5:  0.02921, elapse: 0.725 min
+[ Epoch 16 ]
+   - (Training)    precision@5:  0.05666, recall@5:  0.12033, elapse: 1.495 min
+   - (Testing)     precision@5:  0.03097, recall@5:  0.02944, elapse: 0.728 min
+[ Epoch 17 ]
+   - (Training)    precision@5:  0.05839, recall@5:  0.12363, elapse: 1.491 min
+   - (Testing)     precision@5:  0.03137, recall@5:  0.02986, elapse: 0.727 min
+[ Epoch 18 ]
+   - (Training)    precision@5:  0.06161, recall@5:  0.12972, elapse: 1.483 min
+   - (Testing)     precision@5:  0.03128, recall@5:  0.02992, elapse: 0.725 min
+[ Epoch 19 ]
+   - (Training)    precision@5:  0.06471, recall@5:  0.13538, elapse: 1.494 min
+   - (Testing)     precision@5:  0.03089, recall@5:  0.02937, elapse: 0.727 min
+[ Epoch 20 ]
+   - (Training)    precision@5:  0.06708, recall@5:  0.14124, elapse: 1.497 min
+   - (Testing)     precision@5:  0.03111, recall@5:  0.02964, elapse: 0.725 min
+[ Epoch 21 ]
+   - (Training)    precision@5:  0.07395, recall@5:  0.15396, elapse: 1.498 min
+   - (Testing)     precision@5:  0.03093, recall@5:  0.02943, elapse: 0.730 min
+[ Epoch 22 ]
+   - (Training)    precision@5:  0.07540, recall@5:  0.15720, elapse: 1.490 min
+   - (Testing)     precision@5:  0.03109, recall@5:  0.02965, elapse: 0.730 min
+[ Epoch 23 ]
+   - (Training)    precision@5:  0.07669, recall@5:  0.15969, elapse: 1.494 min
+   - (Testing)     precision@5:  0.03067, recall@5:  0.02945, elapse: 0.728 min
+[ Epoch 24 ]
+   - (Training)    precision@5:  0.07899, recall@5:  0.16463, elapse: 1.498 min
+   - (Testing)     precision@5:  0.03063, recall@5:  0.02916, elapse: 0.724 min
+[ Epoch 25 ]
+   - (Training)    precision@5:  0.08006, recall@5:  0.16628, elapse: 1.494 min
+   - (Testing)     precision@5:  0.03087, recall@5:  0.02958, elapse: 0.724 min
+[ Epoch 26 ]
+   - (Training)    precision@5:  0.08157, recall@5:  0.16924, elapse: 1.486 min
+   - (Testing)     precision@5:  0.03059, recall@5:  0.02915, elapse: 0.725 min
+[ Epoch 27 ]
+   - (Training)    precision@5:  0.08280, recall@5:  0.17121, elapse: 1.498 min
+   - (Testing)     precision@5:  0.03057, recall@5:  0.02934, elapse: 0.724 min
+[ Epoch 28 ]
+   - (Training)    precision@5:  0.08375, recall@5:  0.17334, elapse: 1.488 min
+   - (Testing)     precision@5:  0.03061, recall@5:  0.02927, elapse: 0.730 min
+[ Epoch 29 ]
+   - (Training)    precision@5:  0.08549, recall@5:  0.17726, elapse: 1.497 min
+   - (Testing)     precision@5:  0.03077, recall@5:  0.02953, elapse: 0.729 min
+[ Epoch 30 ]
+   - (Training)    precision@5:  0.08584, recall@5:  0.17726, elapse: 1.486 min
+   - (Testing)     precision@5:  0.03079, recall@5:  0.02949, elapse: 0.726 min

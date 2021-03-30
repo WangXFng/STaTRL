@@ -6,10 +6,10 @@ from transformer.SubLayers import MultiHeadAttention, PositionwiseFeedForward
 class EncoderLayer(nn.Module):
     """ Compose with two layers """
 
-    def __init__(self, d_model, d_inner, n_head, d_k, d_v, dropout=0.1, normalize_before=True):
+    def __init__(self, d_model, d_inner, n_head, d_k, d_v, n_dis, dropout=0.1, normalize_before=True):
         super(EncoderLayer, self).__init__()
         self.slf_attn = MultiHeadAttention(
-            n_head, d_model, d_k, d_v, dropout=dropout, normalize_before=normalize_before)
+            n_head, d_model, d_k, d_v, n_dis, dropout=dropout, normalize_before=normalize_before)
         self.pos_ffn = PositionwiseFeedForward(
             d_model, d_inner, dropout=dropout, normalize_before=normalize_before)
 

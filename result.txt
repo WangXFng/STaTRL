@@ -1,90 +1,294 @@
+[Info] parameters: Namespace(batch_size=16, d_inner_hid=768, d_k=768, d_model=1024, d_rnn=128, d_v=768, data='../data/Yelp/', device=device(type='cuda'), dropout=0.6801, epoch=30, ita=0.05, log='log.txt', lr=8.5e-05, n_head=12, n_layers=2, smooth=0.0997)
+[Info] Number of parameters: 156560439
 [ Epoch 1 ]
-   - (Training)    precision@5:  0.00505, recall@5:  0.01276, elapse: 1.491 min
-   - (Testing)     precision@5:  0.01646, recall@5:  0.01584, elapse: 0.727 min
+   - (Training)    precision@5:  0.00462, recall@5:  0.01129, elapse: 2.509 min
+   - (Testing)     precision@5:  0.01392, recall@5:  0.01365, elapse: 0.738 min
 [ Epoch 2 ]
-   - (Training)    precision@5:  0.01013, recall@5:  0.02336, elapse: 1.491 min
-   - (Testing)     precision@5:  0.02443, recall@5:  0.02369, elapse: 0.729 min
+   - (Training)    precision@5:  0.00686, recall@5:  0.01642, elapse: 2.521 min
+   - (Testing)     precision@5:  0.01826, recall@5:  0.01788, elapse: 0.739 min
 [ Epoch 3 ]
-   - (Training)    precision@5:  0.01311, recall@5:  0.03016, elapse: 1.492 min
-   - (Testing)     precision@5:  0.02730, recall@5:  0.02619, elapse: 0.726 min
+   - (Training)    precision@5:  0.00886, recall@5:  0.02026, elapse: 2.505 min
+   - (Testing)     precision@5:  0.02091, recall@5:  0.02001, elapse: 0.737 min
 [ Epoch 4 ]
-   - (Training)    precision@5:  0.01557, recall@5:  0.03578, elapse: 1.494 min
-   - (Testing)     precision@5:  0.02777, recall@5:  0.02651, elapse: 0.731 min
+   - (Training)    precision@5:  0.01024, recall@5:  0.02379, elapse: 2.527 min
+   - (Testing)     precision@5:  0.02297, recall@5:  0.02237, elapse: 0.734 min
 [ Epoch 5 ]
-   - (Training)    precision@5:  0.01847, recall@5:  0.04249, elapse: 1.487 min
-   - (Testing)     precision@5:  0.02823, recall@5:  0.02690, elapse: 0.728 min
+   - (Training)    precision@5:  0.01212, recall@5:  0.02866, elapse: 2.503 min
+   - (Testing)     precision@5:  0.02459, recall@5:  0.02411, elapse: 0.737 min
 [ Epoch 6 ]
-   - (Training)    precision@5:  0.02191, recall@5:  0.05011, elapse: 1.490 min
-   - (Testing)     precision@5:  0.02859, recall@5:  0.02696, elapse: 0.728 min
+   - (Training)    precision@5:  0.01360, recall@5:  0.03182, elapse: 2.505 min
+   - (Testing)     precision@5:  0.02637, recall@5:  0.02565, elapse: 0.740 min
 [ Epoch 7 ]
-   - (Training)    precision@5:  0.02531, recall@5:  0.05715, elapse: 1.500 min
-   - (Testing)     precision@5:  0.02942, recall@5:  0.02810, elapse: 0.723 min
+   - (Training)    precision@5:  0.01574, recall@5:  0.03765, elapse: 2.526 min
+   - (Testing)     precision@5:  0.02804, recall@5:  0.02712, elapse: 0.735 min
 [ Epoch 8 ]
-   - (Training)    precision@5:  0.02863, recall@5:  0.06393, elapse: 1.495 min
-   - (Testing)     precision@5:  0.02937, recall@5:  0.02787, elapse: 0.729 min
+   - (Training)    precision@5:  0.01795, recall@5:  0.04339, elapse: 2.525 min
+   - (Testing)     precision@5:  0.02968, recall@5:  0.02846, elapse: 0.735 min
 [ Epoch 9 ]
-   - (Training)    precision@5:  0.03216, recall@5:  0.07125, elapse: 1.499 min
-   - (Testing)     precision@5:  0.02957, recall@5:  0.02799, elapse: 0.725 min
+   - (Training)    precision@5:  0.02101, recall@5:  0.05096, elapse: 2.524 min
+   - (Testing)     precision@5:  0.03027, recall@5:  0.02906, elapse: 0.734 min
 [ Epoch 10 ]
-   - (Training)    precision@5:  0.03550, recall@5:  0.07819, elapse: 1.493 min
-   - (Testing)     precision@5:  0.03047, recall@5:  0.02893, elapse: 0.726 min
+   - (Training)    precision@5:  0.02428, recall@5:  0.05884, elapse: 2.504 min
+   - (Testing)     precision@5:  0.03052, recall@5:  0.02906, elapse: 0.735 min
 [ Epoch 11 ]
-   - (Training)    precision@5:  0.04342, recall@5:  0.09457, elapse: 1.495 min
-   - (Testing)     precision@5:  0.03100, recall@5:  0.02936, elapse: 0.725 min
+   - (Training)    precision@5:  0.03032, recall@5:  0.07386, elapse: 2.528 min
+   - (Testing)     precision@5:  0.03131, recall@5:  0.02972, elapse: 0.737 min
 [ Epoch 12 ]
-   - (Training)    precision@5:  0.04612, recall@5:  0.09869, elapse: 1.495 min
-   - (Testing)     precision@5:  0.03050, recall@5:  0.02897, elapse: 0.729 min
+   - (Training)    precision@5:  0.03422, recall@5:  0.08328, elapse: 2.522 min
+   - (Testing)     precision@5:  0.03197, recall@5:  0.03028, elapse: 0.734 min
 [ Epoch 13 ]
-   - (Training)    precision@5:  0.04885, recall@5:  0.10435, elapse: 1.494 min
-   - (Testing)     precision@5:  0.03052, recall@5:  0.02864, elapse: 0.728 min
+   - (Training)    precision@5:  0.03774, recall@5:  0.09097, elapse: 2.536 min
+   - (Testing)     precision@5:  0.03219, recall@5:  0.03065, elapse: 0.736 min
 [ Epoch 14 ]
-   - (Training)    precision@5:  0.05131, recall@5:  0.10978, elapse: 1.477 min
-   - (Testing)     precision@5:  0.03076, recall@5:  0.02934, elapse: 0.730 min
+   - (Training)    precision@5:  0.04221, recall@5:  0.10163, elapse: 2.529 min
+   - (Testing)     precision@5:  0.03244, recall@5:  0.03084, elapse: 0.734 min
 [ Epoch 15 ]
-   - (Training)    precision@5:  0.05404, recall@5:  0.11506, elapse: 1.495 min
-   - (Testing)     precision@5:  0.03083, recall@5:  0.02921, elapse: 0.725 min
+   - (Training)    precision@5:  0.04622, recall@5:  0.10967, elapse: 2.518 min
+   - (Testing)     precision@5:  0.03239, recall@5:  0.03086, elapse: 0.738 min
 [ Epoch 16 ]
-   - (Training)    precision@5:  0.05666, recall@5:  0.12033, elapse: 1.495 min
-   - (Testing)     precision@5:  0.03097, recall@5:  0.02944, elapse: 0.728 min
+   - (Training)    precision@5:  0.05040, recall@5:  0.11878, elapse: 2.519 min
+   - (Testing)     precision@5:  0.03249, recall@5:  0.03092, elapse: 0.736 min
 [ Epoch 17 ]
-   - (Training)    precision@5:  0.05839, recall@5:  0.12363, elapse: 1.491 min
-   - (Testing)     precision@5:  0.03137, recall@5:  0.02986, elapse: 0.727 min
+   - (Training)    precision@5:  0.05602, recall@5:  0.13131, elapse: 2.520 min
+   - (Testing)     precision@5:  0.03275, recall@5:  0.03097, elapse: 0.736 min
 [ Epoch 18 ]
-   - (Training)    precision@5:  0.06161, recall@5:  0.12972, elapse: 1.483 min
-   - (Testing)     precision@5:  0.03128, recall@5:  0.02992, elapse: 0.725 min
+   - (Training)    precision@5:  0.06097, recall@5:  0.14135, elapse: 2.524 min
+   - (Testing)     precision@5:  0.03297, recall@5:  0.03129, elapse: 0.734 min
 [ Epoch 19 ]
-   - (Training)    precision@5:  0.06471, recall@5:  0.13538, elapse: 1.494 min
-   - (Testing)     precision@5:  0.03089, recall@5:  0.02937, elapse: 0.727 min
+   - (Training)    precision@5:  0.06605, recall@5:  0.15200, elapse: 2.529 min
+   - (Testing)     precision@5:  0.03320, recall@5:  0.03145, elapse: 0.738 min
 [ Epoch 20 ]
-   - (Training)    precision@5:  0.06708, recall@5:  0.14124, elapse: 1.497 min
-   - (Testing)     precision@5:  0.03111, recall@5:  0.02964, elapse: 0.725 min
+   - (Training)    precision@5:  0.07165, recall@5:  0.16257, elapse: 2.523 min
+   - (Testing)     precision@5:  0.03328, recall@5:  0.03155, elapse: 0.734 min
 [ Epoch 21 ]
-   - (Training)    precision@5:  0.07395, recall@5:  0.15396, elapse: 1.498 min
-   - (Testing)     precision@5:  0.03093, recall@5:  0.02943, elapse: 0.730 min
+   - (Training)    precision@5:  0.08228, recall@5:  0.18505, elapse: 2.520 min
+   - (Testing)     precision@5:  0.03351, recall@5:  0.03186, elapse: 0.735 min
 [ Epoch 22 ]
-   - (Training)    precision@5:  0.07540, recall@5:  0.15720, elapse: 1.490 min
-   - (Testing)     precision@5:  0.03109, recall@5:  0.02965, elapse: 0.730 min
+   - (Training)    precision@5:  0.08707, recall@5:  0.19421, elapse: 2.511 min
+   - (Testing)     precision@5:  0.03387, recall@5:  0.03200, elapse: 0.736 min
 [ Epoch 23 ]
-   - (Training)    precision@5:  0.07669, recall@5:  0.15969, elapse: 1.494 min
-   - (Testing)     precision@5:  0.03067, recall@5:  0.02945, elapse: 0.728 min
+   - (Training)    precision@5:  0.09060, recall@5:  0.20127, elapse: 2.527 min
+   - (Testing)     precision@5:  0.03355, recall@5:  0.03170, elapse: 0.737 min
 [ Epoch 24 ]
-   - (Training)    precision@5:  0.07899, recall@5:  0.16463, elapse: 1.498 min
-   - (Testing)     precision@5:  0.03063, recall@5:  0.02916, elapse: 0.724 min
+   - (Training)    precision@5:  0.09428, recall@5:  0.20813, elapse: 2.537 min
+   - (Testing)     precision@5:  0.03365, recall@5:  0.03188, elapse: 0.733 min
 [ Epoch 25 ]
-   - (Training)    precision@5:  0.08006, recall@5:  0.16628, elapse: 1.494 min
-   - (Testing)     precision@5:  0.03087, recall@5:  0.02958, elapse: 0.724 min
+   - (Training)    precision@5:  0.09783, recall@5:  0.21448, elapse: 2.537 min
+   - (Testing)     precision@5:  0.03354, recall@5:  0.03185, elapse: 0.741 min
 [ Epoch 26 ]
-   - (Training)    precision@5:  0.08157, recall@5:  0.16924, elapse: 1.486 min
-   - (Testing)     precision@5:  0.03059, recall@5:  0.02915, elapse: 0.725 min
+   - (Training)    precision@5:  0.10154, recall@5:  0.22039, elapse: 2.528 min
+   - (Testing)     precision@5:  0.03357, recall@5:  0.03178, elapse: 0.735 min
 [ Epoch 27 ]
-   - (Training)    precision@5:  0.08280, recall@5:  0.17121, elapse: 1.498 min
-   - (Testing)     precision@5:  0.03057, recall@5:  0.02934, elapse: 0.724 min
+   - (Training)    precision@5:  0.10498, recall@5:  0.22856, elapse: 2.538 min
+   - (Testing)     precision@5:  0.03352, recall@5:  0.03165, elapse: 0.735 min
 [ Epoch 28 ]
-   - (Training)    precision@5:  0.08375, recall@5:  0.17334, elapse: 1.488 min
-   - (Testing)     precision@5:  0.03061, recall@5:  0.02927, elapse: 0.730 min
+   - (Training)    precision@5:  0.10908, recall@5:  0.23584, elapse: 2.519 min
+   - (Testing)     precision@5:  0.03361, recall@5:  0.03198, elapse: 0.737 min
 [ Epoch 29 ]
-   - (Training)    precision@5:  0.08549, recall@5:  0.17726, elapse: 1.497 min
-   - (Testing)     precision@5:  0.03077, recall@5:  0.02953, elapse: 0.729 min
+   - (Training)    precision@5:  0.11227, recall@5:  0.24126, elapse: 2.532 min
+   - (Testing)     precision@5:  0.03365, recall@5:  0.03184, elapse: 0.736 min
 [ Epoch 30 ]
-   - (Training)    precision@5:  0.08584, recall@5:  0.17726, elapse: 1.486 min
-   - (Testing)     precision@5:  0.03079, recall@5:  0.02949, elapse: 0.726 min
+   - (Training)    precision@5:  0.11642, recall@5:  0.24951, elapse: 2.536 min
+   - (Testing)     precision@5:  0.03385, recall@5:  0.03219, elapse: 0.741 min
+
+
+
+
+   [Info] parameters: Namespace(batch_size=16, d_inner_hid=768, d_k=768, d_model=1024, d_rnn=128, d_v=768, data='../data/Yelp/', device=device(type='cuda'), dropout=0.5517549031595207, epoch=30, ita=0.05788694729862406, log='log.txt', lr=8.051687067142713e-05, n_dis=8, n_head=12, n_layers=2, smooth=0.06241341790354943)
+[Info] Number of parameters: 156560439
+[ Epoch 1 ]
+   - (Training)    precision@10:  0.00414, recall@10:  0.02054, elapse: 2.699 min
+   - (Testing)     precision@10:  0.01158, recall@10:  0.02254, elapse: 0.843 min
+[ Epoch 2 ]
+   - (Training)    precision@10:  0.00687, recall@10:  0.03153, elapse: 2.706 min
+   - (Testing)     precision@10:  0.01719, recall@10:  0.03274, elapse: 0.847 min
+[ Epoch 3 ]
+   - (Training)    precision@10:  0.00863, recall@10:  0.03902, elapse: 2.679 min
+   - (Testing)     precision@10:  0.02005, recall@10:  0.03819, elapse: 0.851 min
+[ Epoch 4 ]
+   - (Training)    precision@10:  0.01010, recall@10:  0.04581, elapse: 2.708 min
+   - (Testing)     precision@10:  0.02171, recall@10:  0.04164, elapse: 0.853 min
+[ Epoch 5 ]
+   - (Training)    precision@10:  0.01145, recall@10:  0.05341, elapse: 2.706 min
+   - (Testing)     precision@10:  0.02383, recall@10:  0.04521, elapse: 0.847 min
+[ Epoch 6 ]
+   - (Training)    precision@10:  0.01404, recall@10:  0.06620, elapse: 2.703 min
+   - (Testing)     precision@10:  0.02525, recall@10:  0.04752, elapse: 0.852 min
+[ Epoch 7 ]
+   - (Training)    precision@10:  0.01735, recall@10:  0.08296, elapse: 2.710 min
+   - (Testing)     precision@10:  0.02598, recall@10:  0.04890, elapse: 0.855 min
+[ Epoch 8 ]
+   - (Training)    precision@10:  0.02186, recall@10:  0.10656, elapse: 2.703 min
+   - (Testing)     precision@10:  0.02659, recall@10:  0.04971, elapse: 0.843 min
+[ Epoch 9 ]
+   - (Training)    precision@10:  0.02808, recall@10:  0.13887, elapse: 2.693 min
+   - (Testing)     precision@10:  0.02731, recall@10:  0.05095, elapse: 0.854 min
+[ Epoch 10 ]
+   - (Training)    precision@10:  0.03515, recall@10:  0.17364, elapse: 2.704 min
+   - (Testing)     precision@10:  0.02758, recall@10:  0.05103, elapse: 0.852 min
+[ Epoch 11 ]
+   - (Training)    precision@10:  0.05042, recall@10:  0.25032, elapse: 2.709 min
+   - (Testing)     precision@10:  0.02818, recall@10:  0.05225, elapse: 0.849 min
+[ Epoch 12 ]
+   - (Training)    precision@10:  0.05767, recall@10:  0.28129, elapse: 2.715 min
+   - (Testing)     precision@10:  0.02821, recall@10:  0.05193, elapse: 0.850 min
+[ Epoch 13 ]
+   - (Training)    precision@10:  0.06382, recall@10:  0.30694, elapse: 2.711 min
+   - (Testing)     precision@10:  0.02822, recall@10:  0.05232, elapse: 0.855 min
+[ Epoch 14 ]
+   - (Training)    precision@10:  0.07005, recall@10:  0.33157, elapse: 2.711 min
+   - (Testing)     precision@10:  0.02804, recall@10:  0.05206, elapse: 0.852 min
+[ Epoch 15 ]
+   - (Training)    precision@10:  0.07618, recall@10:  0.35567, elapse: 2.700 min
+   - (Testing)     precision@10:  0.02800, recall@10:  0.05179, elapse: 0.852 min
+[ Epoch 16 ]
+   - (Training)    precision@10:  0.08229, recall@10:  0.37610, elapse: 2.704 min
+   - (Testing)     precision@10:  0.02783, recall@10:  0.05136, elapse: 0.853 min
+[ Epoch 17 ]
+   - (Training)    precision@10:  0.08782, recall@10:  0.39526, elapse: 2.711 min
+   - (Testing)     precision@10:  0.02795, recall@10:  0.05156, elapse: 0.850 min
+[ Epoch 18 ]
+   - (Training)    precision@10:  0.09339, recall@10:  0.41461, elapse: 2.709 min
+   - (Testing)     precision@10:  0.02778, recall@10:  0.05143, elapse: 0.854 min
+[ Epoch 19 ]
+   - (Training)    precision@10:  0.09871, recall@10:  0.43160, elapse: 2.709 min
+   - (Testing)     precision@10:  0.02770, recall@10:  0.05136, elapse: 0.855 min
+[ Epoch 20 ]
+   - (Training)    precision@10:  0.10411, recall@10:  0.45121, elapse: 2.717 min
+   - (Testing)     precision@10:  0.02784, recall@10:  0.05158, elapse: 0.852 min
+[ Epoch 21 ]
+   - (Training)    precision@10:  0.11802, recall@10:  0.50494, elapse: 2.706 min
+   - (Testing)     precision@10:  0.02783, recall@10:  0.05152, elapse: 0.851 min
+[ Epoch 22 ]
+   - (Training)    precision@10:  0.12197, recall@10:  0.51914, elapse: 2.693 min
+   - (Testing)     precision@10:  0.02787, recall@10:  0.05145, elapse: 0.852 min
+[ Epoch 23 ]
+   - (Training)    precision@10:  0.12508, recall@10:  0.52977, elapse: 2.704 min
+   - (Testing)     precision@10:  0.02753, recall@10:  0.05114, elapse: 0.853 min
+[ Epoch 24 ]
+   - (Training)    precision@10:  0.12762, recall@10:  0.53787, elapse: 2.707 min
+   - (Testing)     precision@10:  0.02759, recall@10:  0.05117, elapse: 0.852 min
+[ Epoch 25 ]
+   - (Training)    precision@10:  0.12992, recall@10:  0.54454, elapse: 2.707 min
+   - (Testing)     precision@10:  0.02740, recall@10:  0.05072, elapse: 0.853 min
+[ Epoch 26 ]
+   - (Training)    precision@10:  0.13246, recall@10:  0.55353, elapse: 2.712 min
+   - (Testing)     precision@10:  0.02743, recall@10:  0.05094, elapse: 0.860 min
+[ Epoch 27 ]
+   - (Training)    precision@10:  0.13478, recall@10:  0.56132, elapse: 2.708 min
+   - (Testing)     precision@10:  0.02736, recall@10:  0.05072, elapse: 0.848 min
+[ Epoch 28 ]
+   - (Training)    precision@10:  0.13728, recall@10:  0.56981, elapse: 2.711 min
+   - (Testing)     precision@10:  0.02721, recall@10:  0.05058, elapse: 0.853 min
+[ Epoch 29 ]
+   - (Training)    precision@10:  0.13951, recall@10:  0.57820, elapse: 2.708 min
+   - (Testing)     precision@10:  0.02740, recall@10:  0.05088, elapse: 0.854 min
+[ Epoch 30 ]
+   - (Training)    precision@10:  0.14105, recall@10:  0.58311, elapse: 2.718 min
+   - (Testing)     precision@10:  0.02692, recall@10:  0.05002, elapse: 0.852 min
+[I 2021-03-28 03:25:02,100] Trial 2 finished with value: 0.02821575420079645 and parameters: {'n_layers': 2, 'n_hidden': 768, 'd_k': 768, 'd_v': 768, 'n_head': 12, 'n_dis': 8, 'd_model': 1024, 'dropout_rate': 0.5517549031595207, 'smooth': 0.06241341790354943, 'learning_rate': 8.051687067142713e-05, 'ita': 0.05788694729862406}. Best is trial 2 with value: 0.02821575420079645.
+
+
+
+[I 2021-03-27 23:57:47,955] Trial 0 finished with value: 0.022715057324632935 and parameters: {'n_layers': 2, 'n_hidden': 768, 'd_k': 896, 'd_v': 768, 'n_head': 8, 'n_dis': 8, 'd_model': 1024, 'dropout_rate': 0.6444349022517601, 'smooth': 0.09658855884242017, 'learning_rate': 7.835027635547645e-05, 'ita': 0.04963920662071329}. Best is trial 0 with value: 0.022715057324632935.
+[Info] Loading train data...
+[Info] Loading test data...
+[Info] parameters: Namespace(batch_size=16, d_inner_hid=640, d_k=640, d_model=1024, d_rnn=128, d_v=512, data='../data/Yelp/', device=device(type='cuda'), dropout=0.5305617216297118, epoch=30, ita=0.05414085305919847, log='log.txt', lr=9.982685672194531e-05, n_dis=8, n_head=8, n_layers=2, smooth=0.05517754081153215)
+[Info] Number of parameters: 118287159
+[ Epoch 1 ]
+   - (Training)    precision@20:  0.00352, recall@20:  0.03384, elapse: 1.747 min
+   - (Testing)     precision@20:  0.01005, recall@20:  0.03925, elapse: 0.632 min
+[ Epoch 2 ]
+   - (Training)    precision@20:  0.00571, recall@20:  0.05043, elapse: 1.755 min
+   - (Testing)     precision@20:  0.01514, recall@20:  0.05684, elapse: 0.632 min
+[ Epoch 3 ]
+   - (Training)    precision@20:  0.00736, recall@20:  0.06404, elapse: 1.755 min
+   - (Testing)     precision@20:  0.01663, recall@20:  0.06200, elapse: 0.635 min
+[ Epoch 4 ]
+   - (Training)    precision@20:  0.00842, recall@20:  0.07422, elapse: 1.739 min
+   - (Testing)     precision@20:  0.01875, recall@20:  0.07009, elapse: 0.636 min
+[ Epoch 5 ]
+   - (Training)    precision@20:  0.01002, recall@20:  0.09021, elapse: 1.752 min
+   - (Testing)     precision@20:  0.02031, recall@20:  0.07556, elapse: 0.634 min
+[ Epoch 6 ]
+   - (Training)    precision@20:  0.01275, recall@20:  0.12110, elapse: 1.764 min
+   - (Testing)     precision@20:  0.02126, recall@20:  0.07845, elapse: 0.637 min
+[ Epoch 7 ]
+   - (Training)    precision@20:  0.01720, recall@20:  0.17221, elapse: 1.748 min
+   - (Testing)     precision@20:  0.02193, recall@20:  0.08073, elapse: 0.638 min
+[ Epoch 8 ]
+   - (Training)    precision@20:  0.02336, recall@20:  0.23950, elapse: 1.756 min
+   - (Testing)     precision@20:  0.02218, recall@20:  0.08103, elapse: 0.635 min
+[ Epoch 9 ]
+   - (Training)    precision@20:  0.02952, recall@20:  0.30207, elapse: 1.755 min
+   - (Testing)     precision@20:  0.02248, recall@20:  0.08195, elapse: 0.634 min
+[ Epoch 10 ]
+   - (Training)    precision@20:  0.03588, recall@20:  0.36011, elapse: 1.755 min
+   - (Testing)     precision@20:  0.02255, recall@20:  0.08242, elapse: 0.633 min
+[ Epoch 11 ]
+   - (Training)    precision@20:  0.04997, recall@20:  0.48227, elapse: 1.762 min
+   - (Testing)     precision@20:  0.02257, recall@20:  0.08230, elapse: 0.634 min
+[ Epoch 12 ]
+   - (Training)    precision@20:  0.05463, recall@20:  0.51384, elapse: 1.761 min
+   - (Testing)     precision@20:  0.02276, recall@20:  0.08311, elapse: 0.640 min
+[ Epoch 13 ]
+   - (Training)    precision@20:  0.05842, recall@20:  0.53501, elapse: 1.751 min
+   - (Testing)     precision@20:  0.02283, recall@20:  0.08322, elapse: 0.633 min
+[ Epoch 14 ]
+   - (Training)    precision@20:  0.06208, recall@20:  0.55729, elapse: 1.762 min
+   - (Testing)     precision@20:  0.02267, recall@20:  0.08271, elapse: 0.643 min
+[ Epoch 15 ]
+   - (Training)    precision@20:  0.06516, recall@20:  0.57517, elapse: 1.753 min
+   - (Testing)     precision@20:  0.02255, recall@20:  0.08202, elapse: 0.639 min
+[ Epoch 16 ]
+   - (Training)    precision@20:  0.06824, recall@20:  0.59196, elapse: 1.756 min
+   - (Testing)     precision@20:  0.02248, recall@20:  0.08174, elapse: 0.638 min
+[ Epoch 17 ]
+   - (Training)    precision@20:  0.07124, recall@20:  0.60716, elapse: 1.754 min
+   - (Testing)     precision@20:  0.02257, recall@20:  0.08205, elapse: 0.633 min
+[ Epoch 18 ]
+   - (Training)    precision@20:  0.07402, recall@20:  0.62103, elapse: 1.763 min
+   - (Testing)     precision@20:  0.02238, recall@20:  0.08144, elapse: 0.635 min
+[ Epoch 19 ]
+   - (Training)    precision@20:  0.07652, recall@20:  0.63418, elapse: 1.760 min
+   - (Testing)     precision@20:  0.02228, recall@20:  0.08082, elapse: 0.633 min
+[ Epoch 20 ]
+   - (Training)    precision@20:  0.07904, recall@20:  0.64855, elapse: 1.771 min
+   - (Testing)     precision@20:  0.02228, recall@20:  0.08104, elapse: 0.637 min
+[ Epoch 21 ]
+   - (Training)    precision@20:  0.08763, recall@20:  0.70972, elapse: 1.756 min
+   - (Testing)     precision@20:  0.02222, recall@20:  0.08082, elapse: 0.636 min
+[ Epoch 22 ]
+   - (Training)    precision@20:  0.08926, recall@20:  0.71747, elapse: 1.769 min
+   - (Testing)     precision@20:  0.02219, recall@20:  0.08056, elapse: 0.633 min
+[ Epoch 23 ]
+   - (Training)    precision@20:  0.09035, recall@20:  0.72327, elapse: 1.770 min
+   - (Testing)     precision@20:  0.02219, recall@20:  0.08039, elapse: 0.637 min
+[ Epoch 24 ]
+   - (Training)    precision@20:  0.09146, recall@20:  0.73034, elapse: 1.754 min
+   - (Testing)     precision@20:  0.02204, recall@20:  0.07994, elapse: 0.630 min
+[ Epoch 25 ]
+   - (Training)    precision@20:  0.09222, recall@20:  0.73308, elapse: 1.756 min
+   - (Testing)     precision@20:  0.02187, recall@20:  0.07946, elapse: 0.634 min
+[ Epoch 26 ]
+   - (Training)    precision@20:  0.09324, recall@20:  0.73843, elapse: 1.754 min
+   - (Testing)     precision@20:  0.02188, recall@20:  0.07967, elapse: 0.634 min
+[ Epoch 27 ]
+   - (Training)    precision@20:  0.09400, recall@20:  0.74279, elapse: 1.768 min
+   - (Testing)     precision@20:  0.02177, recall@20:  0.07916, elapse: 0.638 min
+[ Epoch 28 ]
+   - (Training)    precision@20:  0.09485, recall@20:  0.74796, elapse: 1.754 min
+   - (Testing)     precision@20:  0.02169, recall@20:  0.07896, elapse: 0.637 min
+[ Epoch 29 ]
+   - (Training)    precision@20:  0.09555, recall@20:  0.75103, elapse: 1.758 min
+   - (Testing)     precision@20:  0.02161, recall@20:  0.07881, elapse: 0.630 min
+[ Epoch 30 ]
+   - (Training)    precision@20:  0.09630, recall@20:  0.75437, elapse: 1.762 min
+   - (Testing)     precision@20:  0.02151, recall@20:  0.07867, elapse: 0.636 min
+[I 2021-03-28 01:09:37,079] Trial 1 finished with value: 0.022831614376345632 and parameters:
+{'n_layers': 2, 'n_hidden': 640, 'd_k': 640, 'd_v': 512, 'n_head': 8, 'n_dis': 8, 'd_model': 1024, 'dropout_rate': 0.5305617216297118, 'smooth': 0.05517754081153215, 'learning_rate': 9.982685672194531e-05, 'ita': 0.05414085305919847}. Best is trial 1 with value: 0.022831614376345632.
+
+
+Trial 0 finished with value: 0.023080908615730325 and parameters:
+{'n_hidden': 640, 'd_k': 896, 'd_v': 512, 'dropout_rate': 0.6828812568505991, 'smooth': 0.03228291746302374, 'learning_rate': 9.948414556738875e-05, 'ita': 0.037035446766823826, 'coefficient': 0.1402819959122966}
+{'n_hidden': 512, 'd_k': 1024, 'd_v': 640, 'dropout_rate': 0.5766589413484247, 'smooth': 0.004114496684794123, 'learning_rate': 0.00023358224049957615}. Best is trial 0 with value: 0.017667627552272195.

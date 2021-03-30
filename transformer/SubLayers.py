@@ -10,7 +10,7 @@ from transformer.Modules import ScaledDotProductAttention
 class MultiHeadAttention(nn.Module):
     """ Multi-Head Attention module """
 
-    def __init__(self, n_head, d_model, d_k, d_v, dropout=0.1, normalize_before=True):
+    def __init__(self, n_head, d_model, d_k, d_v, n_dis, dropout=0.1, normalize_before=True):
         super().__init__()
 
         self.normalize_before = normalize_before
@@ -28,7 +28,7 @@ class MultiHeadAttention(nn.Module):
         self.fc = nn.Linear(d_v * n_head, d_model)  # 512 * 4, 512
         nn.init.xavier_uniform_(self.fc.weight)
 
-        self.attention = ScaledDotProductAttention(temperature=d_k ** 0.5)
+        self.attention = ScaledDotProductAttention(n_dis, temperature=d_k ** 0.5)
 
         self.layer_norm = nn.LayerNorm(d_model, eps=1e-6)
         self.dropout = nn.Dropout(dropout)

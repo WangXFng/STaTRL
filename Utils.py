@@ -93,14 +93,14 @@ def log_likelihood(model, data, time, types):
     return event_ll, non_event_ll
 
 
-def rating_loss(prediction, label, score, test_label, test_score, loss_func):
+def rating_loss(prediction, label, test_label, loss_func):
     """ Event prediction loss, cross entropy or label smoothing. """
 
     # convert [1,2,3] based types to [0,1,2]; also convert padding events to -1
     # truth = types[:, 1:] - 1
     prediction = torch.squeeze(prediction[:, :], 1)
 
-    loss = loss_func(prediction, label, score, test_label, test_score)
+    loss = loss_func(prediction, label, test_label)
     loss = torch.sum(loss)
 
     return loss
@@ -150,25 +150,22 @@ class LabelSmoothingLoss(nn.Module):
 
         return s
 
-    def forward(self, output, label, score, test_label, test_score):
+    def forward(self, output, label, test_label):
         """
         output (FloatTensor): (batch_size) x n_classes
         target (LongTensor): batch_size
         """
         one_hots = torch.zeros(label.size(0), self.num_classes, device=self.device, dtype=torch.float32)
-        for i, (t, s, tl, ts) in enumerate(zip(label, score, test_label, test_score)):
-            s = torch.cat((ts, s), 0)
+        for i, (t, tl) in enumerate(zip(label, test_label)):
             t = torch.cat((tl, t), 0)
 
             # s = ts
             # t = tl
 
             where_ = torch.where(t != 0)[0]
-            s = s[where_]
             t = t[where_] - 1
 
-            s = self.getScore_(s)
-            one_hots[i][t] = s
+            one_hots[i][t] = 1
 
             # where_ = torch.where(tl != 0)[0]
             # # ts = ts[where_]
@@ -176,13 +173,14 @@ class LabelSmoothingLoss(nn.Module):
             # one_hots[i][tl] = 1
 
         one_hots = one_hots * (1 - self.eps) + (1 - one_hots) * self.eps / self.num_classes
-        log_prb = F.log_softmax(output, dim=-1)  # output [16, 161, 22]   log_prb [16, 161, 22]
+
+        log_prb = F.logsigmoid(output)  # output [16, 161, 22]   log_prb [16, 161, 22]
         loss = -(one_hots * log_prb).sum(dim=-1)  # [16, 161, 22]
 
         return loss
 
 
-def type_loss(prediction, label, score, test_label, test_score, smooth):
+def type_loss(prediction, label, test_label, smooth):
     """ Event prediction loss, cross entropy or label smoothing. """
 
     # convert [1,2,3] based types to [0,1,2]; also convert padding events to -1
@@ -190,14 +188,13 @@ def type_loss(prediction, label, score, test_label, test_score, smooth):
 
     predict = torch.zeros(label.size(0), Constants.TYPE_NUMBER, device='cuda:0', dtype=torch.float32)
     # predict = torch.zeros(label.size(0), self.num_classes, device=self.device, dtype=torch.float32)
-    for i, (t, s, tl, ts) in enumerate(zip(label, score, test_label, test_score)):
-
+    for i, tl in enumerate(test_label):
         where_ = torch.where(tl != 0)[0]
         # ts = ts[where_]
         tl = tl[where_] - 1
         predict[i][tl] = 1
 
-    log_prb = F.log_softmax(prediction, dim=-1)  # output [16, 161, 22]   log_prb [16, 161, 22]
+    log_prb = F.logsigmoid(prediction)  # output [16, 161, 22]   log_prb [16, 161, 22]
 
     predict = predict * (1 - smooth) + (1 - predict) * smooth / Constants.TYPE_NUMBER
     predict_loss = -(predict * log_prb).sum(dim=-1)  # [16, 161, 22]

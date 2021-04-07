@@ -26,18 +26,17 @@ def prepare_dataloader(opt):
         with open(name, 'rb') as f:
             data = pickle.load(f, encoding='latin-1')
             num_types = data['dim_process']
-            ingoing = data['ingoing']
 
             data = data[dict_name]
-            return data, int(num_types), ingoing
+            return data, int(num_types)
 
     print('[Info] Loading train data...')
     # las_vegas 31675  # toronto 20370 # Champaign 1327 # Charlotte 10429 # original length 18995
-    train_data, num_types, ingoing = load_data(opt.data + 'train_old_yelp.pkl', 'train')
+    train_data, num_types = load_data(opt.data + 'train_old_yelp.pkl', 'train')
     # print('[Info] Loading dev data...')
     # # dev_data, _ = load_data(opt.data + 'dev.pkl', 'dev')
     print('[Info] Loading test data...')
-    test_data, _, _2 = load_data(opt.data + 'test_old_yelp.pkl', 'test')
+    test_data, _ = load_data(opt.data + 'test_old_yelp.pkl', 'test')
 
     trainloader = get_dataloader(train_data, opt.batch_size, shuffle=True)
     testloader = get_dataloader(test_data, opt.batch_size, shuffle=False)
@@ -45,7 +44,7 @@ def prepare_dataloader(opt):
     # print(train_data[0])  // [{'time_since_start': 1325.5123, 'time_since_last_event': 0.0, 'type_event': 3}]
     # print(len(train_data[0])) // 44
 
-    return trainloader, testloader, num_types, ingoing
+    return trainloader, testloader, num_types
 
 
 def vaild(prediction, label, top_n, precision_s, recall_s, count):
@@ -53,6 +52,16 @@ def vaild(prediction, label, top_n, precision_s, recall_s, count):
     for top, l in zip(top_, label):
         l = l[l != 0]
         l = l - 1
+
+        # if len(l) == 0:
+        #     precision_s[count] = 1
+        #     recall_s[count] = 1
+        #     continue
+        # else:
+        #     print(set(l) & set(top))
+        #     actual = len(set(l) & set(top))
+        #     precision_s[count] = actual / len(top)
+        #     recall_s[count] = actual / len(l)
         for j in l:
             # s = torch.max(top == j, dim=-1)[1]
             if top.__contains__(j):
@@ -61,11 +70,11 @@ def vaild(prediction, label, top_n, precision_s, recall_s, count):
                 precision_s[count] += 1
                 recall_s[count] += 1
 
-        if precision_s[count] > top_n:
-            print(top, l)
-
-        if recall_s[count] > len(l):
-            print('recall_s[count]>len(l)')
+        # if precision_s[count] > top_n:
+        #     print(top, l)
+        #
+        # if recall_s[count] > len(l):
+        #     print('recall_s[count]>len(l)')
 
         if len(l) != 0:
             recall_s[count] /= len(l)
@@ -88,7 +97,7 @@ def pre_rec_top(p_5, r_5, p_10, r_10, p_20, r_20, count, prediction, label, targ
     return p_5, r_5, p_10, r_10, p_20, r_20, count
 
 
-def train_epoch(model, training_data, optimizer, pred_loss_func, opt, ingoing):
+def train_epoch(model, training_data, optimizer, pred_loss_func, opt):
     """ Epoch operation in training phase. """
 
     model.train()
@@ -118,7 +127,7 @@ def train_epoch(model, training_data, optimizer, pred_loss_func, opt, ingoing):
         optimizer.zero_grad()
 
         # event_type [16, L]  event_time [16, L]
-        enc_out, rating_prediction, prediction, target_ = model(event_type, score, inner_dis, ingoing)  # X = (UY+Z) ^ T
+        enc_out, rating_prediction, prediction, target_ = model(event_type, score, inner_dis)  # X = (UY+Z) ^ T
         # enc_out [16, 174, 512]  # batch * seq_len * model_dim
 
         prediction = torch.squeeze(prediction, 1)
@@ -129,10 +138,10 @@ def train_epoch(model, training_data, optimizer, pred_loss_func, opt, ingoing):
         # event_loss = -torch.sum(event_ll - non_event_ll)  # double value  l(s)
 
         # event_type [16, L]  event_time [16, L]
-        rating_loss = Utils.rating_loss(rating_prediction, event_type, score, test_label, test_score, pred_loss_func)
+        rating_loss = Utils.rating_loss(rating_prediction, event_type, test_label, pred_loss_func)
         # rating_loss.backward(retain_graph=True)
 
-        pred_loss = Utils.type_loss(prediction, event_type, score, test_label, test_score, opt.smooth)
+        pred_loss = Utils.type_loss(prediction, event_type, test_label, opt.smooth)
         loss = rating_loss + pred_loss
         loss.backward(retain_graph=True)
 
@@ -157,7 +166,7 @@ def train_epoch(model, training_data, optimizer, pred_loss_func, opt, ingoing):
     return p_5, r_5, p_10, r_10, p_20, r_20
 
 
-def eval_epoch(model, validation_data, pred_loss_func, opt, ingoing):
+def eval_epoch(model, validation_data, pred_loss_func, opt):
     """ Epoch operation in evaluation phase. """
 
     model.eval()
@@ -179,7 +188,7 @@ def eval_epoch(model, validation_data, pred_loss_func, opt, ingoing):
 
             """ forward """
             # event_type [16, L]  event_time [16, L]
-            enc_out, rating_prediction, prediction, target_ = model(event_type, score, inner_dis, ingoing)  # X = (UY+Z) ^ T
+            enc_out, rating_prediction, prediction, target_ = model(event_type, score, inner_dis)  # X = (UY+Z) ^ T
             # enc_out [16, 174, 512]  # batch * seq_len * model_dim
 
             prediction = torch.squeeze(prediction, 1)
@@ -196,28 +205,27 @@ def eval_epoch(model, validation_data, pred_loss_func, opt, ingoing):
     return p_5, r_5, p_10, r_10, p_20, r_20
 
 
-def train(model, traindata, testdata, optimizer, scheduler, pred_loss_func, opt, ingoing):
+def train(model, traindata, testdata, optimizer, scheduler, pred_loss_func, opt):
     """ Start training. """
 
     valid_event_losses = []  # validation log-likelihood
     # valid_pred_losses = []  # validation event type prediction accuracy
     # valid_rmse = []  # validation event time prediction RMSE
-    ingoing = torch.tensor(ingoing, device=opt.device)
     valid_precision_max = 0.0
     for epoch_i in range(opt.epoch):
         epoch = epoch_i + 1
         print('[ Epoch', epoch, ']')
 
         start = time.time()  # loglikelihood: {ll: 8.5f},
-        p_5, r_5, p_10, r_10, p_20, r_20 = train_epoch(model, traindata, optimizer, pred_loss_func, opt, ingoing)
-        print(' (Training)    P@5:{p_5: 8.5f}, R@5:{r_5: 8.5f}, P@10:{p_10: 8.5f}, R@10:{r_10: 8.5f}, '
+        p_5, r_5, p_10, r_10, p_20, r_20 = train_epoch(model, traindata, optimizer, pred_loss_func, opt)
+        print('\n (Training)    P@5:{p_5: 8.5f}, R@5:{r_5: 8.5f}, P@10:{p_10: 8.5f}, R@10:{r_10: 8.5f}, '
               'P@20:{p_20: 8.5f}, R@20:{r_20: 8.5f}, elapse:{elapse:3.3f} min'
               .format(elapse=(time.time() - start) / 60,
                       p_5=p_5, r_5=r_5, p_10=p_10, r_10=r_10, p_20=p_20, r_20=r_20))
 
         start = time.time()
-        p_5, r_5, p_10, r_10, p_20, r_20 = eval_epoch(model, testdata, pred_loss_func, opt, ingoing)
-        print(' (Test)        P@5:{p_5: 8.5f}, R@5:{r_5: 8.5f}, P@10:{p_10: 8.5f}, R@10:{r_10: 8.5f}, '
+        p_5, r_5, p_10, r_10, p_20, r_20 = eval_epoch(model, testdata, pred_loss_func, opt)
+        print('\n (Test)        P@5:{p_5: 8.5f}, R@5:{r_5: 8.5f}, P@10:{p_10: 8.5f}, R@10:{r_10: 8.5f}, '
               'P@20:{p_20: 8.5f}, R@20:{r_20: 8.5f}, elapse:{elapse:3.3f} min'
               .format(elapse=(time.time() - start) / 60,
                       p_5=p_5, r_5=r_5, p_10=p_10, r_10=r_10, p_20=p_20, r_20=r_20))
@@ -284,36 +292,36 @@ def main(trial):
     #     f.write('Epoch, Log-likelihood, Accuracy, RMSE\n')
 
     """ prepare dataloader """
-    trainloader, testloader, num_types, ingoing = prepare_dataloader(opt)
+    trainloader, testloader, num_types = prepare_dataloader(opt)
 
     """ prepare model """
-    # opt.n_layers = trial.suggest_int('n_layers', 2, 2)
+    # # opt.n_layers = trial.suggest_int('n_layers', 2, 2)
     # opt.d_inner_hid = trial.suggest_int('n_hidden', 512, 1024, 128)
     # opt.d_k = trial.suggest_int('d_k', 512, 1024, 128)
     # opt.d_v = trial.suggest_int('d_v', 512, 1024, 128)
-    # opt.n_head = trial.suggest_int('n_head', 12, 12, 4)
-    # opt.n_dis = trial.suggest_int('n_dis', 8, 8, 4)
-    # opt.d_rnn = trial.suggest_int('d_rnn', 128, 512, 128)
+    # opt.n_head = trial.suggest_int('n_head', 8, 12, 2)
+    # opt.n_dis = trial.suggest_int('n_dis', 8, 12, 2)
+    # # opt.d_rnn = trial.suggest_int('d_rnn', 128, 512, 128)
     # opt.d_model = trial.suggest_int('d_model', 1024, 1024, 512)
     # opt.dropout = trial.suggest_uniform('dropout_rate', 0.5, 0.7)
     # opt.smooth = trial.suggest_uniform('smooth', 1e-3, 1e-1)
-    # opt.lr = trial.suggest_uniform('learning_rate', 1e-5, 1e-4)
-
-    # opt.ita = trial.suggest_uniform('ita', 0.03, 0.06)
-    # opt.coefficient = trial.suggest_uniform('coefficient', 0.05, 0.15)
+    # # opt.lr = trial.suggest_uniform('learning_rate', 1e-5, 1e-4)
+    #
+    # # opt.ita = trial.suggest_uniform('ita', 0.03, 0.06)
+    # # opt.coefficient = trial.suggest_uniform('coefficient', 0.05, 0.15)
 
     opt.lr = 0.000099
-    #
+    # #
     opt.n_layers = 2  # 2
-    opt.d_inner_hid = 640  # 768
+    opt.d_inner_hid = 1024  # 768
     # opt.d_rnn = 128
     opt.d_model = 1024
-    opt.d_k = 896
-    opt.d_v = 512
+    opt.d_k = 1024
+    opt.d_v = 896
     opt.n_head = 12  # 8
     opt.n_dis = 8
-    opt.dropout = 0.6801
-    opt.smooth = 0.032
+    opt.dropout = 0.66203
+    opt.smooth = 0.05998
     opt.ita = 0.037
     opt.coefficient = 0.14
 
@@ -352,7 +360,7 @@ def main(trial):
     print('[Info] Number of parameters: {}'.format(num_params))
 
     """ train the model """
-    return train(model, trainloader, testloader, optimizer, scheduler, pred_loss_func, opt, ingoing)
+    return train(model, trainloader, testloader, optimizer, scheduler, pred_loss_func, opt)
 
 
 if __name__ == '__main__':

@@ -175,12 +175,14 @@ def collate_fn(insts):
     """ Collate function, as required by PyTorch. """
 
     ds = insts
+    # print(ds[0])
     (event_type, score, test_label, test_score, inner_dis) = list(zip(*ds))
     # time = pad_time(time)
     # time_gap = pad_time(time_gap)
     event_type = pad_type(event_type)
-    score = pad_scores(score)
     test_label = padding_event_label(test_label)
+
+    score = pad_scores(score)
     test_score = pad_scores(test_score)
 
     inner_dis = padding_(inner_dis)

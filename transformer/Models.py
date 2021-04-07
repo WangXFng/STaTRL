@@ -56,6 +56,9 @@ class Encoder(nn.Module):
         # event type embedding (23 512) (K M)
         self.event_emb = nn.Embedding(num_types + 1, d_model, padding_idx=Constants.PAD)  # dding 0
 
+        # event type embedding (23 512) (K M)
+        self.score_emb = nn.Embedding(8, d_model, padding_idx=Constants.PAD)  # dding 0
+
         # # event type embedding (23 512) (K M)
         # self.location_emb = nn.Linear(37, d_model)  # dding 0
 
@@ -88,6 +91,20 @@ class Encoder(nn.Module):
         # non_pad_mask [16, L, 1]
         return result * non_pad_mask  # [16, L, 512]
 
+    def getScore_(self, s):
+        # s_ = torch.logical_and(s>5, s<95)
+        # s[s_] = 6
+        # s[s>95] = 7
+
+
+        s_ = (s<=5)
+        s[s_] = s[s_] / 10
+
+        s_ = s>5
+        s[s_] = 0.5 + 0.14 * torch.log(s[s_] - 4)
+
+        return s
+
     # def forward(self, event_type, event_time, non_pad_mask, geo_):
     def forward(self, event_type, event_score, non_pad_mask, inner_dis):
         """ Encode event sequences via masked self-attention. """
@@ -107,18 +124,21 @@ class Encoder(nn.Module):
         # return torch.Size([16, L, 512])
 
         # print(event_type.size())  # torch.Size([16, L])
-        enc_output = self.event_emb(event_type)  # (K M)  event_emb: Embedding (23 512)
+        enc_event = self.event_emb(event_type)  # (K M)  event_emb: Embedding (23 512)
 
-        max_len = enc_output.size()[1]
-        position = torch.arange(0, max_len, device='cuda:0').unsqueeze(0)
-        position = self.temporal_enc(position, non_pad_mask)
+        # max_len = enc_output.size()[1]
+        # position = torch.arange(0, max_len, device='cuda:0').unsqueeze(0)
+        # position = self.temporal_enc(position, non_pad_mask)
 
-        # enc_score = self.score_emb(event_score)  # (K M)  event_emb: Embedding (23 512)
-        enc_score = torch.unsqueeze(event_score, -1)
-        # print(enc_output.size())  # torch.Size([16, L, 512])
-
-        # enc_output += enc_score * self.b
-        enc_output += position
+        # event_score = self.getScore_(event_score)
+        # enc_score = torch.unsqueeze(event_score, -1)
+        # # enc_score = self.score_emb(event_score)
+        # # print(enc_output.size())  # torch.Size([16, L, 512])
+        #
+        # enc_output = torch.cat((enc_event, enc_score), dim=-1)
+        enc_output = enc_event
+        # enc_output = enc_event * enc_score
+        # enc_output += position
         for enc_layer in self.layer_stack:
 
             enc_output, _ = enc_layer(
@@ -153,7 +173,7 @@ class Predictor(nn.Module):
         self.b = torch.nn.Parameter(torch.DoubleTensor(num_types), requires_grad=True)
         self.b.data.fill_(1e-5)
 
-    def forward(self, enc_output, event_type, ingoing):
+    def forward(self, enc_output, event_type):
 
         # data = torch.squeeze(data[:,-1:,:], 1)
         data = enc_output.sum(1)/enc_output.size()[1]
@@ -226,7 +246,7 @@ class Transformer(nn.Module):
         self.num_types = num_types
 
         # convert hidden vectors into a scalar
-        self.linear = nn.Linear(d_model, num_types)  # in_features: int d_model, out_features: int num_types
+        self.linear = nn.Linear(d_model * 2, num_types)  # in_features: int d_model, out_features: int num_types
 
         # parameter for the weight of time difference
         self.alpha = -0.1
@@ -259,7 +279,7 @@ class Transformer(nn.Module):
         # print(a.min())
         return d
 
-    def forward(self, event_type, score, inner_dis, ingoing):
+    def forward(self, event_type, score, inner_dis):
         """
         Return the hidden representations and predictions.
         For a sequence (l_1, l_2, ..., l_N), we predict (l_2, ..., l_N, l_{N+1}).
@@ -283,6 +303,6 @@ class Transformer(nn.Module):
 
         # enc_output = self.rnn(enc_output, non_pad_mask)  # [16, 166, 512]
 
-        rating_prediction, type_prediction, target_ = self.predictor(enc_output, event_type, ingoing)  # [16, 105, 22]
+        rating_prediction, type_prediction, target_ = self.predictor(enc_output, event_type)  # [16, 105, 22]
 
         return enc_output, rating_prediction, type_prediction, target_

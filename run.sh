@@ -1,7 +1,7 @@
 device=0
 # data=data/data_so/fold1/
 data=../data/Yelp/
-batch=16
+batch=8
 n_head=4
 n_layers=4
 d_model=512  # M

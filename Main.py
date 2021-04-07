@@ -102,20 +102,8 @@ def train_epoch(model, training_data, optimizer, pred_loss_func, opt):
 
     model.train()
 
-    total_event_ll = 0  # cumulative event log-likelihood
-    # total_time_se = 0  # cumulative time prediction squared-error
-    # total_event_rate = 0  # cumulative number of correct prediction
-    # total_num_event = 0  # number of total events
-    # total_num_pred = 0  # number of predictions
-
-    p_5 = torch.zeros(Constants.USER_NUMBER)
-    r_5 = torch.zeros(Constants.USER_NUMBER)
-    p_10 = torch.zeros(Constants.USER_NUMBER)
-    r_10 = torch.zeros(Constants.USER_NUMBER)
-    p_20 = torch.zeros(Constants.USER_NUMBER)
-    r_20 = torch.zeros(Constants.USER_NUMBER)
-
-    # total_ = Constants.USER_NUMBER * 0.8
+    n = Constants.USER_NUMBER
+    p_5,r_5,p_10,r_10,p_20,r_20=torch.zeros(n),torch.zeros(n),torch.zeros(n),torch.zeros(n),torch.zeros(n),torch.zeros(n)
 
     count = 0
     for batch in tqdm(training_data, mininterval=2,
@@ -148,22 +136,8 @@ def train_epoch(model, training_data, optimizer, pred_loss_func, opt):
         """ update parameters """
         optimizer.step()
 
-        """ note keeping """
-        # # total_event_ll += -event_loss.item()
-        # # total_event_rate += pred_num_event.item()
-        # total_num_event += event_type.ne(Constants.PAD).sum().item()
-        # # we do not predict the first event
-        # total_num_pred += event_type.ne(Constants.PAD).sum().item() - event_type.shape[0]
-        # # print(event_type.ne(Constants.PAD).sum().item(), event_time.shape[0], total_num_pred)
-
-    p_5 = torch.sum(p_5).item() / count
-    r_5 = torch.sum(r_5).item() / count
-    p_10 = torch.sum(p_10).item() / count
-    r_10 = torch.sum(r_10).item() / count
-    p_20 = torch.sum(p_20).item() / count
-    r_20 = torch.sum(r_20).item() / count
-    # return total_event_ll / total_num_event, precision.item() / count, recall.item() / count
-    return p_5, r_5, p_10, r_10, p_20, r_20
+    return p_5.sum().item()/count, r_5.sum().item()/count, p_10.sum().item()/count, \
+           r_10.sum().item()/count, p_20.sum().item()/count, r_20.sum().item()/count
 
 
 def eval_epoch(model, validation_data, pred_loss_func, opt):
@@ -171,12 +145,8 @@ def eval_epoch(model, validation_data, pred_loss_func, opt):
 
     model.eval()
 
-    p_5 = torch.zeros(Constants.USER_NUMBER)
-    r_5 = torch.zeros(Constants.USER_NUMBER)
-    p_10 = torch.zeros(Constants.USER_NUMBER)
-    r_10 = torch.zeros(Constants.USER_NUMBER)
-    p_20 = torch.zeros(Constants.USER_NUMBER)
-    r_20 = torch.zeros(Constants.USER_NUMBER)
+    n = Constants.USER_NUMBER
+    p_5,r_5,p_10,r_10,p_20,r_20=torch.zeros(n),torch.zeros(n),torch.zeros(n),torch.zeros(n),torch.zeros(n),torch.zeros(n)
 
     count = 0
 
@@ -194,23 +164,13 @@ def eval_epoch(model, validation_data, pred_loss_func, opt):
             prediction = torch.squeeze(prediction, 1)
             p_5, r_s, p_10, r_10, p_20, r_20, count = pre_rec_top(p_5, r_5, p_10, r_10, p_20, r_20, count, prediction, test_label, target_)
 
-        p_5 = torch.sum(p_5).item() / count
-        r_5 = torch.sum(r_5).item() / count
-        p_10 = torch.sum(p_10).item() / count
-        r_10 = torch.sum(r_10).item() / count
-        p_20 = torch.sum(p_20).item() / count
-        r_20 = torch.sum(r_20).item() / count
-
-        # return total_event_ll / total_num_event, precision.item() / count, recall.item() / count
-    return p_5, r_5, p_10, r_10, p_20, r_20
+    return p_5.sum().item() / count, r_5.sum().item() / count, p_10.sum().item() / count, \
+               r_10.sum().item() / count, p_20.sum().item() / count, r_20.sum().item() / count
 
 
 def train(model, traindata, testdata, optimizer, scheduler, pred_loss_func, opt):
     """ Start training. """
 
-    valid_event_losses = []  # validation log-likelihood
-    # valid_pred_losses = []  # validation event type prediction accuracy
-    # valid_rmse = []  # validation event time prediction RMSE
     valid_precision_max = 0.0
     for epoch_i in range(opt.epoch):
         epoch = epoch_i + 1
@@ -218,14 +178,14 @@ def train(model, traindata, testdata, optimizer, scheduler, pred_loss_func, opt)
 
         start = time.time()  # loglikelihood: {ll: 8.5f},
         p_5, r_5, p_10, r_10, p_20, r_20 = train_epoch(model, traindata, optimizer, pred_loss_func, opt)
-        print('\n (Training)    P@5:{p_5: 8.5f}, R@5:{r_5: 8.5f}, P@10:{p_10: 8.5f}, R@10:{r_10: 8.5f}, '
+        print(' (Training)    P@5:{p_5: 8.5f}, R@5:{r_5: 8.5f}, P@10:{p_10: 8.5f}, R@10:{r_10: 8.5f}, '
               'P@20:{p_20: 8.5f}, R@20:{r_20: 8.5f}, elapse:{elapse:3.3f} min'
               .format(elapse=(time.time() - start) / 60,
                       p_5=p_5, r_5=r_5, p_10=p_10, r_10=r_10, p_20=p_20, r_20=r_20))
 
         start = time.time()
         p_5, r_5, p_10, r_10, p_20, r_20 = eval_epoch(model, testdata, pred_loss_func, opt)
-        print('\n (Test)        P@5:{p_5: 8.5f}, R@5:{r_5: 8.5f}, P@10:{p_10: 8.5f}, R@10:{r_10: 8.5f}, '
+        print(' (Test)        P@5:{p_5: 8.5f}, R@5:{r_5: 8.5f}, P@10:{p_10: 8.5f}, R@10:{r_10: 8.5f}, '
               'P@20:{p_20: 8.5f}, R@20:{r_20: 8.5f}, elapse:{elapse:3.3f} min'
               .format(elapse=(time.time() - start) / 60,
                       p_5=p_5, r_5=r_5, p_10=p_10, r_10=r_10, p_20=p_20, r_20=r_20))

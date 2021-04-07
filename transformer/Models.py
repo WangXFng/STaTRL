@@ -130,13 +130,13 @@ class Encoder(nn.Module):
         # position = torch.arange(0, max_len, device='cuda:0').unsqueeze(0)
         # position = self.temporal_enc(position, non_pad_mask)
 
-        # event_score = self.getScore_(event_score)
-        # enc_score = torch.unsqueeze(event_score, -1)
-        # # enc_score = self.score_emb(event_score)
-        # # print(enc_output.size())  # torch.Size([16, L, 512])
+        event_score = self.getScore_(event_score)
+        enc_score = torch.unsqueeze(event_score, -1)
+        # enc_score = self.score_emb(event_score)
+        # print(enc_output.size())  # torch.Size([16, L, 512])
         #
-        # enc_output = torch.cat((enc_event, enc_score), dim=-1)
-        enc_output = enc_event
+        enc_output = torch.cat((enc_event, enc_score), dim=-1)
+        # enc_output = enc_event
         # enc_output = enc_event * enc_score
         # enc_output += position
         for enc_layer in self.layer_stack:
@@ -246,7 +246,7 @@ class Transformer(nn.Module):
         self.num_types = num_types
 
         # convert hidden vectors into a scalar
-        self.linear = nn.Linear(d_model * 2, num_types)  # in_features: int d_model, out_features: int num_types
+        self.linear = nn.Linear(d_model+1, num_types)  # in_features: int d_model, out_features: int num_types
 
         # parameter for the weight of time difference
         self.alpha = -0.1
@@ -262,7 +262,7 @@ class Transformer(nn.Module):
         # #   nn.init.xavier_normal_ (Predictor.linear.weight): Normal distribution
 
         # prediction of next event type
-        self.predictor = Predictor(d_model, num_types, batch_size, device)
+        self.predictor = Predictor(d_model+1, num_types, batch_size, device)
         #   Linear() in_features: int dim, out_features: int num_types
         #   nn.init.xavier_normal_ (Predictor.linear.weight): Normal distribution
 

@@ -18,19 +18,19 @@ class MultiHeadAttention(nn.Module):
         self.d_k = d_k
         self.d_v = d_v
 
-        self.w_qs = nn.Linear(d_model, n_head * d_k, bias=False)
-        self.w_ks = nn.Linear(d_model, n_head * d_k, bias=False)
-        self.w_vs = nn.Linear(d_model, n_head * d_v, bias=False)
+        self.w_qs = nn.Linear(d_model+1, n_head * d_k, bias=False)
+        self.w_ks = nn.Linear(d_model+1, n_head * d_k, bias=False)
+        self.w_vs = nn.Linear(d_model+1, n_head * d_v, bias=False)
         nn.init.xavier_uniform_(self.w_qs.weight)
         nn.init.xavier_uniform_(self.w_ks.weight)
         nn.init.xavier_uniform_(self.w_vs.weight)
 
-        self.fc = nn.Linear(d_v * n_head, d_model)  # 512 * 4, 512
+        self.fc = nn.Linear(d_v * n_head, d_model+1)  # 512 * 4, 512
         nn.init.xavier_uniform_(self.fc.weight)
 
-        self.attention = ScaledDotProductAttention(n_dis, temperature=d_k ** 0.5)
+        self.attention = ScaledDotProductAttention(n_dis+1, temperature=d_k ** 0.5)
 
-        self.layer_norm = nn.LayerNorm(d_model, eps=1e-6)
+        self.layer_norm = nn.LayerNorm(d_model+1, eps=1e-6)
         self.dropout = nn.Dropout(dropout)
 
     # def forward(self, q, k, v, geo_, mask=None):
@@ -84,10 +84,10 @@ class PositionwiseFeedForward(nn.Module):
 
         self.normalize_before = normalize_before
 
-        self.w_1 = nn.Linear(d_in, d_hid)  # position-wise
-        self.w_2 = nn.Linear(d_hid, d_in)  # position-wise
+        self.w_1 = nn.Linear(d_in+1, d_hid)  # position-wise
+        self.w_2 = nn.Linear(d_hid, d_in+1)  # position-wise
 
-        self.layer_norm = nn.LayerNorm(d_in, eps=1e-6)
+        self.layer_norm = nn.LayerNorm(d_in+1, eps=1e-6)
         self.dropout = nn.Dropout(dropout)
 
     def forward(self, x):

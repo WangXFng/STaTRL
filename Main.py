@@ -32,11 +32,11 @@ def prepare_dataloader(opt):
 
     print('[Info] Loading train data...')
     # las_vegas 31675  # toronto 20370 # Champaign 1327 # Charlotte 10429 # original length 18995
-    train_data, num_types = load_data(opt.data + 'train_old_yelp.pkl', 'train')
+    train_data, num_types = load_data(opt.data + 'train.pkl', 'train')
     # print('[Info] Loading dev data...')
     # # dev_data, _ = load_data(opt.data + 'dev.pkl', 'dev')
     print('[Info] Loading test data...')
-    test_data, _ = load_data(opt.data + 'test_old_yelp.pkl', 'test')
+    test_data, _ = load_data(opt.data + 'test.pkl', 'test')
 
     trainloader = get_dataloader(train_data, opt.batch_size, shuffle=True)
     testloader = get_dataloader(test_data, opt.batch_size, shuffle=False)

@@ -255,35 +255,35 @@ def main(trial):
     trainloader, testloader, num_types = prepare_dataloader(opt)
 
     """ prepare model """
-    # # opt.n_layers = trial.suggest_int('n_layers', 2, 2)
-    # opt.d_inner_hid = trial.suggest_int('n_hidden', 512, 1024, 128)
-    # opt.d_k = trial.suggest_int('d_k', 512, 1024, 128)
-    # opt.d_v = trial.suggest_int('d_v', 512, 1024, 128)
-    # opt.n_head = trial.suggest_int('n_head', 8, 12, 2)
-    # opt.n_dis = trial.suggest_int('n_dis', 8, 12, 2)
-    # # opt.d_rnn = trial.suggest_int('d_rnn', 128, 512, 128)
-    # opt.d_model = trial.suggest_int('d_model', 1024, 1024, 512)
-    # opt.dropout = trial.suggest_uniform('dropout_rate', 0.5, 0.7)
-    # opt.smooth = trial.suggest_uniform('smooth', 1e-3, 1e-1)
-    # # opt.lr = trial.suggest_uniform('learning_rate', 1e-5, 1e-4)
-    #
-    # # opt.ita = trial.suggest_uniform('ita', 0.03, 0.06)
-    # # opt.coefficient = trial.suggest_uniform('coefficient', 0.05, 0.15)
+    # opt.n_layers = trial.suggest_int('n_layers', 2, 2)
+    opt.d_inner_hid = trial.suggest_int('n_hidden', 512, 1024, 128)
+    opt.d_k = trial.suggest_int('d_k', 512, 1024, 128)
+    opt.d_v = trial.suggest_int('d_v', 512, 1024, 128)
+    opt.n_head = trial.suggest_int('n_head', 8, 12, 2)
+    opt.n_dis = trial.suggest_int('n_dis', 8, 12, 2)
+    # opt.d_rnn = trial.suggest_int('d_rnn', 128, 512, 128)
+    opt.d_model = trial.suggest_int('d_model', 1024, 1024, 512)
+    opt.dropout = trial.suggest_uniform('dropout_rate', 0.5, 0.7)
+    opt.smooth = trial.suggest_uniform('smooth', 1e-3, 1e-1)
+    opt.lr = trial.suggest_uniform('learning_rate', 1e-5, 1e-4)
 
-    opt.lr = 0.000099
-    # #
+    opt.ita = trial.suggest_uniform('ita', 0.03, 0.06)
+    opt.coefficient = trial.suggest_uniform('coefficient', 0.05, 0.15)
+
+    # opt.lr = 0.000099
+    # # #
     opt.n_layers = 2  # 2
-    opt.d_inner_hid = 1024  # 768
-    # opt.d_rnn = 128
-    opt.d_model = 1024
-    opt.d_k = 1024
-    opt.d_v = 896
-    opt.n_head = 12  # 8
-    opt.n_dis = 8
-    opt.dropout = 0.66203
-    opt.smooth = 0.05998
-    opt.ita = 0.037
-    opt.coefficient = 0.14
+    # opt.d_inner_hid = 1024  # 768
+    # # opt.d_rnn = 128
+    # opt.d_model = 1024
+    # opt.d_k = 1024
+    # opt.d_v = 896
+    # opt.n_head = 12  # 8
+    # opt.n_dis = 8
+    # opt.dropout = 0.66203
+    # opt.smooth = 0.05998
+    # opt.ita = 0.037
+    # opt.coefficient = 0.14
 
     print('[Info] parameters: {}'.format(opt))
     model = Transformer(

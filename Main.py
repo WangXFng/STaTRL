@@ -178,7 +178,6 @@ def train(model, traindata, testdata, optimizer, scheduler, pred_loss_func, opt)
 
         start = time.time()  # loglikelihood: {ll: 8.5f},
         p_5, r_5, p_10, r_10, p_20, r_20 = train_epoch(model, traindata, optimizer, pred_loss_func, opt)
-        time.sleep(0.2)
         print('\r (Training)    P@5:{p_5: 8.5f}, R@5:{r_5: 8.5f}, P@10:{p_10: 8.5f}, R@10:{r_10: 8.5f}, '
               'P@20:{p_20: 8.5f}, R@20:{r_20: 8.5f}, elapse:{elapse:3.3f} min'
               .format(elapse=(time.time() - start) / 60,
@@ -186,7 +185,6 @@ def train(model, traindata, testdata, optimizer, scheduler, pred_loss_func, opt)
 
         start = time.time()
         p_5, r_5, p_10, r_10, p_20, r_20 = eval_epoch(model, testdata, pred_loss_func, opt)
-        time.sleep(0.2)
         print('\r (Test)        P@5:{p_5: 8.5f}, R@5:{r_5: 8.5f}, P@10:{p_10: 8.5f}, R@10:{r_10: 8.5f}, '
               'P@20:{p_20: 8.5f}, R@20:{r_20: 8.5f}, elapse:{elapse:3.3f} min'
               .format(elapse=(time.time() - start) / 60,

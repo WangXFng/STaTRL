@@ -7,6 +7,8 @@ import argparse
 import torch.optim as optim
 import torch.nn.functional as F
 from bert import ALBertForClassification
+import shutil
+import os
 
 
 def cal_acc(pred, label):
@@ -45,6 +47,7 @@ def train_epoch(tokenizer, model, training_data, optimizer, opt):
     model.train()
     total_corr_num = 0
     total_num = 0
+    valid_precision_max = 0
 
     # print(len(training_data))
     t = tqdm(training_data, mininterval=2,
@@ -71,16 +74,12 @@ def train_epoch(tokenizer, model, training_data, optimizer, opt):
         """ update parameters """
         optimizer.step()
 
-
         corr_num, num = cal_acc(logits, label)
         total_corr_num += corr_num
         total_num += num
 
         if i % 50 == 0:
             t.set_description('  - (Training)   loss: {loss: 8.5f} accuracy: {accuracy: 8.5f}'.format(loss=loss, accuracy=total_corr_num / total_num))
-
-    t.set_description('')
-    # print(total_corr_num, total_num, total_corr_num/total_num)
 
     return torch.sum(loss).item(), total_corr_num/total_num
 
@@ -113,8 +112,6 @@ def eval_epoch(tokenizer, model, test_data, optimizer, opt):
             total_num += num
             if i % 50 == 0:
                 t.set_description('  - (Test)   loss: {loss: 8.5f} accuracy: {accuracy: 8.5f}'.format(loss=loss, accuracy=total_corr_num / total_num))
-        t.set_description('')
-    # print(total_corr_num, total_num, total_corr_num/total_num)
     return torch.sum(loss).item(), total_corr_num / total_num
 
 
@@ -140,8 +137,17 @@ def train(tokenizer, model, training_data, test_data, optimizer, scheduler, opt)
 
         scheduler.step()
 
-        valid_precision_max = valid_precision_max if valid_precision_max > accuracy else accuracy
 
+        # model_dict = torch.load(PATH)
+        # model_dict = model.load_state_dict(torch.load(PATH))
+        # print(accuracy, valid_precision_max, accuracy > valid_precision_max)
+        if accuracy > valid_precision_max:
+            if os.path.exists('./dataset/model'):
+                shutil.rmtree('./dataset/model')
+            os.mkdir('./dataset/model')
+            torch.save(model, './dataset/model/{accuracy: 8.5f}.pth.tar'.format(accuracy=accuracy))
+
+        valid_precision_max = valid_precision_max if valid_precision_max > accuracy else accuracy
     return valid_precision_max
 
 
@@ -152,12 +158,13 @@ def collate_fn(insts):
     return text, label
 
 
-def main():
+def main(trial):
     parser = argparse.ArgumentParser()
     opt = parser.parse_args()
     opt.device = torch.device('cuda')
-    opt.epoch = 30
-    opt.lr = 0.00001
+    opt.epoch = 40
+    opt.lr = 0.000001
+    # opt.d_inner_hid = trial.suggest_int('n_hidden', 512, 1024, 128)
 
     tokenizer = AlbertTokenizer.from_pretrained('albert-base-v2')
     # print(tokenizer)
@@ -190,13 +197,18 @@ def main():
     scheduler = optim.lr_scheduler.StepLR(optimizer, 10, gamma=0.5)
 
     # print(training_data)
-    train(tokenizer, model, training_data, test_data, optimizer, scheduler, opt)
+    return train(tokenizer, model, training_data, test_data, optimizer, scheduler, opt)
 
     # tokenizer = BertTokenizer.from_pretrained(args['bert_model'], do_lower_case=args['do_lower_case'])
 
     # print(output)
 
 
+import optuna
 if __name__ == '__main__':
-    main()
+    study = optuna.create_study(direction="maximize")
+    study.optimize(main, n_trials=100)
+
+    df = study.trials_dataframe()
+    # main()
 

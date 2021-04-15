@@ -1,0 +1,1100 @@
+review_id : SZl3ye2TTo9D00RnF-b8mw
+aspect: Service
+text:  Customer service at the snack bar was awful.
+ -1
+
+review_id : 88-WJULwW2uCy1P2otx_og
+aspect: Service
+text: That was my worst experience, beside not-enough-spot parking lot and over-crawdedness and low quality customer service.
+ -1
+
+review_id : F0eWLuajnZE2ix2HgxtbIQ
+aspect: Service
+text: Most useless customer service blonde chubster girl at the front desk today.
+ -1
+
+review_id : B7vgekD1ponBj1TyWgydCA
+aspect: Service
+text: Worst customer service I have ever received.
+ -1
+
+review_id : B7vgekD1ponBj1TyWgydCA
+aspect: Service
+text: The head instructor, Maria Moilanen, does not know how to run a business nor how to conduct proper customer service.
+ -1
+
+review_id : 8jSJt59UfxkQ00WQ9LTw1A
+aspect: Service
+text: I got no service.
+ -1
+
+
+review_id : MsIsnIdFPkjbEiJ0GMBJEA
+aspect: Service
+text: I think it's too pricey for the kind of service we got.
+ -1
+
+
+review_id : MsIsnIdFPkjbEiJ0GMBJEA
+aspect: Price
+text: I think it's too pricey for the kind of service we got.
+ -1
+
+review_id : JUNcBnfDBFE6HAqTiviC6g
+aspect: Service
+text: The worst gym; poor service, unprofessional staff, and overall a place to avoid- Been a extreme fitness membership for 7 years, and Goodlife member for almost 3 years- never thought I would be treated so poorly.
+ -1
+
+
+review_id : PZAWt3jwhJn4VAeq6Aeoyw
+aspect: Service
+text: After you do become a member, customer service goes down the drain.
+ -1
+
+
+review_id : sbEQSCLNcqbQC9Bcc0_VwA
+aspect: Price
+text:  Prices are way to high for what u get.
+ -1
+
+review_id : LNMk2jMgBWXIOqXDGmPHog
+aspect: Service
+text: Quite literally the worst customer service I have ever experienced.
+ -1
+
+
+review_id : LNMk2jMgBWXIOqXDGmPHog
+aspect: Service
+text: At the end of it we were charged over $200 more than we had been quoted and, after expressing my displeasure at the horrible customer service, I was told I would the police would be called if I continued to speak to their manager instead of my boyfriend.
+ -1
+
+
+review_id : LNMk2jMgBWXIOqXDGmPHog
+aspect: Service
+text: Needless to say, many years of loyal patronage have been destroyed by a single instance of abysmal customer service.
+ -1
+
+
+review_id : 34oakquj21typa4Gqd9Upw
+aspect: Service
+text: Terrible customer service!!!!!
+ -1
+
+
+review_id : RYqC4F-f5vdYeWHA4JAOcg
+aspect: Service
+text: I replied \"That's not very good customer service\" as I walked out to the parking lot behind the building.
+ -1
+
+
+review_id : 1ljTlR9BtSm360963rY_sA
+aspect: Price
+text: Not worth the price we paid and also it was just in an unsanitary condition.
+ -1
+
+review_id : 3GUt-a8wcRRCA0B7f_8RLg
+aspect: Price
+text: And it's for sure over priced.
+ -1
+
+review_id : M1kP96QSU_pGbDYaW5P6gA
+aspect: Service
+text: Very poor management and customer service.
+ -1
+
+
+review_id : pbb_PRRibVK16_4sFZvBrw
+aspect: Price
+text: Over priced burger sure it was 1lb burger called the pittsburger , figured fries and coleslaw on 1lb burger.
+ -1
+
+review_id : V-dCyPIgn9cvvstMtuw8Ww
+aspect: Service
+text: Their online responses to people writing reviews are even rude, they do not care for your experience with their services.
+ -1
+
+
+review_id : fnIExTo5dS_jTCAx4L0cWQ
+aspect: Service
+text: Fitness Depot's management and customer service structure is their major downfall.
+ -1
+
+
+review_id : fnIExTo5dS_jTCAx4L0cWQ
+aspect: Service
+text: The equipment was still not properly repaired and it wasn't until a month or two later the store gave me a number to the national customer service centre to call and they managed to send a competent contractor to service and repair the gym equipment.
+ -1
+
+
+review_id : 88DSNsdoDaWEqF4YjGJ_gA
+aspect: Price
+text: -Price higher than other yoga studio but facilities is bad 
+ -1
+
+review_id : pfij7xUOOWfqYyZf0WDOVA
+aspect: Service
+text: Don't waste your time here if you want any customer service.
+ -1
+
+
+review_id : nYgo8UsO_oX1HXfmubsvQA
+aspect: Service
+text:  The first hour of bowling was a lot of fun but this facility is run by an unprofessional merchant who could care less about customer service.
+ -1
+
+
+review_id : kEfCg4iXZgSQph12oAnB3w
+aspect: Service
+text: No one should have to pay for that \"service\".
+ -1
+
+
+review_id : kEfCg4iXZgSQph12oAnB3w
+aspect: Service
+text: Then on our way out, me liking to thank a business for providing a service to me, says \"Bye, thank you\" right at her, and absolutely no response.
+ -1
+
+
+review_id : e1oxaem3G8vyqLcber3vDw
+aspect: Service
+text:  Poor customer service in the gym and the membership dept.
+ -1
+
+
+review_id : 9c-cYp--18_ZKb7J2W7A4w
+aspect: Service
+text: I have taken the kids there before nothing special expensive for poor cars and service.
+ -1
+
+
+review_id : TVvqM5hlFkLXvytbrI1j3Q
+aspect: Service
+text: My experience of using the services of this park  was horrible.
+ -1
+
+
+review_id : ZMyHN4akYXxYHtus9wo5WA
+aspect: Service
+text: Horrible customer service, the guy at the front thinks he is a bada$$ with his stupid accent sounds like a fool and likes to run customers off by being a complete jerk.
+ -1
+
+
+review_id : GKK2cu7JXa8Icx92RJVaug
+aspect: Price
+text: Lanes are extremely overpriced at $40 an hour!!
+ -1
+
+review_id : GKK2cu7JXa8Icx92RJVaug
+aspect: Service
+text: The service was terrible, at one point a guy came in and we were talking about league bowling and they kicked him out because they said, you cannot be in here if you have not paid for bowling.
+ -1
+
+
+review_id : HcdGq_JmOD9lnMywebPetw
+aspect: Service
+text: Customer Service is terrible.
+ -1
+
+
+review_id : NvJGuC83zjh84WLhJruXsw
+aspect: Service
+text: Went there for a child's birthday party and was shocked and horrified by the treatment and service.
+ -1
+
+
+review_id : TwEJZ3V1sBnQP8Dz9fcwvg
+aspect: Service
+text: Very disappointed with the service that was offered at this centre.
+ -1
+
+
+review_id : Y4b7qM8ksmLgvvAx5k77_w
+aspect: Price
+text: - Price higher than other yoga studio but the facilities is bad 
+ -1
+
+review_id : SBlFWtA2cLTGP99ci0OO2g
+aspect: Service
+text: Currently I would give it zero stars for customer service !
+ -1
+
+
+review_id : 4kMPopgtOI7J07IxAbfkGQ
+aspect: Service
+text:  I told them to stop as we were going to pick up the boat to such bad service.
+ -1
+
+
+review_id : 4kMPopgtOI7J07IxAbfkGQ
+aspect: Service
+text:  The manager told us we could pick up the boat and he would stop the any service.
+ -1
+
+
+review_id : CCymo71jbfi9ctZmP-7ZCQ
+aspect: Service
+text: Because of this poor customer service and not so friendly atmosphere I have changed to planet fitness.
+ -1
+
+
+review_id : CCymo71jbfi9ctZmP-7ZCQ
+aspect: Service
+text:  By the way I called to share I was discontinuing my membership and sent an e-mail and no one even asked why just goes to show the poor quality customer service.
+ -1
+
+
+review_id : acVdPc8oC_dVVcmnWg7CYQ
+aspect: Service
+text: OWNER IS SOOOO RUDE AND TREATS CUSTOMERS REPREHENSIBLY HORRIBLE CUSTOMER SERVICE!
+ -1
+
+
+review_id : aA0aJG4TXRJgaxSXo7vOgg
+aspect: Service
+text: Just awful customer service.
+ -1
+
+
+review_id : 4NShX3rAwCHeMXQy1DJYrg
+aspect: Service
+text: After recently trying out another gym (Fitness 14), I wrote this review to help others avoid poor customer service.
+ -1
+
+
+review_id : 8hz-mlOPNkfASNi3AXv_Ng
+aspect: Price
+text: Then there is the horrible business commutation and the overpriced membership, the dirty mats and floors, couches the horrible tasting tap water.
+ -1
+
+review_id : 8hz-mlOPNkfASNi3AXv_Ng
+aspect: Price
+text: Your kids can't learn anything and its the same over-price membership for kids as it is for adults.
+ -1
+
+review_id : yN4QUVFY1oAXYBIXEeeL4A
+aspect: Service
+text: I brought my nephews son and neices for March break and received the worst service.
+ -1
+
+
+review_id : yN4QUVFY1oAXYBIXEeeL4A
+aspect: Service
+text: Ive never seen such Terrible service over 15min.
+ -1
+
+
+review_id : yN4QUVFY1oAXYBIXEeeL4A
+aspect: Service
+text: If you're looking to get your monies worth and service where you are treated well.
+ -1
+
+
+review_id : 4m4ZeOZBH-ld6cGcCanJcg
+aspect: Service
+text: Finally got help and was told to email  specific individuals, after 1-2 lazy response meaning, they barely answered the question and had no motivation to help much less even follow up, forget customer service going above and beyond.
+ -1
+
+
+review_id : H7POy_ZAjXeHE4ULs-tVOg
+aspect: Service
+text: This place has the absolute worst customer service that I have ever come across! I cannot stress it enough.
+ -1
+
+
+review_id : H7POy_ZAjXeHE4ULs-tVOg
+aspect: Service
+text: I told him I would spread the word of the horrible customer service and he said go ahead.
+ -1
+
+
+review_id : ahe9tz8XjfHic0pDHxBhbA
+aspect: Price
+text: I visited as a free trial and got hounded by Bianca to join for overpriced lessons on dances I'd never do in the real club environment..
+ -1
+
+review_id : Mteb7WnBI0cEOn_K2NXbjA
+aspect: Service
+text: That guy has no business being in customer service.
+ -1
+
+
+review_id : W-cB6-URM_vZue68qOGiFg
+aspect: Price
+text:  Usually buy discounted admission as full price is too expensive.
+ -1
+
+review_id : YHB3BsjuSLotz6ylYFilcw
+aspect: Service
+text: After expressing my concerns about the the permanent use of porter potty's for clients, I  was told that able body children could use the porter potty and kids who couldn't used disposable underpants (diapers) my son dosnt have the physical capability to hold his self above a porter potty, they offered him use of a toddler potty chair (he's 6)  when I stated he's to big to use a toddlers training toilet, they used there right to refuse services.
+ -1
+
+
+review_id : _eRtEfDXrBQxUBqeu7_SVA
+aspect: Service
+text: The Castle shannon store has the worst customer service.
+ -1
+
+
+review_id : tZlyhzrgzE9Dn3YyCuoHhA
+aspect: Service
+text:  Customer service is horrible, unprofessional and not worth dealing with.
+ -1
+
+
+review_id : YJ_TfeEnw9s0lqqzjrrLtQ
+aspect: Service
+text:  It amazes me how poor front desk services are at this place.
+ -1
+
+
+review_id : AZv2kbAtrlIPc4CzXFamEw
+aspect: Service
+text: Not only is the customer service awful but the business is also corrupt.
+ -1
+
+
+review_id : xi4XSbyd0yc-A5F1EWhIPg
+aspect: Price
+text: It's also extremely over priced for such a small space and lack of equipment it's like somewhere between $20-25 every two weeks.
+ -1
+
+review_id : IC46RwqKYqIY35JaNCXVLA
+aspect: Service
+text: We had a very bad customer service experience.
+ -1
+
+
+review_id : 7mjyuuB6ny-QlflDrF1S8w
+aspect: Service
+text: But the customer service I experienced from one of the instructors (Melissa T.) was absolutely awful.
+ -1
+
+
+review_id : 7mjyuuB6ny-QlflDrF1S8w
+aspect: Service
+text: This is customer service at its worst!
+ -1
+
+
+review_id : jphuaVbulwGmiFWTCOgkGA
+aspect: Service
+text: We notice the level of service and we wouldn't ask something we don't ourselves provide to our clients.
+ -1
+
+
+review_id : vaCxqP6PglRW5F0GqmlxiQ
+aspect: Service
+text: The customer service is deplorable.
+ -1
+
+
+review_id : Ctepu4XVqoAw6v4U_gpxoA
+aspect: Price
+text: All bikes are over priced by 49 to 55 dollars(shipping).
+ -1
+
+review_id : YEvNr98PJ1-e4brKUY1OuQ
+aspect: Service
+text: Horrible service if you call it that.
+ -1
+
+
+review_id : TFLFDUavWGFf-Wxl_bLFpg
+aspect: Service
+text: Food is frozen food and service was bad!
+ -1
+
+
+review_id : ev8BYTkCEQE_2AF44l7NCg
+aspect: Service
+text: Customer service is NOT a priority at this facility.
+ -1
+
+
+review_id : ev8BYTkCEQE_2AF44l7NCg
+aspect: Service
+text:  If you are looking for a gym where equipment isn't being repaired, attitude from staff and customer service are not a priority, this could be for you.
+ -1
+
+
+review_id : yUtFeRr9yvDhthw4G8Jt5Q
+aspect: Service
+text: This First Review of RBinc SportsJamis Bicycle concerns their lack of customer service and understanding how unhelpful they are.
+ -1
+
+
+review_id : yUtFeRr9yvDhthw4G8Jt5Q
+aspect: Service
+text: In the meanwhile, this accountant needs to be taught that a culture of customer service is required no matter your official duties.
+ -1
+
+
+review_id : K8Vm9FC9WBzGH7QjkxcOWQ
+aspect: Service
+text: The employees are young and just there for the money, no customer service, sometimes not at the desk when you approach.
+ -1
+
+
+review_id : jqHvRGxxj0X2HqcbXMzFzw
+aspect: Service
+text: Terrible service had to come back multiple times to get my ball drilled and redrilled.
+ -1
+
+
+review_id : Z3fEyxH4o7unAKeIO3Lzpw
+aspect: Service
+text: Service was extremely slow.
+ -1
+
+
+review_id : Z3fEyxH4o7unAKeIO3Lzpw
+aspect: Service
+text: I suggested after the hour+ wait and lack of service the least she could do was provide a discount.
+ -1
+
+
+review_id : _iRxyBRq7UZWlk2xNgOXew
+aspect: Service
+text: 2 thumbs down for food and service.
+ -1
+
+
+review_id : f9GDp4PR5_tkorwigJhV0Q
+aspect: Price
+text: It's not worth the price and there are better places to take your child.
+ -1
+
+review_id : ad8HKt75YV34hnOhKRi6Uw
+aspect: Price
+text: This on top of gross pizza and over priced games, I'll drive to Fairlawn to go to Chuck E Cheese, and we all know how that places is!
+ -1
+
+review_id : SxoprjkXT7kw0_hMDDEYHQ
+aspect: Service
+text: Horrible customer service!
+ -1
+
+
+review_id : 3ZeLFQU9TQbzxkx60dRwBw
+aspect: Price
+text: Only a single vendor was present serving nachos, pretzels and overpriced cans of beer (and all of the pretzels caught fire while I was standing there!).
+ -1
+
+review_id : 3ZeLFQU9TQbzxkx60dRwBw
+aspect: Price
+text: Unbelievably dishonest marketing and major price gouging.
+ -1
+
+review_id : TWUlNi04PRlFEXs8DcZ1Bw
+aspect: Service
+text:  Free money, no service.
+ -1
+
+
+review_id : Pw5kSZDIJSCZj020ck77uA
+aspect: Price
+text:  We walked around the store amazed at the overpriced bikes and we were shocked at the minimal selection within our price range.
+ -1
+
+review_id : -GyvmeGMPCnihwlFU38vqQ
+aspect: Price
+text:  The ice is bad, the price outrageous.
+ -1
+
+review_id : WRYVzxX3FMyS2sgzrGQskg
+aspect: Service
+text: A store where you feel VERY un-welcomed!!! VERY poor customer service and they don't carry real quality bikes either.
+ -1
+
+
+review_id : d4kUxoAvHtsB3piQmKP-_Q
+aspect: Price
+text: I looked around the store to find something to meet the threshold but a lot of their dry stuff were overpriced and seemed like it was on the shelves for quite a long time.
+ -1
+
+review_id : j7i8z5m4rwLUfjEE9YOMXg
+aspect: Service
+text:  Their customer service is the WORST!!!
+ -1
+
+
+review_id : s8tZCWGDu786WI_E_OovZw
+aspect: Price
+text: I looked around the store to find something to meet the threshold but a lot of their dry stuff were overpriced and seemed like it was on the shelves for quite a long time.
+ -1
+
+review_id : qCSNR6U-T-PtiiaAkqYjkQ
+aspect: Service
+text: Just a mess, loud and not good customer service.
+ -1
+
+
+review_id : kCCRlwq7KUN_DqP1VTYHSQ
+aspect: Service
+text:  Terrible customer service - stay well away.
+ -1
+
+
+review_id : tuEJkydQQSkuzieW_VIKOQ
+aspect: Price
+text: The place is small and over priced.
+ -1
+
+review_id : bd5k2JmjbbVnqL0k0oY28g
+aspect: Service
+text: bad service ! bartender to busy playing with tv remote made us wait over 10 minutes for drink\/ bar was like a ghost town with only a few single guys not gambling .
+ -1
+
+
+review_id : bd5k2JmjbbVnqL0k0oY28g
+aspect: Service
+text: second time here bad service both times ! if you want great service go to( big dogs, bacon bar, great links, village pub) they have fantastic service
+ -1
+
+
+review_id : Up2cJW2MHwBtAIPnL3lmTA
+aspect: Service
+text: I purchased a laser hair removal Groupon package but, because of terrible service and worse customer service, I got a refund .
+ -1
+
+
+review_id : big9xJlCh0CKqCCy9XP1XA
+aspect: Service
+text: Customer service is what makes a company, too bad that was lacking.
+ -1
+
+
+review_id : K6SAyWaun9kdwD4jYckQGQ
+aspect: Service
+text: Horrible service, no follow up from management, no apology.
+ -1
+
+
+review_id : w5GEtR0BX7avKKyxiagqrg
+aspect: Service
+text: Rude and judgemental service: I left Vega Power Pilates feeling terrible today.
+ -1
+
+
+review_id : LvpWA6BtE1_QnaNSX13buA
+aspect: Service
+text: I was upset and did not want to pay for this terrible service but they insisted we payed full price.
+ -1
+
+
+review_id : Vb48Z1guSh6fvdmHnhq6rQ
+aspect: Service
+text: Poor customer service.
+ -1
+
+
+review_id : -VSeYd76TR7Q2g0-j_Qx_A
+aspect: Service
+text: Worst customer service I've had golfing in the valley.
+ -1
+
+
+review_id : qtR513HFRLCL_b7efToMdA
+aspect: Service
+text: The service is garbage and it's almost as if they don't want you to cancel with their gym....
+ -1
+
+
+review_id : NRGErhB4B3dkAUiF3fVKRQ
+aspect: Service
+text: So again, I feel like the company just truly doesn't care about their customer service.
+ -1
+
+
+review_id : ir7l6A0JUd2pvNKulvO-wQ
+aspect: Service
+text: You provided NONE of those services for our $275!
+ -1
+
+
+review_id : Ho0mSRyxE3rRNfoJpG8KnQ
+aspect: Service
+text: Service is not friendly at all either.
+ -1
+
+
+review_id : Bl36RBTJeH5P1ZldjSO2vg
+aspect: Service
+text: The worst service I've ever experienced by far came to play a 2 some with a friend.
+ -1
+
+
+review_id : fTqMY05ozYhu7gErieUoGg
+aspect: Price
+text: Just what you want when you are going out for an overpriced meal.
+ -1
+
+review_id : 63ewK8NubM2K8butRpS0uA
+aspect: Service
+text: They work for free (but probably, owner is compensating them special way - I don't know the details), so, don't expect great service.
+ -1
+
+
+review_id : l54Ts9PKnIWoU08lqRb7cA
+aspect: Service
+text: They refused to even give me a 5$ discount and forced me to pay over 75$ for the worst nail service ever before they would let me out of the store.
+ -1
+
+
+review_id : qm2IdLY0M4iuQcuqu_FVIw
+aspect: Service
+text: The service the managers provide is just disappointing (which is why I stopped working there).
+ -1
+
+
+review_id : 8oXvYjedCztzSwSse9wKyQ
+aspect: Price
+text: Unethical company, overpriced.
+ -1
+
+review_id : mWzxhtSqujDrrxsc6Ty1_g
+aspect: Price
+text: Silverleaf is the most overpriced ostentatious golf club in the Southwest.
+ -1
+
+review_id : JSO4whc6fTht4N_0yhmLkQ
+aspect: Service
+text: There is no customer service at this gym, and your membership is all about them, not about what they can offer you and your guests.
+ -1
+
+
+review_id : -LCXcEnvKFpCcBu9ImjvOA
+aspect: Service
+text: I was so irritated for your customer service from your location that no one is interested to have my businesses.
+ -1
+
+
+review_id : v12pWsSxQuQNT9_05q2Yaw
+aspect: Service
+text: Customer service is what makes a company, too bad that was lacking.
+ -1
+
+
+review_id : DguN5uA6Ag9B2EMeCdPuVQ
+aspect: Price
+text: Membership are overpriced then they put on a sale leaving current members with a ripped off feeling and a membership that value just decreased 30-50% BEWARE.
+ -1
+
+review_id : B4xwmdEJ4D8swqxWU7GbnQ
+aspect: Service
+text:  The customer service on the other hand was horrific.
+ -1
+
+
+review_id : Jp0zHRBM85NKOb_c5yTU3Q
+aspect: Service
+text: The worst customer service I have ever experienced
+ -1
+
+
+review_id : kueuS16hRGEBNOtwAhPuxA
+aspect: Service
+text: You pay roughly about a grand or more depending on what league you pick, and you get absolutely zero customer service.
+ -1
+
+
+review_id : CC5g9Q3uRWpNVC4c09sdZw
+aspect: Service
+text: It's a shame because it has potential as the only gun shop in Fort Mill but their terrible service keeps them from being the kind of place one would want to shop.
+ -1
+
+
+review_id : 0Od7N9OdNeMVGuJhaCNMmQ
+aspect: Service
+text: Customer service or professionalism is clearly not a portion of their training packet.
+ -1
+
+
+review_id : 4z73OIQAue165IYCQHJGHw
+aspect: Service
+text: Their service is absolutely horrible!! We waited an hour and a half for a salad and chips with cheese sauce.
+ -1
+
+
+review_id : yelVATLog7b7tXpgVP57uA
+aspect: Price
+text: The corals are a bit overprice as well.
+ -1
+
+review_id : RhSkc4-iPSWYOEiFU5yhjA
+aspect: Service
+text: The level of customer service they provide is scarily inept! Used to go to the Goodlife on 10 Dundas east in Toronto.
+ -1
+
+
+review_id : 7n6EM4zIU4_BGs0DzN_sxg
+aspect: Service
+text: I would not recommend a training program with this location, due to customer service.
+ -1
+
+
+review_id : 7H9hdBJpksDG8zb8r4Jf-A
+aspect: Service
+text: The employees need some serious customer service training.
+ -1
+
+
+review_id : m_B7pbE5QmKEooQmZ1zTig
+aspect: Price
+text: Way overpriced first of all, the enrollment fee is $200 dollars so don't listen to the billboard you see for 9.95.
+ -1
+
+review_id : 7vaKy5D9KjorNnRtI15l4A
+aspect: Price
+text: The sports they run are a  joke as well, over priced the coaches they have do not know anything regarding rules.
+ -1
+
+review_id : OL1EZaAsULjXitQWYq44QQ
+aspect: Price
+text: Not only was this a ridiculous price for what it was but just an incredible lack of etiquette for people who pay to play at this track.
+ -1
+
+review_id : QvSWQJmk8P4Sodut4Xk7qQ
+aspect: Price
+text: Limited inventory on accessories, and overpriced service.
+ -1
+
+review_id : 8ADUCzSKv-fiz8egaR_S0A
+aspect: Price
+text: There are lots of indifferent staff who are interested in charging you extra for overpriced snacks that you can't bring in yourself.
+ -1
+
+review_id : 5GDx2TgwQhiqzSeJ7eZ1Uw
+aspect: Price
+text: This place is OVERPRICED!
+ -1
+
+review_id : JhJckYrtEFkL8wKXoPwtpw
+aspect: Price
+text: Rude staff over priced food was a total fail for a venue
+ -1
+
+review_id : 5wpk0V06BOvdxyxCjuakgw
+aspect: Price
+text: Green fees are way over priced!
+ -1
+
+review_id : aZRL988niPimQ22n-dIdgg
+aspect: Price
+text: The snack bar is pathetic & over priced, they offer nothing of nutritional value.
+ -1
+
+review_id : UKNTpxhVolN22nb0XJy8aw
+aspect: Price
+text: over priced, many other better facility are cheaper and after sale service real bad.
+ -1
+
+review_id : ohFdY3hUqRJkBnRNX9BmUQ
+aspect: Price
+text: This place is disgusting and overpriced.
+ -1
+
+review_id : q5XFOZLb9KxY1kSmKwaDTA
+aspect: Price
+text: Due to the EXPENSIVE prices, no parking, horrible access and rude, impatient service I will not be coming there again!
+ -1
+
+review_id : td5V6KoXmuQihWb_twashg
+aspect: Price
+text: Overpriced for a typical city course that also offers memberships so a few residents can feel exclusive.
+ -1
+
+review_id : ah1ev8i-8uuY52iSxjXnSw
+aspect: Price
+text: And VERY over priced compared to similar Italian restaurants with much better food.
+ -1
+
+review_id : Nyh-z3VcWcTohOXQ5C6bTA
+aspect: Price
+text: Extremely high prices for extremely low quality.
+ -1
+
+review_id : 6wnrhklCH_xed_NoqEmQ8g
+aspect: Price
+text: The golf course is overpriced for the condition of the course.
+ -1
+
+review_id : CoRochTNEYOekEBoM51faA
+aspect: Price
+text: My point was that at the price we paid to play this course it was not worth it, on any day at anytime.
+ -1
+
+review_id : _XvmvnFIv0R6L1C0qn5ZJQ
+aspect: Price
+text: Very overpriced and under managed.
+ -1
+
+review_id : 4S9q8HxTZTADvefi7FSzwg
+aspect: Price
+text: Always an awful wait time and high prices.
+ -1
+
+review_id : MClYLf9zg1lDxrR9qkQbzA
+aspect: Price
+text: So be cautious, as they are way overpriced.
+ -1
+
+review_id : 3dBEs9LpsRFw8tDZfNbW5A
+aspect: Price
+text: Ridiculously over priced and not family friendly.
+ -1
+
+review_id : Uwq4ww6-RX1RCDSGTW504g
+aspect: Price
+text: Plus their prices are way too high.
+ -1
+
+review_id : K56orQ0ovbWRNmzwHpBjeA
+aspect: Price
+text: And the price of the admission is robbery.
+ -1
+
+review_id : dQoKS7RrN0oHTgHZXKo1Mg
+aspect: Price
+text: The prices are 50% more expensive than other studios in the area, the space is \"intimate\" (meaning tiny).
+ -1
+
+review_id : 4FGQRyQwmVYF6fu9ft_lCg
+aspect: Price
+text:  It went from a great practice facility and a great value to being ridiculously overpriced.
+ -1
+
+review_id : l8dBWhhmq5msNPsvyyPh1g
+aspect: Price
+text: Very over-priced, also unprofessional staff.
+ -1
+
+review_id : kduSkKknU2H5Q_icJbreOg
+aspect: Price
+text:  Sounds like 30 minute day care with overly priced equipment you can only purchase from them.
+ -1
+
+review_id : U3fJxNAVv3SzJMffmG1TKQ
+aspect: Price
+text: For the price you pay it was not worth it.
+ -1
+
+review_id : U3fJxNAVv3SzJMffmG1TKQ
+aspect: Price
+text: It is way over priced for the food.
+ -1
+
+review_id : O1PpgrvzNjhH7kiETNluIQ
+aspect: Price
+text:  This company was over-priced, slow, unresponsive, and had abysmal customer service.
+ -1
+
+review_id : TFwBtsZske7cQZkPafGnog
+aspect: Price
+text: The place felt a bit like a cult and the prices were not cheap.
+ -1
+
+review_id : VEenAK-dVl9EpY70MTIQZw
+aspect: Price
+text: Takes forever to ship and they are over priced!
+ -1
+
+review_id : Hb_LEk85iT3TgE9qaTHsKQ
+aspect: Price
+text: The prices are way too expensive ($7.49 for 12 wings! $8.99 for quesadilla!) PASS
+ -1
+
+review_id : -xEElIcwjOJD9A2a8ga5ag
+aspect: Price
+text: Over priced for a poor course.
+ -1
+
+review_id : Db-qZB4A8cQLxxT2SRaWSg
+aspect: Price
+text:  Way over priced and was not scary.
+ -1
+
+review_id : e1HeYCdKjDcUPefDNdhujw
+aspect: Price
+text: No hotdogs, overpriced facilities.
+ -1
+
+review_id : 6gnRzhxQENsSl7j53L9Rmg
+aspect: Price
+text: They were over priced , asking for $1500 to begin and eventually we settled on $900, which I've heard is still more then typical.
+ -1
+
+review_id : w0iyEKC_wOfipbS7DOlp8w
+aspect: Price
+text: It's also very over priced for what you get out of the membership and not to mention it's over crowded all the time.
+ -1
+
+review_id : K1jriAwc80uWbP_RYtWspw
+aspect: Price
+text:  There's no decent places to eat unless you love typical mediocre overpriced sports bar food and sitting next to fat old pervs while they harass the female bartenders or want to drive 20 miles to Tempe or Scottsdale and return in financial debt.
+ -1
+
+review_id : hBiKSd93N6bPhy7s9jRztw
+aspect: Price
+text: With the new fees and another increase to come it is priced way too high for what you get.
+ -1
+
+review_id : lyBTQsTsXv2LRYsFm3s3tw
+aspect: Price
+text: I will probably spend it on an overpriced product - for products go to eaton center location which has a BOGO deal.
+ -1
+
+review_id : 9gBGjhRUUDmDqvs8i_c4MA
+aspect: Price
+text: It looks like a fun place, but over-priced and the music did not sound.
+ -1
+
+review_id : cq9nns73Sddk_5UJqufGwA
+aspect: Price
+text: It's expensive but we are interested on the swimming lesson.
+ -1
+
+review_id : aarFgcPUu-dDnrzxuBQCcg
+aspect: Price
+text: This place is CRAZY expensive to ride the train.
+ -1
+
+review_id : 2ESnRiOgRpnb8gkz2FGuDQ
+aspect: Price
+text: Very expensive and disappointing.
+ -1
+
+review_id : 2ESnRiOgRpnb8gkz2FGuDQ
+aspect: Price
+text: As we paid full price - $135 for 3 people - this was a very expensive and disappointing outing.
+ -1
+
+review_id : mQ76_MbpIpOL5CT_EaWYxw
+aspect: Price
+text: Way too expensive for the slow pace of play.
+ -1
+
+review_id : 6ljNYZOyN4hWJf6CRgIhyg
+aspect: Price
+text: Laser tag arena is good, however extremely expensive and over priced.
+ -1
+
+review_id : SJVzaPOwYX7Thvy5uKg2ww
+aspect: Price
+text: It was expensive and a complete waste of money.
+ -1
+
+review_id : DL1sm3tbF0ym_ahEeSLSnQ
+aspect: Price
+text: This place is expensive and raggedy.
+ -1
+
+review_id : KqWLK3B-SM1SiwrWhdCWsQ
+aspect: Price
+text: Way too expensive and too many repeated light displays.
+ -1
+
+review_id : woPRjOFm6vNF1VuyuyTNxg
+aspect: Price
+text: This place is extremely expensive.
+ -1
+
+review_id : ZoW3HOI1l5wqykrz47uYHQ
+aspect: Price
+text:  This wound up being the most expensive and longest nail appointment of my life!
+ -1
+
+review_id : Zr2Jupv7ax-oe5TV5Wwz1Q
+aspect: Price
+text: Way too expensive for how cheaply it was put together.
+ -1
+
+review_id : 2ZjZW19klPPebLwVpN1JzQ
+aspect: Price
+text: Do not go there, too expensive, poor customer service, and next to impossible to cancel membership! AVIOD!
+ -1
+
+review_id : TYXS3YkTFH1eiweIECcoDQ
+aspect: Price
+text: This hobby is a very meticulous, time consuming, and an expensive one.
+ -1
+
+review_id : hd1YWLA5funE-WDhhNnE4A
+aspect: Price
+text: It's expensive at $8 a session and it's extremely small.
+ -1
+
+review_id : -eRYYqV6POb0_3_rrtq--w
+aspect: Price
+text: I think this is pretty expensive, but your frame of reference may be different.
+ -1
+
+review_id : bAGanHea1Qs-7Ki_GoDGlw
+aspect: Price
+text: The glass beading, one of the most expensive treatments you can put in a pool, does not hold up.
+ -1
+
+review_id : bAGanHea1Qs-7Ki_GoDGlw
+aspect: Price
+text: It was an expensive lesson.
+ -1
+
+review_id : f0VypqKRBQk_-pOx07bQTg
+aspect: Price
+text:  They are an expensive gym but the dedication to gymnasts just isn't there any more.
+ -1
+
+review_id : xAo7woekbWT4-NUu23Ej1g
+aspect: Price
+text: The fees are more expensive than they should be and the decor is good, yet the price of admission leaves the club lacking.
+ -1
+
+review_id : OS-WIFgO0jNGJHwkZCTRVg
+aspect: Price
+text: Overall the memberships are expensive and with 1 or 2 year commitment.
+ -1
+
+review_id : 5YJBdJoKJcfUTwJoGs2xdg
+aspect: Price
+text: I'm stunned at how bad and expensive this place was, even on a discount.
+ -1
+
+review_id : 7mSjQ1kGg61Qtbi8cxXurg
+aspect: Price
+text: It was expensive, even when they said they'd lower it for me.
+ -1
+
+review_id : OW_3qvxJU7NnDzt6Jn6zwg
+aspect: Price
+text:  It was already too expensive, and they'd rather we didn't show up.
+ -1
+
+review_id : DkxmBBnM8CUfDFSHlEqECA
+aspect: Price
+text: Once joined, they make it very expensive to leave.
+ -1
+
+review_id : COkvczPm5s5DPryKTW4r5A
+aspect: Price
+text: The change room smells really damp and it is pretty expensive - they have a 3 month \"special\" for 189 plus tax = about $67\/month.
+ -1
+
+review_id : zUyQQCboV5Gv6xGnR-od3Q
+aspect: Price
+text: Their basic membership is very expensive  and their rates are rumoured to increase in the summer.
+ -1
+
+review_id : 5bLozr6TQkOWWc0W8cy7rA
+aspect: Price
+text: Every piece.of jewelry they sell is super overpriced.
+ -1
+
+review_id : 5bLozr6TQkOWWc0W8cy7rA
+aspect: Price
+text: Everything in the store is overpriced, and often used items are tagged with higher prices than you can just buy new.
+ -1
+
+review_id : MreYid2xGGDMNg7IIfprRA
+aspect: Price
+text:  An over priced bad fit, I actually can handle.
+ -1

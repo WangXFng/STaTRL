@@ -1,0 +1,1105 @@
+
+review_id : _qD_YqOq7hNQ6h3C9_4blw
+aspect: Service
+text: They have absolutely no customer service.
+ -1
+
+
+review_id : EL2rsibc3Pq3Moe4azcMAg
+aspect: Price
+text: You pay a lot more money, it's EXPENSIVE AS FUCK.
+ -1
+
+review_id : EeHk0YG16jGWaHVM_Uch2A
+aspect: Price
+text: save yourself some time and money and go to an objective professional.
+ -1
+
+review_id : FrIX-nbxox6ve2a-hOB7VA
+aspect: Price
+text: for sure not worth the price!
+ -1
+
+review_id : zuOqUDbYTh3T5pavmJsvSw
+aspect: Price
+text: Do not give them your money unless you are sure you are going to enroll your child.
+ -1
+
+review_id : zzHYZyZ1InmIJOumr6Ef5w
+aspect: Price
+text: Save yourself the time and money and go somewhere where the owners care about their customers and potential customers.
+ -1
+
+review_id : tUjeFVqlQhESVQXIJwOG6A
+aspect: Price
+text: I was ready to pay the high prices if it fit my needs.
+ -1
+
+review_id : 0PsyJfmMYClxxred5gt_Fw
+aspect: Price
+text:   Over priced workout.
+ -1
+
+review_id : BmuAx6exROxtZYr3xZL53A
+aspect: Service
+text:  They rendered no more services, did no more work, processed no more paperwork to earn that $90.
+ -1
+
+
+review_id : i1ezjTEG0UweSeoKZE2itQ
+aspect: Service
+text: The bus service is horrible.
+ -1
+
+
+review_id : eAroaOaJ9H5r_z4Av1gj2Q
+aspect: Service
+text: No tour of the facility, no \"thank you for coming in\", no questions about my child, bad service.
+ -1
+
+
+review_id : XTmZevUlesiTbSiw6cJUng
+aspect: Service
+text:  Instructors don't show up for lessons and customer service is AWFUL!
+ -1
+
+
+review_id : LpPVXRgE37NSGfzDUIw3cw
+aspect: Price
+text: This is a expensive program that you chose to enroll your child into.
+ -1
+
+review_id : ZjQms9ugo9GZT9PuRmZB_g
+aspect: Service
+text: They offer poor quality service and I would never recommend this school to anyone.
+ -1
+
+
+review_id : ymgNt2CPRbU0hMzvlZZsiA
+aspect: Service
+text: Poorest customer service I have ever seen.
+ -1
+
+
+review_id : M2E3KuD1x74KXl9Dcmebqg
+aspect: Price
+text: I ultimately signed up for their most expensive package.
+ -1
+
+review_id : RNKG03ovRVuGjFPlVMRvxg
+aspect: Service
+text: Terrible customer service and rude professors.
+ -1
+
+
+review_id : jSDB3XEYF6RxXrWDLxK2zA
+aspect: Service
+text: Very poor services!
+ -1
+
+
+review_id : w4shQqTC9X1aIiSJK1MRUQ
+aspect: Service
+text: Her customer service is lacking and should definitely be worked on when handling parents in person or on the phone.
+ -1
+
+
+review_id : 6kHdiq20XnKXxtgfuW882Q
+aspect: Service
+text: I have never had service this bad before.
+ -1
+
+
+review_id : v_kJ6-WiPDTT_nRs59f6Vw
+aspect: Price
+text: There prices are very affordable!
+ -1
+
+review_id : 1wAzEe38GQrQNCR9EeGFnw
+aspect: Price
+text: My fair warning to you: child care is expensive, and you deserve to know your children are in a place where kids of all types are loved and accepted.
+ -1
+
+review_id : TTHb8zoTkXV7AZ5IK6GFDA
+aspect: Service
+text: Bad customer service.
+ -1
+
+
+review_id : ldPlx9RtnTU_dkKbUl2EIQ
+aspect: Service
+text: During the wedding, several family members and guests received poor service and a bad attitude from the bartender.
+ -1
+
+
+review_id : 8VuYruhKSbQWgCPWQdgtug
+aspect: Service
+text: This place has the worse customer service...
+ -1
+
+
+review_id : 8VuYruhKSbQWgCPWQdgtug
+aspect: Service
+text: Like I said worse service
+ -1
+
+
+review_id : -ALBnUaaGB3rGPyHHN9YtQ
+aspect: Price
+text: Active learning appears to have changed locations at least three times, why with such high prices can they not maintain a lease?
+ -1
+
+review_id : _jVmrYK9NrIkcnPGLf4QvA
+aspect: Price
+text:  It is overpriced and incompassionate.
+ -1
+
+review_id : ZBU8yUEuCLkKVF-KWmhFlA
+aspect: Price
+text: Afterwards, he wanted to paint one of those cool overpriced porcelain statues.
+ -1
+
+review_id : IhJKiV-Y73FZ8GidpUPoBg
+aspect: Price
+text: This is very expensive for what it is but I decided to register with them because they are close to my workplace.
+ -1
+
+review_id : qDZw5TDDy6LGNaBgTN4Suw
+aspect: Service
+text:  Incompetent, tacky and tasteless services offered.
+ -1
+
+
+review_id : wnc18tEDvWJ_D5uUdYvNqg
+aspect: Price
+text: This place is filthy & way overpriced.
+ -1
+
+review_id : gMFXGkWWSTs-M6hRtvVbHg
+aspect: Service
+text: Very bad customer service on his part.
+ -1
+
+
+review_id : Va_s0s8EGdKmhD3Rt1XEUg
+aspect: Service
+text: Bad customer service!
+ -1
+
+
+review_id : rXl3aOj3mmMppZyPamfA_g
+aspect: Service
+text: Terrible, terrible customer service.
+ -1
+
+
+review_id : VWdPLWWbLPxEN5VMRVzxIQ
+aspect: Price
+text: This is an expensive treatment that we didn't discuss during my consultation.
+ -1
+
+review_id : XYYz-pRxwMTH4e1CPIK6vA
+aspect: Price
+text:  This school offers no value except if your looking for a very expensive babysitting service.
+ -1
+
+review_id : oEgWdEKNL3NWIScH1617qw
+aspect: Service
+text: Talk about horrible customer service.
+ -1
+
+
+review_id : pkLEheFJZ7yFNzGEAx7Ucg
+aspect: Price
+text:   overpriced, not classy, certainly not catering to the ladies.
+ -1
+
+review_id : fKEnYw2rvd9BQ4_ZWtmsyQ
+aspect: Price
+text: Very expensive!
+ -1
+
+review_id : ZMFHs1m4RKD1XYytk4rFPQ
+aspect: Price
+text: Very expensive for what you get!
+ -1
+
+review_id : nixAajACyfhfZPRmevngDw
+aspect: Service
+text: WORST customer service ever!
+ -1
+
+
+review_id : 8-MCKH7Pb0eKphZAyRSeqQ
+aspect: Price
+text: This might be the most expensive daycare in town and we expected something resembling real education and real engagement for the money we pay--especially for two kids!
+ -1
+
+review_id : NVnBLhx87y0Km5O9umi3Bg
+aspect: Service
+text: Their customer service is terrible.
+ -1
+
+
+review_id : GZatUvLAUmqb1R8APD8SWw
+aspect: Service
+text: The experience wasn't as \"hands on\" as I had hoped and the service from the young women there got increasing worse.
+ -1
+
+
+review_id : 7-WxPeSyyeVkZEGK6EpLtg
+aspect: Price
+text:  Or can even finds job that pays enough to repay the loans for this overpriced school.
+ -1
+
+review_id : fVFovKumhXHqGkml-xh96A
+aspect: Service
+text: Please don't use this service or you will seriously regret a big mistake you can't take back.
+ -1
+
+
+review_id : wDNciXATjoPLlL9ZQNGT0w
+aspect: Service
+text: Very unprofessional customer service needs major improvement!
+ -1
+
+
+review_id : Bv0ABlGm7umzOKThclg_fQ
+aspect: Service
+text: Do not go here for services!
+ -1
+
+
+review_id : Bv0ABlGm7umzOKThclg_fQ
+aspect: Service
+text:  Despite the horrible service I left a tip on my card.
+ -1
+
+
+review_id : XFi50QQQnSfXZ4O3qOTIFg
+aspect: Service
+text: This is our third year with Sonoran and I have to say that I am very disappointed with the bus services they have incorporated.
+ -1
+
+
+review_id : rGHOHXuNd0y-bFJBgIcuaA
+aspect: Service
+text: The facility itself is disgusting and the customer service is rude.
+ -1
+
+
+review_id : 8OL61bkEnzVbgG8bXtmVRA
+aspect: Service
+text: So with that being the case, why is it so difficult to get back if the service we are receiving are so bad? What are they spending their time on in these offices?
+ -1
+
+
+review_id : TH2k6Yzp2AkPFgRrKZU8BQ
+aspect: Service
+text: The absolute worst customer service I have ever seen in a store.
+ -1
+
+
+review_id : JYCjJqEThPs8E0hZ4_oqPg
+aspect: Price
+text:  Over-priced for what you get.
+ -1
+
+review_id : 9MZqGk49XdbCsRfCAn6lXw
+aspect: Price
+text: Not to mention they are grossly overpriced.
+ -1
+
+review_id : aV2qtNcgPtmCJnzKdcZr8Q
+aspect: Service
+text: Worst customer service from front desk and guy manager.
+ -1
+
+
+review_id : TKcPA51tb7cTYwhjf4v3ew
+aspect: Service
+text: The facility itself is disgusting and the customer service is horrible.
+ -1
+
+
+review_id : KH2dhn50be5l5etCsZmAxQ
+aspect: Service
+text: The worst customer phone service I have experienced in my lifetime to date.
+ -1
+
+
+review_id : bV9RL6AMPXh3eZ77UZgDmw
+aspect: Price
+text: We decided that Tutor Time was just too expensive and their policies SUCK so we decided to switch and heard good and bad things about Susies Mama Bear.
+ -1
+
+review_id : mChWSuRTBT3NFr6rfjP88Q
+aspect: Price
+text: Over priced, unpleasant \"teachers\" and directors, FILTHY, and neglectful.
+ -1
+
+review_id : OfXgszHwFhS1mif19rqQOQ
+aspect: Service
+text: I was an independent contractor for MyComputerCareer, drafting policies and procedures  and was NEVER Paid for my services.
+ -1
+
+
+review_id : 26wduEKmXL2jajJe4U7dUw
+aspect: Service
+text: The service I made an appointment for was not the service they set up for.
+ -1
+
+
+review_id : Sp76Dhwpn5FfYkzKSp7f6A
+aspect: Service
+text: horrible service.
+ -1
+
+
+review_id : hABegNqdmUvYEQbri4nDDw
+aspect: Service
+text:  The first was a facial a couple of years ago where the esthetician was less than engaged in my service.
+ -1
+
+
+review_id : hABegNqdmUvYEQbri4nDDw
+aspect: Service
+text:  The service was lack luster and when I followed up with an email and i the survey advising I would like to hear back, it was radio silence - never heard back.
+ -1
+
+
+review_id : hABegNqdmUvYEQbri4nDDw
+aspect: Service
+text: That is two opportunities lost -  clearly customer service is not a priority for this franchise.
+ -1
+
+
+review_id : kGsvr5ijqWo7SqaR2571rA
+aspect: Price
+text: This was EXTREMELY expensive.
+ -1
+
+review_id : 3nYagJj1O_orQ-V5Bt-xKA
+aspect: Service
+text: I would not recommend her services to anyone.
+ -1
+
+
+review_id : 1Onl2XOvlu6ey9xiGZcHSA
+aspect: Service
+text: Worst service experience when doing my daughter's registration (enrollment) for Fall.
+ -1
+
+
+review_id : 6fDk8YPkGjlcC1U7UvbD8A
+aspect: Price
+text: way overpriced for that lack luster service.
+ -1
+
+review_id : HdeQnkUReTlw3MCmR-0BKg
+aspect: Service
+text: I had a negative customer service experience with this business.
+ -1
+
+
+review_id : N7jETlXYcGPOyoJmF9w5Nw
+aspect: Service
+text: She is all about taking money without providing a service.
+ -1
+
+
+review_id : 0TyOcmVqyJUVTr4e2v_Ybg
+aspect: Service
+text: Terrible customer service.
+ -1
+
+
+review_id : 5LtMRVuvT2cNBxAhRQicHA
+aspect: Service
+text: Overall a bad experience with deceptive marketing and complete lack of customer service.
+ -1
+
+
+review_id : sLuEM_qwCmRDwVAvmiFqoA
+aspect: Price
+text: This school is expensive, even for the most basic services.
+ -1
+
+review_id : 5WuaXwLF1mqFdee3uVBFpw
+aspect: Service
+text: This is based on the service that I never did receive.
+ -1
+
+
+review_id : Jqfo2zsiNvPu4SpfkJ1h4w
+aspect: Service
+text: Terrible return policies and unhelpful customer service.
+ -1
+
+
+review_id : xxWKmNIq4mK3YPbIX9eUlg
+aspect: Price
+text: So crazy expensive and very rude.
+ -1
+
+review_id : cD6V1qmDiKmIQiBdIw3mgg
+aspect: Price
+text: A school that provide an over priced worthless education.
+ -1
+
+review_id : dzguwdKUYjwtB8BK240qjg
+aspect: Service
+text: - College preparation\/counseling services are abysmal.
+ -1
+
+
+review_id : a5OW0xxm8jdqbgkyL2-TeA
+aspect: Service
+text: Nice layout Bad customer service.
+ -1
+
+
+review_id : TOrmBSC0jqTnCEV6Jrp9jg
+aspect: Price
+text: I just couldn't afford to keep paying for this over-priced school and the demand for equipment every other month!
+ -1
+
+review_id : wwEPRsJh4IDJT_Z9lJjiNQ
+aspect: Service
+text: Very slow service.
+ -1
+
+
+review_id : DrGWc6cJCibLT0P9xeSE5w
+aspect: Price
+text: This school is overpriced for the quality of driving instruction that they provide, I would suggest paying a little more money and going to another school!
+ -1
+
+review_id : rJjSW0ca8Y9hFl3QoxilJg
+aspect: Price
+text: for instance, i bought with my money--- on their stupid lasagna meal which not only is overpriced but small AF
+ -1
+
+review_id : CPjcm7vSXHh3-gs3w5bhTQ
+aspect: Service
+text: The services at Brain Balance were absolutely nothing as they were described.
+ -1
+
+
+review_id : DvRTc4bJFuvKl2osCt1wgg
+aspect: Service
+text: Terrible return policies and unhelpful customer service.
+ -1
+
+
+review_id : 3KjYlmpToLPcqDEH0wpJCw
+aspect: Price
+text: The courses are very expensive from 27000, 34000, 41000 and 59000.
+ -1
+
+review_id : efcNwv0mmdYQHi0msgmLiw
+aspect: Service
+text: I am very disappointed with this level customer service and although the drive is longer I suggested going to Guitar Center in Pineville or Sam Ash on Tyvola.
+ -1
+
+
+review_id : VJZU6RfGTxb3b2MFQvfr_g
+aspect: Price
+text: To put it simply, it is an over-priced, unorganized mess, and unfortunately, many of us were manipulated into this scam.
+ -1
+
+review_id : umX-Pr8hsgcFS9JDmsbUnw
+aspect: Price
+text: The education is very expensive and very mediocre to say the least.
+ -1
+
+review_id : MvMijhN2jpMHAdtNDJ1r6g
+aspect: Price
+text: Everyone is nice but only when attending and your paying it is more like an over priced day care.
+ -1
+
+review_id : TWVgsSBivx3FONvX1YBeOg
+aspect: Price
+text: I got a job yes but the school is overpriced for the quality of education they give they try to con you into the school and make you take out a bunch of predatory loans.
+ -1
+
+review_id : f-oa1JQLiW32CmRMErjwBw
+aspect: Service
+text:  Company is the worst in customer service.
+ -1
+
+
+review_id : d0vv1lKGl5mbcVhIHfyvDw
+aspect: Service
+text: The absolute worst customer service of any hotels in the area.
+ -1
+
+
+review_id : F-J0VzMfYeY9vpHLw3l6GA
+aspect: Price
+text: Pottery is extremely overpriced compared to other places and not a large selection.
+ -1
+
+review_id : o-4ZtsHHZD7KOb3aDg7gwQ
+aspect: Price
+text: TURNS OUT TO JUST A VERY EXPENSIVE BOOK WITH ERROR AFTER ERROR
+ -1
+
+review_id : LorwM5jVt001yVi4kd-FJA
+aspect: Service
+text: I would not recommend Rean Cross of Lucina Birth Services.
+ -1
+
+
+review_id : CAk6mQ24Z2FBdqiVUo3p3g
+aspect: Service
+text: horrible service.
+ -1
+
+
+review_id : usSmCM-sZuOLsXWorL32xQ
+aspect: Service
+text: Bad service that school has treated us very poorly as we gave all the paper and supplies for the teachers
+ -1
+
+
+review_id : aesXSDJ1kE5Bo18rffaqwA
+aspect: Service
+text: I have NEVER experienced such horrible customer service in my life.
+ -1
+
+
+review_id : cmZIj2s4rg49t5XN13kbfg
+aspect: Price
+text: The classes are way too expensive, not really challenging at all, and you're forced to take some classes that are worthless.
+ -1
+
+review_id : wdO84mZ8uhPOtAnCSjJoQA
+aspect: Service
+text: I feel that OU is all about making there quotas for the month so that they can get their yearly bonuses and you will not use your quota with an attitude or poor customer service on me.
+ -1
+
+
+review_id : wmiL0r-DkaFYjrBJO1Xvgg
+aspect: Service
+text: I'm 100% disappointed with their customer service & how they did not do anything to make the situation right just a simple \"hey sorry class is canceled pick another\".
+ -1
+
+
+review_id : J9PkCJGKeYpbeUazP49YIw
+aspect: Service
+text: Do not use this service.
+ -1
+
+
+review_id : xZQgn96hob6ldyRq7kvcvw
+aspect: Service
+text: We had a terrible experience with this placement service and in dealing with Bradford Gaylord.
+ -1
+
+
+review_id : ibJfffZvVY8xy_tmY29aMA
+aspect: Service
+text:  finished up my course after seven months of starting it because of the awful customer service and inconvenience.
+ -1
+
+
+review_id : lzDB6HH9Lahm6UdoDFDBuQ
+aspect: Service
+text: the worst customer service I have ever had.
+ -1
+
+
+review_id : gM51HdL29_EbatPxomHfCg
+aspect: Price
+text: This is my full experience and I suggest not coming here because it's so expensive and for nothing.
+ -1
+
+review_id : TjqFCOJscw-EOdxOX9Ybtw
+aspect: Price
+text: they are overpriced for what they \"teach\" you.
+ -1
+
+review_id : TjqFCOJscw-EOdxOX9Ybtw
+aspect: Price
+text: Don't waste your time at this over priced high school drama \"college\".
+ -1
+
+review_id : uNJk0JQzS-OqZyg5ofN9Yg
+aspect: Price
+text: This is a long delay considering that the courses are expensive and searching for a career is a priority.
+ -1
+
+review_id : ELa-TMkYKz52v-4z-0--Lw
+aspect: Price
+text: It's far too expensive, the job market for game\/graphic design is shaky at best and the pay for those jobs will hardly make a dent in your student loans.
+ -1
+
+review_id : UvmEZ78GJxc0ih8QGVOzHA
+aspect: Service
+text: Either a scam or simply terrible customer service.
+ -1
+
+
+review_id : m8yfjaFuGkuaOg-hL5P-eQ
+aspect: Service
+text: What a scam and awful customer service!
+ -1
+
+
+review_id : st2fg6U1OfG-Fd-nOnMcIg
+aspect: Service
+text:  Horrible customer service.
+ -1
+
+
+review_id : AmN5xp8bcV3WxPDXJgW43w
+aspect: Service
+text: Staff are extremely rude, service is slow, very busy and the test route is very busy always.
+ -1
+
+
+review_id : zrQLNMzBoQi86DFAGYsFag
+aspect: Service
+text: Horrible customer service.  Manager walked around with 2 guns on his hip and fake cop badge that read \"top flight security \".
+ -1
+
+
+review_id : zrQLNMzBoQi86DFAGYsFag
+aspect: Price
+text: Overpriced,  underwhelmed by the atmosphere and offended by the management.  Never again,  please don't patronize this establishment.
+ -1
+
+review_id : ojmJ-HPuHHGgC7DRdtO-JA
+aspect: Service
+text: I definitely would not recommend this place for any nail services.
+ -1
+
+
+review_id : aSxrrjvNrYSFNgdX-WAIzQ
+aspect: Price
+text: Be warned, this place is expensive and receiving payment is their primary objective.
+ -1
+
+review_id : z7XRGqrCUMLyiS_VDW9yPA
+aspect: Service
+text: Unbelievably bad service.
+ -1
+
+
+review_id : RSuT0g3gsTLJhQ8mYsRMTw
+aspect: Service
+text: Very poor customer service and I felt very misled.
+ -1
+
+
+review_id : zUsdC45hCgSc2HQuGR2DFA
+aspect: Service
+text: They make you pay for a package upfront, which is convenient for them as they feel free to provide the worst service you've ever gotten after they get your money.
+ -1
+
+
+review_id : bNlhSY0WjWH6a_K8gbuTcg
+aspect: Service
+text: Rude staff, slow service, and an absurdly far away location.
+ -1
+
+
+review_id : Onc8zzy8dN1xRw7Bm-Acpw
+aspect: Service
+text: I went through the accelerated EMT course and I can not say enough terrible things about this place, the teaching was substandard, the customer service was substandard, the professional etiquette of the staff was substandard, the grading procedures were substandard.
+ -1
+
+
+review_id : y2Jg08f8O8tBcZAQeTjvKA
+aspect: Price
+text: Even though it was one of the most expensive schools out there I thought it would be the best alternative to high school for my daughter who has ADHD, I was very wrong.
+ -1
+
+review_id : NNCTmPxlGykoxA28rPBcrA
+aspect: Service
+text: Really really poor customer helpdesk service.
+ -1
+
+
+review_id : marzGChdlOHGzLHxEqbFew
+aspect: Service
+text:  This place has horrible customer service.
+ -1
+
+
+review_id : 3iOzDaeb8DOlLgZCQT1-rQ
+aspect: Service
+text: Horrible customer service.
+ -1
+
+
+review_id : Mwq9hV9dbtT1n-hLaHwCJA
+aspect: Price
+text: Ridiculously overpriced parts and firearms.
+ -1
+
+review_id : AHjv-GQhV2z02C9zCTOhcQ
+aspect: Service
+text: This school has lied about everything non stop, with the worst customer service, but the worst part is you're paying for NOTHING.
+ -1
+
+
+review_id : tXBnPGuuAQjfAkt1oFePVg
+aspect: Service
+text: I am very disappointed from the services I received from AAMCO driving school instructor and owner, named Sara.
+ -1
+
+
+review_id : ZKODUSMro2LfPIYPG5-34w
+aspect: Service
+text: Poor services and poor customer service.
+ -1
+
+
+review_id : ErviIfd19HuqYFPMaw-4rg
+aspect: Service
+text: Absolute worst service I've ever received.
+ -1
+
+
+review_id : ErviIfd19HuqYFPMaw-4rg
+aspect: Service
+text: They should get the award for worst service.
+ -1
+
+
+review_id : mt_FGHeJLN4oq-_uJxD3PQ
+aspect: Service
+text: This is unreasonable and very very poor service.
+ -1
+
+
+review_id : tIc4732Wy6L86YrqPkqSNg
+aspect: Price
+text: This is just an overpriced daycare.
+ -1
+
+review_id : xmTUkrGgYv7044cCqwjpag
+aspect: Price
+text:  circles a day, and most of the time I felt like it was an expensive day care.
+ -1
+
+review_id : 6RMA83-p99pyRkEBcqynCQ
+aspect: Price
+text: This school is expensive and very structured way to structured for toddlers!
+ -1
+
+review_id : py2VbWcOeXQ_Y4NGARmsLQ
+aspect: Price
+text: The school has a deal with a tool company, so the only tools sold in the equipment shop are overpriced tool kits from this company.
+ -1
+
+review_id : XxSCrmvYMTonQzCA0Ubmsw
+aspect: Service
+text: All employees who work there don't even taking care of student, they always provide such a very bad services no matter by phone or in person.
+ -1
+
+
+review_id : d7rg8-Wbdp2ck96_2yKC-Q
+aspect: Service
+text: Terrible customer service to potential clients.
+ -1
+
+
+review_id : y5OlCAskLkJSpCpgBhg39w
+aspect: Price
+text: A very aggressive sales team trying to sell you a very expensive program with timeshare selling tactics.
+ -1
+
+review_id : kw07cRp7uvSVLQB4w4NJIw
+aspect: Service
+text:  Service and customer care is really lacking and they have no regard for people's time.
+ -1
+
+
+review_id : COJHh_dBqiQ5jBw5kae3lQ
+aspect: Price
+text:  They do have some nice selections, but their selections are limited, and overpriced.
+ -1
+
+review_id : skkavEppn8KNypZROiY55g
+aspect: Price
+text: Overpriced, unresponsive, high-pressure sales, and do not follow through when they say they will correct a situation.
+ -1
+
+review_id : b6pGCE0P1DzwH8qY4YCNfw
+aspect: Price
+text: Also they are overpriced, even my kid can do better.
+ -1
+
+review_id : iu49c0YNw51XS4CHEoy2UQ
+aspect: Service
+text: Poor customer service.
+ -1
+
+
+review_id : cOTeeSqoLCxHnHkNUoonxg
+aspect: Price
+text: very expensive, and requires the parent to do all the work.
+ -1
+
+review_id : Ll_0FrWrrN3bgQQaOOIfww
+aspect: Service
+text: Worst customer service.
+ -1
+
+
+review_id : 6vxnCqB4EuK1uQgTwXS0eQ
+aspect: Service
+text: Overall, a poor customer service experience, and for the sake of some clay they have lost a customer for good, and perhaps this review will turn some people away as well.
+ -1
+
+
+review_id : 26cSiC0UowTtXVm_ZsKu3g
+aspect: Service
+text: I am writing today to complain of the poor service that I received from Marca College at the Dixie location on April 12th , 2016.
+ -1
+
+
+review_id : 9uztoXw7b4Uj9i9iovNZAA
+aspect: Price
+text:  They are way overpriced and the curriculum is not only confusing but very disorganized.
+ -1
+
+review_id : vqseJwe-5kk_srTVkAxqGA
+aspect: Service
+text: You will save the lost money and total lack of customer service experience by going there.
+ -1
+
+
+review_id : bbKCQR9srOsAa9aozE4e4A
+aspect: Service
+text: As others have mentioned, the customer service is the worst.
+ -1
+
+
+review_id : 6nHLaIamVXoFf9zjvF8XCg
+aspect: Service
+text:  Horrible service, they send this consultation letters in the mail to lure you into their office offering free consultation.
+ -1
+
+
+review_id : nh4LuQ5iT_gVA1tZMbQQrg
+aspect: Price
+text: An outside expert was brought into resuscitate the math program, but their recommendations were rejected as being too expensive.
+ -1
+
+review_id : XEal5lsYu4KJGI8hv73Z8Q
+aspect: Price
+text: I ultimately signed up for their most expensive package.
+ -1
+
+review_id : Hh1vQm6zWOG1PrAeXuJLTA
+aspect: Service
+text: Besides my eye brows looking really bad, my review is more based on the poor customer service.
+ -1
+
+
+review_id : Hh1vQm6zWOG1PrAeXuJLTA
+aspect: Service
+text: Because I have had plenty of bad services in my life but didn't give them a bad review because even though the result wasn't great, I was provided good customer service.
+ -1
+
+
+review_id : ZCHRZocobGyw5wKobX4V5g
+aspect: Price
+text: Over priced I dropped a class after one week and a day they said they had to charge me for the entire course 5,600.00 Dollars for one week and one day ridiculous.
+ -1
+
+review_id : 4VH-MSUQNOr71mjicXti7Q
+aspect: Price
+text: I looked into this school for my husband back in October and found it kind of pricey.
+ -1
+
+review_id : sPt7xBxUrXJ56mszd6H8Bg
+aspect: Service
+text:  Can't speak for the styling but the business itself is poorly run and customer service is terrible.
+ -1
+
+
+review_id : hHDmd1Bq9CrFGRVsnRDAKA
+aspect: Service
+text: Terrible service unorganized and unfriendly staff!
+ -1
+
+
+review_id : 1IyymYOT8PWAANxO7mhO8Q
+aspect: Price
+text:  This is clearly a money making scheme and way over priced physical\/occupational therapy done by people who are not even trained to the rigorous standards required to be a PT\/OT.
+ -1
+
+review_id : If3iPDZ5a8BTNpTaV6GEuQ
+aspect: Price
+text:  If All Around Learning Center conducts business by ignoring potential customers, I can only imagine the dissatisfaction experienced by those who've already paid their unreasonably priced fees.
+ -1
+
+review_id : Pk0IfIEDFri3g6HpC-7Asg
+aspect: Price
+text: It's way, way too expensive; these colleges are like a vampire sucking your cash artery.
+ -1
+
+review_id : maFhfhWD2Btislc_3-H7Kg
+aspect: Price
+text: This college is overpriced and the so called \"adviser's\" are nothing more than a used car salesperson.
+ -1
+
+review_id : mTNVyXt6FydaawkngfInAQ
+aspect: Price
+text: I do not recommend this place, this place was not cheap or super expensive more in the middle.
+ -1
+
+review_id : viZECDcof04s8gDg-VIpGg
+aspect: Price
+text: Overpriced tuition 27,000$.
+ -1
+
+review_id : _Xmj630l2QCYSY6QZ6beAg
+aspect: Price
+text:  It is not only over priced it offers inadequate instructions and terrible customer service!
+ -1
+
+review_id : HDvf55T-5sZ72-qNulglsw
+aspect: Price
+text: Seriously? Then how much a the new parking cost, and how they want new awnings but are so expensive.
+ -1
+
+review_id : lOAp4CCaeU7WacIZPvfsFw
+aspect: Price
+text:  Super expensive and it's not worth the time or money.
+ -1
+
+review_id : ZI3airyVLAetHnANHp-wiA
+aspect: Price
+text: It's extremely expensive and for what?
+ -1
+
+review_id : s5hdfse8OM-0e_rrHTsPAQ
+aspect: Price
+text: Would not recommend for a multitude of reasons: way too pricey, kitchen is dirty, food left out on counters & just not worth the money
+ -1
+
+review_id : -WAwpTB4NMXMeotUWNHeiA
+aspect: Price
+text: Don't be fooled by this overpriced college they just want the money and don't care about students
+ -1
+
+review_id : lzLrWPURrehiscVT_JzkCw
+aspect: Price
+text: Its really expensive and I get no value from the calls, I felt I've been tricked into signing up with them and they are only going after my money.
+ -1
+
+review_id : dhKYm1tlw79KwvkLs3I6xw
+aspect: Price
+text: Jack of Sports is very expensive for children's swim lessons, but we assumed that the cost would be reflected in the instruction.
+ -1
+
+review_id : 3I4nuZmLhQ1uHYcvcF5klQ
+aspect: Price
+text: if it can even be called a educational institution, it is extremely over priced!
+ -1
+
+review_id : 3UweWsahxQTnoydsdXHFig
+aspect: Price
+text: Really expensive for the training I got that I could of got somewhere else for 1\/3 the price and plenty of people got jobs at the same place as me with the other schools that cost way less.
+ -1
+
+review_id : caoYjgEZ_Tm8SK5OsErNrQ
+aspect: Price
+text: Very disappointing for the money I spent.
+ -1
+
+review_id : XaZGsn89j2fRapJvcppqUw
+aspect: Price
+text:   Do not waste your money sending your child here.
+ -1
+
+review_id : 1JJnnjcDiEbsSGV7lRRspQ
+aspect: Price
+text: Don't waste your money or your time.
+ -1
+
+review_id : i0fTX6AKWXtZKVlMx6RjDQ
+aspect: Price
+text: Save your money and your time, don't go here.
+ -1
+
+review_id : CmnM34Gx7BndOcMobbf2Kg
+aspect: Price
+text:  I do not want to waste anyone's time or money.
+ -1
+
+review_id : RHNMMGqehwT-QJweDy8TTQ
+aspect: Price
+text: Do not even give this school any of your time or money.
+ -1
+
+review_id : HTlkEFj02snWhkKG4tlxoA
+aspect: Price
+text: What a waste of my time and money!
+ -1
+
+review_id : QFuxqkFMEYY7gnqQ41Z_sA
+aspect: Price
+text: All in all, this was a HUGE waste of a month and a big waste of money.
+ -1
+
+review_id : 95v9h9gxA88JgavYx8BlHQ
+aspect: Price
+text: It's not worth the hassle or money.
+ -1
+
+review_id : bF5DTXCE5qziz_ym31EUZw
+aspect: Price
+text:   Just a waste of money.
+ -1
+
+review_id : bF5DTXCE5qziz_ym31EUZw
+aspect: Price
+text: I'm sorry I wasted my money and time going to this place and I'm always willing to help students out, but never been treated this horribly at any hair establishment whether school or salon.
+ -1
+
+review_id : aOCs6ExbpI0eabOV3kO27w
+aspect: Price
+text: Who failed at teaching a single PCT class is leading the students into a waste of time and money!
+ -1
+
+review_id : lzgQbnfm4_ORQt4aTY0y9w
+aspect: Price
+text:  Yes it is expensive, but the worst part is the chaotic class schedules and there is absolutely no value in the money you are spending.
+ -1
+
+review_id : PRwpOc0oC93Aorv4jpIwkA
+aspect: Price
+text: Not worth the money.
+ -1
+
+review_id : LDsVr4fY9MdZwfReZwu9Jw
+aspect: Price
+text: you are wasting your time and money.
+ -1
+
+review_id : gYkqXIXbqFZqm3XMgIpxEQ
+aspect: Price
+text: Overall Delta West Academy is an appalling excuse for a private academy with a lack of teachers who understand the students and an extremely high price for an extremely low quality education.
+ -1
+
+review_id : yMAudLw84jkPm8T9jxgCxA
+aspect: Price
+text: A complete waste of time and money.
+ -1
+
+review_id : OyHag_mz9YeYdNfCpTvS7A
+aspect: Price
+text: Instead, I wasted my money and my time with them.
+ -1
+
+review_id : Pnc7jgQK5WD5RQOKgCKhgA
+aspect: Price
+text:   The price was horrible.
+ -1

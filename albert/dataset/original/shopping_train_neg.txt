@@ -1,0 +1,1078 @@
+review_id : hWV771i18E-_B1hQCKx6Nw
+aspect: Service
+text: A few other people also came by but, just like me, were unable to get service.
+ -1
+
+review_id : 7HgPdQM1lEyU8JfGa7EnWg
+aspect: Service
+text: No one wants to take responsibility and I'm out 500$ \n\nHorrible customer service and untrained staff.
+ -1
+
+review_id : zUCLWH_cs1m60S6kt4LQ9A
+aspect: Service
+text: This place may have great items but watch out for customer service.....it sucks!
+ -1
+
+review_id : aCVHD48zzuF1GdGip88CvA
+aspect: Service
+text: It's sad for the business owners because they leave their business in the hands of people that don't really care about customer service or to actually sell.
+ -1
+
+review_id : 2Bi3Jh-jiRbOgBXPL5Wl1w
+aspect: Service
+text: It's also very hard to get any service here when you are standing at the pickup counter and not looking into the display cases, looking like a new $ALE.
+ -1
+
+review_id : JmAOWlKKuqc2Bd5HovOH5g
+aspect: Service
+text: This is absolutely the worst customer service ever.
+ -1
+
+review_id : 7duKLf7a5_3qEBDljMWUMw
+aspect: Price
+text: text":"Very high prices, $25.00 for a t shirt alot of things they sold are over priced and there cashiers are not that friendly
+ -1
+review_id : rjZUx5ReDKO3-YXCWG5vtQ
+aspect: Price
+text: The price for these pictures was $338.97! I do not recommend that you trust this service.
+ -1
+review_id : k8Q2CwddiLco4O1VcN0Byw
+aspect: Service
+text: As usual in any Walmart, there was no customer service rep to be found UNTIL they have a reason to be rude to you.
+ -1
+
+review_id : BLImeWHy6X4kQl8nbkX1Nw
+aspect: Service
+text:  I think each time I have bought a pair of eyeglasses, I have been getting progressively worse service.
+ -1
+
+review_id : MNFzb-KTNxXl3k-fME56kA
+aspect: Service
+text: That is how horrible their customer service is.
+ -1
+
+review_id : nqYvtRH6wyqsmhYqg5FOvg
+aspect: Service
+text: Worst customer service I've experienced, Catherine needs to be ran off, I don't recommend using this particular location, others may be better.
+ -1
+
+review_id : WVsXf1H2gGsZNYU19rJxgg
+aspect: Service
+text: The worst service ever!\nIt was a disaster right from the beginning.
+ -1
+
+review_id : hJSbKz0HVKBRPUL5Fhx6gw
+aspect: Service
+text:  The worst customer service I have ever had to deal with.
+ -1
+
+review_id : R83sWXP1_FRaJqoeiBhARw
+aspect: Service
+text: Poor poor customer service I will not be going back again ever I prefer Fry's Pharmacy on 43rd Ave n Bethany Hm.
+ -1
+
+review_id : JkPkeLDOVb3O2rqu5pHRJA
+aspect: Service
+text: This store is always empty, tbad service explains why.
+ -1
+
+review_id : 1tbTv5NdCcu44ewrs36esw
+aspect: Service
+text: This customer service is awful!!
+ -1
+
+review_id : G1rhQI0whp2p-UB95x7a0Q
+aspect: Service
+text: After that, their customer service is gone.
+ -1
+
+review_id : A-GrEU5EmmOmzQ8cwjnycA
+aspect: Price
+text:  As well prices are astronomical compared to other optical shops.
+ -1
+
+review_id : xS4jgHTZH_AAvniTmIg-lQ
+aspect: Price
+text:  Really high priced I understand jerseys are at least $90 but some of the jerseys you can find online for less, rude and unhelpful service, I was going in one day and asked if anything WNT jerseys was on sale, the employee in the rudest was possible replied.
+ -1
+
+review_id : BFsod1YBhck2lOaHQJ8GYQ
+aspect: Service
+text:  very very poor customer service for average work thats extremely over priced.
+ -1
+
+review_id : BFsod1YBhck2lOaHQJ8GYQ
+aspect: Price
+text:  very very poor customer service for average work thats extremely over priced.
+ -1
+
+review_id : XAPmE55haw6P2Kz4fNWGfA
+aspect: Price
+text:  The pushy sales staff continues to aggressively upsell and obfuscate their ridiculous prices (the other reviewers have experienced similar situations), so that it's impossible to shop within budget.
+-1
+
+review_id : zizn1u5ytqMupXJSVUcfhA
+aspect: Price
+text:  The pricess are ridiculous for what she gives you.
+ -1
+
+review_id : rwYS01rYz88ImpZYQN6ERQ
+aspect: Price
+text:  It looks like they get cheap Chinese products and sell them at high prices.
+ -1
+
+review_id : 8GBhBE8mwZurYEXpuUtrLg
+aspect: Price
+text:  I frequent pawn shops and this place had some of the highest prices I've ever seen and I live in Scottsdale.
+ -1
+
+review_id : pmBbNIJbx-4tPsIjICdFeA
+aspect: Price
+text:  text":"This negative review hinges entirely on price.
+ -1
+
+review_id : bbRGKMA7lgy5-2SNZ5L-lA
+aspect: Price
+text:  text":"Overpriced, overpriced and overpriced.
+ -1
+
+review_id : oo-pDUBjvvksJG6VGBH5PQ
+aspect: Price
+text:  Placement of items don't make sense, terrible prices, misleading coupons, extremely rude staff yelling at customers.
+ -1
+
+review_id : esReSxJbLV0Nn35LaByE2g
+aspect: Price
+text:  text":"Garbage service and overpriced crap.
+ -1
+
+review_id : FOTyftDdj8hmcQzM1PBNBw
+aspect: Price
+text:  Terrible work at ridiculously inflated prices.
+ -1
+
+review_id : cPjGmo9fIso32W4m2Kl5Hg
+aspect: Service
+text:  Never go here again the entire staff here will judge you simply by your colour worst service ever don't waste your time here its worth the drive to go to the Chinook location where the girls aren't on a power trip.
+ -1
+
+
+review_id : A5da6PNlRdQbJxkGedoifQ
+aspect: Service
+text:  text":"Absolutely sucks! The worst customer service in the entire world.
+ -1
+
+review_id : 5Tc6gIyp3P6VAcMGfIracA
+aspect: Service
+text:  text":"Customer service is very lacking.
+ -1
+
+review_id : 7LMm03O7nXmnqK1RyLYIFQ
+aspect: Service
+text:  Terrible customer service.
+ -1
+
+review_id : S0brTPJEGUeNeEqOG8tINg
+aspect: Price
+text:  Of course there is no return or exchange policy, so I'm stuck with this overpriced piece of shit charger that barely works when I need it to.
+ -1
+
+review_id : 3Hsj6Butw4J0Lf4lB5GB4w
+aspect: Price
+text:  text":"Ridiculous prices for microscopic portions; even with groupon it didn't make sense.
+ -1
+
+review_id : wihyQU102gTVqffN-msBdA
+aspect: Price
+text:   They're overpriced with the items they have in stock.
+ -1
+
+review_id : EUGDgs69wZ0TuC4nluFgmA
+aspect: Price
+text:  The last three times I've used this store, my glasses have been overpriced, delivered late, and no one seems to care.
+ -1
+
+review_id : NF5baqK4eDZBh0QNcYGYMQ
+aspect: Price
+text:  Overpriced and terrible customer service.
+ -1
+
+review_id : Hu99VEE0SjNMUTH5IvAFnQ
+aspect: Price
+text:  Everything is way overpriced.
+ -1
+
+review_id : 2jeUhFz6vprqc-MatAYOCw
+aspect: Price
+text:  Purchased expensive furniture, as did my sister who had new babies arriving.
+ -1
+
+review_id : 1v_Ja0bowvgATkXunjVVXQ
+aspect: Price
+text:  Very expensive gag gift.
+ -1
+
+review_id : l-kbEt0m4348GufW6IRdmw
+aspect: Price
+text:  This meant that we had to pay for (again), extremely expensive alterations for each dress.
+ -1
+
+review_id : 8fYk9b2JXobXQfsKGdy5rw
+aspect: Price
+text:  text":"Some nice stuff but quite overpriced.
+ -1
+
+review_id : 2yblanbiH0jT7qcf9QmWxA
+aspect: Price
+text:  Expensive prices for a tattoo's that hasn't lasted two weeks.
+ -1
+
+review_id : zz31G5-uCwC5k1J0W96gSw
+aspect: Price
+text:  this place is over priced dont shop here there are wayy better places close by
+ -1
+
+review_id : GjC7c3x6bX6Y0MBiuRfjyg
+aspect: Price
+text:  Completely overpriced goods and not worth the negative shopping experience.
+ -1
+
+review_id : Bpj-KdDlgZLcVFwHT3XACw
+aspect: Price
+text:  First of all it is very overpriced.
+ -1
+
+review_id : s5BsMm9eIVMe6BaTKTGb8g
+aspect: Price
+text:  The prices are no longer low.
+ -1
+
+review_id : c_iA6OSKEoCYGbrw1loUiw
+aspect: Price
+text: Oh and by the way? Their contacts are overpriced.
+ -1
+
+review_id : OxJTou2oNO-3v2nAS_grpA
+aspect: Price
+text:  Prices were all wrong.
+ -1
+
+review_id : eh9iEB3tBonex5IyRwmDaQ
+aspect: Price
+text:  text":"Over-priced, mom-and-pop shop with no clue about customer service or the value of repeat customers..
+ -1
+
+review_id : A5sRMiuJcL_rF0-bBkKodg
+aspect: Price
+text:  The lady at the store told us that many customers come and complain that FO has higher prices and they are never able to do anything about it.
+ -1
+
+review_id : SbStdu5YDjlm5sMLWVNGGg
+aspect: Price
+text: Overpriced compared to other outlets, the Guyanese manager has and attitude and is ugly, very negative aura of that place.
+ -1
+
+review_id : W91dWuaV7aA-xzii7LlTWQ
+aspect: Price
+text: Very Overpriced! I have NO idea how this grocery store is still in business.
+ -1
+
+review_id : Aq4L4WFb6qsER5YoLlDDWQ
+aspect: Price
+text: Not only is the quality of their stuff poor but it's outrageously priced.
+ -1
+
+review_id : V5Voj0bxVoAmQ85uTyTmtA
+aspect: Price
+text:  This place is also way overpriced and their henna is blotchy...lighter\/darker in some areas.
+ -1
+
+review_id : 0lf_JbCvQIBxuHcIJWyAnQ
+aspect: Price
+text: Artists are amazing but the prices are absolute robbery!   Went on Vacation for a little keepsake tattoo with a friend.
+ -1
+
+review_id : EYCH_vxabU7EJlvaZIwmHw
+aspect: Price
+text:  As I looked around the store I realized that most of what they sell is overpriced junk.
+ -1
+
+review_id : yPCtplsj5ma54LZkwiylUA
+aspect: Price
+text:  This store is packed with overpriced cheap looking decor.
+ -1
+
+review_id : naEvpDkfPuqRa7g0t4i2SA
+aspect: Price
+text:  Ridiculously over-priced! The store was extremely crowded and the merchandise was unorganized.
+ -1
+
+review_id : H6f0IsVSCb7GR2FqTAfAVw
+aspect: Price
+text:  The price was, in my opinion, ridiculous for what I had done.
+ -1
+
+review_id : 4PzaktmOWgNi2QUIO6zLXg
+aspect: Price
+text:  Prices are rediculouse, a pair of Samsung 25R batteries runs over $40 and that is before tax.
+ -1
+
+review_id : kvsZe1aJjhoXCuoODfMQVw
+aspect: Price
+text:  This place is so overpriced I'd be surprised if they have returning customers.
+ -1
+
+review_id : 46b1e46CaqlQeo4bvinfKA
+aspect: Price
+text:   Their prices are outrageous, service mediocre, plans change often, sometimes given incorrect information (especially concerning hotspot, insurance, and directv), and on top of all of that I have to wait.
+ -1
+
+review_id : 5qgzXXWeAD3WzBGOh98c4Q
+aspect: Price
+text:  The prices were not anything to get excited about.
+ -1
+
+review_id : qV2_jC8ky9Z--bWmCxov6A
+aspect: Price
+text:  Not to mention prices that don't seem competitive with anyone...
+ -1
+
+review_id : yHVddQk4ZXpU2ml6wT9IWA
+aspect: Price
+text:  this is a over priced salon trying to be swanky.
+ -1
+
+review_id : A5uOv1-ZuGhQq70EFg5d8A
+aspect: Price
+text:  This optician is MAKING A KILLING on his shockingly high prices.
+ -1
+
+review_id : x13rnvK6KrIctvEoYxqOwg
+aspect: Price
+text:  It is over crowded with stuff and overpriced.
+ -1
+
+review_id : sdD6vQrkUxheSEF6qRrD-A
+aspect: Price
+text:  Prices are higher than other smoke shops.
+ -1
+
+review_id : g_2ZYqfCO6oanbwAqbZzKA
+aspect: Price
+text:  The prices are twice as much as others (but I had to spend the groupon I'd bought).
+ -1
+
+review_id : qegZ4Ks8gbJgSF8qy8Fisw
+aspect: Price
+text:  Guy charges crazy prices for everything.
+ -1
+
+review_id : VSRZk5QpsLkRyiOkPe_hFw
+aspect: Price
+text:  Over priced....under stocked.....do yourself a favour and go to walmart.
+ -1
+
+review_id : vA78dLkYmaLXDhuOm7ZjRg
+aspect: Price
+text:  Looked at some baby items and noticed the prices were very high.
+ -1
+
+review_id : vA78dLkYmaLXDhuOm7ZjRg
+aspect: Price
+text:  Service really lacks here and the prices are crazy high!!!!  Big fail.
+ -1
+
+review_id : Wq1qNhlTezE8QiUIQgJ8AQ
+aspect: Price
+text:  I think they are grossly overpriced and their staff is hit and miss.
+ -1
+
+review_id : f6bPxwcfyDgXG3PEiWcQCA
+aspect: Price
+text:  Massively over-priced thin glass, pre-busted vaporizer pen with no return policy, novelty rigs with fake names on them, shirts with huge holes and multiple other cases from my friends who gave this place the same chance.
+ -1
+
+review_id : p6RHpH5MSleZ7alsCcDn4Q
+aspect: Price
+text:  The quality is terrible and the prices are higher.
+ -1
+
+review_id : pBfjIR95G3fnLsYkNER-UA
+aspect: Price
+text:  They have one person working & they are overpriced & lazy.
+ -1
+
+review_id : eD5M9z1F-v8ikOvyZrn6Yw
+aspect: Price
+text:  Poor customer service plus overpriced products (not the best selections either).
+ -1
+
+review_id : s7SMYGG2skx8IzQI6gMqJA
+aspect: Price
+text:  Plus they are over priced.
+ -1
+
+review_id : KGTbIELkPw9Bv910JaCIyw
+aspect: Price
+text:  They are much more expensive than the other shops.
+ -1
+
+review_id : mtPLtdaVY9E7RUzzAbEelg
+aspect: Price
+text:  I recently purchased a very expensive Mikaela wedding gown from Marah's Elegant Bridal.
+ -1
+
+review_id : gwuoCvQAS0PMqYRkXB9VAg
+aspect: Price
+text:  They most likely do good work but are way too slow and expensive.
+ -1
+
+review_id : gAFUI8Vpz67S6Zwyh2l7lw
+aspect: Price
+text:  However, the clearance prices and sale prices were still expensive, and the coupon policy for multiple coupons is misleading.
+ -1
+
+review_id : jgRjF_wi_drDAkIwkI9W3g
+aspect: Price
+text:   Excessively expensive for what the final product turned out to be.
+ -1
+
+review_id : FVZLgO0k_Go2jJJqJV_n7Q
+aspect: Price
+text:  Very expensive and some unusual membership stipulations.
+ -1
+
+review_id : nZJQxGhBE6THms08AeOh0w
+aspect: Price
+text:  Most expensive high priced pawn shop in the area.
+ -1
+
+review_id : bHy8E_RbZLRl-_pHOmYD4A
+aspect: Price
+text:  Total rip off and defiantly over priced.
+ -1
+
+review_id : lRPrFAxhqD0Xu9gziRxynQ
+aspect: Price
+text:  Extremely overpriced juice and hardware compared to competition in Arizona.
+ -1
+
+review_id : f0W3m_88weoU3aPsKfKAnQ
+aspect: Price
+text:   First of all, price increases very quickly, hidden fees, $19 per week inventory maintenance fee and also a $9 per week service charge?
+-1
+
+review_id : AMBrlLSRsgY9qJ6ntK-h-g
+aspect: Price
+text:  Lastly, the prices were not great for an outlet store.
+ -1
+
+review_id : wi3G19w15kFQMXxBnFjpNA
+aspect: Price
+text:  The prices are more expensive than you can source elsewhere.
+ -1
+
+review_id : 23PLrKh4MRK3_c4KGj3cmA
+aspect: Price
+text:  Prices are insane.
+ -1
+
+review_id : Rdnfvgc2idSzOs5GCv1-XQ
+aspect: Price
+text:  They allowed an unauthorized buyer to purchase \"on account\" charged $230 for 1 box of ink, which is a complete rip off, no other company sells this product at such a high price.
+ -1
+
+review_id : KVFUhTNUw6stILv9p1U4fg
+aspect: Price
+text:  The price increased 77 percent since my last refill 90 days ago.
+ -1
+
+review_id : itbXM8mJh4Jy7vwrdWGdXA
+aspect: Price
+text:  All big pieces overpriced and unrealistic.
+ -1
+
+review_id : Jg-7L4-Pf9EOvEVYZxfhmA
+aspect: Price
+text:  Prices were ridiculous, before the vape tax went into affect.
+ -1
+
+review_id : _wEvYqkZHfdsMHrwRvK_rg
+aspect: Price
+text:  Awful prices! Employees will follow you.
+ -1
+
+review_id : iadRcgg7BJMYbNAK953kdw
+aspect: Price
+text:  Overpriced Linens, it's actually cheaper to buy cloth linen and throw them out then to get roped into a long term contract with them.
+ -1
+
+review_id : PfE-iK197qHt7_biOuxPug
+aspect: Price
+text:  terrible quality for the price.
+ -1
+
+review_id : uYnLZGaBMjtoFjOwN9HdZA
+aspect: Price
+text:  Now that I'm sure Duclos will never send me the figure I tried to buy it elsewhere and the price has risen by about 300%.
+ -1
+
+review_id : -V1HfNDHs-qRpOMyVYBPxA
+aspect: Price
+text:  This shop is extremely over priced.
+ -1
+
+review_id : 8uN8CyRf7nOVvWiNirm5EA
+aspect: Price
+text:  Ridiculous prices for disposable materials.
+ -1
+
+review_id : MOklDy1-U_Bw3oFOdbm_qw
+aspect: Price
+text:  The prices can be a bit high sometimes but everything is in excellent shape because they are very selective and don't take in anything broken, damaged or dirty and there is always LOTS to look at.
+ -1
+
+review_id : -_r0HxMuqi-qV99GH8NwCw
+aspect: Price
+text:   Price was presented after shirt was done.
+ -1
+
+review_id : a0PMX7XPAnQsablQfsUhIQ
+aspect: Price
+text:  Plus they sell wanna be harbor freight gear but for double the price.
+ -1
+
+review_id : 5V5Hpn0PHf8LAAbK4X1eZw
+aspect: Price
+text:  High prices, cheap material and horrible customer service.
+ -1
+
+review_id : L8lWHvIgeiDGjyzk8hR6yw
+aspect: Price
+text:  This place is awful, their prices are too high and they have terrible customer service.
+ -1
+
+review_id : aw51lUWN6QVHaisbwv1niA
+aspect: Price
+text:  Bad haircuts overpriced.
+ -1
+
+review_id : QhYfWKZ_JxSJ3qmpBdi57w
+aspect: Price
+text:  Go to bodybuilding.com and GNC will price match more than likely.
+ -1
+
+review_id : -xuJSfRIOb_lgMaNHl8knQ
+aspect: Price
+text:  High prices for cheap quality goods.
+ -1
+
+review_id : TDMbruv6qyXQStaTDX5wVg
+aspect: Price
+text:  Price may rise if they determine laptop needs more parts.
+ -1
+
+review_id : J0xOUHT0xUvjf-saiIkHvw
+aspect: Price
+text:  Store isn't well organized and some items are overpriced.
+ -1
+
+review_id : eWvYc3r1TWYv3ltAmgrD0w
+aspect: Price
+text:  The taxidermy was weak and over priced, I did not see very much of interest at all.
+ -1
+
+review_id : u3gO_ard9ABKIUllEfjgCg
+aspect: Price
+text:  And I thought Value Village was pricey! I'd rather go there, at least things are sorted better and selection is wider.
+ -1
+
+review_id : cfLgdkYme05Yz7zAC2cHcQ
+aspect: Price
+text:   When I didn't seem that interested in buying a pretty expensive book that was sealed and I couldn't look at, he got annoyed and walked inside.
+ -1
+
+review_id : PPpYyS6lkkbBXJEoUZaTnQ
+aspect: Price
+text:  It was so expensive and he was so rude when calling to fix the issue.
+ -1
+
+review_id : Up5_DuQeksWuvJ_n7XhA0A
+aspect: Price
+text:  We didn't expect any deals as the flowers are very expensive there.
+ -1
+
+review_id : -28yzoY8Y42R6WrdRns-xw
+aspect: Service
+text: This is a horrible company to buy flowers from and have zero customer service.
+ -1
+
+
+review_id : Mn-JXcAnC0rml8BQJ7HZ4g
+aspect: Service
+text: The absolute worst customer service ever!!!!
+ -1
+
+
+review_id : Mn-JXcAnC0rml8BQJ7HZ4g
+aspect: Service
+text: Horrible customer service, cheaply made attire & ridiculous prices.
+ -1
+
+
+review_id : 8jJkHy5EOiQJdtCQKBtoeQ
+aspect: Service
+text: The customer service is the WORST when you have a problem and they don't make any accommodations or exceptions.
+ -1
+
+
+review_id : 6fyANrXUmMyPUFJ1Kvk7WA
+aspect: Service
+text: Customer service is a nightmare to say the least.
+ -1
+
+
+review_id : Jf2J5X70FApE4yARXoSs4g
+aspect: Service
+text:  Customer service was less than impressive.
+ -1
+
+
+review_id : fJGYo_Q2CoapkviXDzSpXQ
+aspect: Service
+text: Extremely unprofessional service and I doubt I will be going back to Sears anytime soon.
+ -1
+
+
+review_id : FcWf9tV1JSdL4Bac0SdL5Q
+aspect: Service
+text: Horrible customer service, VERY nasty staff.
+ -1
+
+
+review_id : FjYP4CMtxa91p_1dQQeawg
+aspect: Service
+text: Absolutely horrible customer service.
+ -1
+
+
+review_id : Xc6aoKQToRSLBqh6lzxCoQ
+aspect: Service
+text: Very bad customer service and management
+ -1
+
+
+review_id : CiGfmAttAZ2sh9MFL2QRRw
+aspect: Service
+text: it was overpriced,  unprofessional services,  not friendly woner, low quality jewelry sold to high price, clints r misinformed , woner doesn't take ownership of there mistakes, rude woner named Ian.
+ -1
+
+
+review_id : CiGfmAttAZ2sh9MFL2QRRw
+aspect: Service
+text: However,  He was rude n unprofessional with his service.
+ -1
+
+
+review_id : xSGpHWug1LT05nKh0_p6AA
+aspect: Service
+text: Worse service ever !
+ -1
+
+
+review_id : T8y9FvqI6UfeDv3LwBliew
+aspect: Service
+text: Every year, the prices steadily rise for less services rendered.
+ -1
+
+
+review_id : m3LprHfTvRDZlewZ8dciYQ
+aspect: Service
+text: While I was interested in a couple items I decided that the poor service and manners and pretentious attitude of this store did not deserve my business.
+ -1
+
+
+review_id : w0bKoo-erceEt9Ju8fJTzw
+aspect: Service
+text:  But it was only because they chose not to do so with their extremely poor customer service.
+ -1
+
+
+review_id : w0bKoo-erceEt9Ju8fJTzw
+aspect: Service
+text:  \n\nThis store has no sense of customer service, and is not transparent with their charges.
+ -1
+
+
+review_id : 6-z8ZqbfrehgWQ8E7jrnKA
+aspect: Service
+text: All of us are biologically women and were shocked to receive such horrible service from such a well known store for its quality and taste.
+ -1
+
+
+review_id : 6-z8ZqbfrehgWQ8E7jrnKA
+aspect: Service
+text: May I recommend some sensitivity training followed by some customer service training since clearly both of these had been missed.
+ -1
+
+
+review_id : 5cbuwelL3HEbvcsu9P8fjw
+aspect: Service
+text: He was more judgmental of my lack of knowledge in memory cards than actually helping me, so I say one-star store with a one-star customer service.
+ -1
+
+
+review_id : 7zr7JIbEzGXu6ElCIDz7EA
+aspect: Service
+text: Poor customer service, owing to incompetent front office--and failure to supervise.
+ -1
+
+
+review_id : RDSJbjyAzWBadlXBqq369A
+aspect: Service
+text: I cant say enough about the non existent customer service since I got locked into a CONTRACT with them.
+ -1
+
+
+review_id : w3O1cPLBjwKTcDUNeghWVg
+aspect: Service
+text: Second of all, their service is terrible and  a waste of my time and money.
+ -1
+
+
+review_id : 9COMyhQwrqE5hfcDx7mR1Q
+aspect: Service
+text: I received terrible customer service at this location.
+ -1
+
+
+review_id : 20n7hO7sPs3hevsMXJcQtw
+aspect: Service
+text: Customer service not so good.
+ -1
+
+
+review_id : NfN_Pm2EEPEnWr0ZNfv7Rg
+aspect: Service
+text:  Whatever method you use, they will blame your selection for the slow service at the pharmacy.
+ -1
+
+
+review_id : pEl-dADp5pxCpr0WC-cutA
+aspect: Service
+text: Terrible customer service and not helpful at all.
+ -1
+
+
+review_id : XizM1N8rLN5LtJN1Ohus6Q
+aspect: Service
+text: Well, I will tell you one thing, I most certainly will not settle for this kind of attitude, disrespect and poor service.
+ -1
+
+
+review_id : J38t7PsqYm0ZYjb8Pq90YQ
+aspect: Service
+text: Terrible customer service.
+ -1
+
+
+review_id : _noObH5pS16F3I5pLwAgTg
+aspect: Service
+text: Horrible customer service and rude when you ask them something.
+ -1
+
+
+review_id : 5IXmUd8iaFabvkfVRhRGBA
+aspect: Service
+text: She has the worst customer service skills on the planet.
+ -1
+
+
+review_id : MmCKG96lTP9UPhoH3BXuwg
+aspect: Service
+text: Poor poor service at this shoppers pharmacy.
+ -1
+
+
+review_id : i_bPT1Lejgabkt2hcVdgDw
+aspect: Service
+text: Lack of Customer Service alone should scare You Away.
+ -1
+
+
+review_id : OFGYX4_b2lMEC7-K81tUIA
+aspect: Service
+text: The customer service is AWFUL!
+ -1
+
+
+review_id : 6H9MQM0TXgjwIfBvmNutsw
+aspect: Service
+text: The customer service was horrible and the associate\/manager kept getting an attitude with me because I would not allow her to hold my phone to look at my online receipt she stated that she needed the receipt number which I read out loud to her but she insisted that she couldn't do the exchange if she couldn't hold my phone after getting smart multiple times she proceeded to exchange my items with no receipt number or without holding my phone which tells me that she could of did that in the first place and that she was just giving me a hard time.
+ -1
+
+
+review_id : 6H9MQM0TXgjwIfBvmNutsw
+aspect: Service
+text: I will never shop at this location again poor customer service should never be acceptable
+ -1
+
+
+review_id : DiryXXDYAtt3-XGc5yzcJA
+aspect: Service
+text: You go back for a follow up and their customer service is a NIGHTMARE.
+ -1
+
+
+review_id : p5sXzvVdQBbvYEnXiQNWQQ
+aspect: Service
+text: Absolutely awful service from some of the laziest employees ever.
+ -1
+
+
+review_id : j1orwWjctEO-zX0rfiQK1A
+aspect: Service
+text: Horrible customer service!!
+ -1
+
+
+review_id : shIoFwtrk68cDv8CuDeWJg
+aspect: Service
+text: They have awesome sales and lots of goodies, but their horrible customer service takes away any sort of positive experience.
+ -1
+
+
+review_id : WWmX125wKDBz-_MhROjYdQ
+aspect: Service
+text: The delivery customer service was an absolute nightmare.
+ -1
+
+
+review_id : Shni55R6JJyLiMuQ8nwSCA
+aspect: Service
+text:  I could not believe the service here!
+ -1
+
+
+review_id : -oF8nU-o8wr4ghxJc2LG9w
+aspect: Service
+text:  This is how they settle their issues and how their customer service operates.
+ -1
+
+
+review_id : psqELUQ5W5CyFVYWZBkpRg
+aspect: Service
+text: This tiny little grossly overpriced snobby housewares boutique has terrible customer service.
+ -1
+
+
+review_id : cxeOg56SkKP56KYGy4OjPA
+aspect: Service
+text: Poor service.
+ -1
+
+
+review_id : NCfuS87PxK6p8IYi2QvY7A
+aspect: Service
+text: WORST customer service ever.
+ -1
+
+
+review_id : Y8NbDd9MwN_PL9Yuap0SgA
+aspect: Service
+text: My poor service started when I spoke to the center over the phone the day before.
+ -1
+
+
+review_id : q_M3XEgkUHIH51bK_hDSDQ
+aspect: Service
+text: After 20 minutes of looking at desks and then finally deciding on one we still had not seen one customer service rep.
+ -1
+
+
+review_id : jzKuUg_r-AfGIzof54eVjQ
+aspect: Service
+text: The customer service I received is beyond horrific.
+ -1
+
+
+review_id : v1DyPO2Seyh45BjDPL872g
+aspect: Service
+text: Terrible terrible customer service.
+ -1
+
+
+review_id : QC20aLi-2zGKYYbBBBK-Dw
+aspect: Service
+text: Horrible customer service and I'm 100% confident they do not care.
+ -1
+
+
+review_id : JUCpWLWTtDJQ2QNoehKQFg
+aspect: Service
+text: The service is terrible, and a lot of their flowers are either already brown and wilted or will get there as soon as you bring them home.
+ -1
+
+
+review_id : 6uDpoobULIu8dXVosef2pA
+aspect: Service
+text: It is just not the same level of professional pharmacy and pharmacist service and care as their competitors.
+ -1
+
+
+review_id : sp-sg9QwYXfOTuRlXLIZ9A
+aspect: Service
+text:  \n\nThis place has absolutely no regard for customer service.
+ -1
+
+
+review_id : l-e17Hb6UKDCjvQTwQbuxg
+aspect: Service
+text: If I could give this place a zero star, I would!\nThe worst costumer service ever.
+ -1
+
+
+review_id : pWg9GvB0WjjoMBJLOK3Cdg
+aspect: Service
+text: Sad that they let someone with no customer service experience open up a smoke shop.
+ -1
+
+
+review_id : 0cyBSNfCSQA0sBGiOsxssw
+aspect: Service
+text:  The store has a major problem in its customer service and communication.
+ -1
+
+
+review_id : 0cyBSNfCSQA0sBGiOsxssw
+aspect: Service
+text:  It charges high-end prices, but gives worse service than IKEA.
+ -1
+
+
+review_id : qw2y-WL81mUWVha4X22fMQ
+aspect: Service
+text:  I definitely won't recommend that place because of it's poor customer service.
+ -1
+
+
+review_id : M2eQS-rBgEaSRuqW0HdnHg
+aspect: Service
+text: Manager \"Rebecca\" extremely bad customer service in this store (Leon's Scarbough Toronto location).
+ -1
+
+
+review_id : M2eQS-rBgEaSRuqW0HdnHg
+aspect: Service
+text: also i feel the service is not good.
+ -1
+
+
+review_id : M2eQS-rBgEaSRuqW0HdnHg
+aspect: Service
+text: SO, bad service for sure, bad return policy, bad management, how can you believe leons in the future.
+ -1
+
+
+review_id : 3HUizSdEAmgjGqz6i1DC3A
+aspect: Service
+text: It was a really terrible customer service experience that made me look pretty bad on Valentine's Day.
+ -1
+
+
+review_id : dLgqjkZdbx6TQ-67MhTsPA
+aspect: Service
+text:  Poor customer service and I don't think I will be getting this mattress and will be contacting Teambuy for a refund.
+ -1
+
+
+review_id : QyALDC37IbLEac0eK-CiGg
+aspect: Service
+text: Worse customer service EVER.
+ -1
+
+
+review_id : 1E-UkN_Txpf49gFGlb9kCQ
+aspect: Service
+text: The worst customer service and apparently not knowledgeable as well.
+ -1
+
+
+review_id : 2WR_eDpRAw6iCPC6qWT6gw
+aspect: Service
+text: This is the worst, the pharmacy has one tech short heavier gentlemen very rude, no customer service.
+ -1
+
+
+review_id : z-bhGfrKZjppP8NSNqMg0Q
+aspect: Service
+text: The service here was terrible especially the employees.
+ -1
+
+
+review_id : w3kTF9Ss6JgjCWrxRiOUpg
+aspect: Service
+text: Customer services have not been train to do their job.
+ -1
+
+
+review_id : Eh2_gQJ7ZlxXtRl41f-EJA
+aspect: Service
+text: The customer service was unbelievably bad and they absolutely ruined my weekend.
+ -1
+
+
+review_id : gNUojQY3mT-JEtQ9psd_9g
+aspect: Service
+text: This is as crappy of service as the other Walgreens.
+ -1
+
+
+review_id : dA97VYCvmNYTMn3_RuCSjw
+aspect: Service
+text: They even blamed her for not washing it properly! Very poor customer service.
+ -1
+
+
+review_id : VmYzQxNX2QHgN50b2leELQ
+aspect: Service
+text: Golda's Kitchen does not merit one star, their customer service is beyond poor.
+ -1
+
+
+review_id : 7UhZU1Ha3jdsJKEPFMGrFg
+aspect: Service
+text: The service is just bad.
+ -1
+
+
+review_id : BHtaO8AhhVl5W6oDKlumng
+aspect: Service
+text: The worst customer service ever and a total con-artist\/scam.
+ -1
+
+
+review_id : sOfD8vC3YNFtqFOn57zK-w
+aspect: Service
+text: They have the worst customer service I have ever encountered and I have been with  Bell and Rogers.
+ -1
+
+
+review_id : ycIp6coXRdVqs2qzy0UKpA
+aspect: Service
+text: Pathetic customer service and false promises.
+ -1
+
+
+review_id : ycIp6coXRdVqs2qzy0UKpA
+aspect: Service
+text: Very poor customer service.
+ -1
+
+
+review_id : lH-35C5lEzrSClA5D08eKg
+aspect: Service
+text:  Customer service is non existent.
+ -1
+
+

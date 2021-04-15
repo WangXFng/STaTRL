@@ -1,0 +1,1135 @@
+review_id : QDQXhXGJhuYzFsT5EQioNw
+aspect: Service
+text:  The absolute worst service!
+ -1
+
+
+reciew_id : QDQXhXGJhuYzFsT5EQioNw
+aspect: Service
+text: You could never pay me to use this service again.
+ -1
+
+
+reciew_id : ZiqRpHOq6jSkAGLkLg6pGQ
+aspect: Service
+text: Extremely BAD customer service and horrible communications!
+ -1
+
+
+reciew_id : rqUwdhKrLpSPB6i1mDxqlg
+aspect: Price
+text:  Waste of money and insulting.
+ -1
+
+reciew_id : 2IRaXSc-nj634qxMPmpSQQ
+aspect: Price
+text: they will steal your money...
+ -1
+
+reciew_id : mNNbBucmXWDN4wifR7GWgQ
+aspect: Price
+text:  Skip it and save your money.
+ -1
+
+reciew_id : CXLSpS1DqJg-ZQzxN1tV6A
+aspect: Price
+text: Save your money and sit home listening to CDS and flash a cheap flashlight on your ceiling.
+ -1
+
+reciew_id : CXLSpS1DqJg-ZQzxN1tV6A
+aspect: Price
+text: Hopefully this eventually catches up to them and they start losing money and failing to fill venues.
+ -1
+
+reciew_id : hyy-hl6bysyQP6Sya5PibA
+aspect: Price
+text: It is a waste of money.
+ -1
+
+reciew_id : 4-_MfWcxSDvbTrgdqRXPoQ
+aspect: Price
+text: That was okay with me, I knew this was an expensive entertainment.
+ -1
+
+reciew_id : 4-_MfWcxSDvbTrgdqRXPoQ
+aspect: Price
+text: I can't spend that kind of money.
+ -1
+
+reciew_id : JrTP6S51ajC7yLWuxpSofw
+aspect: Price
+text:  The items are extremely overpriced and then to top it off the nasty attitude of the workers...it just doesn't get much worse.
+ -1
+
+reciew_id : MJOqB-7s6XI-e2SPMHVblg
+aspect: Price
+text:  Overpriced and they make u wear socks for hygiene reasons !
+ -1
+
+reciew_id : eXv4Q19L3JE1ZNKb6M71gw
+aspect: Service
+text: Customer service goes a long way.
+ -1
+
+
+reciew_id : eXv4Q19L3JE1ZNKb6M71gw
+aspect: Service
+text: The trickle down effect of bad service is enormous.
+ -1
+
+
+reciew_id : LYI8QZE0eRuKIg714ruj5g
+aspect: Service
+text: Horrible customer service, the owner and both her mother and father are bossy and rude.
+ -1
+
+
+reciew_id : iWSsvtBRDLLIf7oxNtqWaw
+aspect: Service
+text: I've golfed almost every course in Arizona (and about 50 or so out of state) and this was the  worst customer service I've experienced--and it's not even close.
+ -1
+
+
+reciew_id : 1JwWUo5yrLm3RHImmgkA8Q
+aspect: Service
+text: Customer service does not get much worse than it is at this place.
+ -1
+
+
+reciew_id : qGUadPzBHM4hV9p_tU7T7Q
+aspect: Price
+text:  There is NO assigned seats so if you go to this venue don't pay the high prices for close up seating that they try to sell you online.
+ -1
+
+reciew_id : nDEiSnv0piI7-8cSahqMAw
+aspect: Service
+text: The prices are decent BUT the customer service was HORRIBLE.
+ -1
+
+
+reciew_id : nDEiSnv0piI7-8cSahqMAw
+aspect: Price
+text: The prices are decent BUT the customer service was HORRIBLE.
+ -1
+
+reciew_id : nDEiSnv0piI7-8cSahqMAw
+aspect: Service
+text: At that point my BF was ready to go to the owner was being rude and she showed horrible customer service.
+ -1
+
+
+reciew_id : nDEiSnv0piI7-8cSahqMAw
+aspect: Service
+text: This place was an good idea but it is ruined by the owner having horrible customer service skills and horrible business practices.
+ -1
+
+
+reciew_id : 3g8rOjuMWrZvADwCzOI3jA
+aspect: Service
+text:  Incredibly rude service at the pool bar.
+ -1
+
+
+reciew_id : 6JskIPKvYH2WcM4KoQqpVQ
+aspect: Price
+text: Not to mention it's so expensive, the pottery pieces are priced really high and you also have to pay a sitting fee.
+ -1
+
+reciew_id : JgPkzuhxjcKk_wTMriN3SQ
+aspect: Price
+text: This store is full of high end stuff that is way over priced, the storefront is totally pointless because the instrument dealers sells most of his stuff on Ebay.
+ -1
+
+reciew_id : sGNQ1TCNWYH8zgs6YTspxw
+aspect: Price
+text:  The pottery is extremely over-priced and they will sneak in an aditional sitting fee for the adult who helps a child paint even a small section of their piece.
+ -1
+
+reciew_id : QfrOQZ-ry1-X9xHnAeKXFw
+aspect: Service
+text: Poor customer service, poor customer communication, their phone is either busy all the time or set to voice-mail as I've tried on several other occasions to contact them via phone but it keeps going to voice mail (yes, during business hours).
+ -1
+
+
+reciew_id : wGaT9gcIxvEc9PTuT_Fs7w
+aspect: Service
+text:  I was disappointed with the service.
+ -1
+
+
+reciew_id : lKn0VJUSaTFHXMGRvyHWeg
+aspect: Service
+text: Very poor service, and I would not recommend sending anything that you are planning to give as a gift their way.
+ -1
+
+
+reciew_id : ikynsZu0lgHJ_eM-S0h6mQ
+aspect: Service
+text: The customer service was terrible.
+ -1
+
+
+reciew_id : ikynsZu0lgHJ_eM-S0h6mQ
+aspect: Price
+text: Price was too high for such a small simple tattoo
+ -1
+
+reciew_id : VzC2_7rg31dGY9FsPwuqUA
+aspect: Price
+text:  As we checked out we were curious if they offered a military discount for our two members in the Air Force and my brother was curious if they offered a student discount as he is enrolled at the university because our bill was so high.
+ -1
+
+reciew_id : 7I3TRyr4OBUiLAdhm15EOA
+aspect: Service
+text: No Customer Service Skills he made us feel like we were bothering him when your at the sports book you should want to help people.
+ -1
+
+
+reciew_id : F5GwDZKSklyBP852ZZ7GCw
+aspect: Service
+text:  Too many other options in this town to throw money away to be receiving TERRIBLE service by old women....
+ -1
+
+
+reciew_id : 9KOzqRfCnd-oJsPDitP7yQ
+aspect: Service
+text: I understand this but the way it was handled was very poor customer service, I do not want to enroll with this company.
+ -1
+
+
+reciew_id : oshdXbvee2dAOD-Qx6fSww
+aspect: Service
+text: The complete lack of customer service is ridiculous.
+ -1
+
+
+reciew_id : DlofsgbRy1pPLjjWpjhSfw
+aspect: Service
+text: I've never had issues at any other place and their customer service is the worst I've ever seen.
+ -1
+
+
+reciew_id : WPKQ2BTn0q6XNyzK7Ighvw
+aspect: Price
+text: The prices are high $8 for a matinee move!
+ -1
+
+reciew_id : F5GBxbrV6_E-g_dd_eKAKA
+aspect: Price
+text: They don't care about the customers and this place is expensive.
+ -1
+
+reciew_id : mv2zJz2XzKrvzugRf5PKSw
+aspect: Price
+text: The ridiculously over priced popcorn was stale.
+ -1
+
+reciew_id : mv2zJz2XzKrvzugRf5PKSw
+aspect: Service
+text: The service was horrible as well.
+ -1
+
+
+reciew_id : exc3msM5SwOhjVdxoOeJog
+aspect: Service
+text:  The employees have the worst customer service skills ever.
+ -1
+
+
+reciew_id : uI6jHEZa9qI7vTQsvqOccQ
+aspect: Service
+text: I was disappointed at their rental services.
+ -1
+
+
+reciew_id : Lg9Y3Xivey-zHwXcmKxnvA
+aspect: Service
+text: Thank you Jimmy for your horrible customer service.
+ -1
+
+
+reciew_id : TXdjYJNWCPwtDU_Fej6AaA
+aspect: Price
+text: very expensive just to walk on a couple ships and the sails were never let down while docked to get good pics.
+ -1
+
+reciew_id : TXdjYJNWCPwtDU_Fej6AaA
+aspect: Price
+text:   And then the usual way overpriced fair food..
+ -1
+
+reciew_id : Mu2w6AR7cHkh19InSx3xug
+aspect: Service
+text:  the worst i have ever seen and customer service is a total joke.
+ -1
+
+
+reciew_id : KqAP9f4T0cwnQsU1eSCWWA
+aspect: Service
+text: Service is awful, customer service is awful, staff is awful.
+ -1
+
+
+reciew_id : ZBJYEcHV_hhRn6dM1b9BYQ
+aspect: Service
+text: Definitely needs major work on customer service and cleanliness!
+ -1
+
+
+reciew_id : TI1By2rwvlTpxqkQuqgUTA
+aspect: Service
+text: The leagues are unorganized, inconsistent, and the customer service is lacking!
+ -1
+
+
+reciew_id : TI1By2rwvlTpxqkQuqgUTA
+aspect: Service
+text: One night I had the opportunity to speak with the league owner in person at the fields and he had zero customer service skills.
+ -1
+
+
+reciew_id : TI1By2rwvlTpxqkQuqgUTA
+aspect: Service
+text:  Fray's poor customer service is blatantly obvious.
+ -1
+
+
+reciew_id : GjDKuTVicSFTA_WO3nvojA
+aspect: Price
+text:  There are food stands everywhere selling extremely expensive morsels because they know that you already spent $10 to get in and why would you get food outside of the event.
+ -1
+
+reciew_id : e0VNtC9dRjG9wgWEBwyTHA
+aspect: Price
+text:  The tickets were a gift from family and It extremely upset that they paid a high price for them to see this very outdated and low energy show.
+ -1
+
+reciew_id : DIk0WgDjFdS0lhSX2x1xGg
+aspect: Service
+text:  Absolutely the worst service I have received in a very long while.
+ -1
+
+
+reciew_id : GXrnK4Oby89qDQ4dNIbOqQ
+aspect: Service
+text: The reviews were not awesome but they also were all based on experiences actually visiting the restaurant (slow service, that sort of thing).
+ -1
+
+
+reciew_id : GXrnK4Oby89qDQ4dNIbOqQ
+aspect: Service
+text: Bottom line, the worst customer service and as a comment to the people in charge of marketing this restaurant....make sure your flyers are actually delivered to the area you intend on delivering to.
+ -1
+
+
+reciew_id : GXrnK4Oby89qDQ4dNIbOqQ
+aspect: Service
+text: Bottom line, the worst customer service and as a comment to the people in charge of marketing this restaurant....make sure your flyers are actually delivered to the area you intend on delivering to.
+ -1
+
+
+reciew_id : IWMirOGRDqAQ6k4ic8qUFQ
+aspect: Service
+text: Very poor customer service.
+ -1
+
+
+reciew_id : 866nAYIdYFnDI-IXbGvsjA
+aspect: Price
+text: Where do I start? Well me and 3 other friends all left this gym after a month or two because the gym was overpriced for what it provided, it was also mildly creepy and every time I walked in there I felt like I was walking onto a B horror film set.
+ -1
+
+reciew_id : 67eeDcwxUJ0aDt6py2v4Vg
+aspect: Service
+text: The worst customer service of any gym I've ever been to.
+ -1
+
+
+reciew_id : F5XrKVAn2sriGzWeeUXM9A
+aspect: Price
+text: Most importantly, the ice cream was bland and overpriced.
+ -1
+
+reciew_id : uVQhhk2U9-NA416nTk0ryA
+aspect: Service
+text: I've seen many loyal paying members leave this gym over the years because of him and his lack of basic customer service.
+ -1
+
+
+reciew_id : nAjwtgz_1QICliLrgwSH3w
+aspect: Service
+text: Bad bad service like omg.
+ -1
+
+
+reciew_id : QpUO8iV2Vj_tCsMNMC5AFg
+aspect: Price
+text: It looks like they went and bought fry's pumpkins and over priced them to make money.
+ -1
+
+reciew_id : 26IzHqrtVghBgT25WHZk0Q
+aspect: Service
+text:  Every time we really start liking one location, they bring in new employees who either never learned about customer service or just don't care.
+ -1
+
+
+reciew_id : 1jGAh72Cg3QBVzUAIvMntA
+aspect: Service
+text: I haven't experienced customer service this bad in quite awhile.
+ -1
+
+
+reciew_id : 6i6dT0jbfeORgGrQevumeA
+aspect: Service
+text: But their handling of their mistake was the poorest customer service I have ever received.
+ -1
+
+
+reciew_id : ExUas_o3EHMW6dy_ZXnqHg
+aspect: Service
+text:  was denied freedom of speech & told to \"get over\" a employee (T) dispute that refused service.
+ -1
+
+
+reciew_id : aISjvQ9hvQy4G-QzbENU_w
+aspect: Service
+text: Terrible customer service, and extremely rude reps.
+ -1
+
+
+reciew_id : pi-Ph9XaAZerNBDxOUNwgA
+aspect: Price
+text: Prices on their food menu are wrong and have been wrong for two months .Guess no one knows where the numbers are to correct them .
+ -1
+
+reciew_id : Bd_FoDMW5R3JrXCLdoYE6A
+aspect: Service
+text:  The food service there is very piss poor bad.
+ -1
+
+
+reciew_id : GEVaF3VNt27W4TXDvZ9zKg
+aspect: Price
+text:  Wanted tickets for three days, but so expensive I only bought tickets for 1 day.
+ -1
+
+reciew_id : 8tpoTbeZAiHB9H_zM6S5-w
+aspect: Service
+text: I guess they don't care about Costumer service.
+ -1
+
+
+reciew_id : 9MeBOZaA50-wmPA8ndLqmA
+aspect: Price
+text: They were floor tickets and hence were expensive as well.
+ -1
+
+reciew_id : evsfp4yqLxSPjDHVmy9_IQ
+aspect: Service
+text: I will never use this service again.
+ -1
+
+
+reciew_id : Gb95KhchdDRTpGVnFlBRnQ
+aspect: Service
+text: Been here a few times now, all three time ls the worst service ever!
+ -1
+
+
+reciew_id : rKGK0CB_RduAGHX-7zr0rA
+aspect: Service
+text: Shady, liars and no customer service.
+ -1
+
+
+reciew_id : pAHIX6VD8Ay7k5o3mJUwSg
+aspect: Price
+text: they had outrageous prices.
+ -1
+
+reciew_id : R6bDxnWoio174I3xvnAPiw
+aspect: Price
+text: While I learned a very expensive lessons, in the future I will make absolutely certain never to use ticketetwork again!
+ -1
+
+reciew_id : AyGkd3ZDWf2ort3c9v7i6Q
+aspect: Service
+text: Poor customer service.
+ -1
+
+
+reciew_id : uejT48-tizN6Q7VvQo6EWw
+aspect: Service
+text: Music was ok, but customer service was awful.
+ -1
+
+
+reciew_id : 0Bb7SAVxkDs9E9lQUDxrKg
+aspect: Service
+text:  This place has horrible service.
+ -1
+
+
+reciew_id : MB42d-vndkfIMRxK59aVQw
+aspect: Service
+text: The service is horrible, the food is lackluster and the \"queens\" are just some old hags in drugstore makeup.
+ -1
+
+
+reciew_id : QsTdDUM27icxSz2YVbluEQ
+aspect: Service
+text: The service has gotten much worse now and the place is extremely dirty.
+ -1
+
+
+reciew_id : 5z7mKy0oXHTMTzsO7qcJXA
+aspect: Price
+text: Over priced By the time I got my tickets and paid there \"fees\" I could have bought it at regular cost from the show and saved money
+ -1
+
+reciew_id : 7k3Tw5mVliH0tv70R13ueg
+aspect: Service
+text:  I was disappointed in the venue and the service.
+ -1
+
+
+reciew_id : xni98rYUqfqgmznSx41DlQ
+aspect: Price
+text: Food prices are increasing .
+ -1
+
+reciew_id : rGdaBG5Q5K6fl-RSFFjesg
+aspect: Price
+text: Expensive and tedious.
+ -1
+
+reciew_id : sLWCTBkacqsixSCjhrdmBg
+aspect: Price
+text: Expensive, prizes for tickets are pretty lame.
+ -1
+
+reciew_id : 4tL_g-tHN5u44Wj3bCBY8Q
+aspect: Price
+text: Prices are beyond ridiculous.
+ -1
+
+reciew_id : kOj5uE6FvN1UZg9cv7gkpg
+aspect: Service
+text: Misleading item descriptions, poor customer service, obnoxious owner.
+ -1
+
+
+reciew_id : ktIyK6m3Mfuqq7iQ0WzXhw
+aspect: Service
+text: The customer service is poor, residents have issues that are never fixed by management.
+ -1
+
+
+reciew_id : Y3NziYuaJ9rXWtnoqE1t-Q
+aspect: Service
+text:  Terrible terrible terrible customer service.
+ -1
+
+
+reciew_id : W46kCvvLowOjwDXEni6wWg
+aspect: Price
+text: Bar prices are ridiculous.
+ -1
+
+reciew_id : 5hVgZTIr3ji7qbBGf2JRKA
+aspect: Price
+text: Even at that, everything is insanely overpriced and not even close to true values.
+ -1
+
+reciew_id : HWXj-SP1ZD4GrTOGVaLPRA
+aspect: Service
+text:  The service overall is horrible .
+ -1
+
+
+reciew_id : gqn33nkhc0L8O_LhcWZS_g
+aspect: Service
+text: Ticketmaster has the worst customer service ever.
+ -1
+
+
+reciew_id : dIn_ONQYOiEGFL0cg1JdMw
+aspect: Price
+text: Everything was expensive.
+ -1
+
+reciew_id : m9ltdSfaQK9hCsVAUvDblg
+aspect: Service
+text: Ticketmaster is the worst company and worst customer service on the planet.
+ -1
+
+
+reciew_id : UYN9dztGWMXolMM4lHWIaQ
+aspect: Price
+text: The Santa they had will not even try very hard to get a decent photo of your kid if they r fussing a bit the photos are way overpriced.
+ -1
+
+reciew_id : 4ebgzwFwsr5qF7ys59FhqQ
+aspect: Price
+text: First it's expensive to get in and you have to pay for parking.
+ -1
+
+reciew_id : Vg9i8-nIYrT4AsB9yBD10A
+aspect: Price
+text: I don't believe they ran out of overpriced drinks so that's a plus.
+ -1
+
+reciew_id : W2fWTze9zp9i6FdXeViUsw
+aspect: Price
+text: Santa looked awful and pictures are super overpriced.
+ -1
+
+reciew_id : 1YSCgt5YblPLLZSUEP6Xxw
+aspect: Service
+text: Poor customer service, especially having a phone number posted where you can't get a hold of anyone.
+ -1
+
+
+reciew_id : lDPUMuEkt6rdTVWRy78QZg
+aspect: Price
+text: Been here for 3 hours, the lights are boring, and it's too expensive.
+ -1
+
+reciew_id : aKZ2NnXu6y6gSSEp_1S4QQ
+aspect: Price
+text: Way overpriced for what you get.
+ -1
+
+reciew_id : XzM4zVux3pzzgjeRFG-PBA
+aspect: Service
+text: I am in disbelief with the poor customer service I have been receiving with Camelback Consign and Design since I gave them many items over a year ago.
+ -1
+
+
+reciew_id : cJfUtUceTu8VEDrpFWgkUw
+aspect: Price
+text: Overall the food is overpriced, the orders are frequently wrong, tonight I waited 90 minutes for a take out order and to top it off, the manager argued with me(never argue with the person that pays your salary)
+ -1
+
+reciew_id : LQOQDFsbqiWL_EW9UnnqDQ
+aspect: Price
+text: There prices are really high and there payouts are terrible won't go back
+ -1
+
+reciew_id : YJcPQHRqDArjL7OSrF2ffg
+aspect: Price
+text: Just a cash bar with an unhappy bartender and expensive beer.
+ -1
+
+reciew_id : 1SSstUiuAjfzMvgh-oGLyw
+aspect: Service
+text: Place is quite simple you can order a drink and play as long as you like but service is so bad.
+ -1
+
+
+reciew_id : 20E8iVEviUXeo6tr2i727w
+aspect: Price
+text:  Like everywhere the concession prices are  ridiculously expensive but unlike most theaters their popcorn is unbelievably salty to the point of almost burning your lips, seriously horrible.
+ -1
+
+reciew_id : bz16GeNsbCFSP-oTd6VDtQ
+aspect: Price
+text: Overcharged for already overpriced tickets, poor snack selection, and horrible service all come together to ensure that you won't find me in this theatre ever again.
+ -1
+
+reciew_id : y7J5bvcqwTLRCKh10u706w
+aspect: Service
+text: Their service needs to improve tremendously before I return.
+ -1
+
+
+reciew_id : __hIVDh82RZLAFxHCmhzJA
+aspect: Price
+text: It's dirty, poorly lit, super expensive to get in the gate and absolutely NOTHING is included in the price of admission.
+ -1
+
+reciew_id : mg-geGsYOBVzPN5lXaDD1w
+aspect: Price
+text: Unfriendly, run by a handful of erudite golfers, expensive, and carrying large financial overhead from expansion.
+ -1
+
+reciew_id : WeEw-9ppcbYOA9ogKf-wxg
+aspect: Service
+text: - horrible service, not attentive, couldn't speak English, missed our orders\n- games were mostly in Chinese\n- crappiest bubble tea I've had in years.
+ -1
+
+
+reciew_id : l-JiFI8H4bv1nXUYACrUyA
+aspect: Price
+text:  After purchasing our overpriced consessions, we got major attitude from the ticket taker because the girl at the ticket window tore our tickets when we bought them.
+ -1
+
+reciew_id : 3Eusinlr6KZUpexnYs_fyQ
+aspect: Price
+text: You should expect expensive food, drinks, and unhappy staff members.
+ -1
+
+reciew_id : h32APJZL4bR8AKZqpDWhow
+aspect: Service
+text: Definitely were not impressed by the prices or service.
+ -1
+
+
+reciew_id : 8ldGjx-fEYv6J-E6yxmRgw
+aspect: Service
+text: Rude customer service and the new MGM upgraded rooms not that great either.
+ -1
+
+
+reciew_id : bP-QR1rmPTFMT2Xfp6MWQA
+aspect: Price
+text: Not worth the price, do not bother with any of the classes or parties.
+ -1
+
+reciew_id : iWuyxj8dv-lbrK35_bpTnw
+aspect: Price
+text:   I just want to know what time they open in June, and can't ask.Extremely underwhelming and overpriced place to bowl.
+ -1
+
+reciew_id : pqBrnsBMgWrFki081whZlQ
+aspect: Price
+text:  The price they charge for liquid is crazy.
+ -1
+
+reciew_id : eUJrXRg_nHNxIMC7QZ1fyA
+aspect: Service
+text: They have the worst services not just that there is so much smoke inside and when I went in there was no one servicing me.
+ -1
+
+
+reciew_id : ZMXAB3Q4UxulWuxZZOsGcQ
+aspect: Price
+text: Snacks are overpriced but similar to other theatres.
+ -1
+
+reciew_id : ssarCNTKmI4FJH7dr4V-yQ
+aspect: Price
+text:  Enough of that, the finished product was horrid and expensive.
+ -1
+
+reciew_id : Ikcw3XsmWRuD_AXnqeEnFA
+aspect: Price
+text: I did expect this to be more expensive than usual, but still wanted to give it a try.
+ -1
+
+reciew_id : T6KXtUiqghx57oj6oJE2Qw
+aspect: Price
+text: Overpriced and underwhelming.
+ -1
+
+reciew_id : cf6PHIF_odRUOO9j74XXIw
+aspect: Price
+text: Over priced average at best food.
+ -1
+
+reciew_id : OMKYxBgtVn618_1_WNv3Ng
+aspect: Service
+text: To make matters worse, when he was confronted about the terrible service we had received with his company he responded by calling me \"a child, kicking and screaming because you did not get your way.\"  
+ -1
+
+
+reciew_id : qWyS2COXTLizpTmfBJWOFw
+aspect: Price
+text: Boring, fake, overpriced, full of clueless people too busy taking pictures to realize there are other human beings around them.
+ -1
+
+reciew_id : RPyaHCq9sqmLy7ihmuHzUw
+aspect: Price
+text: The prices in the gift-shop were ridiculous.
+ -1
+
+reciew_id : E6H0mS_DwKKGMWcYDzsnwQ
+aspect: Price
+text: Expensive & Extremely disappointing.
+ -1
+
+reciew_id : VqXusUx-b0u-Cb_Gi2-JUg
+aspect: Price
+text: There was one vendor there that was ready for food service but they were way OVERPRICED.
+ -1
+
+reciew_id : xZNlqDhWqQVcT5VXFReInA
+aspect: Service
+text: I am a HUGE supporter of small business and locally owned businesses, but poor customer service and a lack of acknowledgement will not profit off of me or any of my friends.
+ -1
+
+
+reciew_id : 03Lav1Cy0VDfcoEEFjUwGA
+aspect: Price
+text: This food festival is over hyped over priced and overrated!
+ -1
+
+reciew_id : 03Lav1Cy0VDfcoEEFjUwGA
+aspect: Price
+text:  But not only is it expensive, the line up to just order a taco was 45 mins.
+ -1
+
+reciew_id : PiBb7KCOBzNgWgH8A8lUfg
+aspect: Price
+text:  Overpriced for a bland buffet with stale desserts in a crappy area of Vegas.
+ -1
+
+reciew_id : BB3r0ubnY5wxwgni1nnOqA
+aspect: Service
+text: Yes the prices of drinks and smokes were cheap and there are gaming machines in there but they are crap games and the service is terrible.
+ -1
+
+
+reciew_id : BB3r0ubnY5wxwgni1nnOqA
+aspect: Price
+text: Yes the prices of drinks and smokes were cheap and there are gaming machines in there but they are crap games and the service is terrible.
+ -1
+
+reciew_id : sDiC3zANB4CxPoUJLhYMdA
+aspect: Price
+text:   I would have been so upset if I paid full price.
+ -1
+
+reciew_id : kAI79MJfk1Qh1hBC-iZhVg
+aspect: Service
+text:  The facility and room to dance is small, the instructor quality is mediocre and their customer service....sucks!
+ -1
+
+
+reciew_id : uLgxPzrjBPH7n_iUWfditA
+aspect: Price
+text: And, as for any theatre, the food is outrageously expensive and I only add this as a negative in this review because the overall experience was so gruesome.
+ -1
+
+reciew_id : SmLN9RCWgdtqOugzB5_bKA
+aspect: Service
+text: This place was horrible and I had the worst service I've ever had anywhere.
+ -1
+
+
+reciew_id : SmLN9RCWgdtqOugzB5_bKA
+aspect: Service
+text: One, I'm way beyond places like that and two, really crappy service by the wait staff.
+ -1
+
+
+reciew_id : LjWNOS7F3s5p1N-Oo9knoA
+aspect: Service
+text:  Obviously very poor customer service.
+ -1
+
+
+reciew_id : DTyXq-pTLPz_4V5cSrW1ng
+aspect: Price
+text:  Not worth the high prices they are charging.
+ -1
+
+reciew_id : lHE58h8r0t3iqQn5XS16LQ
+aspect: Price
+text:  Sadly we wasted our money and time at this so called Festival.
+ -1
+
+reciew_id : xgYtzakWZ7rwb62QQq1uPQ
+aspect: Service
+text: We went there to play billiard on Tuesday night the girl at the bar was very rude and irresponsible with a very bad costumer service in other words something was off about her she treated costumers like shit she prob ly has a mental illness or something i was going to throw the billiard balls on her face but I didn't wanna ruin the night on a girl like this,
+ -1
+
+
+reciew_id : Kph3MXXFgxi2qZP75nRy0g
+aspect: Service
+text: They know they have the market cornered for indoor soccer and 7v7 outdoor but they'll soon find people are switching to other places because of their terrible customer service and greed.
+ -1
+
+
+reciew_id : Vs3q11mSjgegA26vumk3Ow
+aspect: Service
+text: Poor training and managers have zero customer service skills.
+ -1
+
+
+reciew_id : YlC-ovbkAUsjyDTEFFTH-Q
+aspect: Price
+text:  Most items there are very very overpriced.
+ -1
+
+reciew_id : _REDFAvruRZnGRm0b81DIg
+aspect: Service
+text: The service is just as bad by the way.
+ -1
+
+
+reciew_id : zBqoiqhQpL8loTE5gsAfOA
+aspect: Service
+text: Ummm...were you ever going to call to let me know this? Were you going to just let me show up for my 2:00 appointment? This business appears to be very unprofessional and lacking in basic professional services (ex-calling to confirm\/CANCEL appointments).
+ -1
+
+
+reciew_id : in6NkKB5XbtHuQ8_lxThPA
+aspect: Service
+text: Yes the prices of drinks and smokes were cheap and there are gaming machines in there but they are crap games and the service is terrible.
+ -1
+
+
+reciew_id : in6NkKB5XbtHuQ8_lxThPA
+aspect: Price
+text:  Drinks are overpriced and the Negroni was awful.
+ -1
+
+reciew_id : in6NkKB5XbtHuQ8_lxThPA
+aspect: Service
+text:  Awkward service and awkward atmosphere.
+ -1
+
+
+reciew_id : 1AK0FfB0ZBKqaydR5jpg-A
+aspect: Service
+text:  TERRIBLE, TERRIBLE customer service let alone UNETHICAL.
+ -1
+
+
+reciew_id : rS4S3E9vOVethtX2JsQl3A
+aspect: Price
+text: I paid $120 thinking it was more expensive for great quality work, but basically I got robbed.
+ -1
+
+reciew_id : bZZgyWFlfWushEf_XaAsLQ
+aspect: Price
+text: Horribly expensive and hidden fees - including a subscription to a lousy magazine (Rolling Stone) that I never would have accepted had it not been hidden in the fine print.
+ -1
+
+reciew_id : QYaDrP8xdr8x_dsvolCLKQ
+aspect: Service
+text: The service was practically nonexistent.
+ -1
+
+
+reciew_id : 3j8KPxxD1_Zk7_mKydbfQQ
+aspect: Price
+text: The pieces are pricey, which is expected (as I know from experience).
+ -1
+
+reciew_id : xeKUb6y_TY3keh0FIaNOxQ
+aspect: Service
+text: Worst customer service possible and with an abundance of attitude to go around.
+ -1
+
+
+reciew_id : AmX9SWuFABKALqZotGfGkw
+aspect: Service
+text: Bad experience, terrible customer service.
+ -1
+
+
+reciew_id : LU8SHSDvxDh3IfHRfR_36A
+aspect: Service
+text: The dancers were amazing....but the absolutely terrible customer service will definitely keep me from coming back.
+ -1
+
+
+reciew_id : A85QZr3kWT8t6fTbkNIIiQ
+aspect: Price
+text:  It was also very expensive for what you get...then, the tour finishes up with workers escorting you into the gift shop to upsell you photo packages and push the kids into buying all the little toys\/activities they just experienced during the expensive tour.
+ -1
+
+reciew_id : sbJXehSs9NNusMuWnU-FBw
+aspect: Service
+text: Overpriced and very rude management.
+ -1
+
+
+reciew_id : Wb2MlZDvPDDKG6N--HPS9g
+aspect: Price
+text:  The food was not good, and overpriced.
+ -1
+
+reciew_id : jTHChnQ98-vIEFhn7HR7OA
+aspect: Service
+text: Will never use this service again!
+ -1
+
+
+reciew_id : NsZ2KkrFMcCyDC6gRabDQA
+aspect: Service
+text: It was very difficult to get service even when I was the only person in the casino I wanted a shot of scotch I could see behind the bar the bartender refused to sell it to me!
+ -1
+
+
+reciew_id : gFw2NS1g5F-96dZM5HuhVQ
+aspect: Service
+text:  Brutal customer service, the coordinators do not communicate at all with each other, and they lack the skills to respond in a timely and effective manner.
+ -1
+
+
+reciew_id : cmyGkjnN8wd1RprJjjH_dQ
+aspect: Service
+text: I texted Gina to let her know I was disappointed in my service.
+ -1
+
+
+reciew_id : 5RiTz4alG5SAYHne0B2cDg
+aspect: Service
+text: This is the worst seat-filling service I have ever joined.
+ -1
+
+
+reciew_id : FENA0TE2th_HG11vf5wzgw
+aspect: Price
+text: Overpriced for a simple plastic cup, and I thought it was strange that it came to exactly $7 and no change, but I handed over $7 cash.
+ -1
+
+reciew_id : 3sy_exT8cuKkwr-c_A4huw
+aspect: Service
+text: Worst lawn service I have used yet.
+ -1
+
+
+reciew_id : 3sy_exT8cuKkwr-c_A4huw
+aspect: Service
+text:  HORRIBLE customer service and harassment!
+ -1
+
+
+reciew_id : epGYUIrmcE3LELD-PxJCyg
+aspect: Service
+text:  Not only have they gone against their word, they ignored my child and her injury at their studio, and somehow still feel compelled to keep $100 of our hard-earned money in return for no service.
+ -1
+
+
+reciew_id : vNAM8D7wX3-FkBique8FJA
+aspect: Service
+text: Service was awful they were all rude.
+ -1
+
+
+reciew_id : x5wtstkmmI0aKPxwlwjnNw
+aspect: Service
+text: VERY BAD CUSTOMER SERVICE, we were not treated as customers in the way they talked to us and instructed us.
+ -1
+
+
+reciew_id : 1KcszXb-EfAlZ_CoXw5sJA
+aspect: Service
+text: I am very offended by the customer service here, and I'm not sure why she chose to speak to me in this way.
+ -1
+
+
+reciew_id : 1E2a4J2E5JxDiwBDhOnOxQ
+aspect: Service
+text: Absolutely horrible service.
+ -1
+
+
+reciew_id : IkcMa3-jSclbYfPrcbbXTQ
+aspect: Service
+text: Same bartender aka more like a terrible customer service rep, proceeded to talk trash to her coworkers that she didn't get tipped like she deserved it.
+ -1
+
+
+reciew_id : BTfMupv2uj6B6yh5fa6bBw
+aspect: Service
+text: All in all the experience was not good - from the establishment to the customer service.
+ -1
+
+
+reciew_id : bAZDnZwjg59CF3lKo4moBQ
+aspect: Price
+text:  It is expensive and not at all worth the money.
+ -1
+
+reciew_id : HEUSHCAzkcoR8LW4P58Yhw
+aspect: Service
+text: They pocketed a massive amount of money without providing the services that were promised or even coming close to what was advertised.
+ -1
+
+
+reciew_id : gM5dqWlAmF2cRvHwijHjHg
+aspect: Service
+text: But this is a review on the extremely rude customer service and interaction we just had with one of the employees.
+ -1
+
+
+reciew_id : gM5dqWlAmF2cRvHwijHjHg
+aspect: Service
+text: Literally the worst service I have ever seen or experienced at a tattoo shop, and I have several tattoos and piercings.
+ -1
+
+
+reciew_id : ovd01kwUagPfC4ojYZPIjQ
+aspect: Price
+text: It was expensive and really not that impressive.
+ -1
+
+reciew_id : g80VMEXKluELAx_05n7Slg
+aspect: Price
+text:  So I returned to the shop, mortified that the VERY EXPENSIVE piece of jewelry I had given to my Grandmother as a birthday gift had already broken.
+ -1
+
+reciew_id : g80VMEXKluELAx_05n7Slg
+aspect: Price
+text:  This was supposed to be something beautiful for my very elderly Grandmother who is so dear, and all it's been is a HUGE and VERY EXPENSIVE disaster.
+ -1
+
+reciew_id : BaoYH0Xny6KePZZq2e-DuA
+aspect: Price
+text: Unorganized and expensive...
+ -1
+
+reciew_id : BaoYH0Xny6KePZZq2e-DuA
+aspect: Price
+text: Why not a bracelet for $5-$10 for the kids? Really wish I had known how overcrowded and expensive it was going to be...
+ -1
+
+reciew_id : oO1z7ILtBSVpQlmquz0eBQ
+aspect: Price
+text: First it's the most expensive place in Ohio 5.+ to $6.49 per game is a bit expensive considered that evey bowling alley within a 100 mile radius is around 3.50 or less.
+ -1
+
+reciew_id : TTSi9hU-d46w4LHlw76s2A
+aspect: Price
+text: Horrible acting, way too expensive, repetitive houses.
+ -1
+
+reciew_id : FJsaYIkXrEODOMNkpP3fLw
+aspect: Price
+text: In regards to the recitals, tickets are expensive and the dates this year are in the middle of summer because the competition team is going to Europe beforehand.
+ -1
+
+reciew_id : BuXZpCxD5A8IVTRLKrg-UA
+aspect: Price
+text: The rides are atrociously expensive.
+ -1
+
+reciew_id : fh0nVw7mPv_Yha9DsBDUcA
+aspect: Price
+text:  Night before Halloween and most expensive place in all of Arizona(not joking).
+ -1
+
+reciew_id : _OOJFCpPNYEGuGzH8Kv6IA
+aspect: Price
+text:  The service fees are ridiculously expensive and customer service is impossible.
+ -1
+
+reciew_id : BdUuX9UejAhnsIoPXNh2sQ
+aspect: Price
+text:  Their charges and fees are expensive but the catch is:
+ -1
+
+reciew_id : azVxhR50JjoQoxBm7CnXsw
+aspect: Price
+text: I'm surprised that invites left as I saw some very expensive fur coats in there.
+ -1
+
+reciew_id : f9npIGcQ9L_6AB-Rh0nBGA
+aspect: Price
+text: He is extremely expensive - $200.
+ -1
+
+reciew_id : gkbZSARpnpfeIT8-eEPSdA
+aspect: Price
+text: and when I lose money by taking a day off..
+ -1
+
+reciew_id : xvYArs9f1e6xLX21z-SAMg
+aspect: Price
+text: Then you don't get any photo to look at-so what your talking about here are very expensive blind dates--and of course to add insult to injury there is no refund policy-unless you cancel within 24 hrs of joining which is ridiculous because you won't get a match in the first 24 hrs!
+ -1

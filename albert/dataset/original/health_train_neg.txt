@@ -1,0 +1,1257 @@
+review_id : 88YNDP38RsjkQSVPSllXRQ
+aspect: Price
+text:  Then they raised the price, and I declined due to raising the price.
+ -1
+
+review_id : Yzw-ccxhhsAl8nx_3euAsg
+aspect: Price
+text:  There are some well-qualified, very gifted physicians there -- but you pay a high price getting to one.
+ -1
+
+review_id : nmI-VXyem_uEmWff78-Oog
+aspect: Service
+text: I will definitely be looking for another place to take my daughter to because obviously they don't care about customer service or building the patient relationship what kind of office is this?
+ -1
+
+review_id : DXBRdL82Oszd-sxH96RQZQ
+aspect: Service
+text: Horrible customer service experience; couldn't even get past the receptionist.
+ -1
+
+review_id : o2EjZxwu37DXKnpWfRX3iQ
+aspect: Service
+text: The receptionist is condescending and should never be in a client facing role, very poor customer service skills.
+ -1
+
+review_id : N363sq9uATicrC-eMC9low
+aspect: Service
+text: This place has horrible customer service.
+ -1
+
+review_id : _gF549px2C0WiXFNLFSNUQ
+aspect: Service
+text: Terrible service and a terrible adjustment.
+ -1
+
+review_id : _gF549px2C0WiXFNLFSNUQ
+aspect: Service
+text: This place has terrible customer service and apparently they don't care if they injure their patients.
+ -1
+
+review_id : 8YzV1nG6z6tWdgtCNFsN6w
+aspect: Service
+text: I was thoroughly disappointed with this company and their services.
+ -1
+
+review_id : NKvlpZFVNNt7zWamsVopqg
+aspect: Service
+text: With customer service like that, you might as well kiss your business goodbye sooner or later if you treat people like that!
+ -1
+
+review_id : edpQ8A5gosdw-kv01OuN0w
+aspect: Service
+text: never experienced worse service and a more disorganized staff.
+ -1
+
+review_id : 1zO8S5uFlg5IG4qBd_DTDg
+aspect: Service
+text: The glasses were so awful, and the service was just as bad.
+ -1
+
+
+review_id : wulmFbASK5cpnKlOamdj_A
+aspect: Service
+text:  They practice bait and switch tactics and clearly have no customer service.
+ -1
+
+
+review_id : 5lb5gKRiWqROQjUjApvzSA
+aspect: Price
+text:  Prices are too high.
+ -1
+
+review_id : 5lb5gKRiWqROQjUjApvzSA
+aspect: Price
+text:  Their prices are way above the market.
+ -1
+
+review_id : m51PG6gF3kep2nQrPzTexA
+aspect: Service
+text: Poor service.I will be moving all 3 of my kids to a new allergist.
+ -1
+
+
+review_id : YIrDZHskWMqKZ24FHVJCyg
+aspect: Service
+text: She's one of the most unprofessional service providers I've ever encountered.
+ -1
+
+
+review_id : Fjd2kZOf0oelXkcy7wZp-A
+aspect: Price
+text:  Totally over priced and dishonest about their fees.DO NOT TRUST THESE PEOPLE!
+ -1
+
+review_id : aiPfkXTmXKmiPs5m0F_THA
+aspect: Service
+text: The service was terrible.
+ -1
+
+
+review_id : IKj4ZrkaQtet3aMw0KjFEA
+aspect: Service
+text: The experience was the worst  customer service ever.
+ -1
+
+
+review_id : -45dSza4mbmMV6emsduDIQ
+aspect: Service
+text: The service I received was unsatisfactory, and, after giving them my credit card to pay for the services, and promptly paying other charges such as for aneth, I received a collection notice.
+ -1
+
+
+review_id : -8OCtVtbtmemkr6J5VZqTQ
+aspect: Service
+text: I'm going to preface my review with the fact that this is my first yelp review and Groupon purchase and I have to say I was faced with such rude and confrontational customer service that I felt like it was necessary for me to leave a comment.
+ -1
+
+
+review_id : C4Ydaq5Q9zD_kqw9Tn24Lw
+aspect: Service
+text: The customer service at this place has definitely gone downhill.
+ -1
+
+
+review_id : 4cHmAdrUWjDvbU045qzwRw
+aspect: Service
+text: Customer service leaves much to be desired.
+ -1
+
+
+review_id : H99oLRMT_WF0lbp_H4S6Mw
+aspect: Price
+text:  They are over priced and not very honest.
+ -1
+
+review_id : uWTQasX6qIoby570ZoG2yw
+aspect: Service
+text: Bad customer service by the Spanish girl in the front.
+ -1
+
+
+review_id : uWTQasX6qIoby570ZoG2yw
+aspect: Service
+text: They are very rude here and they do not believe in customer service.
+ -1
+
+
+review_id : OjEjLANcVlb32DityOwIFg
+aspect: Service
+text: It's pretty obvious that they have poor customer service when even children noticed how rude they were being.
+ -1
+
+
+review_id : _8x9vJZBMBZ-oged92zGBA
+aspect: Service
+text: Outdated equipment and unsanitary methods and conditions aren't the problem, poor customer service is.
+ -1
+
+
+review_id : -9xFgYazE0ojci5-KEv6tQ
+aspect: Service
+text: The service is very bad.
+ -1
+
+
+review_id : zp5jgaL-nBsjNEugyX9SaQ
+aspect: Service
+text: Very poor customer service, was very behind schedule, and staff was very unprofessional.
+ -1
+
+
+review_id : ejJ5WBbSBmUdJ_VsY2GqEg
+aspect: Service
+text: Beyond disappointed with their quality of work, professionalism, lack of care and overall service.
+ -1
+
+
+review_id : EIZ8OPSb0POKNif9WZf9mw
+aspect: Price
+text:  The extra price for that turned out to be $200 which I couldn't afford at the time so when I went back and sat in the chair to have my teeth cleaned I told the hygenist to just do a normal cleaning on all my teeth and I was told that she couldn't do that lower quadrant because Dr.
+ -1
+
+
+review_id : _341lbz4K2yfXYCeEjML6g
+aspect: Price
+text:  Spectrum Eye Care, You the customer expect good customer care in such a facility to purchase their over priced Eye wear.
+ -1
+
+
+review_id : xpbcafDAJXm9s1vEgFnmBQ
+aspect: Price
+text:  Unfortunately the prices for services are not up front.
+ -1
+
+
+review_id : x4V8u3A_AUs6yVcLPjRF7w
+aspect: Price
+text:  This place sucks the people are rude the prices are outrageous I had to order two pair of glasses it took two weeks for them to come in when they finally did come in they never even bother calling me and they told me that the number that they had for me was unable to be reached which is absolutely BS.
+ -1
+
+
+review_id : _5ZfEKUFJxdOGDTfuG2Y1w
+aspect: Price
+text:  I go in for my second two week fill and let me just say their prices are soooo overpriced.
+ -1
+
+
+review_id : VzrdDoICP-1tZ1jNi4BV8g
+aspect: Price
+text:  EXTREMELY overpriced.
+ -1
+
+
+review_id : Ap_3OwUBaCimw6vB5o4_nQ
+aspect: Price
+text:  I've never seen such high prices, especially for such poor service.
+ -1
+
+
+review_id : JLidzq0VgSU019OX8enAeA
+aspect: Price
+text:  Furthermore, they are pretty high priced.
+ -1
+
+
+review_id : sNShR-xdXeM70t10IMWIxg
+aspect: Price
+text:  Oooops, deep cleaning was in order for all of us at an uncomfortably high price especially for an \"affordable\" dentist.
+ -1
+
+
+review_id : CvYtmLV4TamOqCaO_Tufyg
+aspect: Price
+text:  The products aren't particularly well-priced and the customer service is consistently below-par.
+ -1
+
+
+review_id : hLJHXdjascpzCzDMFWkNQg
+aspect: Price
+text:  they sell overpriced Vemma juice as a solution to infestation.
+ -1
+
+
+review_id : LceOexlFZ29nI3-Ll9-asQ
+aspect: Price
+text:  I didn't feel like they cared and their programs are way overpriced for what you actually get out of them.
+ -1
+
+
+review_id : s4WwLApRJ-4Bigd5udxHiw
+aspect: Price
+text:  Unless you want to be taken advantage of over prices and completely go broke over one appointment I'd avoid coming here.
+ -1
+
+
+review_id : acvHgSGSrAYjEwAeAOZC3Q
+aspect: Price
+text:  I was told a higher price.
+ -1
+
+
+review_id : FjbZ6AYImxDR69NC1uImbA
+aspect: Price
+text:  Apparently Elena is displeased with either groupon or living social she doesnt quite seem to know which one sold massages at the wrong price.
+ -1
+
+
+review_id : dEpEszhQqjN_xPNHKZ1QIg
+aspect: Price
+text:  They do a HORRIBLE job, and don't be fooled by the prices.
+ -1
+
+
+review_id : uRNkBsAQJB5Xg_SXsVTgIw
+aspect: Price
+text:  He told me the medical industry is driven by money while in the next sentence pushing his overpriced \"proprietary\" supplements.
+ -1
+
+
+review_id : KKSW_kBl1SlLOw2g8XJEDQ
+aspect: Price
+text:  Highest price I've ever paid to have kids' cavities filled.
+ -1
+
+
+review_id : NcKtEjvlWW9bfSu_lT5e3g
+aspect: Price
+text:  Way over priced as an overall experience.
+ -1
+
+
+review_id : FJjyEXO6UTirJzQtwwx44Q
+aspect: Price
+text:  They are disorganized, dishonest, and pricey.
+ -1
+
+
+review_id : 8RsakgNGLeL90wmlG2ynWw
+aspect: Price
+text:  Outrageously overpriced and achieved absolutely nothing.
+ -1
+
+
+review_id : tOxj4F8r4NX4bAWVs0OwXg
+aspect: Price
+text:  Their prices are high and the employees are rude.
+ -1
+
+
+review_id : YT1gsKIcf7aQ9fGB5fyOGQ
+aspect: Price
+text:  Unprofessional, shady, rude and overpriced for nothing.
+ -1
+
+
+review_id : vTNir60KlyEfhQqmDC10sg
+aspect: Price
+text:  Worst customer service I've ever experienced! Choose any other place than here!terrible selection of frames, overpriced service!
+ -1
+
+
+review_id : snQmbyxAxNBs-SMEdKH9xg
+aspect: Price
+text:  The prices are way too high for CBD products for what you get.
+ -1
+
+
+review_id : o96XyBv4ICNJ5X8M0SM3iw
+aspect: Price
+text:  There is no way anyone would pay full price for these treatements.
+ -1
+
+
+review_id : hEdlOfxPC0Qq-FWIBLgOaA
+aspect: Price
+text:  Their prices are high and their staff is rude.
+ -1
+
+
+review_id : -JyOu6vn8yg1Uq0HArhFJQ
+aspect: Price
+text:  They are way overpriced and not effective at all.
+ -1
+
+
+review_id : YSRQGuZV6OdTGanLav5b4Q
+aspect: Price
+text:  Insanely high prices! I stopped in for the first time tonight.
+ -1
+
+
+review_id : mkC-cJtAtLH0ctnRtNI8dQ
+aspect: Price
+text:  Definitely in agreement with the overpriced and transparency of the way the business operates.
+ -1
+
+
+review_id : XqLtptshoruCBSLgrFoKJw
+aspect: Price
+text:  They are way over priced.
+ -1
+
+
+review_id : RoDxqHA6T4Itsdy4RSC5nw
+aspect: Price
+text:  Overpriced and outdated products.
+ -1
+
+
+review_id : 77ifS0OKdB6iiH-LBad44g
+aspect: Price
+text:  A very expensive price for a baby sitting service but that's all it is.
+ -1
+
+
+review_id : bDJatsEHl4c_wGmLhHSOWg
+aspect: Price
+text:  Horrible, overpriced, unprofessional, and  uneducated people working here! Labs take over 5 days! I have never had a lab take that long!
+ -1
+
+
+review_id : FHnYjYavze-wmI8CrGH1aQ
+aspect: Price
+text:  They are way over priced.
+ -1
+
+
+review_id : XA2qMeIhjrZv998U0U0S0g
+aspect: Price
+text:  It is very overpriced and their rooms are quite small in comparison to other retirement residences.
+ -1
+
+
+review_id : bZIMncoZaT1JOgvlekvbuA
+aspect: Price
+text:  Higher price - no updates to advertising and refuse to honor stated price.
+ -1
+
+
+review_id : uE0o3Nr_aNuEE8qrLrbHQw
+aspect: Price
+text:  They over price their products.
+ -1
+
+
+review_id : ECaHNNNYAe1EzPNOz7a2nQ
+aspect: Service
+text: I have run the gamut of chronic pain services over decades.
+ -1
+
+
+
+review_id : HebhA3ARufr9Jq4uPFUvAg
+aspect: Service
+text: Denied ultrasound because of some political garbage on who can and can not recommend service.
+ -1
+
+review_id : wCir9LAMoiTg0Ot5Dr1eMQ
+aspect: Price
+text:  I should have dissolved it, but hesitated because It was so over priced, and I spent so much on it.
+ -1
+
+
+review_id : IpyMUZDuty3xbFLYYNBRSQ
+aspect: Price
+text:  Absurdly overpriced.
+ -1
+
+
+review_id : tvMSiEoknH41XEI2TsOaiw
+aspect: Price
+text:  Prices are not cheaper than any other place in the valley and again it look unsanitary.
+ -1
+
+
+review_id : WcrrdccsmO5gJNF1WbjEvA
+aspect: Price
+text:  Hired them on end of last year, increased prices significantly.
+ -1
+
+
+review_id : u9EqyGpuaIIcvWgt7qHleg
+aspect: Price
+text:  I can't afford to pay that high of a price immediately, so I had to cancel.
+ -1
+
+
+review_id : yABoKZ35d8Z9FnaQ-GC2bg
+aspect: Price
+text:  I went to my old dentist the next day and they did x-rays on me for free since Somerset  was riduculously over-priced.
+ -1
+
+
+review_id : rH2vpI7tfc4oelYSQwyNCg
+aspect: Price
+text:  When I decided this was too pricey and would not offer the support I need to lose weight.
+ -1
+
+
+review_id : rH2vpI7tfc4oelYSQwyNCg
+aspect: Price
+text:  Run from this place! It's over priced and unprofessional.
+ -1
+
+
+review_id : -zuFmQ8gg2hUedi9KPN_AQ
+aspect: Price
+text:  This dentist is known in the Arizona dentist community to screw over people with high prices.
+ -1
+
+
+review_id : suqxudGmDvSj4p4KrnAHug
+aspect: Price
+text:  I find this place to be extremely overpriced.
+ -1
+
+
+review_id : tU-CMIQxW6Rm-bMvTORGUA
+aspect: Price
+text:  Their selection is very boring, overpriced, and unorganized.
+ -1
+
+
+review_id : N8anTJjcAQtJA4xvKlgLEQ
+aspect: Price
+text:  Second visit, over priced cost is reveled.
+ -1
+
+
+review_id : qFLK_lmBM54ATnmI2eLZng
+aspect: Price
+text:  Very overprice gym for what it is worth.
+ -1
+
+
+review_id : FH3Oilh7RuGFUrEumypRBg
+aspect: Price
+text:  Dirty, over priced with sub standard equipment.
+ -1
+
+
+review_id : K65KDQTJ5mK_n8buktFpFQ
+aspect: Price
+text:  And it's horrible the course is over priced.
+ -1
+
+
+review_id : LtTuPG9cCD9-X3YtECOzyQ
+aspect: Price
+text:  The product is also over priced for the craftsmanship!!!
+ -1
+
+
+review_id : 6mEl-33dSxwCdCUysENVxw
+aspect: Price
+text:  Horrible doctors , overpriced procedures , rude people ! 
+ -1
+
+
+review_id : _ZJBT-hdGTzUxJoTJDPo3Q
+aspect: Price
+text:  After she drilled two cavities too deep, I required both to have root canals and crowns which is a very pricey and painful process.
+ -1
+
+
+review_id : CvNMrLywoOr-R2HTuC657Q
+aspect: Price
+text:  The price was high for what I was looking for.
+ -1
+
+
+review_id : QmPNL9aHLNiAlc7dCye_Kg
+aspect: Price
+text:  The customer service was horrible and the price could not justify how I was treated in the office.
+ -1
+
+
+review_id : o8j7S3BbRjpr5lHe-UyUfw
+aspect: Price
+text:  Overpriced and awful customer service.
+ -1
+
+
+review_id : Cp9FK-VIeD0415tBE32fSQ
+aspect: Price
+text:  Prices are higher now too which isn't cool.
+ -1
+
+
+review_id : fDQhvRceppk6NHLd-IMpPg
+aspect: Price
+text:  Overpriced and Won't even pay for pre authorizations.
+ -1
+
+
+review_id : 9VCZrVZ719NtRHmNEeAY-A
+aspect: Price
+text:  Not worth the price .
+ -1
+
+
+review_id : hGJ-MwMkRo8qw7FUPbypvA
+aspect: Price
+text:  First off they are overpriced.
+ -1
+
+
+review_id : jRrX4RbMBleAfDMV7fWHzQ
+aspect: Price
+text:  She pushed me hard to buy their photo facial package for an unreasonable price.
+ -1
+
+
+review_id : 0lz_bePHdwEEfFHF0u2lHA
+aspect: Price
+text:  Not recommended for the price they charge I got insurance for 1 year
+ -1
+
+
+review_id : tGlG7d3V2YZvwb-HM-weVQ
+aspect: Price
+text:  They just wanted to sell me an over-priced pair of glasses.
+ -1
+
+
+review_id : vtAzeUz004Y39Nq61sy5Fw
+aspect: Price
+text:  Rude employees and over priced merchandise.
+ -1
+
+
+review_id : zepIk6Ub8jgbuXYdVTDu6w
+aspect: Price
+text:  The prices at this store are much higher than other similar stores.
+ -1
+
+
+review_id : GUBs8ZsGYJQSnKAPmRexCQ
+aspect: Price
+text:  A high price to pay for changing my mind about what hospital I wanted to go to.
+ -1
+
+
+review_id : XzEVLz_gKjzRwIMgBjaGvA
+aspect: Price
+text:  This organization is way over priced and the customer service the WORST I have seen,  not at all professional or caring.
+ -1
+
+
+review_id : qynWvMdJ5rjCzrUSpJo61w
+aspect: Price
+text:  Overpriced, bad customer service and horrible business practices.
+ -1
+
+
+review_id : 1izFLygAb_86KOhQVDg3dw
+aspect: Price
+text:  For high prices of lab work and decent location this place is a disgrace to medical care.
+ -1
+
+
+review_id : JHNCTBfNf6rRxW46wPAqpg
+aspect: Price
+text:  Way over priced even with great dental insurance.
+ -1
+
+
+review_id : AxGYt9LYyIbwGVNPb2eMqQ
+aspect: Price
+text:  Unprofessional overpriced stitchk .
+ -1
+
+
+review_id : 30USiM49kkXmv6lRnn5wvw
+aspect: Price
+text:  Their prices are high and the staff unfriendly.
+ -1
+
+
+review_id : q6syGZhY-qgYsgZ6D0I55Q
+aspect: Price
+text:  there prices are outrageously excessive!!!
+ -1
+
+
+review_id : iF8TtUnoaUlRKJTTgs6o1g
+aspect: Price
+text:  your little bitty glasses are way overpriced.
+ -1
+
+
+review_id : U3w55kpRT461-_XOH5zKSw
+aspect: Price
+text:  The dentist just went ahead with a very expensive crown without even mentioning that I could choose a cheaper option.
+ -1
+
+
+review_id : vd-2S0BkHPpKe2qRkezkJQ
+aspect: Price
+text:  The Doctor\/Nurse whoever was seeing me made it seem like I had bad allergies, so I bought their very expensive drops (cause Medical insurance wouldn't cover them), probably spent $1200+.
+ -1
+
+
+review_id : NfPkxsjnGJvnM98jyR_lCA
+aspect: Service
+text: This was the worst customer service situation I have ever experienced.
+ -1
+
+
+
+review_id : VEy6Fzn4IqEDpEo7qkojSA
+aspect: Service
+text: Absolutely the worst service Ive ever experienced in my life!!
+ -1
+
+
+
+review_id : kynOU6ypE3Ay_x7nJuRHWA
+aspect: Service
+text: Very unprofessional and rude service!!
+ -1
+
+
+
+review_id : Kt8Ae0iBpYuRfDHx6d81dA
+aspect: Service
+text: Terrible service, overpriced, and down right unethical from some perspectives.
+ -1
+
+
+
+review_id : njH_24ju6uiODHHsOw7WWg
+aspect: Service
+text: I have been really UNIMPRESSED with the product and especially the  LACK of Service.
+ -1
+
+
+
+review_id : cAOgfPxGnM7t-MJhGQoNXQ
+aspect: Service
+text: I WILL NOT be taking advantage of or pay for services in which I was CLEARLY over charged for.
+ -1
+
+
+
+review_id : zOKb5QOtfeM6ALOijfKL6w
+aspect: Service
+text: They will also try and charge you for extra services and are not happy if you decline.
+ -1
+
+
+
+review_id : 1ASfld4_4yubFOItuJAAaw
+aspect: Price
+text:  This is immensely expensive, and is quite a bit of radiation.
+ -1
+
+
+review_id : mQnJ59QYycGj8yaxBuHKDA
+aspect: Service
+text: Has the worst service.
+ -1
+
+
+
+review_id : Vd5pO3-yPZkOld6gNHmIOA
+aspect: Service
+text: If you look at my Yelp reviews I NEVER give 1 star, but this was the worst costumer service experiences I've had in my entire life.
+ -1
+
+
+
+review_id : n1tXVorKZaU8OjazcqXSNQ
+aspect: Service
+text: Horrible service I don't recommend this place to anyone.
+ -1
+
+
+
+review_id : vAAfL1ESBqZDJZAie_F-kA
+aspect: Service
+text: While no one was particularly unprofessional and my review is only regarding the procedure that I had, I cannot recommend them and I would not use their services again.
+ -1
+
+
+
+review_id : 5YgycVgQ4kwQS49iv2B9Jg
+aspect: Service
+text: Hands down has to the worst service a member of my family has received from a doctor and nurses and Especially HORRIBLE office clerks.
+ -1
+
+
+
+review_id : f4cKi4TmIv7Pslt9EeeqFw
+aspect: Service
+text: This place is horrible with the customer service.
+ -1
+
+
+
+review_id : s8KKtQXq31uqYrcb0UaGUw
+aspect: Service
+text: Worst customer service I have ever experienced, I am shocked that this manager was able to open up under another name!
+ -1
+
+
+
+review_id : sQhbAlXueZl8lyv3VjphJg
+aspect: Service
+text: Horrible customer service!
+ -1
+
+
+
+review_id : O3Z3t2fZBp016RdxEkm9vg
+aspect: Service
+text: This is their biggest issue - poor eye Drs on staff, poor \/ old quality testing gear, and really poor service; I went in three times because I couldn't see through my glasses for driving- I just gave up and saw a new Dr and got new glasses.
+ -1
+
+
+
+review_id : OgZSLAzMlzBnAv63nXE2nQ
+aspect: Service
+text: I refuse to reward such poor customer service.
+ -1
+
+
+
+review_id : GpyUNoPb28mfkHRQuI3tqg
+aspect: Service
+text: Yikes, bad service before, during, and worse even after care.
+ -1
+
+
+
+review_id : AAS6vlEWbvGPTCOLDKQYxw
+aspect: Service
+text: Awful customer service !
+ -1
+
+
+
+review_id : fV52ZbtfvT5wmyHNj__Jxw
+aspect: Service
+text: I can totally agree with the lack of customer service in the office.
+ -1
+
+
+
+review_id : fV52ZbtfvT5wmyHNj__Jxw
+aspect: Service
+text: Maybe she should work in a warehouse, since she doesn't like working in customer service.
+ -1
+
+
+
+review_id : cLbnL1mWo8hi6i7m47pduw
+aspect: Price
+text:  It was just such a mediocre job and the pricing for what it is was very expensive.
+ -1
+
+
+review_id : wdsuqEuaN44YOphs6sGS1A
+aspect: Service
+text: I think the Drs should re-evaluate their staff too much competition out there and it's sad that we have to deal with poor customer service.
+ -1
+
+
+
+review_id : Pdv2bLJ3snhrlYi013aBkg
+aspect: Service
+text: Heck, I wouldn't even recommend them to my worst enemy! Bad practise, bad medicine, bad service.
+ -1
+
+
+
+review_id : 5ngkcO1q9kHeFb2ij7nsNQ
+aspect: Service
+text: Terrible customer service.
+ -1
+
+
+
+review_id : dA1uFTTmiI6g1j0jpbuN4Q
+aspect: Price
+text:  Personally I think this is highly overpriced, since I had a root-canal done (which is way more complicated of a procedure) and my portion after insurance was only like $250.
+ -1
+
+
+review_id : VWHFQMc-qaipJq9E7C__1g
+aspect: Service
+text: Service was terrible and my husband, myself, and our daughter were pretty much herded in and out like cattle.
+ -1
+
+
+
+review_id : VWHFQMc-qaipJq9E7C__1g
+aspect: Service
+text: Terrible, terrible service overall.
+ -1
+
+
+
+review_id : g59ZJexhg-lHa2uIIG95iw
+aspect: Service
+text: Terrible service, here, my son is no longer a patient here, the service is terrible, the only good thing I can say is the  male receptionist is nice, but for as the doctor and her assistance 4 thumbs down.
+ -1
+
+
+
+review_id : PLkARfAlTpZ7VCocSvTubA
+aspect: Service
+text: I am upset with the service especially since they charge more then most opticians, but i have never had this problem before and i have been wearing glasses for over 20 years.
+ -1
+
+
+
+review_id : 3bZ99UHq1rEnBOwFoGHYlw
+aspect: Service
+text: They charge exorbitant prices, have terrible customer service and then, after screwing up on their end, call collections on you.
+ -1
+
+
+
+review_id : 3bZ99UHq1rEnBOwFoGHYlw
+aspect: Price
+text: They charge exorbitant prices, have terrible customer service and then, after screwing up on their end, call collections on you.
+ -1
+
+
+review_id : 9J9aDp1SHQEqPMRiI43xtg
+aspect: Service
+text: I am upset with the service especially since they charge more then most opticians, but i have never had this problem before and i have been wearing glasses for over 20 years.
+ -1
+
+
+
+review_id : 8Vn1IRIKxN6VIv-0_trbgw
+aspect: Service
+text: The worst service I have ever received.
+ -1
+
+
+
+review_id : FOd6DJ2Um_LCjqD1dLf2Hw
+aspect: Service
+text: horrible customer dis-service.
+ -1
+
+
+
+review_id : 8eR8ZoQm7pNu5_X0LsS8PQ
+aspect: Service
+text: Too bad because nurse practitioner​ seems to be good at providing care but personally I would not go again nor recommend due to treatment and service provided by front desk and office staff.
+ -1
+
+
+
+review_id : QUNGHV49pkc91Khk5V_Nuw
+aspect: Service
+text: Very poor service.
+ -1
+
+
+
+review_id : SkGLj1F9ldq28HlfywVIHQ
+aspect: Service
+text: The tech staff in the back office are amazing and definitely makes up for the poor customer service in the front office.
+ -1
+
+
+
+review_id : SkGLj1F9ldq28HlfywVIHQ
+aspect: Service
+text: I have used Simon Med location's around the Valley and this location has been the worst in customer service from the front desk.
+ -1
+
+
+
+review_id : xnOgkwXSd_tQ5TduX2CRow
+aspect: Price
+text: My opinion is that the gym is way over priced.
+ -1
+
+
+review_id : ciTdtq7qGjXjO55U40D4ZQ
+aspect: Service
+text: I am very disappointed with their customer service.
+ -1
+
+
+
+review_id : -eqkd65b8CNovoVgbpDQ_Q
+aspect: Price
+text: Overpriced legal drug dealers.
+ -1
+
+
+review_id : sOw_ys8x2XBykANRTJlO6A
+aspect: Service
+text: The University office has horrible customer service and is extremely disorganized.
+ -1
+
+
+
+review_id : HtGEDvcm9AXpGEtQgVzs4A
+aspect: Service
+text: The customer service was just down right BAD.
+ -1
+
+
+
+review_id : HtGEDvcm9AXpGEtQgVzs4A
+aspect: Service
+text: I really hope I can save just one person from this horrible customer service nightmare!
+ -1
+
+
+
+review_id : DZNKL7tJ2Y4SrwuPNL6w8A
+aspect: Service
+text: I am so disappointed in the customer service at this location.
+ -1
+
+
+
+review_id : trbgyH9OCV8pdweHr2uXjw
+aspect: Service
+text: The customer service is more often than not very pleasant but this is just an outrageous wait time and I am an extremely patient person.
+ -1
+
+
+
+review_id : bCOCYM4Fbol2HN59w5fQbw
+aspect: Service
+text: I asked if I don't want the service what happens, I was basically told \"too bad.
+ -1
+
+
+
+review_id : 4Mvjq8U5aIPjcWga06yKqg
+aspect: Service
+text: Really bad service with Lupe the schedule person.
+ -1
+
+
+
+review_id : Oj5aU15DYfRMgTg_yOVBvQ
+aspect: Service
+text: Disgusting customer service.
+ -1
+
+
+
+review_id : J2k-Nmcf91EIp_T1aNB87A
+aspect: Service
+text: Their lack of common sense has caused me to write their customer service department and call upper management on two occasions already, and I have only lived here since November.
+ -1
+
+
+
+review_id : opnpwW-1gWKBuszmDGM3zg
+aspect: Service
+text: So even though they knew not to bill the insurance company for these services since they couldn't perform them, they still billed me figuring out that I'd never know.
+ -1
+
+
+
+review_id : J7tizfm4mFAApzWN8o85YA
+aspect: Service
+text: Duplicate charges and terrible customer service.
+ -1
+
+
+
+review_id : eWjLnAOwr1jc__OEvsPlsQ
+aspect: Service
+text: No customer service what's so ever ! \nRude , disrespectful , unpleasant , racist and the lost can continue .
+ -1
+
+
+
+review_id : LaxLJDgHgreJk2NMYTcGlw
+aspect: Service
+text: Mistakes happen occasionally but this was a perfect example of terrible customer service, lack of appreciation for loyal customers, and utter disregard for someone's health.
+ -1
+
+
+
+review_id : bIZ5KNNlvoNpsKjS_ns8rQ
+aspect: Service
+text: The bathrooms were disgusting no paper towels garbage everywhere and the front desk had horrible customer service.
+ -1
+
+
+
+review_id : iHV-zK-1VTeE_QmQGNawEQ
+aspect: Service
+text: You are doing your patients a HUGE disservice with your poorly trained staff FIX IT!
+ -1
+
+
+
+review_id : bneEYzEJ9RJB2i36UI_ffQ
+aspect: Service
+text: Literally the worst customer service I have ever received.
+ -1
+
+
+
+review_id : B7SwhmlhjCovrYI8aozOIQ
+aspect: Service
+text: We could afford an expensive service provider but would never afford to be served by a business who do not put their customers at first.
+ -1
+
+
+
+review_id : osdw3ggE9ETV2bl0yPzOeQ
+aspect: Service
+text: The service was mediocre and they didn't pay attention to direction.
+ -1
+
+
+
+review_id : TBs4ActLm40RmrXrm-xgRA
+aspect: Service
+text: The after sales service is overall BAD as they do not care after you make the purchase.
+ -1
+
+
+
+review_id : bFC2Lpjr_uA5xeF-2rT-eQ
+aspect: Service
+text: I am very displeased with many facets of their services.
+ -1
+
+
+
+review_id : YkurgHiCnojUQZ4YwgaB1A
+aspect: Service
+text: I am soo angry from there complete lack of costumer service.
+ -1
+
+
+
+review_id : l63Lvq_uD6LWOsufZ2cL-g
+aspect: Service
+text: No answer at any nursing station, nothing at reception, I was frantic and livid at the total lack of service.
+ -1
+
+
+
+review_id : VgpZW0DIl7wptnTiykwePg
+aspect: Service
+text: Just be aware, pay attention to their words, and NEVER pay in advance for a service that you have not received!
+ -1
+
+
+
+review_id : V55pnde7TxSfC96COP8fYQ
+aspect: Price
+text: I complained about the price discrepancy.
+ -1
+
+
+review_id : AATklNGGcYnetGPJKzzN7A
+aspect: Price
+text: Frames extremely overpriced and selection lacking (no high fashion frames Prada, Versace etc).
+ -1
+
+
+review_id : p50oafg5fvqR7hULU1tV-g
+aspect: Price
+text: They warned me he is all cash and very pricey.
+ -1
+
+
+review_id : MuU21q9FBqjRvZE3CrCxrA
+aspect: Price
+text: Ridiculously overpriced with no results.
+ -1
+
+
+review_id : cgHTjJnc5GITHoAG2T9vxQ
+aspect: Price
+text: They overpriced everything by $100-200 so that you pay regular price on their low quantity glasses.
+ -1
+
+
+review_id : vQ97G2YOsHZMplCDqRPd1w
+aspect: Price
+text: VERY OVERPRICED! even with insurance! What this dentist told me i needed done was going to be over $900!
+ -1
+
+
+review_id : a_2yL-oqM_cxEqQSULndTA
+aspect: Price
+text: Their prices are sky high.
+ -1
+
+
+review_id : phW-DLQtIYAbpHDcefC5aQ
+aspect: Price
+text: It's a high price to pay for an office that could care less about you.
+ -1
+
+
+review_id : 6yKQFg8kdWkPEn_IM6NuQA
+aspect: Price
+text: All they want to do is try different injections at outrageous prices.
+ -1
+
+
+review_id : etDFfF3wmOOjhX5uP_BtTw
+aspect: Service
+text: I was so disappointed and frustrated by the lack of timely customer service, that I chose to leave.
+ -1
+
+
+
+review_id : etDFfF3wmOOjhX5uP_BtTw
+aspect: Service
+text: Perhaps it was a busy day there, which I understand as well, but I didn't appreciate the poor customer service or lack of appreciation for my time.
+ -1
+
+
+
+review_id : kQTN_pZ33mtALxyq-Pu_Vw
+aspect: Service
+text: They obviously don't care about customer service here.
+ -1
+
+
+
+review_id : -coWmxgTuHFugGS_KJyRHA
+aspect: Service
+text: I'm amazed that Dr Amy Sparks has the kind of people working for her with no good customer service.
+ -1
+
+
+
+review_id : AAg86iAXH6umWyo7w7t9Aw
+aspect: Service
+text: Absolutely appalling service.
+ -1
+
+
+
+review_id : SyMoQ8THLtUmuab-1MVaqw
+aspect: Service
+text: I'm not Please with their services.
+ -1
+
+
+
+review_id : -KUjBoXTHb9t0aPZ-vNB6A
+aspect: Service
+text: I now understand why they were low on patients, their customer service is absolutely horrendous.
+ -1
+
+
+
+review_id : sw4SVyk4Id60_JRvFFlg5g
+aspect: Service
+text: This place has some of the WORST customer service.
+ -1
+
+
+
+review_id : MWOYQ3Wc9tBwD7LnRmagYg
+aspect: Service
+text: Extremely poor service, communication, scheduling, and outrageous pricing.
+ -1
+
+
+
+review_id : maxPFmF7zwLT2cRq2myE2A
+aspect: Service
+text: worst customer service ever!
+ -1
+
+
+
+review_id : xF2BADA0NkXXrl72yvmvJw
+aspect: Service
+text: Horrible service and rude.
+ -1
+
+
+
+review_id : cISl3h3vFD7J9KC1wL00rQ
+aspect: Service
+text: The staff were very unhelpful, customer service is an F!
+ -1
+
+
+

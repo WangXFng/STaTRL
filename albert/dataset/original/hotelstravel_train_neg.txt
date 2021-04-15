@@ -1,0 +1,1535 @@
+review_id : 00O0ezO-S4uCURwQgcoF1A
+aspect: Service
+text:  Reservations are supposed to enable supervisors to schedule staff to prevent this type of poor service!
+ -1
+
+review_id : ksgZ5Oql_yhBjCMdYvL-QA
+aspect: Service
+text: Incompetent representatives, false advertising, sneaky flight details, bad customer service.
+ -1
+
+review_id : hvK7me8AHn7ThMUHdSrRZA
+aspect: Food
+text:  We arrived to find cockroaches in our room, along with ever present spiders (halls never cleaned), stained carpets, rusted out bathroom fixtures, falling apart furniture and terrible food.
+ -1
+
+review_id : ySSCiUtJtb70-RVTL_h2kg
+aspect: Food
+text:  Breakfast was the \"cold bread\" kind - prepackaged cereal and pastries.
+ -1
+
+review_id : F_o8kwm9kphgXjOKaeIJOA
+aspect: Service
+text: Do not book through this service!
+ -1
+
+review_id : 7iLAwS9LgHg-hW2jif0ozQ
+aspect: Service
+text: Terrible terrible service.
+ -1
+
+review_id : YNueth7FHMw4ZyDXoOO8-g
+aspect: Service
+text: I called the 800-number to question the bill and customer service was extremely rude.
+ -1
+
+review_id : 1iSii_zUtUAuU2imqRBuhQ
+aspect: Service
+text: I would NOT expect satisfactory service...
+ -1
+
+review_id : KY8NZOsz3Aam5Qv3BGkuSg
+aspect: Service
+text:  The customer service was extremely rude and unconcerned.
+ -1
+
+review_id : 3SiTdPGzyujrbYF49jCh_g
+aspect: Service
+text: Disgusting employees I can't even call talking with them customer service.
+ -1
+
+review_id : GkkgcaeRCkuT0toewA0lAA
+aspect: Service
+text: Crappy service!
+ -1
+
+review_id : O1qiBmj9RVtHfreGgQ5rLg
+aspect: Service
+text: THE WORST SERVICE.
+ -1
+
+review_id : A5HtAWeHhVN9g5n5GTpvXQ
+aspect: Price
+text: Even though they were more expensive than all the other hotels around ASU, I booked a suite since I was bringing my mother along while my daughter and I attended a campus tour and audition at Arizona State.
+ -1
+
+review_id : A5HtAWeHhVN9g5n5GTpvXQ
+aspect: Service
+text:  During these 4 days, not once did we get room service!
+ -1
+
+review_id : A5HtAWeHhVN9g5n5GTpvXQ
+aspect: Service
+text: This hotel is expensive and has no services.
+ -1
+
+review_id : A5HtAWeHhVN9g5n5GTpvXQ
+aspect: Price
+text: This hotel is expensive and has no services.
+ -1
+
+review_id : WwDQKaX20uoyQ2PxOYdS4g
+aspect: Service
+text:  Customer service rep is ridiculous.
+ -1
+
+review_id : L3HIiYsYKEPmE_N8vgsF4A
+aspect: Service
+text: Horrible customer service
+ -1
+
+review_id : ff4W-RPiFLpVjj5mLCaBNw
+aspect: Service
+text: Do not book through this service!
+ -1
+
+review_id : ff4W-RPiFLpVjj5mLCaBNw
+aspect: Service
+text: This is hideous service.
+ -1
+
+review_id : N2wa8N0HqtHc37-Vj7UQYw
+aspect: Service
+text: Travelocity from Arizona customer service terrible service put me on hold for hours do yourself a favor do not book your travel through travelocity they will have cancel flights and your schedule will not hold up for you!
+ -1
+
+review_id : xrbXbnm99_X7pTIEw5W_qQ
+aspect: Service
+text: Absolutely the worst experience in customer service and rude behavior from staff.
+ -1
+
+review_id : 5tFkX427qwalbiRg5tBTtA
+aspect: Service
+text: Very accessible price but horrible breakfast and service.
+ -1
+
+review_id : Z8L1MfqXMGzc-digIcJ_4g
+aspect: Service
+text: Very poor customer service.
+ -1
+
+review_id : 7khEbQi6fHxcHKINaXJvCA
+aspect: Service
+text: Very bad customer service.
+ -1
+
+review_id : a_SxNtVxVD6fgJ2cdzHO8g
+aspect: Service
+text: The worst Service ever !
+ -1
+
+review_id : 8GRmqbC116RJPoBSACOPCw
+aspect: Service
+text: It was one of the worst service experiences I've ever had.
+ -1
+
+review_id : T4_ywYZWWHDzHq31rAMqpA
+aspect: Service
+text: Worst service ever.
+ -1
+
+review_id : T4_ywYZWWHDzHq31rAMqpA
+aspect: Service
+text: Horrible service terrible cars take your money else where.
+ -1
+
+review_id : Jqr6-a2uMkwUaWtp8y9EsA
+aspect: Service
+text: This was the worst customer service I have ever experienced.
+ -1
+
+review_id : 0l_hIF-My2sZcSNKwpxt8g
+aspect: Service
+text: Worst customer service ever.
+ -1
+
+review_id : TxBjr3DGnyYrwgia3PnwYA
+aspect: Service
+text: Honestly the worst customer service I've ever had.
+ -1
+
+review_id : yMez_A7MdTOGQT1dLkkeyg
+aspect: Service
+text: I am extremely disappointed in the customer service.
+ -1
+
+review_id : NuvD4JSfk1d7O279FsT2GA
+aspect: Service
+text: Horrible service and no prior notification that we wouldn't get a car.
+ -1
+
+review_id : CUNwk-5zUTmVl15Sl2D_iA
+aspect: Service
+text:  With this pathetic customer service I'll never mind paying more for Hertz or National again.
+ -1
+
+review_id : cfz7zdvJ4MSUMV88k37mIA
+aspect: Price
+text: The place to eat they were pushing must have been a relatives it was expensive and very rude on the phone.
+ -1
+
+review_id : Ilxauc1hnJmUfbLoMd6FGw
+aspect: Service
+text: Service at check-in was horrible, even for so called \"Gold' members.
+ -1
+
+review_id : BXFS9eRT7-YU37myGypFdQ
+aspect: Service
+text: Completely misquoted me I ended up having to pay about $300 more than originally was quoted felt like service was less than professional
+ -1
+
+review_id : Sw_Mxp-DqNkelaS6PIliag
+aspect: Service
+text: The second lady from the customer service was also very unsympathetic, and didn't seem to care about having my business in future.\nI would never rent from these guys again.
+ -1
+
+review_id : ew9xnaFfuB7bQRvxAGMqYQ
+aspect: Food
+text:   Food is not cool pled well.
+ -1
+
+review_id : ew9xnaFfuB7bQRvxAGMqYQ
+aspect: Price
+text: Very expensive for what you get.
+ -1
+
+review_id : AzV4rGYzLRyI0N5ZM1MOoQ
+aspect: Service
+text: So that was the start of the terrible customer service.
+ -1
+
+review_id : 7FxOWWw6HZ_zeU7RB2kTtw
+aspect: Service
+text: This taxicab service stole my phone and will not return it to me.
+ -1
+
+review_id : YxtLQxf8sF6fYYH7spnkAQ
+aspect: Service
+text: The staff were very nice, but the service itself was terrible.
+ -1
+
+review_id : 5_B0bekfieeLGIWC7enbyw
+aspect: Service
+text: The terrible customer service, along with the driver's dishonesty, ensures that I will never use this fraudulent company's service again.
+ -1
+
+review_id : pbQIgMP9FrHJEJJfcGdbQQ
+aspect: Service
+text: I have never experienced such awful service.
+ -1
+
+review_id : hnaflPD39CwMSGWCdkY0XQ
+aspect: Service
+text: Absolute worst service to use..
+ -1
+
+review_id : XkrpfIHOT-OTiIaeU8lkIA
+aspect: Service
+text: Absolutely horrible driving service and even worse customer service.
+ -1
+
+review_id : TQRs9w-ldNqphSwA4ox-PQ
+aspect: Price
+text: Then he magically found a suite that was a lot more expensive.
+ -1
+
+review_id : TQRs9w-ldNqphSwA4ox-PQ
+aspect: Service
+text: This is by far the worst customer service experience I have ever had at a hotel.
+ -1
+
+review_id : uBWvtyKOnitmZQPLGiAxcA
+aspect: Service
+text: Customer service: poor.
+ -1
+
+review_id : L15DSj64vWFKQFYCltYkGA
+aspect: Price
+text: Yes, the ticket cost less, but if time is money then it was an expensive journey indeed.
+ -1
+
+review_id : LtcO85PhOPxuGRzrIFwWPw
+aspect: Service
+text: Avis rental car office at YYC airport is overpriced, aggressive in selling insurance, and bad in customer service.
+ -1
+
+review_id : _1KxkvLNPphv2hVCyW8YGw
+aspect: Service
+text: As a businessman, this was very poor service.
+ -1
+
+review_id : XWBlXQgMeQtgqdzSWuOmMw
+aspect: Price
+text: But let's be real, National is expensive and I never had to pay for it with work.
+ -1
+
+review_id : 1T_7S1xPmNr8mztaHuD86Q
+aspect: Service
+text: However, they dropped to a 1\/5 because of their complete lack of customer service.
+ -1
+
+review_id : F-Ko2YxAzYgV6grLHQvp5A
+aspect: Service
+text: Terrible service, took the car back, everything fine at first.
+ -1
+
+review_id : ed0KK9EqFiuaYX2rW_yL5w
+aspect: Service
+text: Costumer service was very poor...
+ -1
+
+review_id : Vr1M34zQVtLDtCK2ejXvWw
+aspect: Service
+text: Not very nice customer service and not compatible.
+ -1
+
+review_id : ZMWGWpaiRnNuvryKJF6Vwg
+aspect: Service
+text: Terrible, high-pressure customer service and totally unscrupulous business tactics.
+ -1
+
+review_id : QlTIXSUJua9p5xOG2_WUTA
+aspect: Service
+text: This is the worst customer service I have ever received.
+ -1
+
+review_id : 254LJhvhlubPjXW-s8x5ow
+aspect: Service
+text: The gentleman at the desk was very rude, clearly no customer service skills.
+ -1
+
+review_id : 3OeUQG_NRoUZqsKzM4HeIw
+aspect: Service
+text: Bad customer service didn't notify of this requirement ahead of time was told we would get an impala wee got a Hyundai!
+ -1
+
+review_id : 3OeUQG_NRoUZqsKzM4HeIw
+aspect: Service
+text: Horrible car, horrible customer service, and downgrading our vehicle and renting is car that looked as it was falling apart! Wrong one star is over rating this!
+ -1
+
+review_id : jY39gvcqedSxxk35vdgOyw
+aspect: Service
+text: Terrible service, apart of that they function with weird names like Nu ..
+ -1
+
+review_id : jY39gvcqedSxxk35vdgOyw
+aspect: Service
+text: There is not service at all
+ -1
+
+review_id : TE0dGRQVq4uWYx-bj-ZTZg
+aspect: Service
+text:  This is customer service AT ITS WORST and I would never do business with them again.
+ -1
+
+review_id : TE0dGRQVq4uWYx-bj-ZTZg
+aspect: Service
+text:  Poor customer service certainly doesn't bring back business.
+ -1
+
+review_id : EgDfXHlzaRFDOHgARcgS8A
+aspect: Service
+text: Not pleased with customer service.
+ -1
+
+review_id : EgDfXHlzaRFDOHgARcgS8A
+aspect: Service
+text: Another terrible customer service point.
+ -1
+
+review_id : EgDfXHlzaRFDOHgARcgS8A
+aspect: Service
+text: What a piece of crappy service.
+ -1
+
+review_id : _JuZBaEWM5lan6nqrGLYTw
+aspect: Service
+text: Unfortunately I cannot recommend this company or their services.
+ -1
+
+review_id : Azjpd_LPqGYwz5BtqCAH4w
+aspect: Service
+text: Room was clean, bed was comfortable, but the am front desk guy clearly doesn't have customer service skills .
+ -1
+
+review_id : IRM99fGioGYHwWpkQ9Z4EQ
+aspect: Food
+text:  The hotel is missing lots of modern day accommodations like no microwave, no fine dining, breakfast food options isn't as good but needs major help.
+ -1
+
+review_id : xRUI4wqwg45_bbAPaFofxQ
+aspect: Service
+text: Terrible experience - would not recommend this service to anyone.
+ -1
+
+review_id : wnVoJoHjqLbg90INLG_y1Q
+aspect: Service
+text: The desk service is lackadaisical and the whole experience leaves a great deal to be desired.
+ -1
+
+review_id : lOnr4UpkgAkNPEjS6NAgzQ
+aspect: Service
+text: The worst service I have ever had, terrible driver who verbally harassed me completely unprovoked and then when I called the company number back he picked up and continued by swearing at me calling me lewd and derogatory names.
+ -1
+
+review_id : AmaAShueXZtWjynK9w4fbA
+aspect: Service
+text: HORRIBLE CUSTOMER SERVICE.
+ -1
+
+review_id : Swfkr3vmkV2nxI88gWa-Kw
+aspect: Service
+text: Poor service from this location, hidden charges that were verbally explained a different way and charged significantly during return.
+ -1
+
+review_id : wRLOQceBCDFefo-ZLPCmeQ
+aspect: Service
+text: Just came back from a Vegas trip for my birthday and had the worst service with them!
+ -1
+
+review_id : wRLOQceBCDFefo-ZLPCmeQ
+aspect: Service
+text: It's just disappointing that their service is not up to par.
+ -1
+
+review_id : 5PcHNyZ3RMhC9O2z3cKMjg
+aspect: Service
+text: Customer service is rude and aggressive.
+ -1
+
+review_id : 9rc3EqFh7BKpnM3mcUDrLQ
+aspect: Price
+text: We are not from Canada, so it's pretty expensive to use the phone.
+ -1
+review_id : QfcPW9It5QlfBqvmCjK2gA
+aspect: Service
+text: We will NEVER rent from this Avis location again! Absolutely horrible customer service.
+ -1
+
+review_id : nAuNHPkwVBTdhctR5EbWHg
+aspect: Service
+text:  I'm disgusted &a to make it worse, The woman who was 'helping' me at the counter had absolutely terrible customer service.
+ -1
+
+review_id : PsD4OKuMqNDVhEbMKTBOPQ
+aspect: Service
+text: This is either poor\/ignorant customer service or the hotel is running some deal with discount car rentals.
+ -1
+
+review_id : lk5WaZhLkDDSzWW1rR1--A
+aspect: Service
+text: Customer service was terrible.
+ -1
+
+review_id : Hx3Vt-Kp_bszJVpR5BkF6g
+aspect: Service
+text:  I attempted to visit their website, which is no longer under service, and the number posted, which ALSO is NOT in service.
+ -1
+
+review_id : CtyPBy9KDZzVAUTJ-JmOVg
+aspect: Service
+text: WORST travel service EVER...
+ -1
+
+review_id : Dy8PNJLO1-CIMG6AlZdFBQ
+aspect: Service
+text: The location had bad service for 2 days in and out constantly and basically none.
+ -1
+
+review_id : kSQlX1Q58NyoTWCwuCNrXA
+aspect: Service
+text: Awful customer service....
+ -1
+
+review_id : BG_PMXKgkMK867ulkQJu5g
+aspect: Service
+text:   Shame on the lack of customer service!
+ -1
+
+review_id : Ze_e9tLqib8HBB1fLqTYgA
+aspect: Service
+text: Sadly after roomservice was done it was still not clean.
+ -1
+
+review_id : jfObL9Gs6pHG5TCHwkJGLg
+aspect: Service
+text: Horrible customer service and maid service is null.
+ -1
+
+review_id : Ag0XxGsixC-0aF6isIV4Dg
+aspect: Service
+text: They actually put dirty bedding from the rooms on the very tables meant to be used during their breakfast service!
+ -1
+
+review_id : gQ_F5uTr-JxZL7NQjJOmHg
+aspect: Service
+text: Horrible customer service, from the airport through budget's 800 number.
+ -1
+
+review_id : OBmL29lxfOsf1iRwP8CFlQ
+aspect: Price
+text: It's almost doubly expensive to ride LEX for one thing, and takes at the very least four hours to get up to the Chicagoland area.
+ -1
+
+review_id : XoUgViJrJjxR3kjXHEOH9w
+aspect: Service
+text: Terrible customer service.
+ -1
+
+review_id : pHp2rMG8TXMoUmXCQeODVQ
+aspect: Service
+text: Overall the service wasn't good and the quoted price of $80 somehow turned into $260.
+ -1
+
+review_id : M3_rXMkrdLq1yO5-YfZFhA
+aspect: Service
+text: Worst service ever.
+ -1
+
+review_id : fN6YhbUUjUdOrkldjAGLSw
+aspect: Service
+text: The worst customer service for any rental service I have seen
+ -1
+
+review_id : Kw6cX03PVP69uW2nEWL0FQ
+aspect: Service
+text: Just bad customer service.
+ -1
+
+review_id : 59NxqbU0q9Nrb01Bq8UPbg
+aspect: Service
+text: The service worker didn't even acknowledge my online booking information; it was obviously just a ploy to get customers through the door.
+ -1
+
+review_id : mIxyWENBgI_ZRXDvgBINdw
+aspect: Service
+text: The service was terrible.
+ -1
+
+review_id : 7DaH22BYwslVdhSq-6zLBA
+aspect: Service
+text: Witnessed horrible customer service when we entered from this horrible woman Najia, and then ourselves experienced the same.
+ -1
+
+review_id : 0aLL8Ore3_ysI0suAk0Gnw
+aspect: Service
+text: I wouldn't recommend a company of thieves, with no customer service skills to anyone I know.
+ -1
+
+review_id : _mIROcrz07XvMMqQOeV8AQ
+aspect: Food
+text:  No hot food, grouchy staff do not make up for the great atmosphere.
+ -1
+
+review_id : ghWRYpmKOb_QtUKrNZTMBA
+aspect: Food
+text:  The food is subpar, the sandwiches and wraps did not look fresh and options are limited.
+ -1
+
+review_id : ghWRYpmKOb_QtUKrNZTMBA
+aspect: Food
+text:  There is no hot food, which I knew.
+ -1
+
+review_id : etNYqmjaF0BYSKoQdjb8XA
+aspect: Service
+text: I have to give a 1 star simply because of the valet services.
+ -1
+
+review_id : smFIke2BCv4P_fu6ndYkow
+aspect: Service
+text: Overall very poor customer service and not helpful when asking questions, I felt very ripped off and my money taken from me.
+ -1
+
+review_id : tvZ7F7r19-vwT9Z7_A8n_g
+aspect: Service
+text: Horrible service don't ever rent a a car from these people.
+ -1
+
+review_id : tvZ7F7r19-vwT9Z7_A8n_g
+aspect: Service
+text: Service is horrible, it's NOT at the airport very inconvenient to get to and from, shuttle service is non existent.
+ -1
+
+review_id : DZce6Mtauf-sPApGfMGGMQ
+aspect: Service
+text: Overall, such a bad experience with their services.
+ -1
+
+review_id : vdP0FDPMjmAUWopZfKotwQ
+aspect: Service
+text: Worst customer service ever, stay away from these guys.
+ -1
+
+review_id : 1EjUyrKA5q9CQCeScM4YvA
+aspect: Food
+text:  The food selection is awful and everything looks old.
+ -1
+
+review_id : 1EjUyrKA5q9CQCeScM4YvA
+aspect: Food
+text:  But the food is awful.
+ -1
+
+review_id : eH8PzoLv1CKPe_W7O-D8bw
+aspect: Price
+text: I can't believe they're still in business with their rude customer service, expensive rates and lack of ability to be on time for anything.
+ -1
+review_id : hD8j5SC5SKMJ1Mcmb4mIOA
+aspect: Food
+text:  But the cost of this lounge is really high concidering the quality and lack of the food they serve.\n
+ -1
+
+review_id : czIWSXJNmgxrng8mFjLUog
+aspect: Food
+text:  Food was awful.
+ -1
+
+review_id : BtTQUcBgAoGlNYLenzcnlQ
+aspect: Food
+text:  The way some of the food is out (chips and nuts) seems totally unsanitary.
+ -1
+
+review_id : BtTQUcBgAoGlNYLenzcnlQ
+aspect: Food
+text:  No soup or warm food to be found anywhere and they were very low on other foods.
+ -1
+
+review_id : ArRS2MmkFo30NknO4VvCJQ
+aspect: Food
+text:  The food was a bit disappointing as well.
+ -1
+
+review_id : Gpw9ZQer7kSahkVyd13S7Q
+aspect: Price
+text: EZ IS MUCH MORE EXPENSIVE THAN REPUTABLE AIRPORT COUNTER RENTALS:  When all was said and done, while I contracted on the net to pay a bit over CAD 110 for the rental, I was charged\/extorted CAD 267.
+ -1
+
+review_id : X26y1Jcz1TMl89ZvSEZw2Q
+aspect: Price
+text: The cab takes longer periods to get to where you are than yellow cab and it's more expensive.
+ -1
+
+review_id : L5loCfLQhqPRygnQxUX7HQ
+aspect: Price
+text: This park was one of the most expensive parks we've ever stayed in and was the worst one we've ever stayed in.
+ -1
+
+review_id : tixCCn3A5hxcWKUTxKS-7w
+aspect: Price
+text: She gave me the receipt, it seemed expensive but dumbly assumed the deposit was included.
+ -1
+
+review_id : 7oLZ2-eXPnJgBAs7n7YaAg
+aspect: Food
+text:  The food selection looks like it's past it's prime and ready for the garbage (dry sandwiches and vegetables).
+ -1
+
+review_id : 7oLZ2-eXPnJgBAs7n7YaAg
+aspect: Food
+text:  No hot food beside the soup.
+ -1
+
+review_id : NWeg3sWt9E3e2bjt9gAUXA
+aspect: Food
+text:   To our understanding we were going to have seafood for lunch, we ended and a Chinese buffet that didn't have to freshest food on the bar.
+ -1
+
+review_id : bLvbEyz97-TdwZ_RyGCzLQ
+aspect: Food
+text:  There was a plastic bag with food and a styrofoam cup with pink drink on the counter where i was checking in, which was also very strange and unprofessional.
+ -1
+
+review_id : _Qq_e5U4AMbggcQIdlJ_3g
+aspect: Food
+text:  No hot food.
+ -1
+
+review_id : 5ryMxpKR5aVRDdw9gLRBKw
+aspect: Price
+text: VERY expensive for what it is, because it isn't much.
+ -1
+
+review_id : XoQHZ-YSlmMjlv6IFb4K1Q
+aspect: Price
+text: The worst part was that the cost of these rentals was laughably expensive and this WAS NOT told to me.
+ -1
+
+review_id : EmBS2mmGRMOL9jm4iwqG0A
+aspect: Price
+text: Parking is expensive.
+ -1
+
+review_id : EmBS2mmGRMOL9jm4iwqG0A
+aspect: Price
+text: Breakfast is expensive.
+ -1
+
+review_id : aor-okii-ATrZijNrL5ieA
+aspect: Food
+text:  so because the mechanic was not prepared, my friend and I had to spend the night at a rest stop with no food.
+ -1
+
+review_id : -7v66_suY84Mr1DvucnT2Q
+aspect: Food
+text:  We didn't even try the continental breakfast, scared they would give us food poisoning.
+ -1
+
+review_id : CfMr2Fxlb2i480SoG1JLKw
+aspect: Food
+text:  Unimpressive food.
+ -1
+
+review_id : 5Wd4P8bn4o4EyB6p5cy3bQ
+aspect: Food
+text:  The food was the equivalent of 3 day old McDonalds breakfast foods.
+ -1
+
+review_id : gfjPM94OJeRMPTSryB1RxQ
+aspect: Price
+text: Expensive for a dump of a motel.
+ -1
+
+review_id : X8w9711XgU4QOKJfvIrtcw
+aspect: Food
+text:  The restaurants they have you eat at are DISGUSTING, very very questionable food.
+ -1
+
+review_id : 6mSsyD7x_6PrUkSBWZMoRg
+aspect: Price
+text: Everything is so expensive & the store employees are very corrupt pressure  everyone to buy their goods w\/c are FAKE, knockoffs.
+ -1
+
+review_id : YrstKakyIZBvUEewDIefFQ
+aspect: Food
+text:   Without rambling the issues are: elevators literally move at snails pace, Wi-Fi is unusable, food in cafe not good, no conveniences to purchase such as snacks or water unless you have correct Canadian coins, hotel key cards magically stop working and requires another back and forth with their slow elevators.
+ -1
+
+review_id : ScS27L3KWB9gVYd9u98gqg
+aspect: Price
+text:  On top of this expensive insurance it isnt comprehensive.
+ -1
+
+review_id : F9y-1issasu2CSyQbU8XnA
+aspect: Food
+text:  All the hot food in the breakfast cafe was cold.
+ -1
+
+review_id : 8ulUCiZiocPKkaCgEgwu5Q
+aspect: Food
+text:  They were late and never answered the phone while we waited in the parking lot with all our drinks and food forever in the heat.
+ -1
+
+review_id : BDJ2isqh9RIThId7lvWXlw
+aspect: Price
+text:  They say buying a ticket at the airport is more expensive than online, because it's like VIP service and can't beat the price online.
+ -1
+
+review_id : QUIUHgFFFZIA964SEiPd0w
+aspect: Food
+text:  As far as food - there is no good food in the area.
+ -1
+
+review_id : Id2cEgPEuHfo0jxe1YPcHA
+aspect: Food
+text:   When they showed us out and gave us our \"free\" items they are all TOTALLY worthless especially the food.
+ -1
+
+review_id : U2zAmuMTY5rNtiLe1zQ0sg
+aspect: Price
+text: FLYFAR is a total scam! I bought a last minute flight with them, and it seemed much better than others, even if it was a more expensive one.
+ -1
+
+review_id : 9x7PCWQG945MY2tDQGkLeg
+aspect: Price
+text: Overall it was a VERY expensive and disappointing experience.
+ -1
+
+review_id : r4eo9uxhIncPi6o8COhZiQ
+aspect: Price
+text: Actually very disappointed - bland, boring and expensive.
+ -1
+
+review_id : xkRjrx_exj5tpw4_q8xeSw
+aspect: Food
+text:   We ate in the dining room one evening and the food was atrocious!
+ -1
+
+review_id : xkRjrx_exj5tpw4_q8xeSw
+aspect: Food
+text:   The steak was so tough it was inedible.
+ -1
+
+review_id : VA7MHm1_iuJip-AqtVDyEA
+aspect: Food
+text:  Dirty and food really nasty.
+ -1
+
+review_id : QcIQQpfmlHoEjMThTZ1ocg
+aspect: Price
+text:  It was ridiculously expensive...$186!!!! That was with AAA discount, no insurance (I have my own) and I didn't pay for gas upfront (I refueled on my own).
+ -1
+
+review_id : Mgeu_YWBeirwCE-edxDyUg
+aspect: Food
+text:  Dirty and food really nasty.
+ -1
+
+review_id : by0O3mEmzA4i0UfxtWOt_g
+aspect: Price
+text: Overall it was a VERY expensive and disappointing experience.
+ -1
+
+review_id : p8x18C8qE8MeiMd7l_gjmw
+aspect: Food
+text:   Food stained, dirty dash, greasy steering wheel is something you should expect when pick up a car from them.
+ -1
+
+review_id : KnMexMyFNTUBFc0uF_PgMg
+aspect: Food
+text:   I would not recommend this food tour to anyone.
+ -1
+
+review_id : U5oVxEs5vNSrQYBdZaEAYA
+aspect: Price
+text: We stayed here cause it was cheap but it ended up being even more expensive because all they say online is that they're pet friendly.
+ -1
+
+review_id : U5oVxEs5vNSrQYBdZaEAYA
+aspect: Price
+text: So this hotel ended up being even more expensive.
+ -1
+
+review_id : 0_dzBsB1GAfn-bNfx3RSDQ
+aspect: Price
+text: It's more expensive than other buses too, so it's not worth the hassle.
+ -1
+
+review_id : jt3fWo2b9JJ9W5BY-TsI4w
+aspect: Price
+text: Expensive at $159, boasting of clean non-smoking building and free breakfast.
+ -1
+
+review_id : SoqzLYgdsIBlMfsLBfOt4g
+aspect: Price
+text:  This was supposed to be the highlight and it ended up being an expensive waste of time.
+ -1
+
+review_id : E7B7aDHycqwvJFFhWTERnQ
+aspect: Price
+text: There was a sign that said something about it was expensive to run water heater, so if you want clean towels put them on the floor, leave them hanging then you will get none.
+ -1
+
+review_id : a56d6eUDrmSd6CW1kH6iVQ
+aspect: Price
+text:  Souvenirs are expensive...
+ -1
+
+review_id : PQ0MHBEOeA4LKPTNRAP7HA
+aspect: Price
+text: Firefly was the least expensive for the mid size car, so we went with that.
+ -1
+
+review_id : LClxiuA3B8ymVu3EarDMzQ
+aspect: Price
+text: A blown transmission is about $3000 and had I not taken my car back to someone else I would have quickly been looking at a very expensive fix on my car.
+ -1
+
+review_id : fDLtr3OXDPlIrXDaq6EzGQ
+aspect: Price
+text: It is far more expensive even if they only charge  10 bucks.
+ -1
+
+review_id : oZdaN3a13GKqsk996cKajA
+aspect: Food
+text:   The food was the worst I'd ever had at a Bob Evans!  3 of us ordered chicken strips and fries.
+ -1
+
+review_id : oZdaN3a13GKqsk996cKajA
+aspect: Food
+text:   It all had the texture of food that was very very old, though it was hot.
+ -1
+
+review_id : OVdSjw5tYoKL62_jkv3Jjg
+aspect: Food
+text:   It was very cold and by far the worst food I've ever eaten.
+ -1
+
+review_id : 08f9qNCF9SRECDqhDkoPTQ
+aspect: Food
+text:  The food buffet is extremely limited and did not appear to be restocked on a regular basis.
+ -1
+
+review_id : s1va4lGCc3-RD4lwGoBvqg
+aspect: Food
+text:  The hot foods were out the majority of the morning and on the rare occasion it was replenished everything was taken within moments by the customers who were waiting to eat.
+ -1
+
+review_id : Hf6V-jsjICK3sPHUQJa4UA
+aspect: Price
+text: The cheap advertized price is too expensive at the end
+ -1
+
+review_id : HlhABgEvZ5GU_3A0klm8LA
+aspect: Price
+text: I didnt have any high expectations considering it is the least expensive hotel around but if i am paying $70\/night i would at least expect to have a clean room.
+ -1
+
+review_id : SZXoLyFwNBAGYze3zHmuiA
+aspect: Food
+text:   Food was disgusting, waffles taisted sour.
+ -1
+
+review_id : mZYpzP5me3lmmkmbhQ_MGQ
+aspect: Price
+text: This hotel is fairly expensive nightly so we thought some accommodations would be able to be made, especially for a group of our size there for such a special occasion, but everyone was very hard to deal with.
+ -1
+
+review_id : 9n-Zr7qyNLdLPRPw2kraPw
+aspect: Price
+text: They put me in an Isolated Family resort 30 minutes away from everything at an extremely high cost.
+ -1
+
+review_id : LBbhYQdEYXIZi-9D4Qa2uQ
+aspect: Price
+text:  Eventually booked a new flight on Southwest (which was very expensive).
+ -1
+
+review_id : 9KHqbbecT5ntnqPfem5jcQ
+aspect: Price
+text: Too expensive for a run down hotel.
+ -1
+
+review_id : sB1K1Rl5I7jx0w6U5WB2wQ
+aspect: Food
+text:  As I am adult now and i have a whole new perspective on the Bob Evans Business, the food is actually disgusting when the waitress brought it out I was sick to my stomach but I said \"Hey I guess I'll give it a shot!\" 
+ -1
+
+review_id : 9L8PfSIeOZPofndnCBJOiQ
+aspect: Price
+text: too expensive for crap.
+ -1
+
+review_id : mT8cm7-7xmxglLiFRw9UHQ
+aspect: Price
+text:  Anyway,  expensive lesson learned.
+ -1
+
+review_id : lh4lc_fVaFUHeAWBk223pg
+aspect: Price
+text: STAY AWAY FROM THIS PLACE!!! Just a VERY expensive DUMP! $90\/night plus $10 each for our little dogs - 3# and 6#.
+ -1
+
+review_id : p_ARK5ECJhZ_SsePb--T-A
+aspect: Price
+text: So to summarize -- One of the most expensive AVIS locations I've rented from with one of the worst customer service levels.
+ -1
+
+review_id : iTkH1jvKQPIUnAB2o6sj5w
+aspect: Food
+text:  There was old food left in the refrigerator.
+ -1
+
+review_id : 0BmDT5W-TlJP06w3faURrQ
+aspect: Price
+text: - $59\/night (paid by US air) seems expensive for the quality of this property.
+ -1
+
+review_id : kQHkVrZuA6e615pxdwf_7g
+aspect: Food
+text:   Breakfast foods often out.
+ -1
+
+review_id : i6qckHX9u8GqDGIP-49nXQ
+aspect: Food
+text:  He threw the food in our car.
+ -1
+
+review_id : wspIHPOOCGbJNOapntVkNQ
+aspect: Food
+text:  I had not eaten at Anna's in a number of years because of the decline in the quality of food and service.
+ -1
+
+review_id : MM-wlmC6DOwydLZYMKeLAA
+aspect: Price
+text: Very expensive,  for no refrigerator,  microwave,  or blow dryers.
+ -1
+
+review_id : u706MWeyMNoGBuXNV4PuWw
+aspect: Food
+text:  Morning came and the desk gentleman at that time said he couldn't give me any breakfast food.
+ -1
+
+review_id : ZHPGuSROf51g5FY66fzpag
+aspect: Food
+text:  The food was nasty.
+ -1
+
+review_id : u4OVJZjok1KesHdXVUDMAw
+aspect: Food
+text:  No room service, no food service.
+ -1
+
+review_id : Nz22wPzzYTBAW5PvY-KKxg
+aspect: Food
+text:  By the next morning (less than 24 hours after picking up the van) it thawed and all food was ruined.
+ -1
+
+review_id : Nz22wPzzYTBAW5PvY-KKxg
+aspect: Food
+text:  Dishes provided had old food stuck to them.
+ -1
+
+review_id : k9HwvuUtNHFnD45sq7mMLQ
+aspect: Price
+text: I travel all over the world and been in everything from a motel and hostel, to 7 star hotels and expensive Airbnbs.
+ -1
+
+review_id : EUqAwt5jNsboxbyZOvlWTQ
+aspect: Price
+text:  They booked THE MOST EXPENSIVE ROOM, knowing i had limited coverage for a hotel.
+ -1
+
+review_id : L0Kfd_yo8E0KYkILfwKPkg
+aspect: Food
+text:   The floor has old food crumbs, spare change and mud on it.
+ -1
+
+review_id : L0Kfd_yo8E0KYkILfwKPkg
+aspect: Food
+text:  There was old food left in the refrigerator.
+ -1
+
+review_id : X2P3CfOSxJlCos6Xz9OHZw
+aspect: Food
+text:  It all was about the same quality as hospital food.
+ -1
+
+review_id : Alnrnw4KbUq9mFR3HbXPwg
+aspect: Food
+text:  Poor service and low food quality.
+ -1
+
+review_id : lIf7eEKMdssb9D4zG37TFw
+aspect: Price
+text:  It was a very expensive and eye opening lesson.
+ -1
+
+review_id : IGN8Yztd3xc2s3Kcww-7bA
+aspect: Price
+text: The rate was super expensive and the tank wasn't even full when we picked up our vehicle: fail Avis.
+ -1
+
+review_id : kiZEm7Ne7kVguhqqhNMsSA
+aspect: Food
+text:  Bar\/Restaurant was slow and food was bad.\n4.
+ -1
+
+review_id : z-ttye1J2M8wuHtOengUcQ
+aspect: Price
+text: Way too expensive with add on's for such a basic airline.
+ -1
+
+review_id : 3OXomk9rEz0BrKDIRodQNA
+aspect: Food
+text:  food- bad service\n4.
+ -1
+
+review_id : KxlQxrB99T5bk55FX4mlKg
+aspect: Price
+text:  The lot rent is expensive and I am paying almost $150.00 more now than when I moved in so I am paying over $700.00 just for a place to keep my mobile home.
+ -1
+
+review_id : K_h0m1e-aO0URERiZNgLuQ
+aspect: Price
+text: Very expensive , employees are rude unprofessional  & they are only after your money  without giving any service.
+ -1
+
+review_id : OZOxWKS6hk9fjHO8pti-0A
+aspect: Food
+text:  The food mainly consists of asian buffets (BAD! BAD! BAD!) and it was gross....very gross.
+ -1
+
+review_id : OZOxWKS6hk9fjHO8pti-0A
+aspect: Price
+text: Recently, my friend and I wanted to go to NYC, but the hotels are so *($&#(*$ expensive.
+ -1
+
+review_id : b_hjDjqtQS6pMMxSce2MbA
+aspect: Price
+text: Too expensive for zero amenities.
+ -1
+
+review_id : 2cjqhZeISsKKbI7lusPfVw
+aspect: Food
+text:  Food is awful, fries are extremely salty and the chicken burgers taste off.
+ -1
+
+review_id : 2cjqhZeISsKKbI7lusPfVw
+aspect: Food
+text:  It's sad that airport travellers are succumbed to eating this quality of food.
+ -1
+
+review_id : JKuuPvjuq0ykzCWJHTL36g
+aspect: Food
+text:  But, we could not eat the food because food was not done.
+ -1
+
+review_id : JKuuPvjuq0ykzCWJHTL36g
+aspect: Food
+text:  The food was raw.
+ -1
+
+review_id : JKuuPvjuq0ykzCWJHTL36g
+aspect: Food
+text:  This means that management does not recognize uncooked and raw food they are serving to their Marriott guests.
+ -1
+
+review_id : xjJnMp3HBD9vCoj9suuLvw
+aspect: Price
+text: The rent is very expensive for Montreal and you get nothing for your money.
+ -1
+
+review_id : 3HU4iTCInDLBxQzodBRX8w
+aspect: Price
+text: This is the most expensive park we have ever stayed at, with the least amount to offer.
+ -1
+
+review_id : lOD1w6vNLzJsWXOGUFOuqA
+aspect: Price
+text: Just horrible all the way around and most expensive- will never use again.
+ -1
+
+review_id : bbOUmizykjF6GGiQ24YCSQ
+aspect: Price
+text: More expensive than ordering directly online, from Kayak.
+ -1
+
+review_id : JNI-hM_VnElXiNLleCQHJQ
+aspect: Food
+text:  I got violently ill with food poisoning.
+ -1
+
+review_id : 9PgvLDZwvVeCo6JnVjggnA
+aspect: Food
+text:  Probably get better food in a prison cell.
+ -1
+
+review_id : tu-kYgEiFsM6ASMCEOX4cw
+aspect: Food
+text:  We were brought to a random restaurant and the food was not sufficient.
+ -1
+
+review_id : 7vs9kyHpzCh3zXIHj5_zfQ
+aspect: Price
+text: expensive and unreliable just like the rest of them.
+ -1
+
+review_id : dEYUKUND63RKANbzgwnd7g
+aspect: Food
+text:  In this age of Social Media, poor service, bad food, unconcern of the management, and unacceptable rooms will not be tolerated by the informed public.
+ -1
+
+review_id : Pxq0oPzW0PSduZHlWwrTHw
+aspect: Price
+text: Almost $200 a night is too expensive for such an unpleasant stay.
+ -1
+
+review_id : Hj_WCUqFB-HKqDTvzoAmFw
+aspect: Price
+text: Their insurance is expensive and does not cover anything.
+ -1
+
+review_id : KagRMkxJU7LV-iGcsK72FQ
+aspect: Food
+text:  Extremely disappointed with the selection of the restaurants and foods served to you.
+ -1
+
+review_id : JkPRLCxfATjE8sLk_9_CYQ
+aspect: Food
+text:   No food, no drinks, and their vending machines were all broken.
+ -1
+
+review_id : _Ma0YvnclrDJ00mdep1Vjw
+aspect: Price
+text: What they offer was Jeep Cherokee, that was more expensive.
+ -1
+
+review_id : PcDaGNHwUy97PW77IPkMvw
+aspect: Food
+text:  Although it had free breakfast, the food wasn't good and I have pretty low expectations for hotel food.
+ -1
+
+review_id : AaMn7KNp5thUYWV0-sC_PQ
+aspect: Price
+text: Housekeeping are thieves\nForgot something very expensive in the room.
+ -1
+
+review_id : i2YHSPRArTKBjR39meSxaw
+aspect: Price
+text: According to state investigators, prizes were difficult to redeem, expensive to redeem, or unavailable during certain dates.
+ -1
+
+
+review_id : 84xJICkAu2NbVzolqM3iVg
+aspect: Price
+text:  So what seems at first to be a good daily rate becomes one of the most expensive.
+ -1
+
+review_id : CopewaO3NulYoX4Rkbs0hg
+aspect: Price
+text:  It is very expensive to enroll, plus the service isn't good for what we are paying.
+ -1
+
+review_id : NWal4KMxW-Jvj3u13BTZFA
+aspect: Price
+text: This place was way, way too expensive for the dilapidated condition of the rooms.
+ -1
+
+review_id : yk3zzFegfnw61HWrouZUKQ
+aspect: Price
+text: Oh yeah, make sure you bring proof of your insurance carrier or you can't rent the car and your forced to buy their very expensive insurance.
+ -1
+
+review_id : 5eI8A1LLnCeiMaPXsaPxig
+aspect: Price
+text:  So it is probably the most expensive rental car in Toronto
+ -1
+
+review_id : es4fmLYtI8yEOqmBu4cSLg
+aspect: Food
+text:   Service was mediocre but the worst part was the food.
+ -1
+
+
+review_id : es4fmLYtI8yEOqmBu4cSLg
+aspect: Food
+text:   I don't normally speak up when it comes to bad food (I usually just bear with it and make a mental note not to come back), but in this case, I had to say something when the manager passed by.
+ -1
+
+
+review_id : iSHIxBgEHOxFcbFJfyoR0w
+aspect: Food
+text:  Terrible service and food!
+ -1
+
+
+review_id : pNZDBRouBfXWu6bL0XoT8Q
+aspect: Food
+text:  The food came very slowly and was barely mediocre.
+ -1
+
+
+review_id : -1Ie4wLKqZQoqGG-UO0s7g
+aspect: Food
+text:  Breakfast was another issue, there wasn't much in terms of hot food, which is what they advertise.
+ -1
+
+
+review_id : xMnAvrXzaaTjzKAD_3yISQ
+aspect: Food
+text:  The food is absolutely disgusting.
+ -1
+
+
+review_id : 7_OFJ9zJ9W_fZt8QeX7RBg
+aspect: Price
+text: Had a fairly expensive watch stolen from my room.
+ -1
+
+review_id : olocWGTHleM0ri61-U7lJA
+aspect: Food
+text:  There was dried food in the microwave.
+ -1
+
+
+review_id : ut71U8SmjAA5JoOKkRJplw
+aspect: Price
+text: The bus broke down, the company doesn't care about you after they have their money and it was an expensive terrible bad experience.
+ -1
+
+review_id : pZ8PnOIwpuntIijAj_zdeg
+aspect: Food
+text:  I don't do Buffet nor BAD Chinese Food!
+ -1
+
+
+review_id : J6giGYiF089JqhvSXbB0eA
+aspect: Price
+text:  The bike was brand new and very expensive.
+ -1
+
+review_id : YqsAzsGOWh_HelCXLrBLXA
+aspect: Price
+text: Electricity is outrageously expensive as the park tacks on an extra fee to each monthly bill.
+ -1
+
+review_id : clHU9OtMwWVS4ySfFPkoPA
+aspect: Price
+text: All the other hotels either full or ridiculously expensive and United would not get back to us.
+ -1
+
+review_id : CVzae5eqlzi1-EF2xrhL5Q
+aspect: Price
+text: This is officially the most expensive $20 hotel ever.
+ -1
+
+review_id : B2Xsr3YB66vq_CsecPdUoQ
+aspect: Food
+text:  AWESOME FOOD AND FANTASTIC SERVICE!
+ -1
+
+
+review_id : joaX5Npmlt1Z3welg1yHCw
+aspect: Price
+text: Had a fairly expensive watch stolen from my room.
+ -1
+
+review_id : _sicNfo_TeXbY-j9otf6NA
+aspect: Food
+text:  The worst about the food is the lack of cleanliness and hygiene.
+ -1
+
+
+review_id : IE1LMJSKooINk4sW12a-pA
+aspect: Food
+text:   It was like jail food.
+ -1
+
+
+review_id : m5-rd7Tkdnkg4aPrLBgc4A
+aspect: Price
+text:  It had serious mechanical problems and needed servicing often and expensive ($2000, $1500, $1800, etc.)
+ -1
+
+review_id : I5hNudDPKz5Ui1MiFhWdbA
+aspect: Price
+text: To think we should replace an expensive RV every fifteen years that is perfectly fine is nuts.
+ -1
+
+review_id : 7_UH4QXcFhvoyCwwz5Z6lg
+aspect: Price
+text: Even if you get it, it is much more expensive than cheapo-air or orbits.
+ -1
+
+review_id : CsKivUYvMrHHLF7vL40BSA
+aspect: Food
+text:  The Cleveland Greyhound station has lousy customer service, a dirty terminal, poor food in their restaurant, and the bus I was taking had no driver available when we were supposed to depart.
+ -1
+
+
+review_id : LLHqsqyhDIEvQq5DnIJOjQ
+aspect: Food
+text:  The minibar had food that had been expired for a year.
+ -1
+
+
+review_id : dHOvkMbW87oX0fj2SXAHAA
+aspect: Food
+text:   The crib we asked for was filthy dirty with food and other assorted fluid stains.
+ -1
+
+
+review_id : 3d2fUqCKCZlr2sM33cTTJA
+aspect: Food
+text:   Bad service, scary food, overpriced - Don't eat here.
+ -1
+
+
+review_id : smKfwfJ9VWg_r8qQjKV3iA
+aspect: Food
+text:   My overly priced food was horrible to the point where my family and I couldn't eat it and honestly wouldn't if it was free which it was way overpriced.
+ -1
+
+
+review_id : FKO-jERTRXqKsHiHcluXKw
+aspect: Food
+text:  There was dried food on the floor, rust in the tub, and mold in the bathroom and on the ceiling.
+ -1
+
+
+review_id : TgcRDpGXOPvImawFyfItfQ
+aspect: Price
+text: It is by no means an expensive hotel, but the price seems high for what you get.
+ -1
+
+review_id : kZz0pk84PoLOPg7MUptlqw
+aspect: Price
+text: She kept pressuring me to purchase expensive car insurance.
+ -1
+
+review_id : Kq8ubYx60n4IeMVygQM-rw
+aspect: Food
+text:  Room service only comes after 530, they charge you an automatic gratuity and the food was not good at all.
+ -1
+
+
+review_id : 2mjgWo9543YQY5JgXQh8VA
+aspect: Price
+text: It won't make any difference compare to the most expensive ticket.
+ -1
+
+review_id : 3DF8Rz9bqYSvm2ZdCKAFGw
+aspect: Food
+text:  They we got in our truck and there was old food, trash, and ants in it.
+ -1
+
+
+review_id : 74TmKelegWibOEnHKkqKbQ
+aspect: Price
+text:   Free shows required the purchase of expensive drinks.
+ -1
+
+review_id : LzW9PC6iuMTAIuX6Qtk9IQ
+aspect: Price
+text:  Not that I can take them or anything...because again...never available...so instead I get an upsell for some outrageously expensive hotel.
+ -1
+
+review_id : KRB1ffNf1RjhwsJGrxx4uA
+aspect: Price
+text: Very expensive tours and unfriendly nearly insulting customer service.
+ -1
+
+review_id : Ue1SO8z_sYMxry-JmiMDaQ
+aspect: Food
+text:  Spoiled food in fridge upon entering hotel room.
+ -1
+
+
+review_id : LxQ6CoO2gJzeIl26l4wVzg
+aspect: Price
+text: This place is expensive and given how nasty the management and staff are, I am surprised they remain in business.
+ -1
+
+review_id : 4qD6NFmAVn5IMVQKAozsxA
+aspect: Food
+text:  They gave us a sorry meal voucher for 7.50 and they two bad attitude having women in the café Tanya and the one with the terrible blond wig had attitudes and wanted to serve us old food.
+ -1
+
+
+review_id : HfOrwhpPe1M0Fez-kmdyXw
+aspect: Food
+text:  Food was beyond terrible across the board no matter where you are on the boat...
+ -1
+
+
+review_id : MCp8teLUh3mA2w_dO37iLQ
+aspect: Food
+text:  I really want this place to succeed, but with their terrible food and customer service, it is not going to happen.
+ -1
+
+
+review_id : zGB77REEVCCgEkNM0kMd4g
+aspect: Price
+text: Expensive - horrific experience.
+ -1
+
+review_id : jFiS3V1rIBKIKkHSlseCTg
+aspect: Food
+text:  The whole hotel and even my room smelt of food and pretty unpleasant food at that.
+ -1
+
+
+review_id : zS-MiFpuCfxJXfvLx732yQ
+aspect: Price
+text: The worst environment, the most expensive price!
+ -1
+
+review_id : e8-X86wleVDWxwuGYyhhuQ
+aspect: Food
+text:  The food is terrible...all microwave crap.
+ -1
+
+
+review_id : MQQA-gwlzFBxM3h5dQPOKQ
+aspect: Food
+text:  The food was terrible.
+ -1
+
+
+review_id : 36ffMEwFVo_Eo5JqwsMSfw
+aspect: Price
+text:  Overall, price of the hotel is expensive plus parking is expensive.
+ -1
+
+review_id : A6KKYCRV3M1NqNZWmuk9Sw
+aspect: Food
+text:  By far the worst hotel, bad people , bad food , only 1 nice employee I've encountered a month of being here, they stole food I had for the month I was out here , did a half ass job cleaning the room , cleaned bathroom but nothing else , always left lights and shutters opened , the manager didn't seem to care her employees were thieves , never again.
+ -1
+
+
+review_id : HshtkNljnAdFtL9V1aiGPA
+aspect: Price
+text: The room was very expensive for the ONE night we stayed there too!
+ -1
+
+review_id : nK7PMI6wlEFHQ8O-MUbTUw
+aspect: Food
+text:  The food you are served at the bread n breakfast is prepackaged, frozen and tastes terrible.
+ -1
+
+
+review_id : e0_GklLp2UPR7_oTP3M31g
+aspect: Price
+text: I asked my friend if maybe we can transfer to an actual hotel and not an expensive motel for the same price.
+ -1
+
+review_id : I-v2cweyre8yxKBv6DXbeA
+aspect: Price
+text: Quite expensive for what you get but then again I live in LasVegas where anything and everything is at your disposal for cheap.
+ -1
+
+review_id : 7iow9n5zMnDlNilexlF3fA
+aspect: Food
+text:  Food left in fridge from previous tenant.
+ -1
+
+
+review_id : wRQ44Jk8K4mdVD7PQvcRug
+aspect: Price
+text: The worst environment, the most expensive price!
+ -1
+
+review_id : bBF3_zCFttC2w0NAPpC-Zw
+aspect: Food
+text:  The food selection was very poor.
+ -1
+
+
+review_id : oXnAAFH1y2STxER-JRPXpA
+aspect: Price
+text: The car they rented was was very expensive and it smelled like cigarettes and had been wrecked.
+ -1
+
+review_id : AeuGN4U046ttcLBjgZp1iw
+aspect: Price
+text: We have very expensive vehicles and never smoke in them, neither would we ever smoke in any vehicle as habit.
+ -1
+
+review_id : xNJ-zpq3mPsEbL2dnj8OuA
+aspect: Price
+text:  (Roadside Service is expensive).
+ -1
+
+review_id : D0PsP0xkcbBHt2gtiBph7A
+aspect: Service
+text: Terrible customer service, rude attitute and no way to get your money back.
+ -1
+
+
+review_id : 2y-h5Qr5n7KuZCylInWeVQ
+aspect: Service
+text: Worst cab service ever - Uber or the competitor needs to get cabs like these off the street.
+ -1
+

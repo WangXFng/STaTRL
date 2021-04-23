@@ -248,12 +248,6 @@ text: I was very disappointed with the service my daughter received.
  -1
 
 
-review_id : u3Z-NeBP9-1TM80Lnf32iA
-aspect: Service
-text: I was very disappointed with the service my daughter received.
- -1
-
-
 review_id : Lu1--R5OiKyW1t2bYuI0-w
 aspect: Service
 text: Bad service so we'll just took our business elsewhere.
@@ -270,13 +264,6 @@ review_id : TPXalxtvVoJRer_cJqToHA
 aspect: Service
 text: The customer service here sucks.
  -1
-
-
-review_id : SIbhMurFFUg-8CchD2w-MQ
-aspect: Service
-text: Horrible customer service.
- -1
-
 
 review_id : PUVl1Gra2R-8qfZC_7WOyw
 aspect: Service
@@ -935,11 +922,6 @@ text: The price does not match the service and they definitely rip everyone off.
 review_id : eS5HcUXo98Cb7wI3Nz9SbA
 aspect: Price
 text: Not only was the price outrageous, the guy who did my hair, yanked and pulled, and scratched my face with the brush like 5 times.
- -1
-
-review_id : w2YSzraVe-WKnJor7y-PQQ
-aspect: Price
-text: The price is unreasonable high too, I spent $200, plus tips, for a result I don't even like.
  -1
 
 review_id : m1_1YQjbhhvk94n0I957Hw

@@ -237,6 +237,7 @@ text : The nastiest tacos I have ever tasted, No phone number on the receipt to 
 review_id : P8biFWq-5aY0hTXS89GnPg
 aspect: Food
 text : So terrible I sought out this website to warn others off! I ordered take-out Kung Pao Chicken and got a soupy mess, with a handful of burnt chilis thrown on top destroying any flavor? with spicy burnt chili flavor.
+-1
 
 review_id : P8biFWq-5aY0hTXS89GnPg
 aspect: Food
@@ -441,6 +442,7 @@ text : This is the worst slice of pizza I've had.
 review_id : BiefeRRI3LtQUS-PSykivA
 aspect: Service
 text : The place is absolutely filthy.
+-1
 
 review_id : BiefeRRI3LtQUS-PSykivA
 aspect: Service
@@ -627,11 +629,6 @@ aspect: Service
 text : Employees are inattentive at best and rude at worst.
 -1
 
-review_id : qKjZuTCGM5YXj-bx-upqyw
-aspect: Service
-text : Employees are inattentive at best and rude at worst.
--1
-
 review_id : M7PG4EtdBwVKT-fVy6SULw
 aspect: Service
 text : The guy who picked up was very rude, told me he could not help me because he is the only one working, refused to give me his name and hung up.
@@ -695,11 +692,6 @@ text : They don't taste like donuts at all, they taste more deep fried than they
 review_id : qbyGef_3A6NosITZwTncVQ
 aspect: Service
 text : The service here is unbearable, our waitress had an attitude throughout our entire visit.
--1
-
-review_id : qbyGef_3A6NosITZwTncVQ
-aspect: Food
-text : The food literally tasted like horse sh*t- I WISH I was making an exaggeration.
 -1
 
 review_id : Efkq9X6eV7wmvoy-6_iEtw
@@ -972,29 +964,14 @@ aspect: Food
 text : Iced coffee is rarely made correctly and last time all of our food was cold.
 -1
 
-review_id : FUb0RjQkL7gteqMVYSMWvw
-aspect: Food
-text : This place was really bad food was awful my fries were cold.
--1
-
 review_id : iyedwoZlkmlM_UQiTX_ggw
 aspect: Food
 text : I been here a few times during the weekend and all those times the food quality was not that good.
 -1
 
-review_id : zmkzpYMHbjd57js6szeoxQ
-aspect: Food
-text : It does sounds good, but but but the food is just too bad.
--1
-
 review_id : qbyGef_3A6NosITZwTncVQ
 aspect: Food
 text : The food literally tasted like horse sh*t- I WISH I was making an exaggeration.
--1
-
-review_id : i1CG3RlmF5O1k93H2P_01g
-aspect: Food
-text : The food was bland and cold.
 -1
 
 review_id : i1CG3RlmF5O1k93H2P_01g
@@ -1025,11 +1002,6 @@ text : The fries were bland and oily anyway and bore little resemblance to authe
 review_id : jd-exeveUIIX5rgb-_cLvg
 aspect: Food
 text : Never will I ever go back again the food was terrible cold and old
--1
-
-review_id : uNIzAgQOCwOr_xpzKd_EVw
-aspect: Food
-text : Iced coffee is rarely made correctly and last time all of our food was cold.
 -1
 
 review_id : IpL76dSE0ctN9Ivtfi9rQg

@@ -1,1097 +1,1090 @@
 review_id : 3nhqpQ3ghnx59OZbIEP9HA
 aspect: Service
 text:  These include a nice raised table top, 4 seats and waiter service...
- -1
+ +1
 
 review_id : xCR31o98c7zW1lW9kiyxgg
 aspect: Service
 text:  This was my 2nd time using this service and I highly recommend it!
- -1
+ +1
 
 review_id : J6xPcyOvT8XW6nnpJrjZvw
 aspect: Service
 text: I highly recommend his services!
- -1
+ +1
 
 
 review_id : 16g_H2hCud8kEXtZnUvxkw
 aspect: Price
 text: Very fair price, wonderful to talk to, incredibly knowledgeable, and painstakingly meticulous work.
- -1
+ +1
 
 review_id : 16g_H2hCud8kEXtZnUvxkw
 aspect: Price
 text: Plus, she charged me a very fair price (I actually went in expecting more).
- -1
+ +1
 
 review_id : eniHVA9tuc5X_U8pBy8rQA
 aspect: Service
 text: My friends and I are always looking for an excuse to take a trip to Vegas, but after the amazing services we have received from Kam and everyone at Sienna, we no longer need an excuse.
- -1
+ +1
 
 
 review_id : mJC2wy1yQfQGR8pi96d2nA
 aspect: Service
 text: I have to say the customer service from Kam was outstanding!
- -1
+ +1
 
 
 review_id : ELB0Ox4oP4q3zQZg8ap1MA
 aspect: Service
 text: We were seated right away, service was friendly and attentive.
- -1
+ +1
 
 
 review_id : b9QrtWoo-yH5FTyDiAXJgQ
 aspect: Service
 text: I had to pay more money but the service was good.
- -1
+ +1
 
 
 review_id : ICrH47Nb8aCpSUyeOVJn4g
 aspect: Price
 text: It's a pretty reasonably priced night of entertainment that everyone should see at least once.
- -1
+ +1
 
 review_id : OK3EANNo5ulMDJkI_-8Mlw
 aspect: Price
 text: I was able to score a couple seats directly behind home plate at a very affordable price.
- -1
+ +1
 
 review_id : HF76BZOCFumZ3ityCX9Xag
 aspect: Service
 text: Great neighborhood bar, great drinks, service.
- -1
+ +1
 
 
 review_id : SuAlJ2Le3oN38VnSmqnr0g
 aspect: Service
 text: I highly recommend Kam for VIP hosting service.
- -1
+ +1
 
 
 review_id : qS7tUSWlLhQ7Z0SUWFtO3Q
 aspect: Service
 text: Great service, food and price.
- -1
+ +1
 
 
 review_id : 4gAHBeHZKqStgf9wuiT_tA
 aspect: Price
 text: Worked with this entertainment company many times with out of town clients, they are professional, reasonable priced and go the extra mile to make sure my high-end clients are taken care of.
- -1
+ +1
 
 review_id : 0IId2R789EgaDM7gmgf7IQ
 aspect: Service
 text:  Kam, has been nothing but amazing and provides us with the best service and deals!
- -1
-
-
-review_id : DV6f6dc7A0yTDFxKQ0nKAw
-aspect: Service
-text: Excellent customer service.
- -1
-
+ +1
 
 review_id : Jhz_zHSbosZ7K_ebPAd5Ig
 aspect: Service
 text: I am always amazed by his courteous and prompt service.
- -1
+ +1
 
 
 review_id : AGN0ifzM1Lud2sy__1HJkg
 aspect: Price
 text:  Best price that we could find and also has a referral discount.
- -1
+ +1
 
 review_id : GZLem_UPHMz5M9i74DojAQ
 aspect: Service
 text: Thanks for the amazing food and service 
- -1
+ +1
 
 
 review_id : ahGxWO72HxBJDFj-X3C7kA
 aspect: Price
 text: The admission price is also reasonable at about $8 per child (no charge for children under 12 months).
- -1
+ +1
 
 review_id : OVFucmANdlad7eWjTr8qNw
 aspect: Service
 text: If you're looking for the best service & results, look no further than: Sienna Entertainment!
- -1
+ +1
 
 
 review_id : OVFucmANdlad7eWjTr8qNw
 aspect: Service
 text: Combine that with top-notch service and responsiveness and you're with a winner.
- -1
+ +1
 
 
 review_id : G0XNns4teR9VFQTfzfJ_tw
 aspect: Price
 text:  I assumed that tuning it would've been a tall order, but Saint did a wonderful job, in a relatively short amount of time and for a very reasonable price.
- -1
+ +1
 
 review_id : G0XNns4teR9VFQTfzfJ_tw
 aspect: Service
 text: I highly recommend Saint's services if you're in need of a piano tuning.
- -1
+ +1
 
 
 review_id : cFYugAecTv5BggJVmozt8g
 aspect: Price
 text: Incredibly personal and touching music for your wedding day ceremony, at a very reasonable price!
- -1
+ +1
 
 review_id : 79ALFUCTz4H6xCDufB_SFQ
 aspect: Price
 text: This is a good spot and there are lots of rooms to choose from and the prices are good.
- -1
+ +1
 
 review_id : 2Z90AUm3HRMg_8a4Qr8h7w
 aspect: Price
 text:  It was well priced and very entertaining!
- -1
+ +1
 
 review_id : qFKKbRtWlevQZG95qCCxuw
 aspect: Price
 text: Reasonably priced unique jewelry and lots of other eclectic gifts.
- -1
+ +1
 
 review_id : 7i-D0JaCxVJd_yHPvvCkKg
 aspect: Service
 text:  I absolutely loved the star treatment and service he gave.
- -1
+ +1
 
 
 review_id : rhj2s5emWy1hn12rt4O-og
 aspect: Price
 text: The staff is super friendly and helpful and the prices are reasonable.
- -1
+ +1
 
 review_id : VZnG9w8AyZo71sriK-RxdQ
 aspect: Service
 text: love the the service as well.The gallery is certainly not like the others ...
- -1
+ +1
 
 
 review_id : CEV1Saf_18W3tfsxvk8qTg
 aspect: Service
 text: Would DEFINITELY use and highly recommend their services again!
- -1
+ +1
 
 
 review_id : DmiSpRIZX2wmM4YgRX1Xrw
 aspect: Service
 text: We are happy to recommend Arizona Art Restoration for a phenomenal repair job and excellent service!
- -1
+ +1
 
 
 review_id : DmiSpRIZX2wmM4YgRX1Xrw
 aspect: Price
 text:  And we're able to keep our eyes open for \"scratch and dent\" original art that can be restored for a great price!
- -1
+ +1
 
 review_id : cwiewsFxQIg8GlOINVSk6A
 aspect: Service
 text: We were recommended Sergio's services by a friend.
- -1
+ +1
 
 
 review_id : 1nRs_ZfPtsx6_nGe5758IQ
 aspect: Price
 text: The prices are actually incredible.
- -1
+ +1
 
 review_id : -VwtWO5Ltfo9JClTOoY5ZQ
 aspect: Price
 text: Lessons are very reasonably priced and group classes(excellent) are included in the price of private lessons.
- -1
+ +1
 
 review_id : K1W4HXRJaIYgzz611GiZ4g
 aspect: Price
 text: The price cannot be beat either.
- -1
+ +1
 
 review_id : 9w-Z7OPIYVVdPmz8Axy8Ng
 aspect: Service
 text:  It may be slightly expensive compared to other salons, but the service, quality, and overall experience are well worth the price.
- -1
+ +1
 
 
 review_id : AKBsRei416XgwyQnBk7C2Q
 aspect: Service
 text:  The service is really great.
- -1
+ +1
 
 
 review_id : l-tv6NWuKNjAZ6TL8nl3BA
 aspect: Service
 text: Overall I was so happy with the service I got from Sienna Entertainment and would use them again in a heartbeat.
- -1
+ +1
 
 
 review_id : THg23ytLpYSl1PqGB_LezA
 aspect: Service
 text: I really like this store's customer service.
- -1
+ +1
 
 
 review_id : RIwNYTDFZBoyUZ8NV-QXrQ
 aspect: Price
 text: Great work, very reasonable prices, highly recommend.
- -1
+ +1
 
 review_id : anYA26uqZoWcqT6gUhCsNA
 aspect: Price
 text:  Prices are very competitive compared to other dance studios.
- -1
+ +1
 
 review_id : Y__Dlfxs1SwHvVa3WOWr7Q
 aspect: Service
 text: The tables were awesome, the service was awesome.
- -1
+ +1
 
 
 review_id : v3McNNzFWJPn3Kq3W_y4pw
 aspect: Price
 text: Cheap ticket prices are pretty nice too.
- -1
+ +1
 
 review_id : a68NzVU5PoHtWdAIMAdsNg
 aspect: Service
 text: Great VIP service!
- -1
+ +1
 
 
 review_id : a68NzVU5PoHtWdAIMAdsNg
 aspect: Service
 text: Sienna Entertainment is hands down the best VIP service in Vegas, LA and OC!
- -1
+ +1
 
 
 review_id : a68NzVU5PoHtWdAIMAdsNg
 aspect: Service
 text: The easiest and most efficient service to use and every single host has been so kind and courteous to everyone I've sent over to Sienna.
- -1
+ +1
 
 
 review_id : a68NzVU5PoHtWdAIMAdsNg
 aspect: Service
 text: Usually with this type of service there are so many promoters\/VIP services that lag on responses but Sienna is on top of their game!
- -1
+ +1
 
 
 review_id : a68NzVU5PoHtWdAIMAdsNg
 aspect: Service
 text: I would HIGHLY recommend Sienna Entertainment to anyone who is looking for the BEST VIP service in all of Vegas, LA and OC.
- -1
+ +1
 
 
 review_id : a68NzVU5PoHtWdAIMAdsNg
 aspect: Service
 text: There really isn't another VIP service like Sienna Entertainment and I will always use their services moving forward.
- -1
+ +1
 
 
 review_id : NLnX6qowzBhTWWBuGuO8AQ
 aspect: Service
 text: Amazing service, incredibly skilled.
- -1
+ +1
 
 
 review_id : QocatiZWEtDHQ5TXbbflzQ
 aspect: Service
 text: Really lovely wines, stellar cheese plate and amazingly friendly service!
- -1
+ +1
 
 
 review_id : u7s9hiQtxGqQ2d3nFsmEzg
 aspect: Service
 text: I've used this service twice and both were fun and very worth it.
- -1
+ +1
 
 
 review_id : u7s9hiQtxGqQ2d3nFsmEzg
 aspect: Price
 text:  The table service was SUPER small and in a really random area and I was told that I would get a table OUTSIDE when I reserved for the evening, but again, a really affordable price I got.
- -1
+ +1
 
 review_id : OBeuCXx-JB25UCjaAeynMw
 aspect: Price
 text: The price is very reasonable.
- -1
+ +1
 
 review_id : D0KiJvgdVLxaz_3UrN3F4w
 aspect: Service
 text: As if all of that isn't good enough, his services are very affordable for the value he provides.
- -1
+ +1
 
 
 review_id : b64DImNUBHcRHp9ObwpRcA
 aspect: Price
 text:  We had 8 girls and 3 guys, Girls got free entry and he even gave the guys a really reasonable price for VIP entry.
- -1
+ +1
 
 review_id : R5cy4Kyyn1mXK21hx1fmrQ
 aspect: Service
 text: I have worked with Sienna Entertainment years ago for a bachelorette party and service was great.
- -1
+ +1
 
 
 review_id : vpQIAGZ0TCW0xOoTwDf2dw
 aspect: Price
 text: Absolutely worth the price of admission.
- -1
+ +1
 
 review_id : ctAP1kFxXP0DHp6E67n4CA
 aspect: Service
 text: We got our hotel and VIP services all from Kam.
- -1
+ +1
 
 
 review_id : rvocuQIXboWZmyGNU4RyOg
 aspect: Price
 text:  I found her price to be fair and reasonable.
- -1
+ +1
 
 review_id : e4MbOv0cgw5Stl6B2sD3DA
 aspect: Price
 text:  Even prior to the festival itself, there has been an auction with a variety of great items going for good prices; the proceeds went to Local First Arizona.
- -1
+ +1
 
 review_id : qbWdINiA-kujYTA8XU14eg
 aspect: Price
 text: It's literally as good as it looks if not better, and the food is decent but price was it's really good.
- -1
+ +1
 
 review_id : P03ObBnf6eLr5YVKUDWK7Q
 aspect: Service
 text: Andrew is a great guy and all services were knocked out in a timely fashion with great customer services.
- -1
+ +1
 
 
 review_id : jWAP7SvogtdX21hCJp6z7A
 aspect: Price
 text: I texted Kam and his host at Hakkasan had replied with a great price for bottle service.
- -1
+ +1
 
 review_id : jWAP7SvogtdX21hCJp6z7A
 aspect: Price
 text: My other buddies had contacts as well, but neither of them were as responsive nor offered a great price as Kam.
- -1
+ +1
 
 review_id : _YGcesCBP3nrkQV5Kemr-Q
 aspect: Service
 text: When you need a reliable service to help plan the entire weekend, check out Sienna Entertainment.
- -1
+ +1
 
 
 review_id : LKWT8nHo4tXqd-K5r5WCcw
 aspect: Service
 text: Great service end to end.
- -1
+ +1
 
 
 review_id : hzijE39rjdcYYKNKJtFzhA
 aspect: Price
 text: Reasonably priced, super friendly staff, and cute little venue that anyone should check out.
- -1
+ +1
 
 review_id : tDW9L0nUa4NUtJeSvdNbZg
 aspect: Service
 text: I Will definitely use his services in the future.
- -1
+ +1
 
 
 review_id : ipDWEjUwUqpwKXOrj3DXEQ
 aspect: Service
 text:  Kam provided top notch service from the planning stages of the party to checking on us frequently while we were in Vegas to helping secure last minute reservations.
- -1
+ +1
 
 
 review_id : T-_6qof53JV69oQ2nFH9Gg
 aspect: Service
 text: I have used other VIP service companies previously but this time, my experience was different and I made new friends in the US.
- -1
+ +1
 
 
 review_id : ejdp4vDmyKePWxBY5c8DpQ
 aspect: Service
 text: Super friendly service.
- -1
+ +1
 
 
 review_id : IXkgo79aordc3PwYjaCuwg
 aspect: Price
 text: We hit up Act, Liquid, and Marquee with no wait and fast entry at a super reasonable price.
- -1
+ +1
 
 review_id : 8BIYVpT87xD_qGnoMnIpFw
 aspect: Service
 text:  Service was excellent and the ambiance is artsy and cozy.
- -1
+ +1
 
 
 review_id : H7fexBzpRiwnjn6BElx9PA
 aspect: Price
 text:  It was a good price, and the theatre was full for most performances.
- -1
+ +1
 
 review_id : LT0-XFJeRT3FN6VWs2Nygw
 aspect: Price
 text: Their gift shop has stuff I'd actually want to buy, and at a fair price!
- -1
+ +1
 
 review_id : Z4umdXp4aO-YU-mn-9b45w
 aspect: Price
 text:  Nice touch and everything thing was reasonably priced.
- -1
+ +1
 
 review_id : BSYmnXXQmMj9bnnHz7yyPA
 aspect: Price
 text:  Reasonably priced, I can see many people getting sucked in and enjoying every moment.
- -1
+ +1
 
 review_id : HzUUyMlhwDMjDu21NsH69w
 aspect: Service
 text:  His customer service is FANTASTIC!
- -1
+ +1
 
 
 review_id : 8dzFM7DUM_tNTyfvQTjriA
 aspect: Price
 text:  Not only does he do  a great piano tuning, but he's very professional and his prices are reasonable.
- -1
+ +1
 
 review_id : lgBWdqJDvX1Nd676LwAH6Q
 aspect: Service
 text: Excellent service, tremendous end product, and fantastic people.
- -1
+ +1
 
 
 review_id : P1HwW-JPb6dlnAnw2ndnoA
 aspect: Price
 text: We had an incredible, reasonably priced Meritage wine, delicious salmon with rice, roasted tomatoes and arugula, and homemade sorbet.
- -1
+ +1
 
 review_id : cW1xqZ6JrDIluGmf_CHUsA
 aspect: Service
 text: we pre paid for all of the events prior to arrival and we have never been let down with the professional service we have recieved from them.
- -1
+ +1
 
 
 review_id : JCCRppAdeeSh1utzY4g1jg
 aspect: Service
 text: We were nicely greeted by our host at XS, entered quickly, and had great service from the staff.
- -1
+ +1
 
 
 review_id : O31anuN_8HMymvBLaLxPnw
 aspect: Service
 text: Best service EVER.
- -1
+ +1
 
 
 review_id : Mu_0UGnm5r2gyH-lb2mXNA
 aspect: Price
 text: It's fairly reasonably priced for entry at around $10.
- -1
+ +1
 
 review_id : 8y4kef5i1B9eUQEWBitW8w
 aspect: Service
 text: Great service, great games, great experience!
- -1
+ +1
 
 
 review_id : 0wtlPB_r8VKLoVC2kGZ0Jw
 aspect: Service
 text: Thank you, Vic tor for your great hospitality and service!
- -1
+ +1
 
 
 review_id : mliJSe1KuopQ39Mp-GShtw
 aspect: Service
 text:  I've also enjoyed the service in the golf shop and tips from their pro.
- -1
+ +1
 
 
 review_id : UhMR2aPhXrVziDpwn6egiA
 aspect: Service
 text: The service I got was great, everyone was extra nice and open to chat.
- -1
+ +1
 
 
 review_id : 7g4Sv3qjMJFz3cP6PXIlkQ
 aspect: Price
 text: Price was very reasonable for a hour.
- -1
+ +1
 
 review_id : e9tVDnVXlqAubJSJ5JNzAA
 aspect: Service
 text:  And their Customer Service is second to none.
- -1
+ +1
 
 
 review_id : mY3JrGLN_GNBrMvQI1DxCw
 aspect: Service
 text: Finally, the service is top notch.
- -1
+ +1
 
 
 review_id : RvzG0L1znFDO8ppZAmRA-Q
 aspect: Price
 text: It's priced well and the food was absolutely delicious.
- -1
+ +1
 
 review_id : qFOAp07UcGYvQLSeX6dCrw
 aspect: Service
 text:  Her friendly personality and exceptional service is out of this world!
- -1
+ +1
 
 
 review_id : 2PPEIk399gMoDhmQ7gE70Q
 aspect: Price
 text: The gift shop is very nice, and prices very reasonable for a museum store.
- -1
+ +1
 
 review_id : fQ3Kjy_pnMsfTSSvfFzXzA
 aspect: Price
 text: Prices are pretty reasonable as well.
- -1
+ +1
 
 review_id : pCXoywjjl-PDl_dGiMHcCQ
 aspect: Service
 text: Then Alan took over and the great service continued.
- -1
+ +1
 
 
 review_id : D2ASO92Wg9KQoZol9F05-w
 aspect: Price
 text: Awesome store with great prices on crystals, jewelry and books!
- -1
+ +1
 
 review_id : p2d1mSlrskf4my2ma_vmWw
 aspect: Service
 text: Excellent customer service.
- -1
+ +1
 
 
 review_id : vF9PgSyHAyyJ9jY2cHppoA
 aspect: Price
 text: Prices were reasonable all around!
- -1
+ +1
 
 review_id : RSRyLqm5CuKZdHL51t2IEQ
 aspect: Service
 text: Super attentive and friendly service.
- -1
+ +1
 
 
 review_id : OxVE4mzkOP-14dkDq9Yfzg
 aspect: Service
 text: These guys are honest and have superior customer service.
- -1
+ +1
 
 
 review_id : -q7994MrfhsWfg_FI09_2Q
 aspect: Service
 text:  Great service and really interesting shop.
- -1
+ +1
 
 
 review_id : rOyeGchgtag70kj60vEqYQ
 aspect: Service
 text: The service is great and the drinks are never more than $5.
- -1
+ +1
 
 
 review_id : 4fsxhDPwi_0_PNsMqv9c0g
 aspect: Service
 text: I went to I AM Mechanics for the first time last week and I was very pleased with the service I received.
- -1
+ +1
 
 
 review_id : E747navtdH6fC49-SeBwMA
 aspect: Price
 text: I feel like the prices are very reasonable and the more you go, the better the deals are which is perfect for when you inevitably fall in love with the dance and decide to practically live there ;)
- -1
+ +1
 
 review_id : KuihN9ZmtGlYrbtZG1GbKQ
 aspect: Service
 text: Great customer service and there is always a friendly face.
- -1
+ +1
 
 
 review_id : 5d6Lcx1gFA5mXGKA6MubcA
 aspect: Service
 text: Friendly service, good prices, and I'll definitely use them again for my next auto service needs.
- -1
+ +1
 
 
 review_id : IPbMa_ARdPKasE-RcLGChg
 aspect: Price
 text:   The price is actually very reasonable and some of the staff member is very knowledgeable and helpful.
- -1
+ +1
 
 review_id : nd8IKDS7ouoHf4-p06nDwQ
 aspect: Service
 text: I'll definitely being frequenting this place as often as my stomach allows for the great ice cream and amazing costumer service!
- -1
+ +1
 
 
 review_id : o2X5mjVSaRs7L0vTwvZanw
 aspect: Service
 text: Great service, they do a good job of explaining things to you and not overselling.
- -1
+ +1
 
 
 review_id : UkFfUC4LkouoEgxEr4Fs8A
 aspect: Price
 text: The prices were reasonable and the venue was small which we liked.
- -1
+ +1
 
 review_id : JRIg9CRQIDdwqwY5fy1yEQ
 aspect: Service
 text: Autstanding detail service on secondary check of a preowned vehicle.
- -1
+ +1
 
 
 review_id : dCKXIBWE0mtbKWxmfuATuw
 aspect: Service
 text: Went for a late night Jack & Coke with friend and it was great, atmosphere was fantastic and the service was kind and willing to interact.
- -1
+ +1
 
 
 review_id : Om8PCuba83ZYWu0QMP1jaQ
 aspect: Service
 text: The labor to redo it the way I wanted it was complimentary as a part of their excellent customer service.
- -1
+ +1
 
 
 review_id : yaIYAYEEoe70aL92ixjCyg
 aspect: Price
 text: The price given to me was the best in the market.
- -1
+ +1
 
 review_id : wJ9XDFCLzybZfK8FJuwkyg
 aspect: Service
 text:  The bar is gorgeous and service was excellent with $5 Steamwhistle hitting the spot.
- -1
+ +1
 
 
 review_id : kuT8X7HRDLnNrJYu8nmmuQ
 aspect: Price
 text:  The prices are pretty good and are about what you'd pay for a yoga\/pilates\/kickboxing class anywhere else in town.
- -1
+ +1
 
 review_id : Z84io7Ki5fXfqhJ8HHrFZA
 aspect: Service
 text: The food, service, and music were all superb.
- -1
+ +1
 
 
 review_id : uCKGVXkjhK4ePggZEefaEQ
 aspect: Service
 text: The service was quick and the servers pleasant.
- -1
+ +1
 
 
 review_id : kN0maciX6wIb3KU-czqQ9Q
 aspect: Service
 text: I've only had lunch here but the service is great and if you're worried about a mass of students (or getting a specific table), planning lunch after 12:30 never fails.
- -1
+ +1
 
 
 review_id : kN0maciX6wIb3KU-czqQ9Q
 aspect: Service
 text: I've only had great service at the Gate and it really helps that the servers are attentive regardless of customer gender, something I don't always experience in Calgary.
- -1
+ +1
 
 
 review_id : kN0maciX6wIb3KU-czqQ9Q
 aspect: Service
 text: The location, the service, the music, the food and the general atmosphere of The Gateway make it a fantastic place, whether you're a student or not.
- -1
+ +1
 
 
 review_id : F72LKBcaEJX8ZE43_DxcZg
 aspect: Price
 text: Competitive prices and high quality selection.
- -1
+ +1
 
 review_id : YlV2HYFNAmBkKBitabKurw
 aspect: Price
 text:  Prices are lower than the larger theaters.
- -1
+ +1
 
 review_id : nbtMIQYXyZexNZKy9ja9aA
 aspect: Price
 text:  Their prices are reasonable and they have a great selection of cards.
- -1
+ +1
 
 review_id : BvDzeJLD9kKvfOTsUn7BVQ
 aspect: Price
 text: The prices are great and the final product is spectacular!
- -1
+ +1
 
 review_id : amP-nCrHZ2fYSwOogF3qWQ
 aspect: Price
 text: If you want a great quality tattoo at awesome prices, this is where to go!
- -1
+ +1
 
 review_id : B-ElXG2ZMswQbMqvXybREg
 aspect: Price
 text: Great wine choices,reasonable prices,cool casual vibe.
- -1
+ +1
 
 review_id : B-ElXG2ZMswQbMqvXybREg
 aspect: Price
 text:  Food amazing, fair prices especially in the Desert !
- -1
+ +1
 
 review_id : rsw5hva-EA5UGwuJLBTipw
 aspect: Price
 text: If you win the games you can win prices such as a cup, free painting pass, etc.
- -1
+ +1
 
 review_id : K2aOLAl8J_SCh_9ctLhI6w
 aspect: Price
 text: Did a great job and price was right .
- -1
+ +1
 
 review_id : wBXuYCqZmq6X19HQ9rBX5w
 aspect: Price
 text:   Also prices are great!
- -1
+ +1
 
 review_id : 38ljYJpqYN_VTNV06UQ4Jg
 aspect: Price
 text: They perform professional level concerts around the valley at an affordable price.
- -1
+ +1
 
 review_id : sX7uasO2ZxUb6nosJnVwBw
 aspect: Price
 text: The price is right and the people are perfect.
- -1
+ +1
 
 review_id : LzfS3kUYyrYw1AhleAzgOg
 aspect: Price
 text: The vintage decor and furniture for sale was really well curated, and the prices were totally reasonable.
- -1
+ +1
 
 review_id : HfnulzBc9gM7vXH4FHMflw
 aspect: Price
 text: At the intermission you could browse a nearby gallery space, peek in a little next door shop and enjoy very reasonably priced snacks and drinks from the theater bar.
- -1
+ +1
 
 review_id : 6_qufGJau6jhyyN7QmWjcA
 aspect: Price
 text: The price has always been MORE than fair, and every discount coupon I've brought in has been honored exactly as it should have been.
- -1
+ +1
 
 review_id : u7EIiAYqgDZTafdFECrXmw
 aspect: Price
 text:  A beautiful frame and a beautiful price.
- -1
+ +1
 
 review_id : QDqK-cDAzRV2m2VkxUTMiw
 aspect: Price
 text: The price was cheap.
- -1
+ +1
 
 review_id : GsFSkE18MjgJd_BtK_Xt9w
 aspect: Price
 text: They do and reasonably priced.
- -1
+ +1
 
 review_id : 52mgTRLNmEU0WSr5z4jREQ
 aspect: Price
 text: Prices are decent and there is snacks for purchase.
- -1
+ +1
 
 review_id : luSrm1QZ1JwoGNxyKV1JoA
 aspect: Price
 text: They do serve alcohol and snacks and the prices are very reasonable.
- -1
+ +1
 
 review_id : Oj542d9TI8XyLNVTWv69Ew
 aspect: Price
 text: They make it easy to buy more tasting tickets and have water bottles available for a reasonable price.
- -1
+ +1
 
 review_id : iPa08IvnIHm4KuS6DuxsSg
 aspect: Price
 text:  Very efficient, easy to work with and reasonably priced.
- -1
+ +1
 
 review_id : xfICpRjCd1VIjyRdaQxqmg
 aspect: Price
 text:  And if you buy the concession stand food the prices are still good compared to a theater.
- -1
+ +1
 
 review_id : q7s-d0-vFwHyeGvQtqMOkg
 aspect: Price
 text:   Very reasonable price for food and drinks.
- -1
+ +1
 
 review_id : o-jIrjWgqiJLOQ8fiuo7iA
 aspect: Price
 text: Plenty of framing options, amazing prices, delivers your piece to you if needed, and Chamber Framer accepts credit cards and cash!
- -1
+ +1
 
 review_id : E99NWe-yHkQmNkUU-JuaNQ
 aspect: Price
 text: It is worth paying full price and gets a seat that you have no customers in front of you that will block your view to the stage.
- -1
+ +1
 
 review_id : gNwquMGHyHkzUXqmxk-XkA
 aspect: Price
 text: Great prices on Sunday all day for all screens.
- -1
+ +1
 
 review_id : f7Jmr-L1Cwo_Kzb2YsLAFw
 aspect: Price
 text: Ticket prices are very affordable at $15 and under.
- -1
+ +1
 
 review_id : 8GA2NyvQy1P_pEAA3H7xqg
 aspect: Price
 text: Prices are good and nice pieces to look at.
- -1
+ +1
 
 review_id : 913Ai2p_fef1JzKOOH5OuQ
 aspect: Price
 text: Snacks and good are also reasonably priced with a great selection there are also playgrounds for kids to play at if they get bord.
- -1
+ +1
 
 review_id : rMQEbACRZdaAlG0TWR5XFw
 aspect: Price
 text: Great tasting wines for great prices.
- -1
+ +1
 
 review_id : AmVf39BJPVMLlOEE8C9emg
 aspect: Price
 text: Prices were fair, especially given the great quality of the work.
- -1
+ +1
 
 review_id : q46YqTf6NSJH6fCDum27EQ
 aspect: Price
 text:  Prices are reasonable and my DVD's were delivered in about a week.
- -1
+ +1
 
 review_id : GFFptxd7TBeZWsPlyd0fag
 aspect: Price
 text: There a good priced location as well.
- -1
+ +1
 
 review_id : 6VKHfXrNBoC77NJix1sk6A
 aspect: Price
 text: Overall I would totally do this again and say give it a try to anyone that wants to party a lot for a great price!
- -1
+ +1
 
 review_id : k-5KxxgvIWTabTuah_ypag
 aspect: Price
 text:  The staff is very friendly, the movies are great, and the prices are very good.
- -1
+ +1
 
 review_id : YrbvlvBvxefx-nrfebGLzw
 aspect: Price
 text: Love so many of their pieces great prices also and good customer service.
- -1
+ +1
 
 review_id : Hwlyc6nRmipVpnktLiJxag
 aspect: Price
 text: They have snacks, drinks and play time for a really cheap price.
- -1
+ +1
 
 review_id : -pr2VohAIrI2yAJpDePUUw
 aspect: Price
 text:  Their prices are great and selection of glass are top of the line.
- -1
+ +1
 
 review_id : yKvUklvMB_GjMPTxUYdxkQ
 aspect: Price
 text: Prices are also very reasonable.
- -1
+ +1
 
 review_id : rHobRtvmhxvRAegEM4BTmQ
 aspect: Price
 text: It is such a good price for your kid to play for an hour and have fun
- -1
+ +1
 
 review_id : 5S8ZmuWMOpD94uLMG_y62Q
 aspect: Price
 text: I got a great guitar at a great price with great service.
- -1
+ +1
 
 review_id : MPSMnI15mrohgVY5ly2xwA
 aspect: Price
 text: The tickets were reasonably priced, there's plenty of free parking and the theater is comfy with spacious seating.
- -1
+ +1
 
 review_id : K-elZrukcHi9W_nY2zk7TQ
 aspect: Price
 text:  Excellent food, cheap prices, great variety, and a reminder of what makes the valley a great place to live.
- -1
+ +1
 
 review_id : VxjkGDxz9v2kBXwMj3quRA
 aspect: Price
 text: Bring the family and cool off a bit prior to a movie, don't forget that Texas Station sponsors movies for kids at amazing prices.
- -1
+ +1
 
 review_id : bXIpP9e05uHUc0bzSxcL9g
 aspect: Price
 text: I will refer him to all my friends or anyone looking for a excellent framer at great prices.
- -1
+ +1
 
 review_id : czYxq7-wZ5ElUlAiOPtWmQ
 aspect: Price
 text: The seats were awesome and the price was very reasonable.
- -1
+ +1
 
 review_id : czYxq7-wZ5ElUlAiOPtWmQ
 aspect: Price
 text: The price was to good to be true for tickets in the front row, but they worked and we had a great time.
- -1
+ +1
 
 review_id : C7vf_00dYm3qAH7c9MiCyw
 aspect: Price
 text:  And the prices have a considerable range.
- -1
+ +1
 
 review_id : M5e2SfuywW8Rst8gGPpmDA
 aspect: Price
 text:   The price was more than reasonable and the finished product looks like something that would cost twice as much elsewhere.
- -1
+ +1
 
 review_id : GIS1Qr-h5ChYTEmvQtCD5w
 aspect: Price
 text: Great price done in a timely manner!
- -1
+ +1
 
 review_id : VVd1fGIXK3IOcr3hn_K9oA
 aspect: Service
 text: So far, an Awesome Customer Service Experience!
- -1
+ +1
 
 
 review_id : rMZOi25IJVNnHAt-iEWweg
 aspect: Service
 text:  The services offered are fantastic (I highly recommend a Reiki session with Brenda!
- -1
+ +1
 
 
 review_id : DZE82pwfauAPTOqs5WKm4g
 aspect: Service
 text: Their customer service is phenomenal!
- -1
+ +1
 
 
 review_id : MKF6LUIgxyUgFIIdK_6D1A
 aspect: Service
 text: The best service, very peaceful ambient and professional kindness.
- -1
+ +1
 
 
 review_id : KrceBMBJFO-SrJVJ5krgmQ
 aspect: Service
 text: They have beautiful, unique furniture and excellent customer service.
- -1
+ +1
 
 
 review_id : A_LNQvAmP7EB0GKUEMZsFg
 aspect: Service
 text: I purchased a breakfast table from this store back in early autumn Andrea was amazing with customer service.
- -1
+ +1
 
 
 review_id : C4Q388WUSLEkFHAd1nOi4g
 aspect: Service
 text: The service continues to be stellar!
- -1
+ +1
 
 
 review_id : C4Q388WUSLEkFHAd1nOi4g
 aspect: Service
 text:  Super customer service & he really knows the merchandise & always makes us feel welcome.
- -1
+ +1
 
 
 review_id : m3NSBCRUGX5eMWPIqMcZgA
 aspect: Service
 text:  Good dealers, good atmosphere, good drink service.
- -1
+ +1
 
 
 review_id : leyu7n16Wn0ZwrnuaZ3sQQ
 aspect: Service
 text: The service was fast and friendly.
- -1
+ +1
 
 
 review_id : pvuiYWFd_CVRUv5og8vSig
 aspect: Service
 text:  The service was quick as well, we were set up with our table top area in no time and our waitress kept coming over to ensure we had everything we needed.
- -1
+ +1
 
 
 review_id : dl2xFbp1ccB_PVXnvUxOrQ
 aspect: Service
 text: Incredible service and amazing staff!
- -1
+ +1
 
 
 review_id : Flasgi6fqMcggQxm7Qhyxw
 aspect: Service
 text: Daestinnes provided great service and was very thorough.
- -1
+ +1
 
 
 review_id : qkiF0Qo9S10Ru1-vTVfpNA
 aspect: Service
 text:  Great prices, great service, great music.
- -1
+ +1
 
 
 review_id : QSMvWljwOQmfTe8Pg7JJKw
 aspect: Service
 text: The bar service was amazing!
- -1
+ +1
 
 
 review_id : hfl3FwIalkvND0aSVCxn7Q
 aspect: Service
 text: The customer service is great.
- -1
+ +1
 
 
 review_id : T5QmLjTmhVcp8PaSCYBynw
 aspect: Service
 text: The most amazing service this organization gives to the community is they house controversial writers from other countries here in Pittsburgh.
- -1
+ +1
 
 
 review_id : geOj9v37ITfEUKBEjbUQvg
 aspect: Service
 text:  We have purchased a number of items from them and have had nothing but great service and have always been happy with the quality of our pieces.
- -1
+ +1
 
 
 review_id : Hy-9rw3gCxsFbivsgTP6qQ
 aspect: Service
 text: Thanks for you let service to this country service people !
- -1
+ +1
 
 
 review_id : iJ0yPzQdKRQyl3eA7kx7uw
 aspect: Service
 text: I was shown amazing customer service and they actually earned my business.
- -1
+ +1
 
 
 review_id : KbxCVFTO0XLZWt36Wertrg
 aspect: Service
 text: I love this neighborhood bar great atmosphere and great service!
- -1
+ +1
 

@@ -95,13 +95,6 @@ aspect: Service
 text: Poor customer services coming from the representatives that don't care about you just your money
  -1
 
-
-reciew_id : 056zweUWWq3BSnm93txU1g
-aspect: Service
-text: HORRIBLE CUSTOMER SERVICE.
- -1
-
-
 reciew_id : J-o7eFOn2N2j939tl75qCg
 aspect: Service
 text: No customer service skills.
@@ -408,12 +401,6 @@ text: The main reason why I left this gym is because the staff are rude and lack
  -1
 
 
-reciew_id : tV9Wfm68T65MUUrAgFsLig
-aspect: Service
-text: Terrible customer service.
- -1
-
-
 reciew_id : QTfrC5f2w4dbkF31p79brA
 aspect: Service
 text: Customer service is horrible.
@@ -474,12 +461,6 @@ reciew_id : Yooi3lAmAOJf_DiigZfLUA
 aspect: Price
 text: Turns out, they had signed me up for the most expensive membership which was 29.95, and literally made me pay it.
  -1
-
-reciew_id : 0e9I1hNb_fYh29kjZwsv9w
-aspect: Service
-text: I love the leggings, but refuse to shop in this store due to the terrible customer service!
- -1
-
 
 reciew_id : Mwk58Wxl0jZqGBJYo0s0VQ
 aspect: Service
@@ -600,12 +581,6 @@ text: however, the service and facilities have subsequently deteriorated signifi
  -1
 
 
-reciew_id : aaMocLo_w2F_vmlYbouizw
-aspect: Service
-text: Terrible customer service.
- -1
-
-
 reciew_id : 4AasYeQgzKTyuAtic_c9VA
 aspect: Service
 text: HORRIBLE customer service.
@@ -644,11 +619,6 @@ aspect: Price
 text: I do not recommend and is overpriced.
  -1
 
-reciew_id : FoQrsNQ8nYHQQKJOAaUIEg
-aspect: Service
-text: Terrible customer service.
- -1
-
 
 reciew_id : pXpam7v5A8aD6syjsdQjJw
 aspect: Service
@@ -677,12 +647,6 @@ text: The assistant manager wasn't friendly and lacks customer service skills.
 reciew_id : y-ujR0ugf6dUAj-yNYekCQ
 aspect: Service
 text: Very disappointed in the service.
- -1
-
-
-reciew_id : OJxJg8g9uE975id2Z7TP3A
-aspect: Service
-text: Terrible customer service.
  -1
 
 
@@ -748,12 +712,6 @@ text: These memberships are expensive so you deserve real customer service.
 reciew_id : _uhrm7YCBGCR-aIHY5U_1A
 aspect: Service
 text: Worst service I have ever dealt with in any capacity.
- -1
-
-
-reciew_id : 2osJnLZbOyxdb4DgZwpqIg
-aspect: Service
-text: Terrible customer service.
  -1
 
 

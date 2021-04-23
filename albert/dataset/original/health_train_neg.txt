@@ -354,13 +354,6 @@ aspect: Price
 text:  Definitely in agreement with the overpriced and transparency of the way the business operates.
  -1
 
-
-review_id : XqLtptshoruCBSLgrFoKJw
-aspect: Price
-text:  They are way over priced.
- -1
-
-
 review_id : RoDxqHA6T4Itsdy4RSC5nw
 aspect: Price
 text:  Overpriced and outdated products.
@@ -864,13 +857,6 @@ text: Terrible, terrible service overall.
 review_id : g59ZJexhg-lHa2uIIG95iw
 aspect: Service
 text: Terrible service, here, my son is no longer a patient here, the service is terrible, the only good thing I can say is the  male receptionist is nice, but for as the doctor and her assistance 4 thumbs down.
- -1
-
-
-
-review_id : PLkARfAlTpZ7VCocSvTubA
-aspect: Service
-text: I am upset with the service especially since they charge more then most opticians, but i have never had this problem before and i have been wearing glasses for over 20 years.
  -1
 
 

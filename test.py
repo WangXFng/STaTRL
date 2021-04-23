@@ -6,3 +6,9 @@ for i in n:
 
     a = np.exp(-i*d)
     print(a)
+
+a = '+1'
+a = int(a)
+print(a)
+b = '-1'
+print(int(b))

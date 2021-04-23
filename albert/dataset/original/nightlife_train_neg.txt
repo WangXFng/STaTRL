@@ -484,11 +484,6 @@ text: Crappy food!!! Worst wings & steak skewers are garbage.
  -1
 
 review_id : _liaYADCRU0EmAfAiCaruQ
-aspect: Food
-text: Horrible service, horrible food.
- -1
-
-review_id : _liaYADCRU0EmAfAiCaruQ
 aspect: Service
 text: Horrible service, horrible food.
  -1
@@ -503,19 +498,9 @@ aspect: Food
 text: Horrible service, horrible food.
  -1
 
-review_id : ThMFwOoAnmSQsRD5VjV1DQ
-aspect: Food
-text: Horrible service, horrible food.
- -1
-
 review_id : 1vdSH7xcTf5LRwsATbWhiw
 aspect: Price
 text: this place is cool but no! The food is over priced and the pizza crust is absolutely awful! 
- -1
-
-review_id : 277dEOh4jm8juSGf4NWR4g
-aspect: Food
-text: Horrible service, horrible food.
  -1
 
 review_id : 277dEOh4jm8juSGf4NWR4g
@@ -645,11 +630,6 @@ text: Horrible drink prices.
 review_id : 7JbPCD-ZA-NCrTY7oWK3Gw
 aspect: Service
 text: Absolutely terrible service from the bar staff.
- -1
-
-review_id : rpYd6YT2hv982DUyJNrg4g
-aspect: Service
-text: Service was horrible.
  -1
 
 review_id : sZddr4ciq2FmAE9_AwJ2SA

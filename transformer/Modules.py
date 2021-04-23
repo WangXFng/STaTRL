@@ -22,8 +22,9 @@ class ScaledDotProductAttention(nn.Module):
         # # # inner_dis = F.normalize(inner_dis, dim=-1)
         # # # # #
 
-        for i in range(self.n_dis):
-            attn[:, i:i+1, :, :] *= torch.unsqueeze(inner_dis,1)
+        if inner_dis is not None:
+            for i in range(self.n_dis):
+                attn[:, i:i+1, :, :] *= torch.unsqueeze(inner_dis,1)
 
         if mask is not None:
             attn = attn.masked_fill(mask, -1e9)

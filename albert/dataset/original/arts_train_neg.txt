@@ -315,18 +315,10 @@ aspect: Service
 text: The reviews were not awesome but they also were all based on experiences actually visiting the restaurant (slow service, that sort of thing).
  -1
 
-
 reciew_id : GXrnK4Oby89qDQ4dNIbOqQ
 aspect: Service
 text: Bottom line, the worst customer service and as a comment to the people in charge of marketing this restaurant....make sure your flyers are actually delivered to the area you intend on delivering to.
  -1
-
-
-reciew_id : GXrnK4Oby89qDQ4dNIbOqQ
-aspect: Service
-text: Bottom line, the worst customer service and as a comment to the people in charge of marketing this restaurant....make sure your flyers are actually delivered to the area you intend on delivering to.
- -1
-
 
 reciew_id : IWMirOGRDqAQ6k4ic8qUFQ
 aspect: Service
@@ -862,13 +854,6 @@ reciew_id : zBqoiqhQpL8loTE5gsAfOA
 aspect: Service
 text: Ummm...were you ever going to call to let me know this? Were you going to just let me show up for my 2:00 appointment? This business appears to be very unprofessional and lacking in basic professional services (ex-calling to confirm\/CANCEL appointments).
  -1
-
-
-reciew_id : in6NkKB5XbtHuQ8_lxThPA
-aspect: Service
-text: Yes the prices of drinks and smokes were cheap and there are gaming machines in there but they are crap games and the service is terrible.
- -1
-
 
 reciew_id : in6NkKB5XbtHuQ8_lxThPA
 aspect: Price

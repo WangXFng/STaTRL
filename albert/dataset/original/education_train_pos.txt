@@ -2,1134 +2,1116 @@
 review_id : yX9DUVlT1rA-gZRVuU8srg
 aspect: Service
 text: The service was friendly, and the prices are lower than what they ought to be.
- -1
+ +1
 
 
 review_id : yX9DUVlT1rA-gZRVuU8srg
 aspect: Price
 text: The service was friendly, and the prices are lower than what they ought to be.
- -1
+ +1
 
 review_id : pMWUw5PIui7YyVOikPDl2g
 aspect: Price
 text: They offer drop in sessions on Tuesday nights in the pool for a great price so it's nice that you can continue practicing even after the course is completed to make sure you are comfortable when you get into open water.
- -1
+ +1
 
 review_id : pMWUw5PIui7YyVOikPDl2g
 aspect: Price
 text: I thought this course was a overall a great value for the price and would recommend it to anyone who is interested in learning to scuba dive!
- -1
-
-review_id : pMWUw5PIui7YyVOikPDl2g
-aspect: Price
-text: The service was friendly, and the prices are lower than what they ought to be.
- -1
+ +1
 
 review_id : plwhuYmMxLPh1iCMNgvmgA
 aspect: Price
 text:  I've been to a lot of stables with lease and training programs in the east valley and for the price this is bar far the best!
- -1
+ +1
 
 review_id : FcpKcfcElX56XRWhPjEn-Q
 aspect: Price
 text:  There were sooo many pieces to choose from, and prices were affordable.
- -1
+ +1
 
 review_id : SeaKkKnP5jLGglYLEy3Rfg
 aspect: Service
 text:  I wish there were services this reliable and stellar in NYC and LA!
- -1
+ +1
 
 
 review_id : OtI7xcm6HBera39vdhKJRQ
 aspect: Price
 text: It also helps that there are reasonable prices, and totally worth it!
- -1
+ +1
 
 review_id : ZdaLOoQJBJD9pzowotvrvw
 aspect: Price
 text: And the prices are cheaper then all the other ones in the area.
- -1
+ +1
 
 review_id : iLze0ky9MoISPtGNKE-Fqg
 aspect: Price
 text: Their curriculum is great and you cannot beat the price.
- -1
+ +1
 
 review_id : c4MBYwgyyqNR_t1V7xycyg
 aspect: Service
 text:   The customer service was great from start to finish.
- -1
+ +1
 
 
 review_id : NFQAbtwHfboxM1EUA6sy5Q
 aspect: Service
 text: Great service and friendly.
- -1
+ +1
 
 
 review_id : n_1fqT1zIcRp50YtpP4fOA
 aspect: Price
 text: The prices are right ad the staff is phenomenal.
- -1
+ +1
 
 review_id : 6OLbvWjX8P7Ayt4gwThXeQ
 aspect: Service
 text: Clean school, good service, fun events, caring staff.
- -1
+ +1
 
 
 review_id : bROX-O1fTgKOc9LrSUGvPA
 aspect: Price
 text: Reasonable prices, super fast delivery(1.5 hours from my online order), they added a balloon at no cost.
- -1
+ +1
 
 review_id : ZS_6jyfSjvI9wUs1C_KVOA
 aspect: Price
 text:   Also the prices here are very competitive to other daycares in the area and we've switched several parents on to this place.
- -1
+ +1
 
 review_id : hehLVVsRmYiXzL54GbOyOw
 aspect: Price
 text: The facility is also very clean, and best of all its reasonably priced.
- -1
+ +1
 
 review_id : hdA5eCFAn0L4SfZDA9koZg
 aspect: Service
 text: Their service is also amazing.
- -1
+ +1
 
 
 review_id : NG53Vacs8fOYXEoicr5Otg
 aspect: Price
 text: Prices are lower, possibly to reflect it is a school.
- -1
+ +1
 
 review_id : vaoCgt85J1C_KbRpDcw4XA
 aspect: Price
 text: And if that isn't good enough their prices are the best out there.
- -1
+ +1
 
 review_id : -mdcZ92gF6B15keSsA1w8A
 aspect: Service
 text: The service is good, and the staff is very friendly.
- -1
+ +1
 
 
 review_id : n_ktatZng_XX2mGEl4-KRQ
 aspect: Price
 text: The place is organized and the price is extremely reasonable for the kind of care you receive which is 5 stars.
- -1
+ +1
 
 review_id : rTz2ZpsS4m2S02kzx2D2iQ
 aspect: Service
 text: The customer service from the call into schedule a tour to the front desk and teachers is outstanding!
- -1
-
-
-review_id : JlbE18L2OFLCSZgFKcALnA
-aspect: Price
-text: Finding a good tutor at a reasonable price was a nightmare.
- -1
+ +1
 
 review_id : Q3gz6pJJ4dYnsEHX4geR8g
 aspect: Price
 text:   Well worth the price of lessons.
- -1
+ +1
 
 review_id : 9_UHBzm9XAtSqYxtlPLmMQ
 aspect: Price
 text: Their daily featured backed goods are reasonable prices.
- -1
+ +1
 
 review_id : OxIIyG1o6L_L43wlJo_vYQ
 aspect: Service
 text: I would recommend using her services if your child is struggling in school.
- -1
+ +1
 
 
 review_id : XdCykiN7fKikgNIZH_TH_A
 aspect: Price
 text: Prices are reasonable..
- -1
+ +1
 
 review_id : 9F8JuLveZah59PprRwwXLQ
 aspect: Price
 text: The price is reasonable with respect to its location, where you will find great convenience if you study at U of T.
- -1
+ +1
 
 review_id : 5gohHSdcdu5Gtpe57xOIYw
 aspect: Price
 text: If you are looking for a preschool with a reasonable price you should call them.
- -1
+ +1
 
 review_id : BekwrO9X_KU537WSKwu0vg
 aspect: Service
 text: All in all,  Twin Translations and its owners have proven to be one of the best language services providers in Las Vegas, providing an always corteous and professional quality service.
- -1
+ +1
 
 
 review_id : n8UM_9fP0R_KHkId8Aq30Q
 aspect: Service
 text: Excellent customer service Mike is an awesome guy.
- -1
+ +1
 
 
 review_id : JGFbWAa1T39Wx4jzJIbgCg
 aspect: Price
 text: Finding a good tutor at a reasonable price was a nightmare.
- -1
+ +1
 
 review_id : 7SuvpviVzX_JYC-8vkyRXA
 aspect: Price
 text: Mike is super easy to work with, has a great price for FFL transfers, and an incredibly knowledgeable guy overall for anything imaginable.
- -1
+ +1
 
 review_id : Z3rVWW7H0hvRBrzLGm6IQA
 aspect: Price
 text: You get so much by sending your child to this school, at an extremely reasonable price.
- -1
+ +1
 
 review_id : c1WhTiVM0UFLif1DWEIy-w
 aspect: Price
 text: Best price, got us scheduled quickly, and the instructor gave our daughter the driving test so she didn't have to do it at MVD.
- -1
+ +1
 
 review_id : Mm4yQqCEqRoCzp_2S7sllA
 aspect: Price
 text: The benefit to parents with this model is a better price point then one on one tutoring.
- -1
+ +1
 
 review_id : dGlL-A4t7sdPczd9rEo3XA
 aspect: Price
 text:  Their prices were very reasonable.
- -1
+ +1
 
 review_id : 30hHpjmVQVooqglmE6CHZQ
 aspect: Service
 text:   what made the experience over the top was the awesome customer service.
- -1
+ +1
 
 
 review_id : 0AdTc89GRKzArhUrLetQAQ
 aspect: Service
 text: Excellent,professional service
- -1
+ +1
 
 
 review_id : X4b1KXq5MuxjmjLPhCLriA
 aspect: Service
 text: Great service, good price, close to home!
- -1
+ +1
 
 
 review_id : X4b1KXq5MuxjmjLPhCLriA
 aspect: Price
 text: Great service, good price, close to home!
- -1
+ +1
 
 review_id : LIV1j6xfI2mTTF4HTAyZQQ
 aspect: Service
 text: Really great customer service!
- -1
+ +1
 
 
 review_id : 1Ou9Ulqqtmwd1wiR_H_Vmw
 aspect: Price
 text: Superb retail shop with fair prices and it helps to know that the retail selection helps birds in need.
- -1
+ +1
 
 review_id : 1Ou9Ulqqtmwd1wiR_H_Vmw
 aspect: Service
 text: The real star here is the staff and services offered.
- -1
+ +1
 
 
 review_id : ulr99mr-jMiIMONQ6VufdQ
 aspect: Price
 text: It felt like a real salon experience with a great price!
- -1
+ +1
 
 review_id : qsgdLruuvx-Z-P4NqZrMYA
 aspect: Service
 text: There are a tremendous amount of service opportunities available for all ages.
- -1
+ +1
 
 
 review_id : KHSg0Gmo2eXtfDDxMSw8Zw
 aspect: Price
 text: They also always have a great stock of used instruments, fairly priced.
- -1
+ +1
 
 review_id : OQa8Vm9PKadwfUaSdAIV3Q
 aspect: Price
 text: The prices here are also great compared to others in the area.
- -1
+ +1
 
 review_id : luFjVJlTBRS-71Iz4DxBrw
 aspect: Service
 text:  I would recommend their services to anyone.
- -1
+ +1
 
 
 review_id : 9AnaYE3svqeihnjTMABGiQ
 aspect: Service
 text: Their prices are good and their service far surpasses what you would receive at a police station.
- -1
+ +1
 
 
 review_id : 9AnaYE3svqeihnjTMABGiQ
 aspect: Price
 text: Their prices are good and their service far surpasses what you would receive at a police station.
- -1
+ +1
 
 review_id : VrsTy2nzWCosKmMLgf34Vg
 aspect: Service
 text: In my view, KNIFE is the best shop and service in town.
- -1
+ +1
 
 
 review_id : fCjT5yi_ExVkQNA6z0ib_Q
 aspect: Service
 text: Friendly staff and great service!
- -1
+ +1
 
 
 review_id : WH5XbjoABNnwtKQ2aCgvrg
 aspect: Service
 text: The service at Knife was professional.
- -1
+ +1
 
 
 review_id : hZFgRVU9HZMI8u20z5Acng
 aspect: Service
 text:   We definitely would use their services again.
- -1
+ +1
 
 
 review_id : ZTL99nN4KrTmvRN7xcURuw
 aspect: Price
 text:  The price is very reasonable and the staff is very friendly, recommended for all ages.
- -1
+ +1
 
 review_id : T_tBDMhWQIFoSr2CeQTwzQ
 aspect: Service
 text:  It's a great service approach based on a professional who respects his craft and customers.
- -1
+ +1
 
 
 review_id : 2hUEQjh4OQPR2NXkpxSuqg
 aspect: Price
 text: Price is verry affordable and cheaper than other schools I've contacted.
- -1
+ +1
 
 review_id : 7J99aX0BAtuFEP0AYehZxA
 aspect: Service
 text: Excellent service, extremely professional...
- -1
+ +1
 
 
 review_id : 302o23qmdD1bVXh7L0nyJg
 aspect: Service
 text: Kevin reviewed the options available and made it easy for me to choose the best service.
- -1
+ +1
 
 
 review_id : 302o23qmdD1bVXh7L0nyJg
 aspect: Price
 text: Not having to worry about guests getting drinks was well worth the price, which I thought was very fair anyway.
- -1
+ +1
 
 review_id : 302o23qmdD1bVXh7L0nyJg
 aspect: Service
 text: Their Ice Service was well worth the cost.
- -1
+ +1
 
 
 review_id : iYYqry5IWyh-1Be3pdXlcw
 aspect: Price
 text:  Very good value, affordable price.
- -1
+ +1
 
 review_id : i24beSdoa_9-1HwhszSWZg
 aspect: Service
 text: The service component of the message is nice to hear and there are always local and international programs that are in need of assistance.
- -1
+ +1
 
 
 review_id : GXBmr-H7m-53QG7WsxDO7g
 aspect: Service
 text: Superb customer service - everyone from the person who booked our party, the reception, the game marshall - were nothing short of FAN-tastic!
- -1
+ +1
 
 
 review_id : T2aVZXYhoTWcNYFgLutQyg
 aspect: Price
 text:  Since the items are so reasonably priced we don't pay much attention to the dates on items.
- -1
+ +1
 
 review_id : 8TtkKRZiZKmEQSd7mKEjkA
 aspect: Service
 text: Our spa gave us students first hands on experience and offered public very affordable and high quality service.
- -1
+ +1
 
 
 review_id : kSxFn8Tk_ZsjfoK58HBZ2A
 aspect: Price
 text: Great entertainment at a cost effective price.
- -1
+ +1
 
 review_id : TSShg_lfDJ_EaEZ5yUc7nA
 aspect: Price
 text:  Price was reasonable, and we will be using Shake It Up (and requesting Chris) for other medium-to-large parties we throw.
- -1
+ +1
 
 review_id : m4EtB5vyEDvBjtmTZwye2g
 aspect: Service
 text: The bar was an open bar, and he remembered everyone's drinks, had amazing customer service, and did a great job with no tip jar.
- -1
+ +1
 
 
 review_id : bMiTZtUFCQh2IuMfTuysyw
 aspect: Price
 text: Price is good, the exhibits well set up, and even if you don't care in the least about sports or Canada's athletes, it's a very fun place to visit.
- -1
+ +1
 
 review_id : wVlXSjNSbfm3us7u5TCttg
 aspect: Price
 text: The prices & schedules are fair, flexible and hassle free.
- -1
+ +1
 
 review_id : EP4URYkBkozmmhpUSDc8Mw
 aspect: Service
 text: Everything was great with the service.
- -1
+ +1
 
 
 review_id : jIZckvuUu7fmdm4-VC-Yug
 aspect: Service
 text: He does awesome and great service!
- -1
+ +1
 
 
 review_id : Zc0J8asl0rkw16KgU5lpAw
 aspect: Service
 text:  I would highly recommend Chris for computer repair and service.
- -1
+ +1
 
 
 review_id : 2bEvw1s5TLh3K31Zr80W1g
 aspect: Price
 text: They will fix any problem you have at a fair price.
- -1
+ +1
 
 review_id : s1Q3DwGbc1MbGEL1_bY9Xg
 aspect: Price
 text:  I have a feeling this place will soon be very popular, and won't need the great prices.
- -1
+ +1
 
 review_id : Fl4-gdExMdxtaGrumLJyxg
 aspect: Service
 text:  I would recommend his services to anyone taking their test soon!
- -1
+ +1
 
 
 review_id : dWioWY3DfXqy8W02VwUTdQ
 aspect: Price
 text: Prices are great and made shooting interactive.
- -1
+ +1
 
 review_id : R8d1yTSnf68yOBY0QG9j4Q
 aspect: Service
 text: Paula is always eager to help and has outstanding customer service!
- -1
+ +1
 
 
 review_id : _MuACfIrQvLVS_sdxTyuVQ
 aspect: Price
 text:  Super nice facility, great store, very good prices and the best of all, I love the dog!
- -1
+ +1
 
 review_id : LXXuG99fayH-8AH5gs-PmA
 aspect: Service
 text: I was pleased with my services  I will come back again next year.
- -1
+ +1
 
 
 review_id : Dt1pGcSuZIUjItzxE6wkig
 aspect: Price
 text: It was very easy to schedule and very reasonably priced.
- -1
+ +1
 
 review_id : k1SbJagcsxIyzySCnL4Ryw
 aspect: Price
 text: They provide all the supplies for such a affordable price and the best part; YOU CAN BRING YOUR OWN ALCOHOL!
- -1
+ +1
 
 review_id : c0KLvNShVLMHi8YFRm3SXQ
 aspect: Service
 text: Highly recommend their services!
- -1
+ +1
 
 
 review_id : AjPzllXuNokYtOZFiaTMFQ
 aspect: Service
 text: I was very pleased with my service.
- -1
+ +1
 
 
 review_id : AjPzllXuNokYtOZFiaTMFQ
 aspect: Price
 text: He made the transaction very easy and the prices are very reasonable.
- -1
+ +1
 
 review_id : meVlab9ChHrdiEfRVuKmVw
 aspect: Service
 text:  The guest services explained everything perfectly, I think Colton, he was very welcoming.
- -1
+ +1
 
 
 review_id : ijpORdx2h732IY86mv7K8A
 aspect: Price
 text:  Trans Canada driving school offers the best quality teaching and prices are good.
- -1
+ +1
 
 review_id : QVF771XZiR-78Evkx4pP9w
 aspect: Price
 text: Audrey is reasonably priced and very, very accommodating.
- -1
+ +1
 
 review_id : CBAtQDbxtUnJ_LbSuEe03g
 aspect: Price
 text: It's a community theater and prices are affordable for everyone.
- -1
+ +1
 
 review_id : zALjacTZsPrHSS3-afkWLw
 aspect: Service
 text:  She also loved the service aspect of the trip and especially loved the Rustic staff onsite in Costa Rica.
- -1
+ +1
 
 
 review_id : -L7H5bkAS3WBAx4GVavfJA
 aspect: Price
 text: We didn't use Groupon, but the class was 3 hours long and I felt the $45 per person price was completely reasonable.
- -1
+ +1
 
 review_id : sjeMlNMceYMN2OgpZnjlfg
 aspect: Price
 text: Also they have such a variety of classes for my daughter I look forward to enrolling her in voice or music at a very reasonable price.
- -1
+ +1
 
 review_id : jSykMjU0FbXhoZO9ByCEmA
 aspect: Price
 text: The price is cheap for the quality of instruction.
- -1
+ +1
 
 review_id : yfznGjeGPhbdPa-UUOrPAQ
 aspect: Price
 text: And the price is actually quite affordable.
- -1
+ +1
 
 review_id : PShByVWvu48mO62a0JpZGQ
 aspect: Service
 text: The service was very professional and fast.
- -1
+ +1
 
 
 review_id : HgJaNplyoaGgMK-xyMCIAg
 aspect: Price
 text: Also it's a pretty good price for the classes she gets.
- -1
+ +1
 
 review_id : gdSy836bhR7Dr7gxO-rMsQ
 aspect: Service
 text: The quality of the service was fantastic.
- -1
+ +1
 
 
 review_id : Xsg7r0S5YQi4fchRukSY6g
 aspect: Price
 text:  I am so used to super-high priced daycares with mediocre service, but KidTown LV has already exceeded my expectations.
- -1
+ +1
 
 review_id : WnpHAYKn4tGS2NaBOAcslA
 aspect: Service
 text:  Had a very relaxing time and the service was just so great and the staff is so very sweet and caring
- -1
+ +1
 
 
 review_id : WqSkc-f0-iIDvl8h02VHiQ
 aspect: Price
 text: Also- the price is great (we spend as much a week as we would spend a day having someone come to the house).
- -1
+ +1
 
 review_id : MK-WlD0laSpKgCiBv6yQWw
 aspect: Price
 text: Their prices are very reasonable compared to other schools, plus it's locally owned and operated.
- -1
+ +1
 
 review_id : sDaikq-7k6yFiwdhyOLxdg
 aspect: Service
 text: This company goes above and beyond in the name of excellence in legal services.
- -1
+ +1
 
 
 review_id : zEFbzGn3krp7ZvpLYbvHXQ
 aspect: Price
 text: Great place to learn art at a reasonable price.
- -1
+ +1
 
 review_id : wAxssnhfRKQuR18cPU-mIA
 aspect: Price
 text: The daycare is fairly priced and considerably cheaper than the overpriced Tudor Time down the street and doesn't have the \"prison\" feel the Suzy Mommy Bear does as well.
- -1
+ +1
 
 review_id : Yl_5aRoq6peJBa_beti3EA
 aspect: Service
 text:  I've always received great customer service and product advice from them.
- -1
+ +1
 
 
 review_id : 6HVFhbwigN46cfvM4IYKyQ
 aspect: Service
 text: Great service owner and staff were really pleasant.
- -1
+ +1
 
 
 review_id : 6HVFhbwigN46cfvM4IYKyQ
 aspect: Service
 text: Went in for a massage and facial extremely happy with both services
- -1
+ +1
 
 
 review_id : WGLQSmP5yZFJOIXvjFh0rA
 aspect: Price
 text:  They are super reasonably priced and their tutors are knowledgeable and courteous.
- -1
+ +1
 
 review_id : neWp00hJe4emGapL9jLQ6A
 aspect: Service
 text: Always satisfied with speed & service.
- -1
+ +1
 
 
 review_id : wGWjh1q09NZ-7WBEcATbvA
 aspect: Service
 text: I would absolutely recommend them and service they provide deserves 5 stars.
- -1
+ +1
 
 
 review_id : sI_hIOt2gKVRQ1N_L8Gcgw
 aspect: Price
 text:  The price was also very reasonable, and I've had my hair done not nearly as well for a lot more money in over-priced salons.
- -1
+ +1
 
 review_id : e8mGbdldsIRta_vKw87ARA
 aspect: Price
 text: Amazing acupuncture at reasonable prices!
- -1
+ +1
 
 review_id : wy8Dq1Txvwa9OkFhA89zeQ
 aspect: Price
 text: Nice acupuncture clinic, reasonably priced and  great healing atmosphere.A+++
- -1
+ +1
 
 review_id : v1yIys_k3OdqnKFLuZ2KJw
 aspect: Service
 text: I could write a small novel regarding the top notch service from Alex\/Euvori Aquatics and the work he completed on my pool.
- -1
+ +1
 
 
 review_id : _MySjWhevklK-tcELkT6yw
 aspect: Service
 text: Highly recommend  their services - always on time, courteous and available.
- -1
+ +1
 
 
 review_id : l5t6twEN8rAzgnBY8zXJ0g
 aspect: Service
 text: Honestly this service is beyond incredible.
- -1
+ +1
 
 
 review_id : ZmPDjPQTd9aqP7JByk4NEQ
 aspect: Service
 text: I expect professionalism and compassion and I am completely satisfied with the services SW Autism & Behavioral  Solutions provides for my family.
- -1
+ +1
 
 
 review_id : 6VO6ox-eKt9UC2cXTPnmqg
 aspect: Price
 text: The RAL academy provides great value for the price.
- -1
+ +1
 
 review_id : qwTzndkSExwBA4KlX42z6Q
 aspect: Price
 text: The items and craft kits for sale are very reasonably priced.
- -1
+ +1
 
 review_id : 2_7n9G2YkpboxCrqhUbVeg
 aspect: Service
 text: Great local business proving a great service for people that need to improve their driving skills.
- -1
+ +1
 
 
 review_id : k4sMIIcQGQTz9KVN0SJwvw
 aspect: Price
 text: Also compared to other classes in Dallas it was very reasonable priced.
- -1
+ +1
 
 review_id : 4m_WnYBgOT9yZe_j6jgB6A
 aspect: Price
 text: The enrollment was reasonably price and the daily rate was amazing.
- -1
+ +1
 
 review_id : 8KXJfEWqng3rhxuXLrxD-Q
 aspect: Service
 text: Fantastic little shop with outstanding customer service.
- -1
+ +1
 
 
 review_id : _3iI6slgzte4Qlu6mclw8w
 aspect: Price
 text: Best place to get the best prices on your textbooks!
- -1
+ +1
 
 review_id : 5nTKwtw-YudgAoxNvnjHyw
 aspect: Service
 text: Shop is clean and all the customers I saw seemed happy with the service.
- -1
+ +1
 
 
 review_id : 1Be_v0_AG6n4wo__9C3eCQ
 aspect: Price
 text: The prices are reasonable , center very kid friendly environment and my child really looks forward to going everyday  he has learned a lot in the short time he has been here and I'm happy and thankful I found this place the director is Awesome!
- -1
+ +1
 
 review_id : 3N3y_Q1UIcL6bq3fw_qhsw
 aspect: Service
 text: Picked up my firearm transfer from Don at Arrow Security today and extremely happy with the friendly customer service and price.
- -1
+ +1
 
 
 review_id : 3N3y_Q1UIcL6bq3fw_qhsw
 aspect: Price
 text: Picked up my firearm transfer from Don at Arrow Security today and extremely happy with the friendly customer service and price.
- -1
+ +1
 
 review_id : RQjUHER4o7q8bVU03iG7fA
 aspect: Price
 text: This little restaurant offers  worldly cuisine for very affordable prices.
- -1
+ +1
 
 review_id : y3Jl-WRDHax6SdkEQ8ctyA
 aspect: Price
 text: I find the classes to be very reasonably priced, the studios are large and in good condition, and all of the staff is great.
- -1
+ +1
 
 review_id : PRmUPUMdUxgZ3cm0pzDvUw
 aspect: Price
 text: Will work with your insurance or cash at a very reasonable price.
- -1
+ +1
 
 review_id : URjbk4W2vV1xm0k2W9qUPw
 aspect: Price
 text: All at a reasonable price.
- -1
+ +1
 
 review_id : JFN3bYQ3JBf2u5PNLXYTNw
 aspect: Service
 text:   I am grateful for their service!
- -1
+ +1
 
 
 review_id : rB-6AhHvB3VyaWDG3BklBg
 aspect: Service
 text:   The young female students were so nice and  the  price is very inexpensive for such lovely services.
- -1
+ +1
 
 
 review_id : 0d4T4aIhBieBOKiFx1yygg
 aspect: Price
 text: No matter what the service is always good and prices cannot be beat!
- -1
+ +1
 
 review_id : FyTDkBXdAI59N4iVAndQeQ
 aspect: Price
 text: He offers in home training at a more than reasonable price.
- -1
+ +1
 
 review_id : 0ncxjcqxJT-3lJ3dQ32Ccw
 aspect: Price
 text: Super professional, reasonably priced and overall great people to do business with.
- -1
+ +1
 
 review_id : G-Dc_3CCpFF3QuAHKnHCRw
 aspect: Price
 text: They do 2 for 1 class deals which are such a good price for what you learn and you get to take home the product you make.
- -1
+ +1
 
 review_id : K3uNCKAsu_NJrnTx2Sjmrw
 aspect: Price
 text: They have the best price I have found in all of Phoenix.
- -1
+ +1
 
 review_id : CoaCuAj84Udb60TcAO4Z8g
 aspect: Price
 text: Price for the week was EXTREMELY reasonable.
- -1
+ +1
 
 review_id : IHpAlHCh4jTui9hO4EYLug
 aspect: Price
 text: They issue the F-1 visas for full time students and you can also come as a tourist and watch the classes for a more affordable price.
- -1
+ +1
 
 review_id : nn5FQ-cVV770PAnOlICiRA
 aspect: Service
 text: Upon my arrival I was greeted with outstanding customer service.
- -1
+ +1
 
 
 review_id : G4MJx5UeoTjZ1eDIxwyJlw
 aspect: Price
 text:  Nice place, huge selection, good prices and a friendly staff.
- -1
+ +1
 
 review_id : 014p4dpljqOthLVpKBKF9Q
 aspect: Service
 text: Staff is always friendly, knowledgeable, and provide immediate service.
- -1
+ +1
 
 
 review_id : sphdWYaUle-r57jtyRNcdQ
 aspect: Service
 text:  We were at Cirillos for a team building dinner, and I was thoroughly impressed by the interior (I WANT MY KITCHEN TO LOOK LIKE THIS), the warm welcome and the prompt friendly service.
- -1
+ +1
 
 
 review_id : L-bQj9hPVT8_PPVTE_QpIw
 aspect: Price
 text:  The have reasonable prices on ammo and a small selection of assessories.
- -1
+ +1
 
 review_id : w8WYpRwWwYgVvwwaNurVTA
 aspect: Price
 text: Rooms are clean and comfortable and the price is a great value.
- -1
+ +1
 
 review_id : FHA5juVs5Fxj4VrVwxZUNg
 aspect: Service
 text: Megan the owner is great with the kids and she also has great customer service.
- -1
+ +1
 
 
 review_id : n9ZXTkYqDT3iVOhh-ARBhQ
 aspect: Service
 text:   I feel that you'll get the same knowledgeable service regardless of your instrument.
- -1
+ +1
 
 
 review_id : P5HT581ZNA_3hxBJbmsc1g
 aspect: Price
 text: Absolutely well worth the price, if you have any doubts just go for it, you will not regret it.
- -1
+ +1
 
 review_id : -qbK0bXCGZdZaoEQuuR3UA
 aspect: Price
 text: The prices are fair, diapers and formula are included which adds a lot of value.
- -1
+ +1
 
 review_id : igJP6r4XK8vIrrmmhZyykA
 aspect: Service
 text:   The price and services available were reasonable.
- -1
+ +1
 
 
 review_id : igJP6r4XK8vIrrmmhZyykA
 aspect: Price
 text:   The price and services available were reasonable.
- -1
+ +1
 
 review_id : hkg7O8L879Dp-r6hpntgaQ
 aspect: Service
 text: You can not beat the price and the service.
- -1
+ +1
 
 
 review_id : hkg7O8L879Dp-r6hpntgaQ
 aspect: Price
 text: You can not beat the price and the service.
- -1
+ +1
 
 review_id : N4sG6uDj0wUu6FQDqlYEyQ
 aspect: Service
 text: I have no complaints about them and only praises for their professional and friendly service!
- -1
+ +1
 
 
 review_id : WZGe_soWoB8hVEsZ2AgyLg
 aspect: Service
 text: The service was very thorough and she knew exactly what products she was putting on me and what they did for my skin (since I have sensitive skin) I'll definitely be coming back with her!
- -1
+ +1
 
 
 review_id : zwZsVIMtGplR9va8vAJrpw
 aspect: Service
 text: Just signed my son up, the customer service was awesome!
- -1
+ +1
 
 
 review_id : 2-2VxrxZDY5REZnxb5fnbA
 aspect: Service
 text: Outstanding service for a fair price!
- -1
+ +1
 
 
 review_id : 2-2VxrxZDY5REZnxb5fnbA
 aspect: Price
 text: Outstanding service for a fair price!
- -1
+ +1
 
 review_id : KpLVE9N0HNSYnWG-eHORpg
 aspect: Service
 text: This school provides a well rounded education for any service professional or anyone new to the service industry.
- -1
+ +1
 
 
 review_id : iYUtBRA0WLZOAUZY72wNVw
 aspect: Price
 text: All in all, it's a fantastic price for high quality product and work.
- -1
+ +1
 
 review_id : E_cftAaEQofdl0Qif5JTmQ
 aspect: Service
 text: We have been using Las Vegas electrician since we moved here in 2009 we have had nothing but great service from every technician to come out and help us in our house we we can lighting ceiling fans new outlets put in in addition to having more wiring put in support our AC unit.
- -1
+ +1
 
 
 review_id : WYRRch_X_b7ejkDlNdZ6FQ
 aspect: Service
 text:  I've found my match  I organize so many events for my company but no other caterer comes close when it comes to incentive menus, delicious food, superior service and fabulous decor design.
- -1
+ +1
 
 
 review_id : ylTbyrPcD0dj2L1DUeXlyA
 aspect: Service
 text: Hands down superb service from start to finish.
- -1
+ +1
 
 
 review_id : ylTbyrPcD0dj2L1DUeXlyA
 aspect: Service
 text: I appreciate the quality of service, and passion that exudes beyond the finished product.
- -1
+ +1
 
 
 review_id : JQU_kdQSOBgCFh3VO4HCnA
 aspect: Price
 text:  Prices are reasonable and snacks are cheap.
- -1
+ +1
 
 review_id : iSuvalbeC7EKfKW-Co7brA
 aspect: Service
 text: I wanted a nail salon where I could enjoy the atmosphere and conversation AND get a great service.
- -1
+ +1
 
 
 review_id : iSuvalbeC7EKfKW-Co7brA
 aspect: Price
 text:   Also, prices are reasonable for the quality.
- -1
+ +1
 
 review_id : 11QG2vGxfe_PF-yYFGa_dQ
 aspect: Service
 text: The lunches served by an outside contractor are excellent as is the service provided by the ammunition supplier.
- -1
+ +1
 
 
 review_id : vo3zj3EILfwFvPY_noZdTQ
 aspect: Price
 text: For the price and the awesomeness of the instructors, it's worth it!
- -1
+ +1
 
 review_id : alXwiTkH7x73UVdOzN6nNA
 aspect: Price
 text:  Thanks for a wonderful day and an unforgettable and priceless experience.
- -1
+ +1
 
 review_id : aYt-2_RN2K45cQeF8-uzBA
 aspect: Price
 text:  And the prices are amazingly  affordable for what you get compared to what I've found other places to be at.
- -1
+ +1
 
 review_id : 2HHzL1w5L3dXkQ2vEZ926g
 aspect: Service
 text:  Best service I have ever received from a nail salon.
- -1
+ +1
 
 
 review_id : MvHnh1sH_71f6-mHs4r5pg
 aspect: Price
 text: Price is great and my daughter loves Kiddie Kampus.
- -1
+ +1
 
 review_id : fcdL0OQbCEiKzVlUwkVVOA
 aspect: Price
 text: My son has so much fun here and it is a reasonable price too!
- -1
+ +1
 
 review_id : kZdLVCZOyp53bBe49gkqSQ
 aspect: Price
 text: Great Gym for family at affordable price.
- -1
+ +1
 
 review_id : f_Naxe0cGWLdaeyUa6WupQ
 aspect: Price
 text:  I was getting pretty discouraged at the high prices of Chicago photographers, until we visited Bryan Swisher.
- -1
+ +1
 
 review_id : f_Naxe0cGWLdaeyUa6WupQ
 aspect: Price
 text:  I was thrilled that his prices are reasonable, he doesn't require that you sign up for expensive packages or albums upfront and his pictures are BEAUTIFUL.
- -1
+ +1
 
 review_id : vjx5WEM_2Kk82eIpUNMIPA
 aspect: Service
 text:  The school told me he is boy, he will catch up or he may qualify for special services.
- -1
+ +1
 
 
 review_id : WN_V2gzt0mpYrGJNkOkQ-Q
 aspect: Service
 text: This is a great place to come and get good service where the instructors are always around.
- -1
+ +1
 
 
 review_id : E5JLPNgEp1XBYTLWMwftIQ
 aspect: Price
 text:  Most wedding photographers were out of our price range.
- -1
+ +1
 
 review_id : E5JLPNgEp1XBYTLWMwftIQ
 aspect: Price
 text:   Not only were his prices reasonable, he worked hard to make sure that the photos he took were what we wanted as a couple.
- -1
+ +1
 
 review_id : HK3DhwnCTgKVNucLi8iCwQ
 aspect: Price
 text: The price is very accessible as breakfast and lunch are provided.
- -1
+ +1
 
 review_id : rdhV-Jg-7cwD7LyBFBj0vQ
 aspect: Service
 text: Thankful for the price and the customer service and bedside manner.
- -1
+ +1
 
 
 review_id : zp5av9Ek8ECYpSis0m29Mg
 aspect: Service
 text: I'm very impressed with their services!
- -1
+ +1
 
 
 review_id : L0rtMJlUI_OwTz-AWIxLqg
 aspect: Service
 text: I was pleased with my service and would go again.
- -1
+ +1
 
 
 review_id : 5CXVCaUFhlVgOpU1YWghIA
 aspect: Service
 text: Great service,  I'm sure that without them my daughter wouldn't be driving yet.
- -1
+ +1
 
 
 review_id : Pj1oFitZ_eebnHJEuIPDMw
 aspect: Service
 text: I highly recommend them for their cheer services!
- -1
+ +1
 
 
 review_id : d1clGqqzBMQEhAhMmsX1Xw
 aspect: Service
 text:  ALL services are FREE and patients are allowed one visit every 3-6 months.
- -1
+ +1
 
 
 review_id : d1clGqqzBMQEhAhMmsX1Xw
 aspect: Service
 text:  Thank you Carrington College for making this such a wonderful and valuable service!
- -1
+ +1
 
 
 review_id : 1JUvQvZVWemJnNJDjU91ag
 aspect: Service
 text:  They're all very knowledgeable about their goods and services.
- -1
+ +1
 
 
 review_id : EHDx6AVWMjTmKbs-Z45sRA
 aspect: Service
 text:  They have the excellent customer service.
- -1
+ +1
 
 
 review_id : yI11OpM5Wgkol_mFeKuhbA
 aspect: Service
 text: I will start off by saying I've had nothing but great service!
- -1
+ +1
 
 
 review_id : yI11OpM5Wgkol_mFeKuhbA
 aspect: Service
 text: Her students give great services from a mani down to a pedi.
- -1
+ +1
 
 
 review_id : 9T8zby_YTMbMq2O0ioweyQ
 aspect: Service
 text: The service is always great and they're so so friendly (especially the location nearby the library).
- -1
+ +1
 
 
 review_id : xU-1_2N4YWrx_Yyc-hYD1w
 aspect: Service
 text: I especially like the service and staff.
- -1
-
-
-review_id : Q5HBUa6VaNqPyXuXDaYMjQ
-aspect: Service
-text: Their customer service is outstanding...
- -1
-
+ +1
 
 review_id : mWgAkTAfkC7XcHoQzY49VA
 aspect: Service
 text: His attention to detail and great service will keep me coming back.
- -1
+ +1
 
 
 review_id : H7hA8_saUf8WrXZIZYVGDw
 aspect: Service
 text: I've searched high and low for recert programs as discovered this company to have been the best option for me, excellent customer service and follow up, guidance to the proper course and pricing is extremely a bonus.
- -1
+ +1
 
 
 review_id : WVw8ZZfepbiauoAG_HemOg
 aspect: Service
 text: Also, for the low price, the service is unbeatable!
- -1
+ +1
 
 
 review_id : w7l9G_g2WgT8FVjiO9ejXQ
 aspect: Service
 text: Their customer service is outstanding...
- -1
+ +1
 
 
 review_id : 6VMYpw3j7FViPNhZaHXocg
 aspect: Service
 text: I have had great service and after-sale service, but was dealing with 2 of the girls working there.
- -1
+ +1
 

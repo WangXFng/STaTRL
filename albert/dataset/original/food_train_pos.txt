@@ -404,11 +404,6 @@ aspect: Food
 text : Salads and dips, and my favorite of all: the made to order spot.
 +1
 
-review_id : ehMdl5v4cileuXFmxz9LLw
-aspect: Food
-text : They also have a great selection of produce and refrigerated and frozen foods.
-+1
-
 review_id : pI-CJfGNTgANkTWCeIGJAA
 aspect: Food
 text : Their food is outstanding and the customer service is exceptional.
@@ -572,11 +567,6 @@ text : They also have a great selection of produce and refrigerated and frozen f
 review_id : pI-CJfGNTgANkTWCeIGJAA
 aspect: Food
 text : Their food is outstanding and the customer service is exceptional.
-+1
-
-review_id : JJf-EaV_1QHFwVAR7X3kUQ
-aspect: Food
-text : Track this food truck down for wonderful food!
 +1
 
 review_id : Up_HPjt0uK6CLZmwukp9UQ

@@ -1,1103 +1,1103 @@
 review_id : BJtIiS5adhn91l8ILFWtdA
 aspect: Service
 text: Fabulous service everytime I have come here.
- -1
+ +1
 
 review_id : 4UQTefrM-C_SWLJc91caIA
 aspect: Service
 text:  I Worked the event, own a photo booth business, I LOVED how attentive the service was.
- -1
+ +1
 
 
 review_id : Y7EWxPlqomkhw3PB_TJ1Rw
 aspect: Price
 text: Plus the price is unbeatable!
- -1
+ +1
 
 review_id : G9x1_ekdvz5i1n7oFYcNog
 aspect: Price
 text:  If you live in town, you can buy a season pass for (IMO, surprisingly compared to other local pools) a very reasonable price.
- -1
+ +1
 
 review_id : sp1KjJCMnIyKnmjT_nsAWQ
 aspect: Service
 text:  I was impressed with the selection and service provided at Campers Village, and would certainly return if I found myself looking for other outdoors gear while in Calgary.
- -1
+ +1
 
 
 review_id : rYA6JB0-gr62_Tbv30loGw
 aspect: Price
 text: Great company, great price and great ride!
- -1
+ +1
 
 review_id : 3Eah2jMFhiRcjdc9Im_b6w
 aspect: Service
 text:  Food was cooked perfect and service was great.
- -1
+ +1
 
 
 review_id : QQa3eZNKG8-7JirxSMyMEw
 aspect: Price
 text:  Prices are reasonable and distinct, other bike stores would only quote me a huge range in price, cause they only see $$$ and not a long term customer.
- -1
+ +1
 
 review_id : eNLgE8fIW2sxgPLrCTlVQg
 aspect: Service
 text: The service was quick and was setup for two mountain bikes that fit our size 6'0\" and 6'5\" perfectly.
- -1
+ +1
 
 
 review_id : eNLgE8fIW2sxgPLrCTlVQg
 aspect: Service
 text: Again the service was friendly and felt welcome here.
- -1
+ +1
 
 
 review_id : -vbg4eru6yzlPa88_ndllw
 aspect: Service
 text: This one is one of the top ones in customer service, cleanliness, and upkeep.
- -1
+ +1
 
 
 review_id : jVWI5xW3iIK9G9rfdy4_4Q
 aspect: Service
 text: Bar service was quick, the food came out quickly (we literally ordered one of everything, and went back for more), and the bowling was a great time.
- -1
+ +1
 
 
 review_id : yAaiHCuRQs7a-y_yCOAcQA
 aspect: Service
 text: Quick service turnaround.
- -1
+ +1
 
 
 review_id : Xa2--vNe9yHCfx5GmKMCBw
 aspect: Price
 text: Have great instructors wonderful classes and affordable prices!
- -1
+ +1
 
 review_id : p5lK6biY0hWnSFvP62rEpw
 aspect: Service
 text:  They are relatively new in town from Colorado and they have the best service unlike the other Scottsdale bike shops.
- -1
+ +1
 
 
 review_id : sa8SbbE6xQLpEuO1fo9TXw
 aspect: Service
 text: The customer service is the best at any rental place I have ever been to.
- -1
+ +1
 
 
 review_id : sa8SbbE6xQLpEuO1fo9TXw
 aspect: Service
 text: I was highly impressed with their service and appreciation for their customers.
- -1
+ +1
 
 
 review_id : z2u2Ur-xDDEFHelKtyDYqQ
 aspect: Service
 text: Great equipment, fantastic showers, and complimentary towel service.
- -1
+ +1
 
 
 review_id : uyudxlBXrHJHh7lV_CXGjw
 aspect: Price
 text:  Friendly staff, quality rooms, and great prices.
- -1
+ +1
 
 review_id : jj3Sfe-XmkfQR0EOzLJbdg
 aspect: Service
 text:  Cycle Vegas may be a small operation compared to others but he excels in service, responsiveness, as well as bike and ride quality.
- -1
+ +1
 
 
 review_id : jQDvyl6E5_K_9Bwxg4jQbw
 aspect: Service
 text:  Service was excellent and he got a great used pair for $30!
- -1
+ +1
 
 
 review_id : aT_TK1u_w5Gcq5KG22esyg
 aspect: Service
 text: Excellent food and service.
- -1
+ +1
 
 
 review_id : -DyKONl85vgxQ3neAy_LrA
 aspect: Price
 text: The prices are very reasonable and sometimes we stay and play in the activity pool outside.
- -1
+ +1
 
 review_id : TYdY37-xntlIRv3Qxkbezg
 aspect: Service
 text: Customer service is great and the facilities are wonderul.
- -1
+ +1
 
 
 review_id : bH2QrDegFdAwtnE17vTaxA
 aspect: Price
 text:   He will sell you good quality equipement, suited to your needs, at very reasonable prices without trying yo upsale you!
- -1
+ +1
 
 review_id : eGzd_eL_B229GipJoibUYg
 aspect: Service
 text:  We had impeccable service from the whole staff!
- -1
+ +1
 
 
 review_id : sYL9G680PoH3uqkDdnLp_w
 aspect: Service
 text: Customer service is great, the bikes are great, and the trails are amazing.
- -1
+ +1
 
 
 review_id : JYd-Qe2qTdXEBrSfLw-pVA
 aspect: Service
 text: The service was great on a Friday night, it wasn't too busy.
- -1
+ +1
 
 
 review_id : QqdDXqkl6OGnlRy9pVibRg
 aspect: Service
 text:   Customer Service is beyond great, ATVs were a blast to ride, and the desert scenery was incredible!
- -1
+ +1
 
 
 review_id : loUlli3bpSZCqtmXLdjGvQ
 aspect: Price
 text: Everything you want in a box and at a prefect price.
- -1
+ +1
 
 review_id : qg5I2PuyAZP8WaE7nio1iw
 aspect: Price
 text: Got the present at a great price too.
- -1
+ +1
 
 review_id : B_Tc0wHzJk6h4sogNbkUJA
 aspect: Service
 text:   Very knowledgeable staff and good service.
- -1
+ +1
 
 
 review_id : ExvvONKC9HhHwf0H16skRA
 aspect: Service
 text:  And also thry have really good flexible times and great customer service
- -1
+ +1
 
 
 review_id : 58Nc9j_tSeWB29YRwfhhOg
 aspect: Service
 text: This bike shop and the man who runs it, Chris offers the best quality bike service you can find in the entire United States.
- -1
+ +1
 
 
 review_id : WwnPhKOPj9JBbyvj8m6cOA
 aspect: Service
 text:  They have a full service gym also and offer daycare while you workout.
- -1
+ +1
 
 
 review_id : wONPaFOc8X4RodvUHdIREQ
 aspect: Price
 text: Great price, nice small lake, very relaxing.
- -1
+ +1
 
 review_id : MMRMVwBYvPTMd-Q34p8Xqg
 aspect: Price
 text: This is a hit or miss depending on their stock and what you are looking for, but I always find great items and excellent prices.
- -1
+ +1
 
 review_id : MMRMVwBYvPTMd-Q34p8Xqg
 aspect: Service
 text:  The customer service is excellent.
- -1
+ +1
 
 
 review_id : -qGG4O7P_bB9d40v94AMtw
 aspect: Price
 text: The prices are also reasonable.
- -1
+ +1
 
 review_id : NAE3XUOPa3XWSTh7IDDxAA
 aspect: Service
 text: I knew the service was top notch because a friend bought all of his snowboard gear from them.
- -1
+ +1
 
 
 review_id : RXiPx28y4-_jXnWjJHqQSg
 aspect: Service
 text: Also great customer service.
- -1
+ +1
 
 
 review_id : z-xSi6doNflH-mzdWYaWqA
 aspect: Service
 text: Wonderful selection and service.
- -1
+ +1
 
 
 review_id : 8rowXvifl3nC279ut4x28w
 aspect: Service
 text: Service was fast, friendly & done right.
- -1
+ +1
 
 
 review_id : 8rowXvifl3nC279ut4x28w
 aspect: Price
 text: I've also bought accessories from here and found they have a well curated selection of good stuff at fair prices.
- -1
+ +1
 
 review_id : kWX-CgrsM-6M2B7JNuQZEw
 aspect: Service
 text:  Super friendly service -- even when I brought the bike back with a cut sidewall.
- -1
+ +1
 
 
 review_id : hKEfqRwZ5zsh66L85T_3Bg
 aspect: Service
 text:  Very clean, well organized and all the added services are a bonus.
- -1
+ +1
 
 
 review_id : eEJbgkMwtxUKv1-KeIdy1g
 aspect: Service
 text: I would recommend this place if you need a good adjustment he is amazing, and he has the best Customer Service Rachel is very sweet and very kind,  and at the end of adjustment if you're nice Rachel gives you a little bit of a massage at the end it's a great combination to fit together this office is very wonderful and I would recommend it to anybody.
- -1
+ +1
 
 
 review_id : CkLtHGxeDV4sZO-6PutK7Q
 aspect: Price
 text:  High quality clothing at great prices and a huge selection for an outlet.
- -1
+ +1
 
 review_id : U5aupEEIYlwTqKSodE_Irg
 aspect: Service
 text:  We had awesome service and everyone who worked there were fun and super nice.
- -1
+ +1
 
 
 review_id : y2GiRLbtym0qiu2SMWC9LA
 aspect: Price
 text: The membership okay and price very good deal!
- -1
+ +1
 
 review_id : v_2hMkCKDdFd9wEGarLonw
 aspect: Price
 text: The prices are reasonable and scheduling is flexible.
- -1
+ +1
 
 review_id : O1cFT88XzB9RaKh_QvRuPQ
 aspect: Price
 text:  Not only are they friendly, knowledgeable and reasonable priced but they really care about you having a great experience.
- -1
+ +1
 
 review_id : aUG5YPPJpzvygkP-RhnA5w
 aspect: Price
 text: Unpretentious, helpful and reasonably priced.
- -1
+ +1
 
 review_id : 1eZdn4A_u_UDdEpi0_iD3A
 aspect: Service
 text: Very nice people, great customer service.
- -1
+ +1
 
 
 review_id : R0X327_-P7Q1IDVBJPQE6g
 aspect: Service
 text: Gnar Gnar and its merry band of Gnarsters is one of the best, most thought out, and innovative services I've come across in the pantheon of mountain biking.
- -1
+ +1
 
 
 review_id : NiVEEFNmMSjU4oZZY4sftg
 aspect: Price
 text: Great value - guests told us the food tasted great, minimal decorations required since the hall is already quite beautiful and more than reasonable prices.
- -1
+ +1
 
 review_id : aU1GWD_X6z4NlgHB66fw3w
 aspect: Service
 text: Great service in a little family owned shop.
- -1
+ +1
 
 
 review_id : aU1GWD_X6z4NlgHB66fw3w
 aspect: Service
 text: In both cases I received fantastic service.
- -1
+ +1
 
 
 review_id : Z6nVR7Rq-6pskFwSFzJKlA
 aspect: Price
 text: Anyways the prices are exceptionally reasonable and competitive since you get coaching and they prepare you for fights if you wish to compete.
- -1
+ +1
 
 review_id : 3SqxF19chrDScu0iX_mF-g
 aspect: Service
 text:  Very good service all around.
- -1
+ +1
 
 
 review_id : MN-zACEW-eO9qeJd06AZ8A
 aspect: Price
 text: The prices are fine, you have flexibility depending on how many classes you want to do per week, and how long you want to sign up for.
- -1
+ +1
 
 review_id : i5p4jM0mrN1ip97xC1sheQ
 aspect: Price
 text: They offer those facilities to rent with reasonable price.
- -1
+ +1
 
 review_id : euwDzO0aOzhlF67-JRIPSg
 aspect: Service
 text:  Best products and best service around!
- -1
+ +1
 
 
 review_id : ZTEGHeCcWMKL55YIhkStfQ
 aspect: Service
 text: Absolutely the best customer service.
- -1
+ +1
 
 
 review_id : f9z1v0MjO_fikw-aR6RUBg
 aspect: Service
 text: Amy was awesome wit her customer service and gave me a lot of confidence about the experience.
- -1
+ +1
 
 
 review_id : OLbi82RVLQXBRyXOQD6kfg
 aspect: Price
 text: First off, it was really reasonably priced for the two of us to golf 18 holes at $6.00 per person.
- -1
+ +1
 
 review_id : YMdNqwYiHckk-YbKwy5MzA
 aspect: Service
 text: Service: Manager at the front desk is very friendly and seemed honest.
- -1
+ +1
 
 
 review_id : XMmsuAYOfPy3iKsrLGXyRg
 aspect: Service
 text: Great service, communication and mostly importantly people (& atvs:))!
- -1
+ +1
 
 
 review_id : HBQ181i7LUOXN3GGYk0WQA
 aspect: Price
 text: The prices are very reasonable.
- -1
+ +1
 
 review_id : _i_0FF2kAPxibb1vSQcbng
 aspect: Price
 text:  Great price per hour, friendly and observant staff (in regards to safety), and excellent facilities!
- -1
+ +1
 
 review_id : X0lyQRKeJKjOSLwzf5SQ5w
 aspect: Service
 text:  Great customer service seems to come naturally to this place!
- -1
+ +1
 
 
 review_id : X0lyQRKeJKjOSLwzf5SQ5w
 aspect: Service
 text: Their service is top notch!
- -1
+ +1
 
 
 review_id : zKgTHD7zLnaLYDaDMMDcUg
 aspect: Price
 text: They have great packages with affordable prices for everyone.
- -1
+ +1
 
 review_id : dzxon16FsqhouX-NXPF17A
 aspect: Service
 text: High quality, good price, amazing service.
- -1
+ +1
 
 
 review_id : dzxon16FsqhouX-NXPF17A
 aspect: Price
 text: High quality, good price, amazing service.
- -1
+ +1
 
 review_id : k-22uZkFNZiUXdi-bzdTbw
 aspect: Service
 text: All this special service for a very reasonable price.
- -1
+ +1
 
 
 review_id : k-22uZkFNZiUXdi-bzdTbw
 aspect: Price
 text: All this special service for a very reasonable price.
- -1
+ +1
 
 review_id : TwTEx5-s6FZFtVFqtSkoPQ
 aspect: Service
 text: Customer service is excellent - team is responsive and trustworthy.
- -1
+ +1
 
 
 review_id : oi0duEevjVfLy5u9I09fjg
 aspect: Price
 text: I'm pretty new at the Viking thing but it seems very reasonable on the price as well.
- -1
+ +1
 
 review_id : PIVtK7cEaFA3JzCIPTOo0Q
 aspect: Price
 text:  Friendly staff, all off the equipment I need, and you can't beat the price!
- -1
+ +1
 
 review_id : l_pTcVDPqKB35xKa_mi2iQ
 aspect: Price
 text: This place is amazing and the owners are extremely friendly prices are very reasonable and the rooms they have are really amazing varying in difficulty depending on what every group would want to do, definitely worth a visit or two.
- -1
+ +1
 
 review_id : cViizHX8l-waeb7w3_Humw
 aspect: Price
 text:  The prices here and at the main store are right on the money.
- -1
+ +1
 
 review_id : hGgajOQEquEuPxpp_H1j9A
 aspect: Service
 text: This shop has great customer service and takes the time to help you.
- -1
+ +1
 
 
 review_id : drsUFduBK_fgwTXJ849ZJg
 aspect: Service
 text: I will definitely recommend this place for its friendly staff and wonderful service.
- -1
+ +1
 
 
 review_id : drsUFduBK_fgwTXJ849ZJg
 aspect: Service
 text: All the other parents inquired about this place after the party and were very impressed with the friendliness and service we received.
- -1
+ +1
 
 
 review_id : 78wNReKzZYbnkKhAQspqFQ
 aspect: Service
 text: To start, the customer service is outstanding.
- -1
+ +1
 
 
 review_id : 78wNReKzZYbnkKhAQspqFQ
 aspect: Price
 text: There is also a ladies night every 3rd Tuesday and the price is very reasonable.
- -1
+ +1
 
 review_id : A-OOdRHLe3lDTrUfKzvrlA
 aspect: Price
 text:  You cannot go wrong for the price you pay.
- -1
+ +1
 
 review_id : J94BxE_uA8z4uJ7-MA2HHw
 aspect: Service
 text:  Excellent service and class schedule fit for a demanding lifestyle.
- -1
+ +1
 
 
 review_id : J94BxE_uA8z4uJ7-MA2HHw
 aspect: Service
 text: I recommend this gym to everybody looking for a full service facility.
- -1
+ +1
 
 
 review_id : zZRPg6fS5KA-wtUkWRDb4g
 aspect: Service
 text:  They are honest, great prices, and fast service.
- -1
+ +1
 
 
 review_id : zZRPg6fS5KA-wtUkWRDb4g
 aspect: Price
 text:  They are honest, great prices, and fast service.
- -1
+ +1
 
 review_id : S0m6Ye-Oobzd4F5Rl39H0g
 aspect: Service
 text: Great friendly service at affordable prices.
- -1
+ +1
 
 
 review_id : rjlaYjqtusYE6E8ZbGwSbg
 aspect: Service
 text:  I would highly recommend, great service, great price, they just need to find a way to make me ride faster!
- -1
+ +1
 
 
 review_id : rjlaYjqtusYE6E8ZbGwSbg
 aspect: Price
 text:  I would highly recommend, great service, great price, they just need to find a way to make me ride faster!
- -1
+ +1
 
 review_id : XfRRyQB_C1YJrOJFE3YfnA
 aspect: Price
 text:  The classes are top rate and the prices are great.
- -1
+ +1
 
 review_id : KeaK7MleyMwkBUv3CO_jLA
 aspect: Service
 text: I will return to use their services in the future and highly recommend them.
- -1
+ +1
 
 
 review_id : cWpNK4OxY0a8FhNGEay0kA
 aspect: Price
 text:  The prices were also extremely reasonable.
- -1
+ +1
 
 review_id : WATOSvfhDJ--TFUE7EeumA
 aspect: Price
 text:  Done in a timely manner and it was a good price, compared to my other estimates.
- -1
+ +1
 
 review_id : tZBX4OTVxZq19GWdFdyp8w
 aspect: Price
 text: The prices for bowling were very reasonable.
- -1
+ +1
 
 review_id : wdzn1jBiI8jzoBxbymQMcw
 aspect: Service
 text: Great service and highly knowledgeable!
- -1
+ +1
 
 
 review_id : rphZGSDfiFOg83CJJP2_oQ
 aspect: Price
 text: I think the monthly price and drop in are reasonable when compared to others.
- -1
+ +1
 
 review_id : oARNnItxTmrvR18yJMJgbQ
 aspect: Service
 text: I live in North Phoenix and it is hard to find a good local pool service but this company does it all.
- -1
+ +1
 
 
 review_id : oARNnItxTmrvR18yJMJgbQ
 aspect: Price
 text: They were reasonably priced and very competent.
- -1
+ +1
 
 review_id : VXcErdNVZIBsKN3pZkV2Kw
 aspect: Price
 text: Great place to go for the price.
- -1
+ +1
 
 review_id : 9_FIrYHLCD-tZfjXBtB7_w
 aspect: Service
 text:  Their services do complement each other well.
- -1
+ +1
 
 
 review_id : i3sIh8bAdwPH3qW7CBYaIA
 aspect: Service
 text: Full of great surprises & super sweet customer service.
- -1
+ +1
 
 
 review_id : vwxVO2EpMYY0xs5EqoIHBQ
 aspect: Price
 text:  They have good prices and a wide variety to choose from!
- -1
+ +1
 
 review_id : T_59EUrZnR1kCAi6NBMnqA
 aspect: Service
 text: Complete marine has the best service dept in 2 states.
- -1
+ +1
 
 
 review_id : Kuu8Byncku1HfnnKlghGTQ
 aspect: Service
 text: The food is great and the service is top notch.
- -1
+ +1
 
 
 review_id : KbKpPAnFEjavGGXtOxxTog
 aspect: Price
 text: The prices are always great which is hard to find in the Henderson, Las Vegas area.
- -1
+ +1
 
 review_id : Wl51PeI2mkQlGdtwMequeA
 aspect: Price
 text: You can rent 24 hour lockers for very reasonable price.
- -1
+ +1
 
 review_id : O4acvCobDZPphaYsG0sZfA
 aspect: Price
 text:   Nice selection of equipment all in great shape and great prices!
- -1
+ +1
 
 review_id : zk8GC2lO0O_geK8vnKkrFA
 aspect: Price
 text: Ticket prices are fair and there isn't a bad seat in the house.
- -1
+ +1
 
 review_id : jZ-pvtAlpvsJ4aQp8gsZmg
 aspect: Service
 text: Veterans are honored for their service by being  provided with a substantial discount to the CCW course.
- -1
+ +1
 
 
 review_id : rEXCs9nnySuK1F082YDf-w
 aspect: Service
 text: The dedication to providing the best services is seen through their knowledge, collaboration, and ongoing analysis.
- -1
+ +1
 
 
 review_id : VPWLomfop5u3dPGOeFHNhg
 aspect: Service
 text: I'm grateful for the care he's provided both of us, and will continue to use his services and recommend him.
- -1
+ +1
 
 
 review_id : p7124BR9hUcLGSUNftc8NA
 aspect: Price
 text: The owners are nice, the prices are more than fair and the location is perfect.
- -1
+ +1
 
 review_id : EYUHOC3xKpxYyf9VmjN81w
 aspect: Price
 text: Totally worth the visit and prices.
- -1
+ +1
 
 review_id : bYCffSrCpymGPSOp3U_EWQ
 aspect: Service
 text: I was so happy with their service that I couldn't leave the store empty handed, so I picked up a jar of local (Pahrump) honey.
- -1
+ +1
 
 
 review_id : WCI2XtP2HF7CNQ2ExKOW3g
 aspect: Service
 text: The prices were good, and the great customer service.
- -1
+ +1
 
 
 review_id : WCI2XtP2HF7CNQ2ExKOW3g
 aspect: Price
 text: The prices were good, and the great customer service.
- -1
+ +1
 
 review_id : l_aJCYtU1SWzSMKpx5-d-A
 aspect: Price
 text: The prices are reasonable as well.
- -1
+ +1
 
 review_id : rGSYW0wUZppr6OJK-x2QiA
 aspect: Service
 text: I have not met the other owners but I sense Zach understands he is in a competitive service business and knows communication and timely service is very important to maintain and build a business.
- -1
+ +1
 
 
 review_id : iFwyHCFRlcjScJtszZvX9Q
 aspect: Price
 text:  Cool spot with parking, reasonably priced sessions with open gym for clients.
- -1
+ +1
 
 review_id : JAQxm1FAbFYjL7M5sMFDBg
 aspect: Service
 text:  We had great service and a great time!
- -1
+ +1
 
 
 review_id : oONNxJce7jN35bFu7ZJKbg
 aspect: Price
 text: Escape Key is friendly to both newbies and veterans, the price is completely reasonable, and it's a lot of fun!
- -1
+ +1
 
 review_id : sj_P_MA4NWb2rqpO84n20g
 aspect: Service
 text:  Service was punctual, friendly, and professional.
- -1
+ +1
 
 
 review_id : 54mVqV_jMsSsBjiPVqEg7A
 aspect: Service
 text: They provided excellent customer service from start to finish.
- -1
+ +1
 
 
 review_id : ltY-rj6kR-I7cGJ89zoT-Q
 aspect: Service
 text: Amazing customer service, never encountered people like this at a gun store before.
- -1
+ +1
 
 
 review_id : 4z5Byvgzxbh3OTC5YW2t_A
 aspect: Service
 text: I have been coming to this gym for many years and have seen the changes between managers, Eric is top on my list of management, he knows the business and I feel runs a smooth service for anyone who goes there.
- -1
+ +1
 
 
 review_id : TJ3Ru5Dt1VlPAueaSWB5Fw
 aspect: Price
 text: Very knowledgeable staff and good prices.
- -1
+ +1
 
 review_id : wexSfzW8Ay2ErpF4MQeWLg
 aspect: Service
 text: The service was impeccable and started as soon as we pulled up in the car.
- -1
+ +1
 
 
 review_id : stnlQG-Fobdv82jQFj2oAw
 aspect: Price
 text: Matt also has good rackets with affordable prices so I recommend if you go there and don't have a racket, buy one from him.
- -1
+ +1
 
 review_id : a4sQy_eO8xL4G8TjaQLXyg
 aspect: Service
 text: Outstanding customer service!
- -1
+ +1
 
 
 review_id : A3G4UNd2TWwkuGE8n1M42w
 aspect: Service
 text: They greatly impressed me with both their customer service and integrity to do things right.
- -1
+ +1
 
 
 review_id : 6F5gRnMRlBsa9cTNUAzO7Q
 aspect: Service
 text: Service is highly personalized for individual needs; trainers are fantastic, motivating and well trained; atmosphere is upbeat; and I'm getting results.
- -1
+ +1
 
 
 review_id : zoITR3GHlJrZnP-4WssGnw
 aspect: Service
 text:  I look forward to our new established service with this company.
- -1
+ +1
 
 
 review_id : 3uZebODUwDI0B7MsYUp5Kg
 aspect: Price
 text: Their prices are also pretty good.
- -1
+ +1
 
 review_id : 3uZebODUwDI0B7MsYUp5Kg
 aspect: Service
 text: Not the lowest, but their customer service is excellent!
- -1
+ +1
 
 
 review_id : HnDYK4fg9pgksj7G6LJDtg
 aspect: Price
 text: The introduction month price is a great deal to try out as many classes as you'd like at a super affordable price.
- -1
+ +1
 
 review_id : dGktcL55EHDRx61yMWmJsQ
 aspect: Service
 text:  Excellent customer service and just very friendly people.
- -1
+ +1
 
 
 review_id : LBxKJU1_OB6ilpyxhCyShw
 aspect: Service
 text: As a college student, I generally wouldn't be able to afford this kind of care, so let's just say that the service is, well, \"affordable\".
- -1
+ +1
 
 
 review_id : -TUNtFyi0e5nifc_PX36RQ
 aspect: Price
 text: There are also coaches available for hitting and pitching that offer private lessons and good prices.
- -1
+ +1
 
 review_id : VRIPLVCIJSdTJ3Bv7Gq1pg
 aspect: Service
 text: Old Town Beach Cruisers have new bikes and accessories for sale also.We were very happy with our bikes and the wonderful friendly service we received from Emmanuel.
- -1
+ +1
 
 
 review_id : 6oro0JEwkpT44E_9CrKoKQ
 aspect: Service
 text: Social service agencies and organizations are always dear to my heart.
- -1
+ +1
 
 
 review_id : 6oro0JEwkpT44E_9CrKoKQ
 aspect: Service
 text: And I was seriously amazed and impressed that all proceeds are going to such an amazing social service organization that helps to empower under privileged women and give them the confidence to be work force ready.
- -1
+ +1
 
 
 review_id : 0Mdzy_C_8Q5yOXunUOwnLQ
 aspect: Price
 text: Instructors are crazy energetic and talented and the prices are very very reasonable.
- -1
+ +1
 
 review_id : dcKN25VMqs7VmjJU5Un_mQ
 aspect: Service
 text: Overall, Great fun, with very awesome friendly service!
- -1
+ +1
 
 
 review_id : YOTQiAqbvoiifTCi8VyBqQ
 aspect: Price
 text: Awesome selection and prices.
- -1
+ +1
 
 review_id : iMew1bK6a7VLYyNB9nFOrQ
 aspect: Service
 text: Excellent service, great wings (love the spicy teriyaki), and a nice place to take the family.
- -1
+ +1
 
 
 review_id : 85sddjQt9sgbGO7fTdanOw
 aspect: Price
 text: Price and service, dedication can't be beat.
- -1
+ +1
 
 review_id : cm2_cUNebYqclL5HM7fdGw
 aspect: Price
 text: The membership is reasonable priced.
- -1
+ +1
 
 review_id : lGHlyZadndS9QIFEDtL3jw
 aspect: Price
 text: Best Taekwondo place ever, family spirit, reasonable price, caring for the kids, sport science minded, I took my daughter to 4 Taekwondo places before Master Seung's, but definitely this is the best.
- -1
+ +1
 
 review_id : VLXTADRO0mCifkGhiu5hJg
 aspect: Price
 text:    Price is very good!
- -1
+ +1
 
 review_id : 5YOZMCYVzKmGPKejsPqBng
 aspect: Price
 text: The studio is beautiful, the instructors are friendly and nurturing, and the prices are reasonable.
- -1
+ +1
 
 review_id : upbvnfPXnHsI40pD7SuaXg
 aspect: Price
 text: Well worth the price.
- -1
+ +1
 
 review_id : DIHcWGcol3n96VX70HH3jw
 aspect: Price
 text: They gym is awesome because you get 24\/7 access for an awesome price.
- -1
+ +1
 
 review_id : yf-eotGbHuhyD3VIDCGJzg
 aspect: Price
 text: At $16 in the refillable souvenir cup it was well worth the price.
- -1
+ +1
 
 review_id : DscR53NV0CuI1kQWreHOlw
 aspect: Price
 text:  You can't beat the service here and the prices were fair.
- -1
+ +1
 
 review_id : ReYr368MQrRc2QORrJ8crA
 aspect: Price
 text: I think they save on overhead too by having their location off the main road which means savings passed on to the customer because they do have some of the best prices in the valley for printing shops.
- -1
+ +1
 
 review_id : 1KGRdo02_-F2ZpCkcFPyOA
 aspect: Price
 text: The prices are really great for not only the amount of time spent there but also for the quality of care.
- -1
+ +1
 
 review_id : kimAg98tN38UAAxf8_Vl4A
 aspect: Price
 text: The prices are really fair (they fluctuate depending on when you go and whether you rent a full court or just drop-in) and they're open everyday until late in the evening.
- -1
+ +1
 
 review_id : OHyfOVUbcyxZYimVStetfA
 aspect: Price
 text: Prices are reasonable, and it's a nice departure from the usual lunch spots.
- -1
+ +1
 
 review_id : 6xZe_1sDVCPzehe1-btKGQ
 aspect: Price
 text: Beautifully maintained and more than reasonably priced.
- -1
+ +1
 
 review_id : HEqLy_PkExH-uCsG1uV1yw
 aspect: Price
 text: Their prices are the best you're going to find.
- -1
+ +1
 
 review_id : 4bV1bctIdV_r6ax4qwp8tw
 aspect: Price
 text: I have also found his prices are good especialy compared to the other stores I've been to.
- -1
+ +1
 
 review_id : sBvkQqU5Gf-Ghlxygop_pg
 aspect: Price
 text: Their prices are very reasonable for all items and services.
- -1
+ +1
 
 review_id : iSxzh-E-LD2zxXK3AEBsFw
 aspect: Price
 text: They provide excellent training for a reasonable price.
- -1
+ +1
 
 review_id : bDnmmgHZPfGGonk7PTiD5w
 aspect: Price
 text:  Great price for a unique small guided ride and cowboy experience complete with .22 shooting, bow and arrow, axe throwing, and a cool one at the saloon!
- -1
+ +1
 
 review_id : NTpKpTt0XLNdGmRBY8M4Kw
 aspect: Price
 text:  All prices include the cart, bonus!
- -1
+ +1
 
 review_id : t2-DK2X3964mTwnRdUaikQ
 aspect: Service
 text: Really excellent service, and positive environment to be in.
- -1
+ +1
 
 
 review_id : QsZBoXpEqh0SKerpwpfcWA
 aspect: Service
 text: The feel of the place and their service was wonderful...
- -1
+ +1
 
 
 review_id : kuhpVooji-byBIW6Ygacrg
 aspect: Price
 text: The work was done in a timely manner and the price was excellent.
- -1
+ +1
 
 review_id : zOvs-aH6WFGIj7BNAhBoLQ
 aspect: Service
 text: Absolutely fabulous service and experience.
- -1
+ +1
 
 
 review_id : WItOQ4va8OxiFLSHxZYnbA
 aspect: Price
 text: The prices are reasonable too!
- -1
+ +1
 
 review_id : 1uQwNGMiFwb-YiyKsRy3IA
 aspect: Service
 text:  The ranges are in amazing shape and the service was awesome.
- -1
+ +1
 
 
 review_id : IfjMyUkZuStpt3l45vLOkw
 aspect: Service
 text: Wish every company was this dependable and obsessed with over the top customer service.
- -1
+ +1
 
 
 review_id : IfjMyUkZuStpt3l45vLOkw
 aspect: Service
 text: BEST golf service I have ever used in any city.
- -1
+ +1
 
 
 review_id : NIrbGBMFRGSYAt1syIIArA
 aspect: Price
 text: Great staff, clean facility, ultimately a great deal for the price.
- -1
+ +1
 
 review_id : mHI1eV9zU2GuH2mIgkNQFg
 aspect: Price
 text:   Very knowledgeable staff, great prices and if they don't have it on their shelf, they'll order for you!
- -1
+ +1
 
 review_id : Y-9BAfFQ6le3dwC6uJikdg
 aspect: Price
 text: If you need quality durability and great prices these guys are it period.
- -1
+ +1
 
 review_id : hrtgYfSazYjZ39U6ACIpZg
 aspect: Price
 text:  Very reasonably priced; she did a craft, colored, played with play doh and ran around in their play area for $12.
- -1
+ +1
 
 review_id : QuI_H2omo_BFHY5eLZW5sA
 aspect: Service
 text: Lunch and valet service were good.
- -1
+ +1
 
 
 review_id : DOytHgiKqZgs5oWhWJ20MQ
 aspect: Price
 text:  because membership is low, public can get in 18 holes at very resonable prices.
- -1
+ +1
 
 review_id : DOytHgiKqZgs5oWhWJ20MQ
 aspect: Price
 text:  the club grill offers good fare and good prices
- -1
+ +1
 
 review_id : Imz4ENCLlt0QzV30sLG9_Q
 aspect: Service
 text: The customer service was superb and not overbearing.
- -1
+ +1
 
 
 review_id : sXuXWzLe5miuw4IXAvG63A
 aspect: Price
 text: The price is very fair.
- -1
+ +1
 
 review_id : 5Ip6UEP-aq1FhdEYgrIDVg
 aspect: Price
 text:  The prices are very reasonable ($12 walking and $20 with a cart)
- -1
+ +1
 
 review_id : qD45kjx45pQzXoXtfjCZrw
 aspect: Service
 text: The service is probably the best I've experienced in any courses in the Mecklenburg County area.As soon as you drive up someone is there to pull your clubs from your vehicle and load them onto a cart.
- -1
+ +1
 
 
 review_id : QfUMeFDuQ0aum10nnv0xKA
 aspect: Price
 text: The prices are very reasonable and they will go above and beyond the call of duty.
- -1
+ +1
 
 review_id : RbJvIgcczzdTje1fKobuSw
 aspect: Service
 text: The food was fantastic and the service was top notch.
- -1
+ +1
 
 
 review_id : MoPKVwH8VxlczL5tuDZT6w
 aspect: Price
 text: The prices are very fair, if not less expensive, in comparison to other studios in the area.
- -1
+ +1
 
 review_id : hGBKUBWxYcW3ZKJYbhPyNw
 aspect: Service
 text: I love my boat and the customer service is amazing.
- -1
+ +1
 
 
 review_id : 2ncvzwD4nMZVS9TNoWkGSQ
 aspect: Price
 text:   Great prices, great classes, great atmosphere, and great staff!
- -1
+ +1
 
 review_id : u_H_m79tobF0-6-xg59j2Q
 aspect: Price
 text: Great company that offered rentals at affordable prices and the entire process was very  dry smooth.
- -1
+ +1
 
 review_id : eLGMjz0CyNXYSBSdahbmrg
 aspect: Price
 text:  And for something so specialized and with such small classes, the price is great - only about $15 per class.
- -1
+ +1
 
 review_id : uBCs1SdLY1cibXurNlejtw
 aspect: Price
 text:  I might take off half a star because his prices are very high.
- -1
+ +1
 
 review_id : twRZn8mVkRgLz6pTG18v7w
 aspect: Price
 text: To me, the prices of memberships are reasonable and the availability of classes is sufficient especially when I work swing shift so I will be getting a membership once my groupon is up.
- -1
+ +1
 
 review_id : KMMyCPFQUeR9zG3Vkigxbg
 aspect: Price
 text: Their selection is great, their prices can't be beat, and their employees are very helpful and knowledgeable about reloading questions and issues.
- -1
+ +1
 
 review_id : PXGt518fKIArjH2Ak5cy_w
 aspect: Price
 text:  Eric went the extra mile with every detail, handled absolutely everything and created our 'dream come true' pool at a wonderful price!
- -1
+ +1

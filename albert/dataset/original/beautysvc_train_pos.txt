@@ -1,1095 +1,1090 @@
 review_id : hbdwjL7ec03fXU7Yq8wh5w
 aspect: Price
 text: The prices are also very fair...
- -1
+ +1
 
 review_id : dWoZNvnLZDVr6tRCYHX2Mw
 aspect: Price
 text: Best prices and best haircuts! I have had two haircuts here and am going back for a third very soon.
- -1
+ +1
 
 review_id : R3P5PvCGM-Zg_8rIK5uEBw
 aspect: Service
 text: The new manager Kelly also does facial services and very knowledgeable of her products, my friend had her face done and just loved it!
- -1
+ +1
 
 
 review_id : 23iED-uPemGfQCkf0Nchng
 aspect: Service
 text: Amazing service! If you want someone truly passionate about their craft Alexus is your girl! Her designs are always on point and you'll leave happy every time!
- -1
+ +1
 
 
 review_id : DLmm7PEhf8SRv_hAxyHOKg
 aspect: Price
 text:  The price is also very reasonable, which helps when you're hairy and on a STRICT budget!
- -1
+ +1
 
 review_id : nZdJK1lydBEughC0MwvA3w
 aspect: Service
 text: Fast service and understood customer's needs very well.
- -1
+ +1
 
 
 review_id : qtnjGfv2uQvy-sw5PCt1qw
 aspect: Service
 text: Great service and she is fun too!
- -1
+ +1
 
 
 review_id : cqI1NRCzzMBMzipWXGLkqA
 aspect: Service
 text: The services aren't cheap, but they are top notch.
- -1
+ +1
 
 
 review_id : IoT0DYJAXewAzJfMygPMiQ
 aspect: Price
 text: They do an absolute fantastic job, very low prices and A+ customer service.
- -1
+ +1
 
 review_id : WHLzatBVcQPQM5_SrLqyyw
 aspect: Service
 text: I have been coming here for over a year now because of the service.
- -1
+ +1
 
 
 review_id : 4AQAHDXt_twzYSLJToSLuw
 aspect: Service
 text: I was really happy with the service at Icone.
- -1
+ +1
 
 
 review_id : 4AQAHDXt_twzYSLJToSLuw
 aspect: Service
 text: The atmosphere is really relaxing, and on Wednesday's, they have lots of services half price.
- -1
+ +1
 
 
 review_id : kTeQV8FQXkhJICJRR_HqIA
 aspect: Service
 text: I'd recommend her to anyone looking for color service.
- -1
+ +1
 
 
 review_id : hdlGEMENoByWN-by9sUkNw
 aspect: Price
 text: An inexpensive price for a great cut! If you are a regular guy (and don't need mimosas served as you wait for your cut) and need your hair cut at least monthly.
- -1
+ +1
 
 review_id : GXKtNDd4uWU419m5VpSrqw
 aspect: Service
 text: All 3 services were perfect!
- -1
+ +1
 
 
 review_id : e3U99UZKDYgMYv2STOqofg
 aspect: Price
 text: Very friendly staff and fair prices.
- -1
+ +1
 
 review_id : DZ3_8G-f_TGx7nvj5ID8Mw
 aspect: Service
 text: I definitely recommend coming here for friendly service and amazing hair!
- -1
+ +1
 
 
 review_id : ztkxtPhxe6i7cUtLUUK-vQ
 aspect: Price
 text: Also very affordable prices.
- -1
+ +1
 
 review_id : yfAI5IAcY_N0NoP0fY8BEg
 aspect: Service
 text: I was very happy with my mani\/ pedi and the service was excellent.
- -1
+ +1
 
 
 review_id : 6vjlivkhR-V9NJTgqPDDZQ
 aspect: Service
 text: Great customer service and very accommodating.
- -1
+ +1
 
 
 review_id : PWRnKGf_wTcf80jWChayHA
 aspect: Price
 text: The price was cheap and the end result was acceptable.
- -1
+ +1
 
 review_id : 2S4VdHpIK3ctBJG9NNuVGQ
 aspect: Price
 text: She has first time waxer deals, student discounts (go sundevils), and great prices!
- -1
+ +1
 
 review_id : R14F3hwwpTFjC51NUKOWgg
 aspect: Price
 text: Haircuts are great and at a fair price.
- -1
+ +1
 
 review_id : un_YEbAkauPfyVQSrDqxkw
 aspect: Service
 text: They were extremely friendly and kind here! Excellent service, fixed my broken nail and did an amazing job! Plus, so affordable!
- -1
+ +1
 
 
 review_id : Pg7mjTzfQpKko4_mrGY39A
 aspect: Service
 text: Fast service, the woman who did my hair was great and it was the cheapest hair cut I've ever gotten.
- -1
+ +1
 
 
 review_id : OglU62bBGJtG7rBPAaXDFQ
 aspect: Service
 text: Highly recommend her services.
- -1
+ +1
 
 
 review_id : 6Jf2eLFepMU1dBnZKZlFnA
 aspect: Price
 text: To top all this off, Exclusive's prices are extremely fair.
- -1
+ +1
 
 review_id : 6Jf2eLFepMU1dBnZKZlFnA
 aspect: Service
 text: You are personally pampered and receive a VERY high quality service every time.
- -1
+ +1
 
 
 review_id : UW9NNKbKnQDUXdHrCL2iQg
 aspect: Service
 text: They also are experts in hair extensions and hair restoration should you need those services.
- -1
+ +1
 
 
 review_id : fpa5CZjq-XUsP_qvvUMknw
 aspect: Price
 text: It has the feel of a high end spa but the prices are affordable.
- -1
+ +1
 
 review_id : Wk3lD5FyLvApM4QSoLdlEg
 aspect: Service
 text: Finally, found an amazing nail salon that gives great service, consistently.
- -1
+ +1
 
 
 review_id : Wk3lD5FyLvApM4QSoLdlEg
 aspect: Service
 text:  They all seem to be genuinely happy to service you.
- -1
+ +1
 
 
 review_id : VB1iE3eqw4E05de0kzTVlw
 aspect: Price
 text:  It's always clean, the prices are more than reasonable, and no matter who does your nails.
- -1
+ +1
 
 review_id : 8-pTZMoMQxD9ueRWpkKF5Q
 aspect: Service
 text:  Awesome service, great prices and just a fun place to hang out.\n\nEdit:  takes way to long to get in the chair.
- -1
+ +1
 
 
 review_id : 8-pTZMoMQxD9ueRWpkKF5Q
 aspect: Price
 text:  Awesome service, great prices and just a fun place to hang out.\n\nEdit:  takes way to long to get in the chair.
- -1
+ +1
 
 review_id : BX0i2MfGLW9swDXxOmvcQQ
 aspect: Service
 text: I just left and had the most refreshing microdermabrasion service! 
- -1
+ +1
 
 
 review_id : IrJe5nLxVfn_I6yhueHnSQ
 aspect: Price
 text: Her prices are great ($40 for a cut!), and she's very flexible when it comes to accomodating my schedule.
- -1
+ +1
 
 review_id : Rp3b8kWHf1VSaWUMwQkl_Q
 aspect: Price
 text:  Even the price was extremely reasonable.
- -1
+ +1
 
 review_id : Z_2-vTwln_y2IUAXURuuMA
 aspect: Service
 text: Nicely decorated and has great service.
- -1
+ +1
 
 
 review_id : Z_2-vTwln_y2IUAXURuuMA
 aspect: Price
 text: The prices are also very reasonable.
- -1
+ +1
 
 review_id : UDubmUGeyG5gz2fqLB4vsQ
 aspect: Service
 text: Considering that the quality of service and atmosphere are so much better than the usual crappy salon, the prices at Exclusive are super reasonable.
- -1
+ +1
 
 
 review_id : UDubmUGeyG5gz2fqLB4vsQ
 aspect: Price
 text: Considering that the quality of service and atmosphere are so much better than the usual crappy salon, the prices at Exclusive are super reasonable.
- -1
+ +1
 
 review_id : BQAEXcGCdYJa8UZQ2M1YuA
 aspect: Service
 text:  I called around and researched quite a few places and was really pleased with the overall customer service and individual attention we received.
- -1
+ +1
 
 
 review_id : 5kg9l7mhs6DMIqhTBFci5g
 aspect: Price
 text:  Prices are more than reasonable.
- -1
+ +1
 
 review_id : e6rYMXqVtPAHWx-2KsG83A
 aspect: Service
 text: Great cx service.
- -1
+ +1
 
 
 review_id : C5huLCbvk276aF_vvckE8Q
 aspect: Service
 text: Ask for Serena if you want outstanding service and color.
- -1
+ +1
 
 
 review_id : aq5s89_IxgbICPOZX15J7w
 aspect: Service
 text: $36 for a mani-pedi is a good deal with fast, friendly service.
- -1
+ +1
 
 
 review_id : aPsJNTYSO3H7jT2Q9nt_KA
 aspect: Service
 text: My review is based in esthetics only as I have never tried their hair services.
- -1
+ +1
 
 
 review_id : AtSh2ttb1BF-YWU4PYrQJg
 aspect: Price
 text: Raza was really kind and helpful, and gave me a brand new screen at an extremely reasonable price.
- -1
+ +1
 
 review_id : AtSh2ttb1BF-YWU4PYrQJg
 aspect: Service
 text: My phone looks brand new and I'm really happy with the customer service here.
- -1
+ +1
 
 
 review_id : ErC_LV2j-1bPDHjSShHnnA
 aspect: Service
 text: I've gotten a majority of my tattoos here and was provided with the best service I've seen in the industry.
- -1
+ +1
 
 
 review_id : PzBncRUzF0yi-MVAmmQnrQ
 aspect: Service
 text: Good friendly service.
- -1
+ +1
 
 
 review_id : 5C-Jf1RcCYHtVM8SoaRg8A
 aspect: Price
 text: Price is very reasonable.
- -1
+ +1
 
 review_id : zY1fkpNJnvBwcAKY1giLFw
 aspect: Service
 text: But like finding a great restaurant, the service is at least equal to the quality of food.
- -1
+ +1
 
 
 review_id : q03pijdE0EBm-WqLKmyhwQ
 aspect: Service
 text: The new ownership makes you feel you got a good treat.
- -1
+ +1
 
 
 review_id : q03pijdE0EBm-WqLKmyhwQ
 aspect: Price
 text: A good price to get a haircut
- -1
+ +1
 
 review_id : qNE22GrbS__EMmnzJSZPRA
 aspect: Service
 text: I went in to get a mani\/pedi and was pleasantly surprised by the quality of service.
- -1
+ +1
 
 
 review_id : cfi_77rzpuDDEVwJSA-6hA
 aspect: Service
 text: Firstly, amazing customer service everyone there seems very friendly, inviting and nice.
- -1
+ +1
 
 
 review_id : aYa_j57ewP7CNg2JHlQYPA
 aspect: Service
 text: Everyone once in a while you'll get a scalp massage from a hairdresser, and sometimes there's a TV on somewhere, but at MVP Modern Barbers there's also a complimentary drink (I assume coffee or cola) and a hot towel and straight razors and great service.
- -1
+ +1
 
 
 review_id : Nd5DeaU4NHpE2EN-NmsnNg
 aspect: Price
 text: For a great haircut at a decent price, and great priced hair products, I would definitely recommend Green Apple.
- -1
+ +1
 
 review_id : pb7sDnDqcGZ6NF5lSl9caw
 aspect: Price
 text: We came here for the amazing price, but were keeping our expectations low.
- -1
+ +1
 
 review_id : pb7sDnDqcGZ6NF5lSl9caw
 aspect: Price
 text: With such great prices, we were able to get a couple's 90 min massage.
- -1
+ +1
 
 review_id : 5xQDcMRpOMAxuDnWt46w4g
 aspect: Price
 text:  Her prices are very reasonable and she has great rapport with her customers.
- -1
+ +1
 
 review_id : jsnBasG11YP71vGV80B-Zw
 aspect: Price
 text: Best price in town for the best haircut in town.
- -1
+ +1
 
 review_id : rJzd1PR1J3mi9n6RQmFGQA
 aspect: Price
 text:  VIP prices very reasonable and no contract required.
- -1
+ +1
 
 review_id : KPqaNk6tHs_I5Drspa7BpQ
 aspect: Service
 text: My manicure is one of my top five best ever (I've had a million) and they have wonderful customer service.
- -1
+ +1
 
 
 review_id : -UkTG6P6oG6HTHThlbN0lA
 aspect: Service
 text: From hair to massage, you will get fantastic service and results.
- -1
+ +1
 
 
 review_id : opSw0oCRqyX2-Hkyt1v67Q
 aspect: Service
 text: Great experience, clean an neat nail job, ask for Annie she knows what shes doing and the lady before me had super cute nails also!!! Would return to shop, I live in another state but highly recommend her services!
- -1
+ +1
 
 
 review_id : zRPojglqczezlSkuDQrjBQ
 aspect: Service
 text: Very clean salon with great service!!
- -1
+ +1
 
 
 review_id : kS6j_PHFoSi-G_UNbrWfOQ
 aspect: Service
 text: So friendly, amazing customer service, just an absolute pleasure.
- -1
+ +1
 
 
 review_id : gCSHiKPAaTQqKrlJBAwDNg
 aspect: Service
 text: Great price, amazing services, clean environment..
- -1
+ +1
 
 
 review_id : u_dir9d6h9RubrmSxpwZCw
 aspect: Service
 text:  We will definitely be coming back for both the very reasonable prices ($45 for a haircut - half the price of nearby salons) and the professional service.
- -1
+ +1
 
 
 review_id : u_dir9d6h9RubrmSxpwZCw
 aspect: Price
 text:  We will definitely be coming back for both the very reasonable prices ($45 for a haircut - half the price of nearby salons) and the professional service.
- -1
+ +1
 
 review_id : lJBv_Befj27Mq5eM9yjPDA
 aspect: Service
 text: I cannot speak enough for the skill, attention to detail, and out right great service I received! Barber Anthony edged up my son really well.
- -1
+ +1
 
 
 review_id : 6JWUYE13oW0TlXU2KFnfHA
 aspect: Service
 text: This is a great Day spa with many other spa services.
- -1
+ +1
 
 
 review_id : Ko3PBc1JQh3mgCCa-SuDjQ
 aspect: Service
 text: Great prices and very friendly services, always finds out exactly what you want upfront.
- -1
+ +1
 
 
 review_id : Ko3PBc1JQh3mgCCa-SuDjQ
 aspect: Price
 text: Great prices and very friendly services, always finds out exactly what you want upfront.
- -1
+ +1
 
 review_id : tiFEfuHN4Ck7m2X-ISYXsQ
 aspect: Service
 text:   I am always happy with the services I receive.
- -1
+ +1
 
 
 review_id : ZTD8-QZjQt3xOzmOEMCCIA
 aspect: Service
 text: Great service, friendly staff, perfect hair cuts.
- -1
+ +1
 
 
 review_id : 5Kt3o-F4evwmqSmsaGQ0_A
 aspect: Service
 text: And thank you Kent for your amazing service when Kim is away.
- -1
+ +1
 
 
 review_id : W2brdyLWaAp-ajAXaYPi6A
 aspect: Price
 text: The price is very reasonable and the people are really nice.
- -1
+ +1
 
 review_id : fZkjDOSannmzrpSh2WBLCg
 aspect: Service
 text: Massage Life & Wellness is one offers one of the best massage services around.
- -1
+ +1
 
 
 review_id : fZkjDOSannmzrpSh2WBLCg
 aspect: Service
 text:  I've known Stephanie for a few years and she has been consistent in her professionalism, service, and passion for growing her knowledge around therapeutic & deep tissue massage.
- -1
+ +1
 
 
 review_id : TU0F98ik37Zo-xeMN5be-w
 aspect: Service
 text:  The staff is always friendly, the booking is a breeze and service is always professional.
- -1
+ +1
 
 
 review_id : jw2Mv3MLaemjvP9Bcq_YCQ
 aspect: Service
 text: Good service and fair prices, this was the first place I've been to where the lady was able to read my body.
- -1
+ +1
 
 
 review_id : jw2Mv3MLaemjvP9Bcq_YCQ
 aspect: Price
 text: Good service and fair prices, this was the first place I've been to where the lady was able to read my body.
- -1
+ +1
 
 review_id : pGdHTvdjQgMqqlJ9K74zZQ
 aspect: Service
 text: great location, fantastic service.
- -1
+ +1
 
 
 review_id : oooskS0Gu0fH-rf2QZ3ViA
 aspect: Service
 text: Best Barbershop in Charlotte period, I've been going there for about 2 years now and it's always great service.
- -1
+ +1
 
 
 review_id : K3iaHYfPW2f2ju9rCnIzTA
 aspect: Service
 text: Always fun and excellent service at Vanessa Nails.
- -1
+ +1
 
 
 review_id : K3iaHYfPW2f2ju9rCnIzTA
 aspect: Service
 text: Staff is friendly and provide very good quality service.
- -1
+ +1
 
 
 review_id : JVYqz7kowr5VzWsa06U5lw
 aspect: Price
 text: I just love it! And her prices are great.
- -1
+ +1
 
 review_id : 60ZpkoKvwBVsrGC__xSxVg
 aspect: Service
 text: They offer many services and they are local friendly.
- -1
+ +1
 
 
 review_id : CoZu_2c9QxdnNtUVWDd7Pg
 aspect: Price
 text: Her price was excellent for the work, significantly cheaper than full-out salons and it comes with a real client\/stylist relationship with a really cool lady who's very much a people person.
- -1
+ +1
 
 review_id : CoZu_2c9QxdnNtUVWDd7Pg
 aspect: Service
 text: I would strongly her services for natural hair colors, funky colors, cuts, and I'm sure her makeup services are outstanding as well.
- -1
+ +1
 
 
 review_id : G1WQ5sx_cmqwO3JkC874pA
 aspect: Service
 text: Great service and friendly, skilled nail technicians.
- -1
+ +1
 
 
 review_id : O0M62GjGZf5pfpdmlEBj2w
 aspect: Service
 text: Great service and friendly costumer service.
- -1
+ +1
 
 
 review_id : Gvhq2TSunb-SAzea8yXzeA
 aspect: Price
 text:  Good prices and very friendly!
- -1
+ +1
 
 review_id : 8fntZ9Aeo1ju-c9sBdJ2mg
 aspect: Service
 text: Prices are comparable to others in the area but I will continue to come here just for the good service and sanitary environment.
- -1
+ +1
 
 
 review_id : pLpUDcWDpLhA1D-4ADHe7g
 aspect: Service
 text: He absolutely loved the treatment, attention and service.
- -1
+ +1
 
 
 review_id : _u82gnWzJLLOd_NqMr_HRA
 aspect: Price
 text:  I love deluxe nails! Great price and the staff is friendly.
- -1
+ +1
 
 review_id : 2QRVHYvRjhck7JesBHh_Bw
 aspect: Price
 text:  Prices are about standard to other salons in the area.
- -1
+ +1
 
 review_id : 8WN2e4LjIRkkL4n1xxJksA
 aspect: Service
 text: Staff are fun, professional and excellent at the services they provide.
- -1
+ +1
 
 
 review_id : nLbHyT4T3sRcozXKS5lxTA
 aspect: Price
 text:  My trim was great value at a cheap price.
- -1
+ +1
 
 review_id : C57WO-lbsfiZvfFEvnLwyA
 aspect: Price
 text:  The price was a bit much, but I know what Botox can cost over the cost of a year, so thanks to Danielle we were able to get the product at a very reasonable price.
- -1
+ +1
 
 review_id : hAaRFDlW_69yicuhDQ_gUA
 aspect: Price
 text:   She clearly knows what she's doing and her prices are VERY reasonable.
- -1
+ +1
 
 review_id : _mo6cL3pNEGKv69QphzKFQ
 aspect: Price
 text:  As a kicker, the price is really reasonable!
- -1
+ +1
 
 review_id : 2eiA2FqjU5LL6VAD87mK7w
 aspect: Price
 text:  My second tattoo there great place clean friendly good prices take time to listen to you on what you are wanting.
- -1
+ +1
 
 review_id : kcZB7RlUkFnTGqpiJ9JAZg
 aspect: Price
 text:  The price is very affordable.
- -1
+ +1
 
 review_id : JGB4JOtzxibuHpiLASKOmw
 aspect: Service
 text: Affordable and great quality service!!!
- -1
+ +1
 
 
 review_id : 7im1KoERT_IQNnM9LVUytw
 aspect: Price
 text:  He's reasonably priced and a wonderful stylist.
- -1
+ +1
 
 review_id : wV6y5BxnEGtQ-NkRwFIeOg
 aspect: Service
 text: I loved the service and the place was very clean and well kept.
- -1
+ +1
 
 
 review_id : ey-srD9pl_XOnEfbihpSHw
 aspect: Price
 text:  The price was comparable to most fills and I was in and out of there in no time.
- -1
+ +1
 
 review_id : YiMm1PbvXcjmi_Z3AxftQw
 aspect: Price
 text:  So, the next time I let her touch up the color on my hair and again, great job and great price.
- -1
+ +1
 
 review_id : -9O78eU51nG1jGPsQ8dCQA
 aspect: Price
 text:   You never feel rushed, she makes sure that you're happy with the cut in progress, and the price can't be beat!
- -1
+ +1
 
 review_id : HiEGWrhJgHxTg82fC-7qfw
 aspect: Service
 text: When I first walked in my nails were horrible only this couple Tina and Kevin are the one who I can trust and the one who can take care of my nails super professionally great service great prices I don't think you can beat this place
- -1
+ +1
 
 
 review_id : HiEGWrhJgHxTg82fC-7qfw
 aspect: Price
 text: When I first walked in my nails were horrible only this couple Tina and Kevin are the one who I can trust and the one who can take care of my nails super professionally great service great prices I don't think you can beat this place
- -1
-
-review_id : wCQe3d2ZBqcOpksg6LPUKw
-aspect: Price
-text: Prices are reasonable & her professionalism & knowledge made me feel very comfortable.
- -1
+ +1
 
 review_id : mphIF37Wz7N688U2E1Agrw
 aspect: Service
 text: So happy with their customer service professionalism, manners, positive attitude.
- -1
+ +1
 
 
 review_id : ndb5KNqAvMpNvT8Ybfb_Mg
 aspect: Service
 text: Service: I was quickly helped by a sales associate when I entered the store.
- -1
+ +1
 
 
 review_id : W_TTuXd5_oUeuoRNRZzfAA
 aspect: Price
 text: they really know their stuff! great prices and proffesional work.
- -1
+ +1
 
 review_id : aJfmtVWV3CdPckESgRzjpA
 aspect: Price
 text: The facility is very clean and price very reasonable for high quality of service.
- -1
+ +1
 
 review_id : ixeFQ91mncYAE0xKvNnncw
 aspect: Price
 text: Prices are very fair, work is excellent and workers are friendly and nice.
- -1
+ +1
 
 review_id : C1On4QffrEyl8ag02sZVgw
 aspect: Price
 text: But all in all I would definately recommend giving them a try and the prices are good.
- -1
+ +1
 
 review_id : xRXBjMbNlUR-tV7t79YVLw
 aspect: Price
 text: His prices are reasonable as well! Highly recommend.
- -1
+ +1
 
 review_id : BkSp0Gk759HkXvDbSAH4lg
 aspect: Price
 text: Excellent prices, friendly, I would recommend making a reservation.
- -1
+ +1
 
 review_id : qi6nCvGyhOO0nGpkKF-m-g
 aspect: Price
 text: I will continue to go here as the service is friendly and the price is cost effective on my wallet!
- -1
+ +1
 
 review_id : E9BCGNJu3oBowFqiDgDLgQ
 aspect: Price
 text: The price is reasonable, the staff is wonderful, parking is parking in Lawrenceville.
- -1
+ +1
 
 review_id : v4Dp915S_TMc5HQ7i5wy0g
 aspect: Price
 text:  They are nice, always smile when I come in, VERY reasonably priced (much better than all those 'pretenders' who SAY they are inexpensive) and quick - oh my gosh, the guy is fantastic!
- -1
+ +1
 
 review_id : 64Js7hHbbgd_wDnFRYGS8A
 aspect: Price
 text: This is a great place with reasonable prices.
- -1
+ +1
 
 review_id : icfz1YteygmbClTL-oYHiw
 aspect: Price
 text: Prices are reasonable & her professionalism & knowledge made me feel very comfortable.
- -1
+ +1
 
 review_id : tex2FgJ9Iw9rXpTkdVW3hg
 aspect: Price
 text: I've visited several salons in the cleveland area and this is by far the best quality- and it's extremely reasonably priced too!
- -1
+ +1
 
 review_id : GoIm14HwYFAdCIw8eVfDYw
 aspect: Price
 text: The prices are very reasonable.
- -1
+ +1
 
 review_id : suCd4vgIX-sISdnmx4mfVw
 aspect: Price
 text:  The prices are competitive and the staff is nice.
- -1
+ +1
 
 review_id : aDRXOX5EOu14COcOz2aXzw
 aspect: Price
 text:  If you're looking for a good, old school barber shop, with friendly folk, very reasonable prices, and consistently good haircutting, no matter which chair you land in, then look no further, Floyd's is your joint.
- -1
+ +1
 
 review_id : kLOFKy7eGZqHfkJt8uQ55A
 aspect: Price
 text: Possibly the best haircut I've ever got in Calgary at a relatively inexpensive price point.
- -1
+ +1
 
 review_id : 9OUZ-cFL0v8UEt6WnyJNpQ
 aspect: Price
 text: The price was great too! I'll definitely be back!
- -1
+ +1
 
 review_id : nTtkHDeblsnL_TOPe7e7MA
 aspect: Price
 text: First time here and it was great!
- -1
+ +1
 
 review_id : W6KQzveVomYZzN7O9gBahA
 aspect: Price
 text: Jen was amazing! Not pushy, great prices, easy to talk to, and made me look and feel great! Will refer and come back!
- -1
+ +1
 
 review_id : KCDJbxjjbWrYDYFx3JEagA
 aspect: Price
 text: Prices are reasonable and sometimes they have $10 specials!
- -1
+ +1
 
 review_id : QbiCfp4jTIIk4I8FizEwpA
 aspect: Price
 text: Her prices are more than fair.
- -1
+ +1
 
 review_id : nztSXWNQ9yzfHBSCumFYQg
 aspect: Price
 text: Prices are good and they offer a number of services- nails shellac etc.
- -1
+ +1
 
 review_id : jsVIcKLWbSN4rmejHDabAw
 aspect: Price
 text: Reasonable prices, high quality styling.
- -1
+ +1
 
 review_id : FkReiP8TOwwbYek1z1OcBQ
 aspect: Price
 text: she is very reasonably priced, and does a such a good job of making you feel so pretty.
- -1
+ +1
 
 review_id : Zi6cHUoosH6korxK9o4zww
 aspect: Price
 text:  Prices are reasonable, the deluxe pedi is my favorite.
- -1
+ +1
 
 review_id : zTjbxIIv6SUwWDxgojh_yQ
 aspect: Price
 text: Prices are reasonable and definitely a good deal for the end product.
- -1
+ +1
 
 review_id : xdHWb62ACuhc9vfvMY2S1w
 aspect: Price
 text:  I would recommend her to anyone looking for a reasonably priced, extremely talented hair and makeup artist.
- -1
+ +1
 
 review_id : NXxYgC4HGarfXCyncxzSbA
 aspect: Price
 text: Everyone in the salon is super friendly and the price is very reasonable.
- -1
+ +1
 
 review_id : gQIS27NCi5PcfkfW_YJ6Sw
 aspect: Price
 text: For women I thought their prices were quite reasonable.
- -1
+ +1
 
 review_id : rOpKuzhKCNn9tG9XzMiw9Q
 aspect: Price
 text: Prices are just like every other nail place, 5 stars for sure!
- -1
+ +1
 
 review_id : 7GGmNnWEiK8nxcnTyNfDMg
 aspect: Price
 text: Price are pretty much compatible with everybody else!
- -1
+ +1
 
 review_id : 49kUXDBBNSB_X52wcNLs_w
 aspect: Price
 text: Her prices are completely reasonable and she's super talented, definitely recommend!
- -1
+ +1
 
 review_id : G5Dl1di2PFweDY_yUF-s1w
 aspect: Price
 text: The prices are very affordable, I know this as I'm there ever week...
- -1
+ +1
 
 review_id : qDyBlfofvDQ6o2Z6NvwUWA
 aspect: Price
 text: And their prices are very reasonable, especially if you buy a package.
- -1
+ +1
 
 review_id : d7k160gMaT6ajphCEIWcYQ
 aspect: Price
 text: The prices are good.
- -1
+ +1
 
 review_id : LCqVT3WLtBQ6-AWovV7cWQ
 aspect: Price
 text: Her prices were very reasonable and she does above and beyond quality work.
- -1
+ +1
 
 review_id : XxwJFNmLSViNwMdYYkqQcg
 aspect: Price
 text: Prices were decent.
- -1
+ +1
 
 review_id : SW1513_G78YUG2-KUosbQQ
 aspect: Price
 text: Very good prices $35 for my set!
- -1
+ +1
 
 review_id : 5ArHdzTqAYj0Qbwut62QVQ
 aspect: Price
 text: LIFE had the best prices in town and will beat all competitor prices.
- -1
+ +1
 
 review_id : 4DXFnFjZQJ4WJeDmSqRz1g
 aspect: Price
 text:  Her prices are very reasonable and her studio is clean.
- -1
+ +1
 
 review_id : xSGRPbucrZSd1dIsSqz5Fw
 aspect: Price
 text: Price was nice too.
- -1
+ +1
 
 review_id : 2L5UiRrXALlkF29DvisfKw
 aspect: Price
 text: Decent prices excellent service.
- -1
+ +1
 
 review_id : ezFdBS0FpU79xTjxs-fezA
 aspect: Price
 text: Nice, clean place with affordable prices!
- -1
+ +1
 
 review_id : m_4n0yb55sWvcRRQ9UsB1w
 aspect: Price
 text: I wouldn't go anywhere else!!! Jessica takes great care of my hair, very personable, and great prices.
- -1
+ +1
 
 review_id : Y5tV63ocLOSq6SDkjB12Vw
 aspect: Price
 text: As for the prices, they are not expensive at all.
- -1
+ +1
 
 review_id : 70iVRyHKUz6e1nj1O39PLw
 aspect: Price
 text: Prices are fair and comparable to other salons, but I love how bright and clean Polished Salon is.
- -1
+ +1
 
 review_id : crRcreqHQntX1l65UStdVw
 aspect: Price
 text: Plus you can't beat the price.
- -1
+ +1
 
 review_id : FJPRIBOP4V6PIVxMzE6m4Q
 aspect: Price
 text: This place has good prices, great staff, and a fun place to be.
- -1
+ +1
 
 review_id : j9FSdgkUDHAmGyz6TekRag
 aspect: Price
 text: First time here and my pedi was great and prices are reasonable.
- -1
+ +1
 
 review_id : goemaoOIaJzpQxdoP6jnNA
 aspect: Price
 text: Best manicure and pedicure experience I've ever had, and for a good price.
- -1
+ +1
 
 review_id : oHlAjdifuQFa71RMZBdFFA
 aspect: Service
 text:  Added additional serivces which I am very pleased with the results.
- -1
+ +1
 
 
 review_id : hyRmiAmMm_iwMfrjIsbyHg
 aspect: Service
 text: She has great customer service skills and makes you feel incredibly comfortable!
- -1
+ +1
 
 
 review_id : Nj2u1POElBL_bL_Jqsd55Q
 aspect: Service
 text: I'm super impressed with the service I got here.
- -1
+ +1
 
 
 review_id : LpicyOzDqudehMLsvM-Bdg
 aspect: Service
 text: Had great friendly service from Epsy today! Lots of great sales and ideas for clients Christmas gifts.
- -1
+ +1
 
 
 review_id : 4-stnuJs52cDYVhhbW1-cA
 aspect: Service
 text: Amazing service and very friendly hair stylists!
- -1
+ +1
 
 
 review_id : LQMI_nr4qUyT5I4uJt2Ujg
 aspect: Service
 text: Barb offers the highest level of customer service.
- -1
+ +1
 
 
 review_id : furzK4q5asE88zEkDk3RhA
 aspect: Service
 text: Everyone was very personable with great customer service skills!  couldn't have asked for anything else.
- -1
+ +1
 
 
 review_id : YfO9bvH5luQnLeAbQ7ePDA
 aspect: Service
 text: Hair Excellence definitely isn't an inexpensive place (although it's certainly not exorbitant, either), but the service and treatment I receive is one of the best values around.
- -1
+ +1
 
 
 review_id : w2njTXOtpFqNWwytfRbMDw
 aspect: Service
 text: Best pedicure ever, have had 3 before in Canada and they didn't compare to the friendly service and vast list of the things they did to my feet and legs, will tell all my friends to try it
- -1
+ +1
 
 
 review_id : YKWfGZEbRapP0v_HgnFz8Q
 aspect: Service
 text: Awesome product and even better customer service.
- -1
+ +1
 
 
 review_id : pOiMYyMFhrAchhR16DwmLw
 aspect: Service
 text: I would highly recommend her services to anyone who is looking to have their eyebrows done to perfection!
- -1
+ +1
 
 
 review_id : AiTt0H6Ew6WFu15NNpY9dA
 aspect: Service
 text: Fantastic location, good hours, and barbers that are on point with scheduling and customer service.
- -1
+ +1
 
 
 review_id : 104yDQyl1XPeTVyJgXyKOQ
 aspect: Service
 text: Quick service, polite staff, all good.
- -1
+ +1
 
 
 review_id : VtN4u_W3bUNOLY1mduIuyQ
 aspect: Service
 text: Great customer service, nice atmosphere and great prices!
- -1
+ +1
 
 
 review_id : pHmjihFmnajZUGADt3ZE1Q
 aspect: Service
 text: I always walk away happy with pretty toes, great service and honestly, a price that's fair and reasonable.
- -1
+ +1
 
 
 review_id : cGjfAbs4hRXEKIUffWcGGw
 aspect: Service
 text: Great service and Lynn does a wonderful job on her pedicures!
- -1
+ +1
 
 
 review_id : vpS4oOfrJCaNzgLlf2Ysyg
 aspect: Service
 text:  Always great service and RMs at this location.
- -1
+ +1
 
 
 review_id : PKt8hinNxrh5eTB6SsH_-A
 aspect: Service
 text: I love it so much! The people who work there have amazing customer service and are so friendly.
- -1
+ +1
 
 
 review_id : 7eRq-p7zLANbeGJgzUr_MQ
 aspect: Service
 text: AMAZING service, reasonable prices, friendly and professional staff.
- -1
+ +1
 
 
 review_id : oIlTQl6e6plVbC6c3ooCzQ
 aspect: Service
 text:  Secret's is great - relatively easy to get an appt, they stay on schedule and prices are reasonable for the quality of service.
- -1
+ +1
 
 
 review_id : e9yVz7LaHNhaZMlMEeLTcA
 aspect: Service
 text: Great customer service the ladies made you feel very comfortable.
- -1
+ +1
 
 
 review_id : NcWXsEKs-eijZNalqmpPdw
 aspect: Service
 text: I was impressed with the price and amazing friendly service.
- -1
+ +1
 
 
 review_id : Rci-I4tWsiNPjNJvBopcpA
 aspect: Service
 text: Service is friendly and the atmosphere is relaxing.
- -1
+ +1
 
 
 review_id : sSaIuyKYL89WQ6qgovd3iw
 aspect: Service
 text: I have been seeing them for about a year now, sent friends, family and purchased gift certificates for services for people I love.
- -1
+ +1
 
 
 review_id : rv0KsGslCco8J2vo70jsbw
 aspect: Service
 text: The service was very friendly and their mani pedi job is amazing.
- -1
+ +1
 
 
 review_id : bxOgb4i2cz-2buFWdcLV4Q
 aspect: Service
 text: I've been here multiple times over the past year or so and have always been given fantastic service.
- -1
+ +1
 
 
 review_id : o12xSqBZOxXmd2foB2xrTg
 aspect: Service
 text:  I highly recommend their services and suggest good communication since not all scalps are created equal.
- -1
+ +1
 
 
 review_id : Bx6VqY0owqqkoC33svZthg
 aspect: Service
 text: Professional and friendly service.
- -1
+ +1
 
 
 review_id : rpJXtKqykYU2iRRnITxiOg
 aspect: Service
 text: Thanks again for the great service and prices are good too!!
- -1
+ +1
 
 
 review_id : niN8rxUEsxhLYdNBHNqV8w
 aspect: Service
 text: Great customer service, friendly staff and clean salon.
- -1
+ +1
 
 

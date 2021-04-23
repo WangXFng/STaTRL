@@ -1,1732 +1,1732 @@
 review_id : xXmCoYSqqLvIfblaMQmgSw
 aspect: Food
 text:  Food was excellent.
- -1
+ +1
 
 review_id : g2Ow9PTrHtpOppO-uC2zuA
 aspect: Price
 text: Honestly it's one of the best burgers I've had and it's at a great price :)
- -1
+ +1
 
 review_id : 0Axax3g93M9XNLnskrU8Sw
 aspect: Food
 text: The food is exactly what you'd expect.
- -1
+ +1
 
 
 review_id : cp1NO35l1jfstG-n_JxqAw
 aspect: Price
 text: Best dive in Northside, cool place, great prices, and cool vintage look !
- -1
+ +1
 
 review_id : 8fKP1X5oEMvBxxcAKH_J_g
 aspect: Food
 text: This restaurant has such a good vibe, the food is comfort done right with just the right touches of originality and decadence.
- -1
+ +1
 
 
 review_id : uq76US26FPKL7Obi6_pntQ
 aspect: Food
 text: So much food we have lunch for tomorrow.
- -1
+ +1
 
 
 review_id : G5DJH78gLhgGJXlFzGpChw
 aspect: Food
 text: Wonderful food and awesome friendly atmosphere.
- -1
+ +1
 
 
 review_id : eqFGsHFVRw1M_9ChXiyJdg
 aspect: Service
 text: Service was very gracious and friendly.
- -1
+ +1
 
 
 review_id : eqFGsHFVRw1M_9ChXiyJdg
 aspect: Food
 text: Enjoy the tunes and food, keep this place going and perhaps get the prices done.
- -1
+ +1
 
 
 review_id : NIjRtzx5SYjqb3mIt6oigQ
 aspect: Price
 text: Friendly staff, great prices, and the owners aren't total douchebags!
- -1
+ +1
 
 review_id : yRmwZhXAYbaoxLjOeY4F1w
 aspect: Service
 text: The service was amazing and the food was some of the best I've had.
- -1
+ +1
 
 
 review_id : uHY00_X0tp2MELdKb-PecA
 aspect: Service
 text: Service is superb; right as I sat down the waitress helped bring me water.
- -1
+ +1
 
 
 review_id : e9PP3ididwUw4oTVfNRs0w
 aspect: Price
 text: Great cuts at an unbeatable prices.
- -1
+ +1
 
 review_id : b5L1bl92fDISmuCdOhM5iQ
 aspect: Food
 text: The food was really good: tried the Benny and the waffles.
- -1
+ +1
 
 
 review_id : qoQab5i0YVzSQ2h9NLuRKw
 aspect: Service
 text:   Great service and friendly waiter.
- -1
+ +1
 
 
 review_id : sSEne3z1KN9MOnOxaoo2iQ
 aspect: Price
 text: There's no food, but what do you need food for? Wonderfully kitschy atmosphere and great beer prices!
- -1
+ +1
 
 review_id : Q4syWkU8F23RGUI-wSnJ5w
 aspect: Food
 text:  You get an incredible view, incredible food, and a great selection of wine for a reasonable price!
- -1
+ +1
 
 
 review_id : Q4syWkU8F23RGUI-wSnJ5w
 aspect: Price
 text:  You get an incredible view, incredible food, and a great selection of wine for a reasonable price!
- -1
+ +1
 
 review_id : Q4syWkU8F23RGUI-wSnJ5w
 aspect: Service
 text: The service at the restaurant was great (especially if you TRY to speak French- at least \"bonjour.\" Luckily I studied in college!
- -1
+ +1
 
 
 review_id : G9jeT8o53nzkdMtjEk9vJw
 aspect: Food
 text:  The wine list is extensive & the food is amazing!
- -1
+ +1
 
 
 review_id : s6IA3gMY0JYpiAl2VZ8B7g
 aspect: Food
 text: The food is good too.
- -1
+ +1
 
 
 review_id : IXIgknMX0Znu0O_E27FcGg
 aspect: Food
 text:  Great food, good service and a nice change of pace from the chain locations.
- -1
+ +1
 
 
 review_id : IXIgknMX0Znu0O_E27FcGg
 aspect: Service
 text:  Great food, good service and a nice change of pace from the chain locations.
- -1
+ +1
 
 
 review_id : uAkEl_jxGnGIlWX_4JIf5A
 aspect: Food
 text:  The food prices are amazing and the quality is top notch.
- -1
+ +1
 
 
 review_id : uAkEl_jxGnGIlWX_4JIf5A
 aspect: Price
 text:  The food prices are amazing and the quality is top notch.
- -1
+ +1
 
 review_id : uAkEl_jxGnGIlWX_4JIf5A
 aspect: Service
 text:  We had very fast and friendly service.
- -1
+ +1
 
 
 review_id : ffDgPDMHzSz_v9kPNl_xfQ
 aspect: Food
 text: Hands down THE most amazing food...especially the panini's and cole slaw...and who could turn down 1\/2 price wine Wednesday?!
- -1
+ +1
 
 
 review_id : 6SsPkpuaAbG2yoBPk4EwQQ
 aspect: Service
 text:  The food is BOMB, service is as well!
- -1
+ +1
 
 
 review_id : C5t3zugtIjQhdOYd50Vd4w
 aspect: Food
 text:  Food was very fresh!
- -1
+ +1
 
 
 review_id : c0Ko-VlbqauFABDvr0tpvQ
 aspect: Food
 text:  Great drinks and daily homemade food.
- -1
+ +1
 
 
 review_id : vAjIf2H_Wa7Q5QGjST7ELQ
 aspect: Service
 text: The service was great and menu suggestions were spot on!
- -1
+ +1
 
 
 review_id : PWa-vAsCo7_7WGnbKcAHrg
 aspect: Food
 text: The atmosphere is perfectly suited for friends to gather for great food, wine, beer, spirits, and conversation.
- -1
+ +1
 
 
 review_id : m-CsbqwS1MF_m1lYqPSp9g
 aspect: Service
 text: It is nice, clean and the service is great.
- -1
+ +1
 
 
 review_id : 6C8QJ1YYHQT_sB4MPLHLdw
 aspect: Service
 text: The customer service is outstanding.
- -1
+ +1
 
 
 review_id : 6C8QJ1YYHQT_sB4MPLHLdw
 aspect: Food
 text: Very good prices on food and drinks.
- -1
+ +1
 
 
 review_id : 6C8QJ1YYHQT_sB4MPLHLdw
 aspect: Price
 text: Very good prices on food and drinks.
- -1
+ +1
 
 review_id : wbovDRtqNFNpmTOXhyBKjw
 aspect: Service
 text: Excellent service, good cocktails.
- -1
+ +1
 
 
 review_id : Fy8pZwTDVfr1L9_L8sWrXg
 aspect: Service
 text: The service was very quick and super friendly!
- -1
+ +1
 
 
 review_id : VbC4_PyAmSLKPyxChxJVjw
 aspect: Service
 text:  Wonderful and  friendly service, delicious and hot homemade tortilla chips, and delicious entrees.
- -1
+ +1
 
 
 review_id : qirxOWKXhzxaN0PB2rSOhg
 aspect: Food
 text: the food is wonderful and reasonably priced.
- -1
+ +1
 
 
 review_id : qirxOWKXhzxaN0PB2rSOhg
 aspect: Price
 text: the food is wonderful and reasonably priced.
- -1
+ +1
 
 review_id : IWSAyxd5HpoecC0ZB0iFRw
 aspect: Service
 text:  Great atmosphere, great people, and great service.
- -1
+ +1
 
 
 review_id : rYOUjtNDE2P6B3484LOgaA
 aspect: Food
 text:  The food was amazing and we had a huge variety of drinks to choose from!
- -1
+ +1
 
 
 review_id : YEWu8Q_9GeUpJZAFaS_1Kw
 aspect: Food
 text: the food was amazing!
- -1
+ +1
 
 
 review_id : QDi9gTh6YeLZjdra8Fy_RA
 aspect: Service
 text:  Private room for have with your friends and great service!
- -1
+ +1
 
 
 review_id : ozRX4wdA_qCb8cAgvQDOdQ
 aspect: Service
 text: It's fun, it's funky, the drinks are good and not too expensive, the service is lovely.
- -1
+ +1
 
 
 review_id : xoNrdCpmQKwqt0zXMVivLQ
 aspect: Price
 text:   Drinks are a fair price and they have some fun drag queens to watch.
- -1
+ +1
 
 review_id : 1QXE8jyAaPX4fX17_oF3kQ
 aspect: Price
 text: The prices were reasonable and everything was nice and clean.
- -1
+ +1
 
 review_id : WcUuV59Hze9uK0lh0mJcLw
 aspect: Service
 text: Thanks for the great service, the delicous burger and the fantastic football game (which the Stamps won)!
- -1
+ +1
 
 
 review_id : _5k9zkz4oCgQPq6JiZamVQ
 aspect: Service
 text:  Great beer and wine list with fantastic service, Corey was a great bartender!
- -1
+ +1
 
 
 review_id : CXhYC9eT4xhMEYX5k2k3pA
 aspect: Food
 text: The food was delicious and I highly recommend the restaurant.
- -1
+ +1
 
 
 review_id : 4Vkwugq0U9-UyxVLpGmhdg
 aspect: Price
 text: The jumbo margaritas tasted good, but were 90% ice so not worth the price.
- -1
+ +1
 
 review_id : 4Vkwugq0U9-UyxVLpGmhdg
 aspect: Food
 text: However, the hot chicken sandwich was too spicy to eat the whole thing, and we can normally eat spicy food.
- -1
+ +1
 
 
 review_id : 4Vkwugq0U9-UyxVLpGmhdg
 aspect: Service
 text: And great service.
- -1
+ +1
 
 
 review_id : 42mJatSz3-ivIBvG8_ldUA
 aspect: Food
 text:   the food is awesome you made my girls birthday on point thanks for a great night....
- -1
+ +1
 
 
 review_id : fT7g98nr22AyQojTHufZ4Q
 aspect: Service
 text: Service was impeccable!
- -1
+ +1
 
 
 review_id : fT7g98nr22AyQojTHufZ4Q
 aspect: Food
 text:   The food is really great, one of the best bavette I ever had, and the \"salade du moment\" are always simply amazing (beets and goat cheese was delicious).
- -1
+ +1
 
 
 review_id : _Yd_cUpzBjeR4ImC-_1HBA
 aspect: Food
 text: Not many places to choose from in Middlefield this is by far the best food in town and always a friendly place to hang out and watch a game!
- -1
+ +1
 
 
 review_id : Ahm8aFYFphkKkttg_xa86Q
 aspect: Food
 text: No food is definitely a bummer (I think a couple of bar food options would have sufficed), but then again, adds to the atmoshere.
- -1
+ +1
 
 
 review_id : pkUCECP9AvZ_QJTIHhJBIg
 aspect: Price
 text: Great prices even better food chicken salads are a must have very good and I love their ranch dressing  yum definitely a hidden gem in penn hills
- -1
+ +1
 
 review_id : cG5pnqJKUgnUQlTlwU-_Pg
 aspect: Food
 text: Great food..great prices...best kept secret in Penn hills  It's a must try place.
- -1
+ +1
 
 
 review_id : cG5pnqJKUgnUQlTlwU-_Pg
 aspect: Price
 text: Great food..great prices...best kept secret in Penn hills  It's a must try place.
- -1
+ +1
 
 review_id : VNUAMlw-5rMlKJPe4_3xHg
 aspect: Food
 text:  I had a great time, terrific music, great variety of food, and the wines were awesome!
- -1
+ +1
 
 
 review_id : MofQRL6QpfAet1xhCS7Ntg
 aspect: Price
 text: Prices are more than reasonable.
- -1
+ +1
 
 review_id : fAb07yPtqHmxtyAjKUQ4vg
 aspect: Service
 text:  Service also had a good personality.
- -1
+ +1
 
 
 review_id : fAb07yPtqHmxtyAjKUQ4vg
 aspect: Food
 text:  Good food good service good fun
- -1
+ +1
 
 
 review_id : fAb07yPtqHmxtyAjKUQ4vg
 aspect: Service
 text:  Good food good service good fun
- -1
+ +1
 
 
 review_id : zoVq4Y8LFrmJ1xgk5S_XGQ
 aspect: Service
 text:  Pool tables, music, great service.
- -1
+ +1
 
 
 review_id : VHRDr6pnZ5jFsf7rSMLR8g
 aspect: Service
 text: Always had very good, helpful service, and very much enjoy everything I've had from the menu.
- -1
+ +1
 
 
 review_id : Ec-GwHY5ss-3Wk6XbKUBYw
 aspect: Service
 text: Fox's provides the best service with the sexiest ladies in the valley of the sun.
- -1
+ +1
 
 
 review_id : 7I4xIfM9jBAbEeyOEdvPrA
 aspect: Price
 text:  Prices are very reasonable and the staff is very friendly.
- -1
+ +1
 
 review_id : luTf7MjCEOrBu2A-RGQNtQ
 aspect: Food
 text:  The best Indian food I have tried in Calgary.
- -1
+ +1
 
 
 review_id : LeEp6DYqt8mHuaTQKKO-2g
 aspect: Food
 text: The food is delicious and ambiance is very chill.
- -1
+ +1
 
 
 review_id : LeEp6DYqt8mHuaTQKKO-2g
 aspect: Service
 text: The service was on point, everyone really makes certain the customers are happy including the owner which is nice to see.
- -1
+ +1
 
 
 review_id : xJ-po4ScKKfLHYCsJQWCRQ
 aspect: Food
 text: Best Greek food I've had.
- -1
+ +1
 
 
 review_id : 4ronMpieYRU5k4s7cIUHOg
 aspect: Food
 text: The atmosphere is amazing and the food is even better.
- -1
+ +1
 
 
 review_id : 4ronMpieYRU5k4s7cIUHOg
 aspect: Food
 text: Do not let the odd shape dish fool you, it's a lot of food.
- -1
+ +1
 
 
 review_id : hjml8ns2BpHcRPWcMmoSbg
 aspect: Food
 text: This is a place I have been going to for years and years, good food and great atmosphere as well, it is a place I can go to at anytime and see a friendly face.
- -1
+ +1
 
 
 review_id : AW2YO6PK7BfgbPTiOad-5A
 aspect: Food
 text: Joe the kitchen manager is cool, friendly staff, healthy food portions size and place is super clean!
- -1
+ +1
 
 
 review_id : jcX1_-o0p-AhqrHcWLdaPw
 aspect: Food
 text:  I feel like it was over all one of the best food and entertainment values so far in Vegas.
- -1
+ +1
 
 
 review_id : g3MXorGVD3oeE9BuuAy0uw
 aspect: Service
 text: Best service I had at a gay night club.
- -1
+ +1
 
 
 review_id : KamHCmThMqoAOOsBzPLYpQ
 aspect: Food
 text: Food was delicious, service was excellent.
- -1
+ +1
 
 
 review_id : KamHCmThMqoAOOsBzPLYpQ
 aspect: Service
 text: Food was delicious, service was excellent.
- -1
+ +1
 
 
 review_id : vaIVE2QPVyCeKaRBC8mLAQ
 aspect: Price
 text:   Great burgers and cold drinks at very reasonable prices.
- -1
+ +1
 
 review_id : FTohypPWZl8KoDkpuX5JHA
 aspect: Food
 text: Great for food and the live music.
- -1
+ +1
 
 
 review_id : FTohypPWZl8KoDkpuX5JHA
 aspect: Food
 text:  Italian food is amazing.
- -1
+ +1
 
 
 review_id : eSplX4Yawst4i68T_7nF5A
 aspect: Price
 text: If you want good pub grub food and drinks and a awesome price, this is the place.
- -1
+ +1
 
 review_id : gxCd1xFYLvRbpj8qGynOKg
 aspect: Food
 text: So, great food, good drink prices, and one of the most friendly bars you can find..
- -1
+ +1
 
 
 review_id : gxCd1xFYLvRbpj8qGynOKg
 aspect: Price
 text: So, great food, good drink prices, and one of the most friendly bars you can find..
- -1
+ +1
 
 review_id : NJqvIJosquM9BnLZJYM2FQ
 aspect: Service
 text:  Great service, looking forward to trying the sandwiches.
- -1
+ +1
 
 
 review_id : 20fxiEJvNCkTFWOKfpJmYQ
 aspect: Food
 text: Great service food and decor.
- -1
+ +1
 
 
 review_id : 20fxiEJvNCkTFWOKfpJmYQ
 aspect: Service
 text: Great service food and decor.
- -1
+ +1
 
 
 review_id : D7tIOnJvoTMh4naMldxCAg
 aspect: Service
 text:  Great comedians, great service, and great fun!
- -1
+ +1
 
 
 review_id : 2uvcxwXZnKVap7bu9tJgkA
 aspect: Service
 text: It was refreshing to have quick service on a Friday night along with friendly servers!
- -1
+ +1
 
 
 review_id : W0nALsVRI_q_jwZCo_l95g
 aspect: Food
 text: The food here is pretty awesome.
- -1
+ +1
 
 
 review_id : Luphk-CBWzijPp4Qjo02bw
 aspect: Food
 text: The food was priced very decently and the serving sizes were more than enough.
- -1
+ +1
 
 
 review_id : Luphk-CBWzijPp4Qjo02bw
 aspect: Food
 text: I would recommend this restaurant to anyone looking for really tasty authentic Mexican food.
- -1
+ +1
 
 
 review_id : sudgTUcxTzVSxcQZasQNpg
 aspect: Food
 text: The food is fresh, quality and with hefty portions too.
- -1
+ +1
 
 
 review_id : UQjQWHBLJtRw4dzlVaq47Q
 aspect: Food
 text: The smokin cue is incredible, amazing employees as well as great people to meet and hang with it does get a little busy on the nights of league but still a great place to play pool, the prices are great the food is great overall​ the smokin cue is an amazing establishment
- -1
+ +1
 
 
 review_id : UQjQWHBLJtRw4dzlVaq47Q
 aspect: Price
 text: The smokin cue is incredible, amazing employees as well as great people to meet and hang with it does get a little busy on the nights of league but still a great place to play pool, the prices are great the food is great overall​ the smokin cue is an amazing establishment
- -1
+ +1
 
 review_id : ZZSvQ53OXs22GQMC4C25vQ
 aspect: Food
 text: The food was very good and very affordable.
- -1
+ +1
 
 
 review_id : 62e_-YvUbwT_vKdwjHH5Zg
 aspect: Food
 text: Awesome food, great price and great service!
- -1
+ +1
 
 
 review_id : 62e_-YvUbwT_vKdwjHH5Zg
 aspect: Service
 text: Awesome food, great price and great service!
- -1
+ +1
 
 
 review_id : 62e_-YvUbwT_vKdwjHH5Zg
 aspect: Price
 text: Awesome food, great price and great service!
- -1
+ +1
 
 review_id : _eMn_yjqD28gDpTAMFk9-w
 aspect: Price
 text: VIP can be very fun at Bar Room, the girls are great in this area, seating is pretty comfortable and prices are reasonable considering...
- -1
+ +1
 
 review_id : jIqjJnXmLxZ3iPeglaVi9g
 aspect: Food
 text: I loved the restaurant, service was great and I really enjoyed my food!
- -1
+ +1
 
 
 review_id : jIqjJnXmLxZ3iPeglaVi9g
 aspect: Service
 text: I loved the restaurant, service was great and I really enjoyed my food!
- -1
+ +1
 
 
 review_id : -FH3I7EsIhK2D5nEj9sqVw
 aspect: Service
 text: Stephen was our server he recommended wine beer pizza and the salad everything was wonderful and so enjoyed sitting outside weather was perfect enjoyed his friendly service
- -1
+ +1
 
 
 review_id : lw4syk84KUv1tnP_QlmoRw
 aspect: Price
 text: The owner was very nice to us, and the price was reasonable.
- -1
+ +1
 
 review_id : zezfI-713jjYIq0G0V0K7w
 aspect: Food
 text: Great food, but the pizza is where it shines.
- -1
+ +1
 
 
 review_id : 8CS6SaUDQgQHo3hsJhSAZA
 aspect: Food
 text: Great food during the day corner bar feel.
- -1
+ +1
 
 
 review_id : CQ7tfglTfq8O8phYrvfulg
 aspect: Food
 text: Extraordinary service, incredible food.
- -1
+ +1
 
 
 review_id : CQ7tfglTfq8O8phYrvfulg
 aspect: Service
 text: Extraordinary service, incredible food.
- -1
+ +1
 
 
 review_id : XVmnzopiJqffPDWQyIITCA
 aspect: Food
 text: Plus it's insanely cheap, good food and drinks, in a fun atmosphere.
- -1
+ +1
 
 
 review_id : w2hxgh3omdgUYCY3Ap-YmQ
 aspect: Service
 text: Service is attentive and kind, and the trivia host is smokin' hot.
- -1
+ +1
 
 
 review_id : mDORS9ilkyKSFeeIiFiEkw
 aspect: Service
 text: Great bar, great service.
- -1
+ +1
 
 
 review_id : Ze8njc9fCfpEELewGqka-A
 aspect: Price
 text:  Prices are good even for a casino!
- -1
+ +1
 
 review_id : 2VLvfvXqzIbu7UXdNVP15g
 aspect: Service
 text: The service was quite fast.
- -1
+ +1
 
 
 review_id : 2VLvfvXqzIbu7UXdNVP15g
 aspect: Price
 text: The prices here were very reasonable.
- -1
+ +1
 
 review_id : ZlVB9cW0JcnuZpb72ykA3A
 aspect: Food
 text:  Their food is delicious and their prices are very fair!
- -1
+ +1
 
 
 review_id : ZlVB9cW0JcnuZpb72ykA3A
 aspect: Price
 text:  Their food is delicious and their prices are very fair!
- -1
+ +1
 
 review_id : ubbQW0ElUTUd13INcGCHBw
 aspect: Service
 text: Friendly attentive service, yummy drinks.
- -1
+ +1
 
 
 review_id : ubbQW0ElUTUd13INcGCHBw
 aspect: Price
 text:  Prices are definitely reasonable.
- -1
+ +1
 
 review_id : Gypv_5PQobNX6mRGpXJ-gA
 aspect: Food
 text: Fantastic place good bar food and low price drinks.
- -1
+ +1
 
 
 review_id : vQ06lAyg8UIM3ZN0EDy_GQ
 aspect: Food
 text: AND they have great food!
- -1
+ +1
 
 
 review_id : jgppolIqCEWIDr_TiW5jGg
 aspect: Service
 text: Good prices and service but great for breakfast too!
- -1
+ +1
 
 
 review_id : jgppolIqCEWIDr_TiW5jGg
 aspect: Price
 text: Good prices and service but great for breakfast too!
- -1
+ +1
 
 review_id : vq0cSCS2-XyKYKFZIYXy6A
 aspect: Food
 text: Fantastic food and amazing drinks!
- -1
+ +1
 
 
 review_id : vq0cSCS2-XyKYKFZIYXy6A
 aspect: Food
 text: All of the food was really great.
- -1
+ +1
 
 
 review_id : vq0cSCS2-XyKYKFZIYXy6A
 aspect: Service
 text: The service was quick and timely.
- -1
+ +1
 
 
 review_id : ZOBbwOZ8FVbas_fMRZ4SzQ
 aspect: Price
 text: Great hookah and service chill atmosphere, good hip hop music playing and the al glass hookahs hit well, great prices and great staff
- -1
+ +1
 
 review_id : 0W_HCMjVeq6okHlhwYczrQ
 aspect: Service
 text: Service was very friendly and relaxed.
- -1
+ +1
 
 
 review_id : wgmRJV224V7IcfU-P7wBEw
 aspect: Service
 text: We will be back again because of the great service we received!
- -1
+ +1
 
 
 review_id : yECVx1W3dbIC6nCpUtv3hA
 aspect: Service
 text: We ended up being really pleased with the service.
- -1
+ +1
 
 
 review_id : 9oFSC_4cXrADRCFwUa4j2w
 aspect: Service
 text: Although not always cheap, you're paying for great service and atmosphere so do not let that deter you from having one of the best bar experiences in down town montreal.
- -1
+ +1
 
 
 review_id : kEpG8HgRM6YOq5uL9w6a4w
 aspect: Food
 text: Cute little place, amazing food, great drinks, & loved Ashely who assisted us!
- -1
+ +1
 
 
 review_id : 9BhR4MdrTrNdf98DkyHzPQ
 aspect: Service
 text:  I digress......this location consistently has excellent service.
- -1
+ +1
 
 
 review_id : 6PvAw8vvKSLMuJyf7gjySA
 aspect: Service
-text: This place is cool, hip, has affordable drinks, great service and did I mention the FREE snacks on Monday nights? 
- -1
+text: This place is cool, hip, has affordable drinks, great service and did I mention the FREE snacks on Monday nights?
+ +1
 
 
 review_id : 9Klams8qt5BoM19NlVr1MQ
 aspect: Food
 text: Bottom line: great food, drinks, and friendly people.
- -1
+ +1
 
 
 review_id : sb-Nrx1byOu1nGKgrZIEBg
 aspect: Service
 text: Friendly service that gives you a sense of belonging.
- -1
+ +1
 
 
 review_id : JAHwF9jjwsXk7Bm7-CbXAw
 aspect: Service
 text: The service is great, owner is very friendly and challenged us to a hot wing contest and gave us over $100 worth of free food and beer.
- -1
+ +1
 
 
 review_id : Yyfx0QrpGCverc5R9r5Vyg
 aspect: Food
 text:  I love supporting our new local restaurants in the casino not only because the food is fantastic, but the employees are just as well.
- -1
+ +1
 
 
 review_id : Yyfx0QrpGCverc5R9r5Vyg
 aspect: Service
 text:  Love it and their service to loyal locals.
- -1
+ +1
 
 
 review_id : VeVaGhj2E9r1e8fbg8dZow
 aspect: Price
 text: Down to earth bar at is finest with great drink prices!
- -1
+ +1
 
 review_id : ghqxmqpP6aJFvtt75GsWzg
 aspect: Food
 text: This bar has just changed owners, the food is awesome and the staff is excellent!
- -1
+ +1
 
 
 review_id : DgzVPCAOGQ_FmnTKrOWQTw
 aspect: Food
 text: Food was delicious, service warm and attentive.
- -1
+ +1
 
 
 review_id : DgzVPCAOGQ_FmnTKrOWQTw
 aspect: Service
 text: Food was delicious, service warm and attentive.
- -1
+ +1
 
 
 review_id : vR8ypikNlbW27WWQwJHKrw
 aspect: Food
 text: The food was excellent.
- -1
+ +1
 
 
 review_id : QFJfZ8OhEJAicK8pPaG4hw
 aspect: Service
 text: The staff did a wonderful job and the service was excellent.
- -1
+ +1
 
 
 review_id : QFJfZ8OhEJAicK8pPaG4hw
 aspect: Food
 text: The food was amazing from first to last bite (and we finished every single bite)!
- -1
+ +1
 
 
 review_id : W0G5mlaY0xh9ae9v2YWKEQ
 aspect: Food
 text: Middlefield tavern is a wonderful place to meet friends have a beer and get some of the best food in Geauga county.
- -1
+ +1
 
 
 review_id : iWdpr9--blycIMYR3ygKoA
 aspect: Food
 text: This is a great bar great food great drinks the bartenders and cooks are amazing.
- -1
+ +1
 
 
 review_id : 6H2IPtkW3_U2Dt6weo_ccQ
 aspect: Service
 text: They got great service, their food is excellent.
- -1
+ +1
 
 
 review_id : tYYbdHwdMideoCn4Ag_bew
 aspect: Food
 text:  After you make it to a certain status in gambling, you get invited to these fantastic foodie events.
- -1
+ +1
 
 
 review_id : tYYbdHwdMideoCn4Ag_bew
 aspect: Food
 text: Food and service are over the top!
- -1
+ +1
 
 
 review_id : tYYbdHwdMideoCn4Ag_bew
 aspect: Service
 text: Food and service are over the top!
- -1
+ +1
 
 
 review_id : Qdccd9fBMP1IxsF4IXU6Hg
 aspect: Service
 text: Ambiance was great, service was friendly, and help-yourself appetizers made it easy to keep a balanced stomach without playing the usual guessing game of ordering more apps and wondering what size they'll be.
- -1
+ +1
 
 
 review_id : iFHO8oXneKwJGKP4SadCRg
 aspect: Service
 text: The service was amazing and they where both so friendly and helpful.
- -1
+ +1
 
 
 review_id : AGSELsvkPqKLMxOJZDTd-g
 aspect: Food
 text:  They have a full grass driving range (no mats to scuff up your clubs), amazing food, affordable drinks, sand volleyball, and even cornhole.
- -1
+ +1
 
 
 review_id : 2bVqr2kOdS9_sY0mGkeHMQ
 aspect: Food
 text: The food was fresh and perfectly seasoned and the service was friendly and fast.
- -1
+ +1
 
 
 review_id : 2bVqr2kOdS9_sY0mGkeHMQ
 aspect: Service
 text: The food was fresh and perfectly seasoned and the service was friendly and fast.
- -1
+ +1
 
 
 review_id : otrnDJhe6RuqaWZ1BxVNVw
 aspect: Food
 text: It's a highly original establishment, serving top quality food and drink as well.
- -1
+ +1
 
 
 review_id : _sL1ZD-ZynxMw14k7uSg6A
 aspect: Service
 text:  Come visit Tony best service and chill vibes.
- -1
+ +1
 
 
 review_id : tgDfIKJohK9M3Fau5EJ6sw
 aspect: Price
 text: Very nice place and priced well for the quality and selection.
- -1
+ +1
 
 review_id : L4igpx7Sve46PynP3pqvQw
 aspect: Food
 text:  Great food with varied menu and always have the best craft beers on tap-----can't beat happy hour prices or steelers game free bufftets with big screens.
- -1
+ +1
 
 
 review_id : PlQzzAcCZhwtpdC99NNDSA
 aspect: Food
 text:  I would recommend to anyone that wants a good time and good food.
- -1
+ +1
 
 
 review_id : fTTmreew9iMhsGRX18P1cg
 aspect: Service
 text:  The service was absolutely perfect, from start to finish, she had great suggestions, perfect timing, attentive but not intrusive .
- -1
+ +1
 
 
 review_id : 6F-e7JTp-4fxdoK9lc8GMA
 aspect: Food
 text:  The food was awesome, the drink selection was vast and the dance floor rocked.
- -1
+ +1
 
 
 review_id : Gouk1p6x5_kEQ7FGtEhfVg
 aspect: Food
 text:   We had VIP tickets as well - the food was an incredible spread that lasted for almost the entire time by Todd English P.U.B.
- -1
+ +1
 
 
 review_id : xPlGrrEcn1l0gNdkhun2aw
 aspect: Food
 text:  Food is home made and delicious and to die for!
- -1
+ +1
 
 
 review_id : xPlGrrEcn1l0gNdkhun2aw
 aspect: Service
 text:  Service and atmosphere is outstanding!
- -1
+ +1
 
 
 review_id : xPlGrrEcn1l0gNdkhun2aw
 aspect: Food
 text:  Owner is so passionate about excellent food and drink!
- -1
+ +1
 
 
 review_id : MSismGn-ebulX4FiGd0Ang
 aspect: Food
 text: The new Chef makes great food with extremely reasonable prices.
- -1
+ +1
 
 
 review_id : MSismGn-ebulX4FiGd0Ang
 aspect: Price
 text: The new Chef makes great food with extremely reasonable prices.
- -1
+ +1
 
 review_id : MSismGn-ebulX4FiGd0Ang
 aspect: Service
 text: The portions are generous and the service is very friendly as always.
- -1
+ +1
 
 
 review_id : zAEh63jL2WMPwIUQmYO0aw
 aspect: Service
 text: Service was friendly and happy.
- -1
+ +1
 
 
 review_id : zAEh63jL2WMPwIUQmYO0aw
 aspect: Food
 text: Our food arrived quickly and to order.
- -1
+ +1
 
 
 review_id : ASHlnip-m7feBNgLgXd0Iw
 aspect: Food
 text: Italian food done right!
- -1
+ +1
 
 
 review_id : cOmxQ1z7TCM4PbXKMtuksQ
 aspect: Service
 text: Not only did they completely accommodate us and our party on their special night, the service was beyond amazing.
- -1
+ +1
 
 
 review_id : mArsC-W5BOZl-JFDwwq31w
 aspect: Food
 text: Great service, friendly, welcoming and perfect bar food.
- -1
+ +1
 
 
 review_id : mArsC-W5BOZl-JFDwwq31w
 aspect: Service
 text: Great service, friendly, welcoming and perfect bar food.
- -1
+ +1
 
 
 review_id : tOr5rTTe0f6TCNKkSTfWyg
 aspect: Food
 text: Also the customer service is great, the owner came out to make sure our food was good and the waitresses came to check on us and refill our beverages.
- -1
+ +1
 
 
 review_id : tOr5rTTe0f6TCNKkSTfWyg
 aspect: Service
 text: Also the customer service is great, the owner came out to make sure our food was good and the waitresses came to check on us and refill our beverages.
- -1
+ +1
 
 
 review_id : I9rSr6uKoXe6biCjzm_bkA
 aspect: Service
 text: Wonderful ambience, music, service!
- -1
+ +1
 
 
 review_id : hMrSzIgtTD1W-y8HrKWFjA
 aspect: Price
 text: You can rent a private room for you and your friends for minimum 2 hours for a modest price or pay 10 dollars (which included a free drink when I went) for the main room.
- -1
+ +1
 
 review_id : mN4Ub1DWXc0Yuem-XyfQ7A
 aspect: Service
 text: The service was great.
- -1
+ +1
 
 
 review_id : eSIicsvNtfySwkccTbFXPA
 aspect: Service
 text: Great selection, awesome service and friendly crowd!
- -1
+ +1
 
 
 review_id : _RfQOtIy8RFwEd8cb5WRZg
 aspect: Food
 text:  The beers are world-class, the food is fantastic, and the atmosphere is really pleasant.
- -1
+ +1
 
 
 review_id : vqIijpQrwpwDHjmDcOV0Wg
 aspect: Service
 text: Great service friendly staff....awesome kpop and sports on the big screens.
- -1
+ +1
 
 
 review_id : Gl-Uo79Il6fNA8WfugkoOw
 aspect: Service
-text: Very good costumer service 
- -1
+text: Very good costumer service
+ +1
 
 
 review_id : 2qsGnUnlnLUQVdjWi7YfGA
 aspect: Food
 text: Great food, excellent Happy Hour with an amazing buffet!
- -1
+ +1
 
 
 review_id : qMA3Y-VE_FliN2UdZBDJGg
 aspect: Food
 text: Their food is great and both food and drinks are such great prices!
- -1
+ +1
 
 
 review_id : qMA3Y-VE_FliN2UdZBDJGg
 aspect: Price
 text: Their food is great and both food and drinks are such great prices!
- -1
+ +1
 
 review_id : gpmctccdBaaMXZxj23OaSg
 aspect: Price
 text: If you're looking for a yummy bottle of wine for a reasonable price then look no further that Table Wine.
- -1
+ +1
 
 review_id : l6lGJHV3Yh2kh5mx0vfqqw
 aspect: Price
 text: The shisha place has a very friendly atmosphere and the prices are very reasonable.
- -1
+ +1
 
 review_id : Xpm6ZtzSkjilNGRQSdaYFA
 aspect: Food
 text:  Food was great, service was fantastic, and the portion of the rice bowl was very surprising.
- -1
+ +1
 
 
 review_id : Xpm6ZtzSkjilNGRQSdaYFA
 aspect: Service
 text:  Food was great, service was fantastic, and the portion of the rice bowl was very surprising.
- -1
+ +1
 
 
 review_id : LZGmt5Q-yZFWfsfx0hPWIg
 aspect: Service
 text: We seek him out for his great service and down to earth personality.
- -1
+ +1
 
 
 review_id : N0wAikMFlIaag4IQM63mHA
 aspect: Food
 text: The food is very authentic Italian, and we highly recommend it.
- -1
+ +1
 
 
 review_id : sUp9GF68nPg2vxqZ3xBbNw
 aspect: Food
 text:  Great atmosphere, food, and service.
- -1
+ +1
 
 
 review_id : sUp9GF68nPg2vxqZ3xBbNw
 aspect: Service
 text:  Great atmosphere, food, and service.
- -1
+ +1
 
 
 review_id : 3B6rQtw3QbOT-Rp4nzd55Q
 aspect: Food
 text:   We've been there several times, and the food has been delicious every time.
- -1
+ +1
 
 
 review_id : 3B6rQtw3QbOT-Rp4nzd55Q
 aspect: Service
 text:   The service has always been fast and helpful.
- -1
+ +1
 
 
 review_id : L24VJYCp_UjPFO5vIR0_tg
 aspect: Price
 text: Very clean, great prices,drink specials every day.
- -1
+ +1
 
 review_id : MyBxI6xhVe7h4gHC9gw0Rg
 aspect: Food
 text: The atmosphere was warmly and friendly, the service was great and the food was incredible!
- -1
+ +1
 
 
 review_id : MyBxI6xhVe7h4gHC9gw0Rg
 aspect: Service
 text: The atmosphere was warmly and friendly, the service was great and the food was incredible!
- -1
+ +1
 
 
 review_id : ni-kQo9YjCgc8lsxBfURww
 aspect: Food
 text:  Nicholas was our bartender and we enjoyed some good food\/drinks\/gaming.
- -1
+ +1
 
 
 review_id : ixDv_nVoRnDjMt5CxUINDA
 aspect: Food
 text: Good food (I had the cheesesteak) Staff is very Friendly and welcoming.
- -1
+ +1
 
 
 review_id : CFDE30G0dPMc-WQ2YaBcDQ
 aspect: Price
 text:  Bartenders are very attentive and prices are very reasonable!
- -1
+ +1
 
 review_id : EcongFiF-CM5PwC38nsMNQ
 aspect: Service
 text: I'd deem it to be really great service and the staff has always been pleasant.
- -1
+ +1
 
 
 review_id : Gh_FqauujJkz9lsA3ogxXQ
 aspect: Food
 text: His vision of a plaza of Italian food should be a great neighborhood destination and Ralphie is already setting the bar for quality food in a non-pretentious, friendly, Cave Creek-values kind of way.
- -1
+ +1
 
 
 review_id : quI5ZlAQX4dzMst2Ptcd0w
 aspect: Food
 text: Or get comfort food on Italian night.
- -1
+ +1
 
 
 review_id : Wu9BaPhRAV53nDi6BwqNhA
 aspect: Service
 text:  Great service and LOVE that I see the owner when I go there!
- -1
+ +1
 
 
 review_id : spny8Y0cOYJYqTGYHepiGg
 aspect: Food
 text: Drinks are fairly priced & the food as well.
- -1
+ +1
 
 
 review_id : spny8Y0cOYJYqTGYHepiGg
 aspect: Price
 text: Drinks are fairly priced & the food as well.
- -1
+ +1
 
 review_id : oaPLVP_fdiqtK25z6lNDYQ
 aspect: Service
 text: I've always been impressed with their staff downstairs at the pub, special note of awesome service by Aaron this week who put a ton of effort into making sure the out of towners had a memorable time.
- -1
+ +1
 
 
 review_id : dBUDx_q74OetGv6Pg1sQ_w
 aspect: Service
 text:  Service was friendly, fireplace was on, country music with a very good sound system.
- -1
+ +1
 
 
 review_id : WjYWMVfcLEW9h0i742JNKw
 aspect: Service
 text:  Would highly recommend the service and ESPECIALLY requesting Anthony as your host!
- -1
+ +1
 
 
 review_id : qgdejsJVqZdo7JvtZAObYg
 aspect: Service
 text: I have visited Towne Tavern Indian Land, and have received nothing but top notch service.
- -1
+ +1
 
 
 review_id : qgdejsJVqZdo7JvtZAObYg
 aspect: Price
 text: Great place, good prices, good time.
- -1
+ +1
 
 review_id : OqpYHkCimP6rndGC9edMpw
 aspect: Food
 text: Wonderful new bar with great bartenders and great food.
- -1
+ +1
 
 
 review_id : OqpYHkCimP6rndGC9edMpw
 aspect: Service
 text:  I really like the big TVs and the great service.
- -1
+ +1
 
 
 review_id : TpdW6vkC2l3-784ob42sEw
 aspect: Service
 text: Great drinks, great service.
- -1
+ +1
 
 
 review_id : DNou0aPaXx5816P4Jhh0-A
 aspect: Food
 text: Good flights, good food, good service, and a private room if you want a happy hour with numerous folks.
- -1
+ +1
 
 
 review_id : DNou0aPaXx5816P4Jhh0-A
 aspect: Service
 text: Good flights, good food, good service, and a private room if you want a happy hour with numerous folks.
- -1
+ +1
 
 
 review_id : Jy38qyZgsdthWmboLw3CFQ
 aspect: Food
 text: The food were delicious, especially the calamari.
- -1
+ +1
 
 
 review_id : 4dSGilpIxTtLv3CgUQg3Hw
 aspect: Food
 text:  The restaurant is welcoming and the food is delicious  and fresh!
- -1
+ +1
 
 
 review_id : Q1Q-tdYgOERKR9PX1xyRGQ
 aspect: Service
 text: Excellent service and food.
- -1
+ +1
 
 
 review_id : bS4XBZDWVNP94105G7NdiA
 aspect: Service
 text: His services are a bargain and I recommend using Connected Montreal for your party.
- -1
+ +1
 
 
 review_id : e1tH_vqX0fqhJxkmQOHO3Q
 aspect: Service
 text: Service was excellent and atmosphere is trendy and relaxed.
- -1
+ +1
 
 
 review_id : e1tH_vqX0fqhJxkmQOHO3Q
 aspect: Price
 text: Prices are extremely reasonable.
- -1
+ +1
 
 review_id : izdAJE_OUlbMqA1qGxyuEw
 aspect: Service
 text: The service was great and our food came out in a timely manner.
- -1
+ +1
 
 
 review_id : lpa9NgsVqjt6bX-UbRkyig
 aspect: Service
 text: Simple tasty breakfast and excellent friendly service.
- -1
+ +1
 
 
 review_id : lpa9NgsVqjt6bX-UbRkyig
 aspect: Service
 text: The service is very friendly and accommodating--we were picky about our food, and they made everything cheerfully to spec.
- -1
+ +1
 
 
 review_id : AZIuCaNJ73l9mFcevW6rkw
 aspect: Service
 text: Im at the Dottys near Rainbow & Windmill, Omar is awesome, if your looking for great customer service, youll get it here.
- -1
+ +1
 
 
 review_id : rLeX6MtIBufO2HxbJ7aKKg
 aspect: Price
 text:  His specials are large servings and reasonable prices.
- -1
+ +1
 
 review_id : fzjw8jAGvzKM4JFS3eZtYg
 aspect: Service
 text: nice place and service, there was a gentleman with glasses( don't remember his name)  by himself, he was so kind and helpful.
- -1
+ +1
 
 
 review_id : rMrqXxPtbjX_KYEv-jN-OQ
 aspect: Service
 text:  The bartender, Paul, is very attentive and has excellent customer service.
- -1
+ +1
 
 
 review_id : rMrqXxPtbjX_KYEv-jN-OQ
 aspect: Service
 text:  Yeah I know it's graveyard and it's a bit slower but still great service always goes a long way.
- -1
+ +1
 
 
 review_id : ipqE9dJb3JcP3SDSAKMU_A
 aspect: Service
 text: Good food good service.
- -1
+ +1
 
 
 review_id : M6NUhPsG6siPaTpPRFTfvg
 aspect: Service
 text: The servers & owners offer excellent customer service.
- -1
+ +1
 
 
 review_id : P9yDiDwtHCcLY4u6YHFQ2g
 aspect: Service
 text: Easy to work with, reasonable prices, and great service.
- -1
+ +1
 
 
 review_id : P9yDiDwtHCcLY4u6YHFQ2g
 aspect: Price
 text: Easy to work with, reasonable prices, and great service.
- -1
+ +1
 
 review_id : wLL9IW-ZjW_HOC8c2fpbxg
 aspect: Price
 text: Great artist (don't know the others), great atmosphere, great location, prices and great hours.
- -1
+ +1
 
 review_id : Y6GMjbpsMqQ4ORkiOS0Ehg
 aspect: Price
 text: It seems that the right price pointed drink and food menu, combined with a pleasant atmosphere, and an unimposing hipster decor make this casual restaurant a habit forming meeting, dining and cocktail bar destination downtown.
- -1
+ +1
 
 review_id : PZMR8QcQfJCv61CTD7_RCA
 aspect: Price
 text: This place was amazing very impressed and great prices !
- -1
+ +1
 
 review_id : K830X-2TYfHUU05kDYjC0w
 aspect: Service
 text: Great drinks at good prices and friendly service.
- -1
+ +1
 
 
 review_id : K830X-2TYfHUU05kDYjC0w
 aspect: Price
 text: Great drinks at good prices and friendly service.
- -1
+ +1
 
 review_id : 1DYmCwXsm-3tnHbqkRMwQA
 aspect: Service
 text: Tonight we had amazing service and food...
- -1
+ +1
 
 
 review_id : OLweOC0oxtUhQaB0ST4jpg
 aspect: Service
 text: Most amazing food and service we have experienced in Calgary.
- -1
+ +1
 
 
 review_id : GoVvmIgWObrxKYxu00yN1g
 aspect: Service
 text: The service is fantastic -- more than 5-Stars!
- -1
+ +1
 
 
 review_id : jDAdfN0OxgAP0C46Vu6Zyg
 aspect: Price
 text:  Fair prices and great interior.
- -1
+ +1
 
 review_id : l0BiMxcbBH9fDBk-tjcS8Q
 aspect: Price
 text:  A classic neighborhood bar with great food at reasonable prices.
- -1
+ +1
 
 review_id : FO1r0zwMxviUNp4Xh8DcZQ
 aspect: Price
 text: Lots of booze to choose from at a reasonable price, the bartenders are all TS with great personalities and easy to get along with.
- -1
+ +1
 
 review_id : pSovOAEJuS2OctYCL1vN9w
 aspect: Price
 text: First, all of the tacos are VERY reasonably priced imo.
- -1
+ +1
 
 review_id : rmJ2FHioqvuGTJibz21bnw
 aspect: Price
 text: Best wings on town.They have a whole lot of different flavors.Very reasonable prices.
- -1
+ +1
 
 review_id : L9MN7sm0ma8B426ZgQpI-g
 aspect: Price
 text:  Prices so reasonable.
- -1
+ +1
 
 review_id : DdYD2d5UW_LP5s2benvANw
 aspect: Price
 text: The price is right compared to other venues around town!
- -1
+ +1
 
 review_id : GubGYwlb8SQPe17_n9f6Pw
 aspect: Price
 text: A good selection of cigars at very reasonable prices.
- -1
+ +1
 
 review_id : oBU7hEABy6ue0EK35JxCWA
 aspect: Price
 text:  They make you feel at home right away, they have a sick shop and great prices!
- -1
+ +1
 
 review_id : uIf3IcQGAkHdBRDpzsA2VQ
 aspect: Price
 text: Oh, they also have the best prices on growlers I've seen in Montreal so far.
- -1
+ +1
 
 review_id : LxUqNC0fP8psmgz83SVp7Q
 aspect: Price
 text:    Service and price are great!
- -1
+ +1
 
 review_id : l58LwyhE8NQvtceW7vDGMw
 aspect: Price
 text: The dinner alone was worth the price of admission only to be outdone by the stellar show performance.
- -1
+ +1
 
 review_id : LpqZkJIaYx-99-Yrj2VpxA
 aspect: Price
 text: They have a great happy hour prices!
- -1
+ +1
 
 review_id : LpqZkJIaYx-99-Yrj2VpxA
 aspect: Price
 text: Overall great prices, great people, and a great time!
- -1
+ +1
 
 review_id : FoNPQVf3xmgGhEQVHwppgw
 aspect: Price
 text:   Well priced:  two sodas, two meals and a jumbo margarita came to $34.
- -1
+ +1
 
 review_id : -Fk-KvGLpj7zECuLM0jIfg
 aspect: Price
 text: The inside is a bit rundown but, the staff is awesome, and the prices are fair.
- -1
+ +1
 
 review_id : Uu1O-5zmy2ix1NkU9DGqzg
 aspect: Price
 text:  Elliott is the friendliest, best bartender on the world, the atmosphere is adorable and comfortable, the drinks are always perfect, and the prices are so much more reasonable than 99% of other local bars.
- -1
+ +1
 
 review_id : 3W7RSWVe3pfkoSgbPc42vA
 aspect: Price
 text:  There was a nice mix of girls and guys, the drinks were reasonably priced, and the food was surprisingly good.
- -1
+ +1
 
 review_id : lENpQbYDx8zb7V025dcwYA
 aspect: Price
 text: Prices are fair with the service you get.
- -1
+ +1
 
 review_id : _veCpJBoawmDI-k3GFcqcQ
 aspect: Price
 text:  Will definitely use again and the prices were great!
- -1
+ +1
 
 review_id : Vg-CZqsyLZEy4kD4SapZeQ
 aspect: Price
 text: Dizzys is such a great little bar with great prices.
- -1
+ +1
 
 review_id : vPlQeAwqjSkPnQDnSPBiwA
 aspect: Price
 text: As others said, reasonably priced for the amount of food you get and if you don't mind louder than usual music, it's well worth it.
- -1
+ +1
 
 review_id : 2vzaqPHfk9oSWpq5lYtl_A
 aspect: Price
 text: Prices compared to other places are also great.
- -1
+ +1
 
 review_id : RVWj4OdFuqidE0lNjy1thg
 aspect: Price
 text: Prices were reasonable, especially considering both quality and portion size.
- -1
+ +1
 
 review_id : cRDQC9UuydRp5m5cZ5Vj7Q
 aspect: Price
 text: Food prices are reasonable too.
- -1
+ +1
 
 review_id : ke49xuSqJcnP5lAI01Vv2g
 aspect: Price
 text: The lounge area is well decorated, incredible local Music Karaoke, nice price, and a great atmosphere.
- -1
+ +1
 
 review_id : _RwYnozCtfqKC0DNqrsDsw
 aspect: Price
 text: Small hole in the wall, but alcohol prices were amazing.
- -1
+ +1
 
 review_id : SbGT9lXPP8KyEiRt_XiWGA
 aspect: Price
 text:  The prices are reasonable.
- -1
+ +1
 
 review_id : iwRl6u-tCpCdEIs1sx-g_Q
 aspect: Price
 text: The beer is good and very reasonable priced.
- -1
+ +1
 
 review_id : 9F6fE7jNaN_8dffUGU_wjA
 aspect: Price
 text: Best shisha in downtown with good price and variety of flavours.
- -1
+ +1
 
 review_id : QV8qRk6B11UkUjUT5WOmzA
 aspect: Price
 text: The prices are good as well.
- -1
+ +1
 
 review_id : mRXR_aDggYnbusgcwZw31g
 aspect: Price
 text: Good tunes, reasonable prices and fun staff made the evening a great experience.
- -1
+ +1
 
 review_id : YSuzLP3x3k-Kp0IxND3UtQ
 aspect: Price
 text: Very reasonable prices and they are the sweetest people in the world.
- -1
+ +1
 
 review_id : Jc6MsBEH48cV0q7hRa9WgA
 aspect: Price
 text: Go here on a Saturday and look for John the bartender, makes a great drink, prices are right, little dive joint but a great place to relax and have a drink.
- -1
+ +1
 
 review_id : w1txrJHw5gyHweHfobuaVg
 aspect: Price
 text: Drink prices are standard but a very good deal!
- -1
+ +1
 
 review_id : y93jH9fvUV9jgEcBbLDAFA
 aspect: Price
 text: The prices are reasonable considering how long a hookah can last.
- -1
+ +1
 
 review_id : ueaY66OUZqL0Ejtx35Q3pw
 aspect: Price
 text: Loved the food and the price.
- -1
+ +1
 
 review_id : a3ibP-xBTz5ZYmMNc9LQoQ
 aspect: Price
 text: Clean cool place to hang where the drinks flow for a vervy reasonable price.
- -1
+ +1
 
 review_id : l2JxHtWKPTBbM7pDoYuq0g
 aspect: Price
 text:   The best price and food for kids.
- -1
+ +1
 
 review_id : yunoVO8tL1q27U0_xarMOQ
 aspect: Price
 text: Great prices and great service too!
- -1
+ +1
 
 review_id : 4spyuZ_enUU2BD6HWv8rlw
 aspect: Price
 text: Good prices, delicious food and great atmosphere!
- -1
+ +1
 
 review_id : K-HzOfU0wGT1UH2XXDf-MQ
 aspect: Price
 text: Great prices, gorgeous waitresses.
- -1
+ +1
 
 review_id : 0Y2a6ZJATl_z4iB7AlQuzQ
 aspect: Price
 text: Great experience, friendly staff, great prices.
- -1
+ +1
 
 review_id : 0Y2a6ZJATl_z4iB7AlQuzQ
 aspect: Price
 text: Get delicious grub at affordable prices.
- -1
+ +1
 
 review_id : aMzJ3dq9MzEjrBb1xDNHYg
 aspect: Price
 text: Everything was absolutely amazing and worth the price.
- -1
+ +1
 
 review_id : uQxn9sNendbAnp8vXEQBZA
 aspect: Price
 text: Prices were reasonable for Toronto and the owner and staff were really helpful and friendly making you feel at home.
- -1
+ +1
 
 review_id : W9YG9Dq_nqGlR0aG4JMfbg
 aspect: Price
 text:  They made it so easy and found us a great hotel price everyone was happy with.
- -1
+ +1
 
 review_id : wmxIFIKKuZYhrYl5_ND6bQ
 aspect: Price
 text: The food was great and prices were good.
- -1
+ +1
 
 review_id : W0VbYlSOA7eGfefwu7I94Q
 aspect: Price
 text: Their prices seem to be the cheapest in the village on the St.
- -1
+ +1
 
 review_id : ud5dBkyyjwezJj5yPGZKMQ
 aspect: Price
 text: About 7+ beers on tap and the prices are really good.
- -1
+ +1
 
 review_id : THk6ekg-Atj55zLbRl0WFw
 aspect: Price
 text: This is a great bar, with good food, good prices and amazing staff.
- -1
+ +1
 
 review_id : F5DkLwFy2REqB8XFHR17LQ
 aspect: Price
 text: It has great service and the prices are great.
- -1
+ +1
 
 review_id : rDnwDHsSB_Z-bLJJMlwfIg
 aspect: Price
 text:  The price per hour is reasonable and not charged per person.
- -1
+ +1
 
 review_id : -cXlXC0Kp-K0rIXoHgbbug
 aspect: Price
 text: Also, I think it's noteworthy to say that I don't think I saw a single food item on their menu that was priced above $10, so their prices are more than reasonable, and for the quality, you can't beat it!
- -1
+ +1
 
 review_id : utupdZ6aj_GVOh9wsd0BSQ
 aspect: Price
 text: Excellent food at an excellent price in a nice ambiance with really friendly service.
- -1
+ +1

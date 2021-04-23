@@ -80,12 +80,6 @@ aspect: Service
 text: Poorest customer service I have ever seen.
  -1
 
-
-review_id : M2E3KuD1x74KXl9Dcmebqg
-aspect: Price
-text: I ultimately signed up for their most expensive package.
- -1
-
 review_id : RNKG03ovRVuGjFPlVMRvxg
 aspect: Service
 text: Terrible customer service and rude professors.
@@ -551,12 +545,6 @@ text: I would not recommend Rean Cross of Lucina Birth Services.
  -1
 
 
-review_id : CAk6mQ24Z2FBdqiVUo3p3g
-aspect: Service
-text: horrible service.
- -1
-
-
 review_id : usSmCM-sZuOLsXWorL32xQ
 aspect: Service
 text: Bad service that school has treated us very poorly as we gave all the paper and supplies for the teachers
@@ -644,12 +632,6 @@ text: Either a scam or simply terrible customer service.
 review_id : m8yfjaFuGkuaOg-hL5P-eQ
 aspect: Service
 text: What a scam and awful customer service!
- -1
-
-
-review_id : st2fg6U1OfG-Fd-nOnMcIg
-aspect: Service
-text:  Horrible customer service.
  -1
 
 

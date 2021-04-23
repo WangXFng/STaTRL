@@ -171,13 +171,39 @@ def padding_(insts):  # (16, L)
     return torch.tensor(inner_dis, dtype=torch.float32)
 
 
+def pad_aspect(insts):
+    """ Pad the instance to the max seq length in batch. """
+
+    res = []
+    max_len = max(len(inst[0]) for inst in insts)
+
+    # print([len(inst[0]) for inst in insts], max_len)
+    for inst in insts:
+        for i in range(max_len - len(inst[0])):
+            # np.array([
+            #         inst[0] + [[0, 0, 0, 0, 0, 0], ] * (max_len - len(inst[0]))])
+            # print(inst[0])
+            inst[0].append([0] * 62)
+            # print(inst[0])
+
+        # print([len(i) for i in inst[0]], max_len)
+
+        m = np.array(inst[0])
+        res.append(m)
+
+    # print([len(inst[0]) for inst in res])
+    # print('=======================')
+    return torch.tensor(np.array(res), dtype=torch.float32)
+
+
 def collate_fn(insts):
     """ Collate function, as required by PyTorch. """
 
     ds = insts
     # print(ds[0])
-    (event_type, score, test_label, test_score, inner_dis) = list(zip(*ds))
-    # time = pad_time(time)
+    (event_type, score, time, aspect, test_label, test_score, inner_dis) = list(zip(*ds))
+    time = pad_time(time)
+    aspect = pad_aspect(aspect)
     # time_gap = pad_time(time_gap)
     event_type = pad_type(event_type)
     test_label = padding_event_label(test_label)
@@ -186,7 +212,7 @@ def collate_fn(insts):
     test_score = pad_scores(test_score)
 
     inner_dis = padding_(inner_dis)
-    return event_type, score, test_label, test_score, inner_dis.clone().detach()
+    return event_type, score, time, aspect, test_label, test_score, inner_dis.clone().detach()
 
 
 def get_dataloader(data, batch_size, shuffle=True):

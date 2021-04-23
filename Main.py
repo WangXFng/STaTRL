@@ -26,17 +26,18 @@ def prepare_dataloader(opt):
         with open(name, 'rb') as f:
             data = pickle.load(f, encoding='latin-1')
             num_types = data['dim_process']
+            poi_avg_aspect = data['poi_avg_aspect']
 
             data = data[dict_name]
-            return data, int(num_types)
+            return data, int(num_types), poi_avg_aspect
 
     print('[Info] Loading train data...')
     # las_vegas 31675  # toronto 20370 # Champaign 1327 # Charlotte 10429 # original length 18995
-    train_data, num_types = load_data(opt.data + 'train.pkl', 'train')
+    train_data, num_types, poi_avg_aspect = load_data(opt.data + 'train_ta_s.pkl', 'train')
     # print('[Info] Loading dev data...')
     # # dev_data, _ = load_data(opt.data + 'dev.pkl', 'dev')
     print('[Info] Loading test data...')
-    test_data, _ = load_data(opt.data + 'test.pkl', 'test')
+    test_data, _, poi_avg_aspect = load_data(opt.data + 'test_ta_s.pkl', 'test')
 
     trainloader = get_dataloader(train_data, opt.batch_size, shuffle=True)
     testloader = get_dataloader(test_data, opt.batch_size, shuffle=False)
@@ -44,7 +45,7 @@ def prepare_dataloader(opt):
     # print(train_data[0])  // [{'time_since_start': 1325.5123, 'time_since_last_event': 0.0, 'type_event': 3}]
     # print(len(train_data[0])) // 44
 
-    return trainloader, testloader, num_types
+    return trainloader, testloader, num_types, poi_avg_aspect
 
 
 def vaild(prediction, label, top_n, precision_s, recall_s, count):
@@ -109,13 +110,13 @@ def train_epoch(model, training_data, optimizer, pred_loss_func, opt):
     for batch in tqdm(training_data, mininterval=2,
                       desc='  - (Training)   ', leave=False):
         """ prepare data """
-        event_type, score, test_label, test_score, inner_dis = map(lambda x: x.to(opt.device), batch)
+        event_type, score, time, aspect, test_label, test_score, inner_dis = map(lambda x: x.to(opt.device), batch)
 
         """ forward """
         optimizer.zero_grad()
 
         # event_type [16, L]  event_time [16, L]
-        enc_out, rating_prediction, prediction, target_ = model(event_type, score, inner_dis)  # X = (UY+Z) ^ T
+        enc_out, rating_prediction, prediction, target_ = model(event_type, score, aspect, inner_dis)  # X = (UY+Z) ^ T
         # enc_out [16, 174, 512]  # batch * seq_len * model_dim
 
         prediction = torch.squeeze(prediction, 1)
@@ -154,11 +155,11 @@ def eval_epoch(model, validation_data, pred_loss_func, opt):
         for batch in tqdm(validation_data, mininterval=2,
                           desc='  - (Validation) ', leave=False):
             """ prepare data """
-            event_type, score, test_label, test_score, inner_dis = map(lambda x: x.to(opt.device), batch)
+            event_type, score, time, aspect, test_label, test_score, inner_dis = map(lambda x: x.to(opt.device), batch)
 
             """ forward """
             # event_type [16, L]  event_time [16, L]
-            enc_out, rating_prediction, prediction, target_ = model(event_type, score, inner_dis)  # X = (UY+Z) ^ T
+            enc_out, rating_prediction, prediction, target_ = model(event_type, score, aspect, inner_dis)  # X = (UY+Z) ^ T
             # enc_out [16, 174, 512]  # batch * seq_len * model_dim
 
             prediction = torch.squeeze(prediction, 1)
@@ -252,38 +253,38 @@ def main(trial):
     #     f.write('Epoch, Log-likelihood, Accuracy, RMSE\n')
 
     """ prepare dataloader """
-    trainloader, testloader, num_types = prepare_dataloader(opt)
+    trainloader, testloader, num_types, poi_avg_aspect = prepare_dataloader(opt)
 
     """ prepare model """
-    # opt.n_layers = trial.suggest_int('n_layers', 2, 2)
-    opt.d_inner_hid = trial.suggest_int('n_hidden', 512, 1024, 128)
-    opt.d_k = trial.suggest_int('d_k', 512, 1024, 128)
-    opt.d_v = trial.suggest_int('d_v', 512, 1024, 128)
-    opt.n_head = trial.suggest_int('n_head', 8, 12, 2)
-    opt.n_dis = trial.suggest_int('n_dis', 8, 12, 2)
-    # opt.d_rnn = trial.suggest_int('d_rnn', 128, 512, 128)
-    opt.d_model = trial.suggest_int('d_model', 1024, 1024, 512)
+    # # opt.n_layers = trial.suggest_int('n_layers', 2, 2)
+    # opt.d_inner_hid = trial.suggest_int('n_hidden', 512, 1024, 128)
+    # opt.d_k = trial.suggest_int('d_k', 512, 1024, 128)
+    # opt.d_v = trial.suggest_int('d_v', 512, 1024, 128)
+    # opt.n_head = trial.suggest_int('n_head', 8, 12, 2)
+    # opt.n_dis = trial.suggest_int('n_dis', 8, 12, 2)
+    # # opt.d_rnn = trial.suggest_int('d_rnn', 128, 512, 128)
+    # opt.d_model = trial.suggest_int('d_model', 1024, 1024, 512)
     opt.dropout = trial.suggest_uniform('dropout_rate', 0.5, 0.7)
-    opt.smooth = trial.suggest_uniform('smooth', 1e-3, 1e-1)
-    opt.lr = trial.suggest_uniform('learning_rate', 1e-5, 1e-4)
-
-    opt.ita = trial.suggest_uniform('ita', 0.03, 0.06)
-    opt.coefficient = trial.suggest_uniform('coefficient', 0.05, 0.15)
+    opt.smooth = trial.suggest_uniform('smooth', 1e-2, 1e-1)
+    opt.lr = trial.suggest_uniform('learning_rate', 0.00008, 0.00011)
+    #
+    # opt.ita = trial.suggest_uniform('ita', 0.03, 0.06)
+    # opt.coefficient = trial.suggest_uniform('coefficient', 0.05, 0.15)
 
     # opt.lr = 0.000099
     # # #
     opt.n_layers = 2  # 2
-    # opt.d_inner_hid = 1024  # 768
-    # # opt.d_rnn = 128
-    # opt.d_model = 1024
-    # opt.d_k = 1024
-    # opt.d_v = 896
-    # opt.n_head = 12  # 8
-    # opt.n_dis = 8
+    opt.d_inner_hid = 1024  # 768
+    # opt.d_rnn = 128
+    opt.d_model = 1024
+    opt.d_k = 1024
+    opt.d_v = 896
+    opt.n_head = 12  # 8
+    opt.n_dis = 12
     # opt.dropout = 0.66203
     # opt.smooth = 0.05998
-    # opt.ita = 0.037
-    # opt.coefficient = 0.14
+    opt.ita = 0.037
+    opt.coefficient = 0.14
 
     print('[Info] parameters: {}'.format(opt))
     model = Transformer(
@@ -300,7 +301,8 @@ def main(trial):
         batch_size=opt.batch_size,
         device=opt.device,
         ita=opt.ita,
-        n_dis=opt.n_dis
+        n_dis=opt.n_dis,
+        poi_avg_aspect=poi_avg_aspect
     )
     model.to(opt.device)
 

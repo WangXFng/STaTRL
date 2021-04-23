@@ -2,1103 +2,1103 @@
 review_id : IoXe2k-pZCB2xTA4xajODQ
 aspect: Service
 text:  Great service and amazingly speedy timing.
- -1
+ +1
 
 
 review_id : IoXe2k-pZCB2xTA4xajODQ
 aspect: Price
 text:  Super friendly and priced very well.
- -1
+ +1
 
 review_id : ps_KNXFAZK0PbJmTrbZpHA
 aspect: Price
 text: My husband and I had our destination wedding in Vegas with both our bachelorette and bachelor parties the night before and we told Mike what we were looking to do and he had everything organized for us at reasonable prices.
- -1
+ +1
 
 review_id : N8HrIceMV0Ov6aLMVHhlIw
 aspect: Service
 text: Great Service and Pricing.
- -1
+ +1
 
 
 review_id : 5tWdC6bQCGZD6H3BW2Yxag
 aspect: Service
 text: The customer service is great.
- -1
+ +1
 
 
 review_id : glw4aWtsDupPHQayzpmKdw
 aspect: Price
 text:   the price was just what they quoted me and totally, totally worth it.
- -1
+ +1
 
 review_id : RtJPa2AOk5_QuJBB8DORIQ
 aspect: Service
 text:  Best customer service and professionalism.
- -1
+ +1
 
 
 review_id : uoe0lGnz7EkLwfGJyqpt7w
 aspect: Price
 text: The prices are very reasonable and you are very well taken care of here.
- -1
+ +1
 
 review_id : T7MrMpTEC_wXDL8r6v3Fmg
 aspect: Service
 text: Great service frank and I'll be sure to let the guys at the fire station know who to call.
- -1
+ +1
 
 
 review_id : xIljHP9j6PnVc9g3U7oMqQ
 aspect: Price
 text:  Their prices are beyond reasonable and I wouldn't trust my technology issues with any other company.
- -1
+ +1
 
 review_id : 8XRxB5L_PUmIcGWRszJDog
 aspect: Price
 text: Price wise they were very reasonable.
- -1
+ +1
 
 review_id : wW2vvwE_AY1vfwzyt7yfYQ
 aspect: Service
 text:  Her customer service is exceptional.
- -1
+ +1
 
 
 review_id : 6kFFeYylDsByXKAnFTr1wQ
 aspect: Service
 text: Records Reduction provides a great service.
- -1
+ +1
 
 
 review_id : IPZEzG-9fh1A9X7w1RELzw
 aspect: Service
 text:  I was very happy with his service and would definitely hire him again.
- -1
+ +1
 
 
 review_id : MXUDXQi7D3O6o8CDegJcXA
 aspect: Price
 text:  They are honest, fair, give the best price in town and their product is amazing.
- -1
+ +1
 
 review_id : aRY7u_rwSU9KxAwu7nfUcA
 aspect: Price
 text: The price was very reasonable, and Lindsay delivered the most amazing resume.
- -1
+ +1
 
 review_id : EDWn8STuagaDAAlNhuzefQ
 aspect: Price
 text: The hosts were awesome, tables were reasonably priced, and we were always walked right in past the usually heinous lines.
- -1
+ +1
 
 review_id : EDWn8STuagaDAAlNhuzefQ
 aspect: Service
 text: The money and customer service makes sense.
- -1
+ +1
 
 
 review_id : RLM7hwpNwluCJFdDOz9Vdw
 aspect: Service
 text: Helpful staff, quick service, and open on a Sunday afternoon.
- -1
+ +1
 
 
 review_id : 2W0N-5LMMwXXtwjicR8Qyg
 aspect: Service
 text: Every time I call I am blown away with how great their service is.
- -1
+ +1
 
 
 review_id : CMRhHEmWu--Nk6lVwJqg9g
 aspect: Service
 text: Any service I hire in behalf of a client or service I refer to a client, comes back as a reflection on me.
- -1
+ +1
 
 
 review_id : pXWOXKgcDhug0wtPgs78NQ
 aspect: Price
 text:  There are sooo many unique items and great discounted prices.
- -1
+ +1
 
 review_id : pXWOXKgcDhug0wtPgs78NQ
 aspect: Service
 text: Also, customer service was excellent.
- -1
+ +1
 
 
 review_id : q38bUklvFL0McAdx4M9PEQ
 aspect: Price
 text: He is a great resource for home and business computer systems and reasonably priced.
- -1
+ +1
 
 review_id : VgrwCye7NWmS-H2BzlI4FQ
 aspect: Service
 text: It actually was a great service, he was really patient while I explained my dad over the phone how to text me a picture of the keys.
- -1
+ +1
 
 
 review_id : VgrwCye7NWmS-H2BzlI4FQ
 aspect: Service
 text: I can recommend this service.
- -1
+ +1
 
 
 review_id : dxY5xMSKkoNCtcQOi6wMZg
 aspect: Service
 text: Have used Paul's for years and have not only received excellent and courteous service but also after checking around the valley have found they offer the best prices.
- -1
+ +1
 
 
 review_id : dxY5xMSKkoNCtcQOi6wMZg
 aspect: Price
 text: Have used Paul's for years and have not only received excellent and courteous service but also after checking around the valley have found they offer the best prices.
- -1
+ +1
 
 review_id : EH_elNYVZ5-Eaox5RpB7Hw
 aspect: Price
 text: We got a great price on our laminate flooring.
- -1
+ +1
 
 review_id : kAJnE8OgS_iQf0Gvy758sQ
 aspect: Service
 text: Overall, this company gave me great customer service and was very professional every step of the way.
- -1
+ +1
 
 
 review_id : gmd4gQta5T4bc2GEMmEBsw
 aspect: Service
 text: I have no doubt that anyone hiring Nick at Blue Truck Window Cleaning will be ecstatic over the great service he provides.
- -1
+ +1
 
 
 review_id : cvnk5_wthsSXY6Y1Aey-bQ
 aspect: Service
 text:  I received Fernando's contact information as a referral from a family member who used and loved their service.
- -1
+ +1
 
 
 review_id : qozbH5-rjmg7qDuXkdmH6g
 aspect: Service
 text: They were friendly, helped with my need for quick process service and even had a form on hand that I forgot to send them.
- -1
+ +1
 
 
 review_id : LfLXNvMgLuFNnM8aowtY7w
 aspect: Service
 text: I will most definitely have 360 Precision Cleaning in to take care of many needs I may have for cleaning, maid service for a party, changing decor,
- -1
+ +1
 
 
 review_id : LvmvFWtLN-ddM7BFWcjegQ
 aspect: Price
 text: We have used Cashman photo for parties photos, engagement photos, wedding photos, and photo shoots for children's albums and they were amazing and the most reasonably priced around.
- -1
+ +1
 
 review_id : z1JK49cU_l9McbAfarQfAA
 aspect: Service
 text: I not only recommend their DVD products, but customer service is great and also if we ever needed any video production done these would be the the guys to do it!
- -1
+ +1
 
 
 review_id : z1JK49cU_l9McbAfarQfAA
 aspect: Service
 text:   Fast, friendly, knowledgeable, professional and very pleasant service all around, 10 out of 5 stars!
- -1
+ +1
 
 
 review_id : o3etVHVo33ULrNB1udVQAA
 aspect: Price
 text:  Excellent experience both times and the prices are great!
- -1
+ +1
 
 review_id : hdBtPJkuQf3c4WfY6CMt4A
 aspect: Service
 text: Incredible service.
- -1
+ +1
 
 
 review_id : c3mREbv8dJNEZNGWplYwrA
 aspect: Price
 text:  The quality of printing was great, the price was reasonable, and the order was done in a day's time!
- -1
+ +1
 
 review_id : pag0RqN4tKtIeQjHpYnQkQ
 aspect: Price
 text: The price is also great given quality of his work.
- -1
+ +1
 
 review_id : 8yLy17F0v44_gn0vhwejMg
 aspect: Service
 text: I would absolutely recommend their services to anyone in need.
- -1
+ +1
 
 
 review_id : y-50ELYKM-dZFc7T3C0wIQ
 aspect: Service
 text:   I recommend your services to anyone needing quality production and an eye for detail.
- -1
+ +1
 
 
 review_id : -vOyg2hK-XEQhLLLActVqQ
 aspect: Service
 text: Every person who came to our house was exceptional as far as customer service skills etc.
- -1
+ +1
 
 
 review_id : IjILeGcfPa_Ir53ZKKyTkA
 aspect: Price
 text: The windows looks amazing and all at a fair price...
- -1
+ +1
 
 review_id : IjILeGcfPa_Ir53ZKKyTkA
 aspect: Service
 text: I'll definitely be using his services again!
- -1
+ +1
 
 
 review_id : nvPNVVAC_Mrdctfv0hbs9Q
 aspect: Service
 text: I have utilized their services on several occasions with nothing but the best results.
- -1
+ +1
 
 
 review_id : nvPNVVAC_Mrdctfv0hbs9Q
 aspect: Service
 text: Every time I have gotten fast and friendly customer service with top notch efficiency!
- -1
+ +1
 
 
 review_id : BnPX0sCxDaT2gkxxl6A51A
 aspect: Service
 text: Great consumer-oriented service!
- -1
+ +1
 
 
 review_id : 4ZeoDQGvgrgMVBnduccOog
 aspect: Service
 text: The service was again impeccable, and the results again perfect.
- -1
+ +1
 
 
 review_id : pa7ayP5tVdajX7y5SYASLQ
 aspect: Service
 text: If it isn't 5 star, then you're not getting the best service out there.
- -1
+ +1
 
 
 review_id : MtsMKVNJ9OVgCkN2m5dkLA
 aspect: Service
 text: Service was great, prices were very reasonable, and I was in and out in less than an hour.
- -1
+ +1
 
 
 review_id : MtsMKVNJ9OVgCkN2m5dkLA
 aspect: Price
 text: Service was great, prices were very reasonable, and I was in and out in less than an hour.
- -1
+ +1
 
 review_id : F9hwvtUxsUaLNwpmZ1LyGA
 aspect: Service
 text: I am 1000% (yep - one thousand percent) pleased with the services I have received from Tonia and David Enevoldsen at the Family Law Guys.
- -1
+ +1
 
 
 review_id : qfi4QIkOhEArgmSdoFSdEA
 aspect: Service
 text: Great service from a dedicated, competent, trustworthy process server.
- -1
+ +1
 
 
 review_id : odCjq7k7iBqoT8EQBm9CCA
 aspect: Service
 text: Great service...quick and knew what they were doing.
- -1
+ +1
 
 
 review_id : odCjq7k7iBqoT8EQBm9CCA
 aspect: Price
 text:  Good communicators and the price was reasonable.
- -1
+ +1
 
 review_id : oSTRUF2RBpOJ0vchAkkzyA
 aspect: Service
 text: Working with Rick was easy and I would recommend his services all day!
- -1
+ +1
 
 
 review_id : INbjFj2xhRS1WTwp2g4N6w
 aspect: Service
 text: Service was impeccable.
- -1
+ +1
 
 
 review_id : p48a2ZjFrYIRf0UY_F0whA
 aspect: Service
 text: Green Clean Arizona is made up of wonderful, hard working people who are trying to bring a valued service to the community.
- -1
+ +1
 
 
 review_id : 2iv4VHEzGXlIoTDTx2H_Ig
 aspect: Service
 text: Very good service.
- -1
+ +1
 
 
 review_id : 32wLRco0WOfIWGNPm-7wEg
 aspect: Service
 text: Amazing professionalism and service.
- -1
+ +1
 
 
 review_id : 6QOn8mnvMBK7Dpea_blx-g
 aspect: Service
 text: Marcus is an exceptional professional who is willing to do what it takes to ensure you are satisfied with the service.
- -1
+ +1
 
 
 review_id : 6QOn8mnvMBK7Dpea_blx-g
 aspect: Service
 text: I have already requested another service to assist with other rooms in our house and will continue to recommend them!
- -1
+ +1
 
 
 review_id : uzaVelqjSaNZI3s0Z4HO6g
 aspect: Service
 text: Great service provided by professional people.
- -1
+ +1
 
 
 review_id : M9V3ev6fN-gq39CVP_It0A
 aspect: Service
 text:   Great service and awesome prices!
- -1
+ +1
 
 
 review_id : M9V3ev6fN-gq39CVP_It0A
 aspect: Price
 text:   Great service and awesome prices!
- -1
+ +1
 
 review_id : 01IkSqpg3FxAixf4nTqszQ
 aspect: Service
 text: Hands down the best carpet service I have used.
- -1
+ +1
 
 
 review_id : wAY0pHXFCGnpuBn3Ceb3Vg
 aspect: Service
 text: Great and quick service!
- -1
+ +1
 
 
 review_id : xlUtcUaCabuhMseO_9nmTA
 aspect: Service
 text: We are so pleased with the service from making the appointment, arrival time of the service people to the final product.
- -1
+ +1
 
 
 review_id : ZFqi-AQ-IwO0tDrCCBFGSA
 aspect: Service
 text: I would highly recommend this firm and we will definitely use their services again!
- -1
+ +1
 
 
 review_id : i90vv9siqLAXdTYrzI6yGQ
 aspect: Service
 text: We own businesses in Charlotte, we have never had a problem with them-they offer great customer service and truly care to get the job done.
- -1
+ +1
 
 
 review_id : X1OudCH-Qc93m6osS015eQ
 aspect: Service
 text: Reliable, affordable, quality service!
- -1
+ +1
 
 
 review_id : X1OudCH-Qc93m6osS015eQ
 aspect: Service
 text:   Marcus was able to schedule an appointment quickly, was on-time, and provided quality service cleaning the carpet for one room.
- -1
+ +1
 
 
 review_id : X1OudCH-Qc93m6osS015eQ
 aspect: Service
 text:  I will definitely schedule future carpet cleaning with Mr G's cleaning services!
- -1
+ +1
 
 
 review_id : _htqThviAAq3a-XolOqcDA
 aspect: Price
 text: His prices are reasonable and his work is quality.
- -1
+ +1
 
 review_id : lXMX3npua71tRL27O8iOPg
 aspect: Price
 text: He called me the next day any gave me an awesome price!
- -1
+ +1
 
 review_id : LYNRsMy1uWvDhYHdNj4Vhg
 aspect: Price
 text: The shop uses high materials and the right technique at a great price.
- -1
+ +1
 
 review_id : C_JNSOPgk91heRDgXHDx2g
 aspect: Service
 text: Always provides great service and is always available to help!
- -1
+ +1
 
 
 review_id : 5pzuYc-4JKgKlh5ZINEHQQ
 aspect: Service
 text: Lee provided an excellent customer service and was very professional from the start.
- -1
+ +1
 
 
 review_id : T_qJAyZ_n1Mbssyclu8MVA
 aspect: Price
 text: The staff were all very courteous, and the price quoted was exactly what we were charged.
- -1
+ +1
 
 review_id : YKE_vjVdt8M2-iLSfcaysg
 aspect: Service
 text: The service men worked quickly and carefully.
- -1
+ +1
 
 
 review_id : 1lTBhtxImUq5-7QV7WmW3A
 aspect: Service
 text: They have excellent customer service.
- -1
+ +1
 
 
 review_id : D_pFY8z-4Y3Nyq5M2bVKgQ
 aspect: Service
 text: Wonderful top notch service, replaced old carpets in my new home.
- -1
+ +1
 
 
 review_id : BRPuJA7aJjbHEYXYNDiRUQ
 aspect: Price
 text: Wright timely and with fair price was able to do it all.
- -1
+ +1
 
 review_id : byIP-84HwAP9OOrHguUr9A
 aspect: Service
 text: The customer service was great, and the cards were gorgeous.
- -1
+ +1
 
 
 review_id : bDMtG8SFhXxTVTnQ8tlvJg
 aspect: Service
 text: I love this company, great materials and great service.
- -1
+ +1
 
 
 review_id : bDMtG8SFhXxTVTnQ8tlvJg
 aspect: Service
 text: Awesome customer service and have only used them since we opened our business.
- -1
+ +1
 
 
 review_id : 55P8LAifbxsLCAiZrQqQkg
 aspect: Service
 text: This is the best service that I have ever received!
- -1
+ +1
 
 
 review_id : 9djW5xA__al4-o9YcDxoNg
 aspect: Price
 text: Considering the quality of his job and the price, I did not hesitate to give him 5 stars.
- -1
+ +1
 
 review_id : bacJqiCsj8h6008_V2u71A
 aspect: Service
 text: They have some beautiful people employed with wonderful customer service skills.
- -1
+ +1
 
 
 review_id : 04VYWSCZX2k6L610IwppWg
 aspect: Service
 text:  Great service, quick turn around time (mine took around 3 days) and awesome resume writing!
- -1
+ +1
 
 
 review_id : 6aBoaZCDHOhkzVbQAXwp6w
 aspect: Price
 text:  Owner, Jeff has been instrumental in connecting us with the best resources as far the different technology vendors and how to negotiate the best prices.
- -1
+ +1
 
 review_id : NEtRsTAyT1bTihe0H_pjfQ
 aspect: Price
 text: Working with David to get the graphic design for our truck feet was fast, stress free and by far the most reasonable price in town!
- -1
+ +1
 
 review_id : qXcJjexj1SvAASMHmT1e1A
 aspect: Price
 text: Really amazing work, and best prices.
- -1
+ +1
 
 review_id : 3MRRs_PlPCSf-oqezD_Fgw
 aspect: Service
 text: Great service and the owner Fernando is always friendly his guys are great and my carpets always look beautiful after they clean it!
- -1
+ +1
 
 
 review_id : ETZ98GQBxJ5NFjlQ9Hg55g
 aspect: Service
 text: Loved the service quick efficient courteous and on time.
- -1
+ +1
 
 
 review_id : yWJ36qDDkOnGQ1UYUfKWIQ
 aspect: Service
 text: Excellent service overall, and we will definitely be calling again in the future!
- -1
+ +1
 
 
 review_id : g2Ftx_7TcSpHoi2Jwpw7UA
 aspect: Service
 text: I've been using them for over 7 years and I'm very pleased with their services.
- -1
+ +1
 
 
 review_id : g2Ftx_7TcSpHoi2Jwpw7UA
 aspect: Price
 text: They are very reliable, professional, reasonable with prices, fast turn around and personal staff make it a pleasure for me to order all my business shirts\/sweaters\/hats\/backpacks year over year.
- -1
+ +1
 
 review_id : sQU5MEN8nVNM-EFN6XIjfw
 aspect: Service
 text: Graphic Ideals constantly comes through for me, they have amazing customer service (Lena) and the quality is fantastic.
- -1
+ +1
 
 
 review_id : Bg4wTBcIgT7zCPKBKICgQg
 aspect: Service
 text: the service was great, everything went smooth and they hooked us up with the best tables in the club!
- -1
+ +1
 
 
 review_id : ZQrtnhOlrd4Xp9ohfaGg1w
 aspect: Service
 text: Your service was well worth every penny!
- -1
+ +1
 
 
 review_id : fkYYvyNreblBbiKlABoI_g
 aspect: Price
 text:  I found Richard to be real professional, who did quality work at a reasonable price.
- -1
+ +1
 
 review_id : HUvvK-tGwPGJrkjwHb5y6g
 aspect: Service
 text: I would highly recommend his services.
- -1
+ +1
 
 
 review_id : npnCx_7ld_pBNvAJZvpcVw
 aspect: Service
 text: Had my taxes done here by Nichelle Williams great service.
- -1
+ +1
 
 
 review_id : rvpaDKm1BU9lrxyKdSdvCA
 aspect: Service
 text: Very quick and professional service.
- -1
+ +1
 
 
 review_id : Sj16biQMDNPYxsIH1G1QFg
 aspect: Service
 text: I am very pleased with the customer service of Zerorez.
- -1
+ +1
 
 
 review_id : 8w3ONF1LjXfr9pislMzdhQ
 aspect: Price
 text: The prices were reasonable and they were willing to work with us and our budget without a struggle, which was nice because we were working on a smaller scale than most.
- -1
+ +1
 
 review_id : tOVDsADtBqse0aehaqkLDQ
 aspect: Price
 text: Excellent frame job at a reasonable price and terrific customer service.
- -1
+ +1
 
 review_id : tOVDsADtBqse0aehaqkLDQ
 aspect: Service
 text:  I think that's excellent customer service and would go back for any future jobs.
- -1
+ +1
 
 
 review_id : JIimADzx8OcZWguzvWMDyA
 aspect: Price
 text:  They do a great job and have very good prices!
- -1
+ +1
 
 review_id : bk_V9nvPLEtvjGwqYHMKQw
 aspect: Price
 text: They aren't the cheapest but their price is fair and their work is some of the best I have come across.
- -1
+ +1
 
 review_id : xNVlwoXhfjXRAVTH-ZUBAQ
 aspect: Service
 text: Highly recommend using their service.
- -1
+ +1
 
 
 review_id : ruZEsLDuWQNpe8r6d-Gmrw
 aspect: Service
 text: The service is top notch and helped guide me for what I needed.
- -1
+ +1
 
 
 review_id : m5iBuWF36Q8TAK-2eY8X3Q
 aspect: Service
 text:   Highly recommended and we will use his services again.
- -1
+ +1
 
 
 review_id : 6uf29j_ShUbzdcK_bdI1PA
 aspect: Service
 text: Thanks again for the great service.
- -1
+ +1
 
 
 review_id : p_DPVf2AmWtLJetZr2GMEw
 aspect: Service
 text: Love the service and the prices.
- -1
+ +1
 
 
 review_id : p_DPVf2AmWtLJetZr2GMEw
 aspect: Price
 text: Love the service and the prices.
- -1
+ +1
 
 review_id : Thb0-1R1bufGoTSSy3Tlpw
 aspect: Price
 text: They do a really thorough job at affordable prices.
- -1
+ +1
 
 review_id : OCrLo_gzHITsKr0qCVqb8Q
 aspect: Service
 text: Great customer service.
- -1
+ +1
 
 
 review_id : lXGPthL4_flETmuwhiZS_w
 aspect: Service
 text: I recommend this group to everyone I can who needs a professional tax service.
- -1
+ +1
 
 
 review_id : DLeARC99XdJxeiWXi4vDdA
 aspect: Service
 text: Great job guys and thank you for your amazing service!
- -1
+ +1
 
 
 review_id : RmTtBuKbPcJsaNl4Hhkqpg
 aspect: Price
 text:  His prices are very reasonable and accepts payment plans if you do not have all of the funds up front.
- -1
+ +1
 
 review_id : fuzDcvJwaeR8lAoeTzKgEw
 aspect: Service
 text: This service was great!
- -1
+ +1
 
 
 review_id : jz-lrRxdnRrpCgllQBm1Eg
 aspect: Service
 text: I used Pesticon a few times and each time they provided great service.
- -1
+ +1
 
 
 review_id : -b4AO1k1vCub59Ytwstmdw
 aspect: Service
 text:  They are super knowledgeable and provide the best customer service!
- -1
+ +1
 
 
 review_id : F6-tZ4FpMMKzR0CqdfKVRg
 aspect: Price
 text: Jackson Hewitt was A1 tome their price to file my taxes was reasonable I got to get return back so I'm happy
- -1
+ +1
 
 review_id : o7DVePNlKTpWlZpSMHqQzA
 aspect: Price
 text:  The price was incredibly fair.
- -1
+ +1
 
 review_id : YDKz4DIhkiuJbUQ_KQujWg
 aspect: Price
 text: Fast, professional, friendly and very reasonably priced--- great experience in every way!
- -1
+ +1
 
 review_id : 7q8kCJPAGSGyL9j_yy2pNw
 aspect: Price
 text: Kaleb is Professional & Precise and very satisfied with Charlene's customer service,  overall Great Quality, Great work, and Great price - definitely recommend Under Wraps.
- -1
+ +1
 
 review_id : DoVMkaedgU93qYyg82QIXg
 aspect: Service
 text: Overall I am pleased with the service and support I received.
- -1
+ +1
 
 
 review_id : YSqPdlrFXci0FtiqU06Weg
 aspect: Service
 text: I highly recommend his services.
- -1
+ +1
 
 
 review_id : v1tWskIQQpBRONQJLij8GQ
 aspect: Service
 text:  Amazing customer service and they did an amazing job!
- -1
+ +1
 
 
 review_id : 9tuaQsQD7bbPYht2i10GcQ
 aspect: Service
 text: Thankfully I was very happy with the level of service at PMSAZ Bail Bonds.
- -1
+ +1
 
 
 review_id : 9lL49lZgRF4Vb9ugitfc8Q
 aspect: Service
 text: I appreciate that type of customer service.
- -1
+ +1
 
 
 review_id : 2yH4lymLq0_zsgl_oCBQXA
 aspect: Service
 text: Excellent price, quick service and great communication.
- -1
+ +1
 
 
 review_id : 2yH4lymLq0_zsgl_oCBQXA
 aspect: Price
 text: Excellent price, quick service and great communication.
- -1
+ +1
 
 review_id : VTKISNFRrPQHSgfkruzy1w
 aspect: Service
 text:  Was very impressed with the service and the setup on the SKI.
- -1
+ +1
 
 
 review_id : WWiAmnyhSHWUBNsd0Xa8fw
 aspect: Service
 text: Their prices are hard to beat and they offer many good services.
- -1
+ +1
 
 review_id : WWiAmnyhSHWUBNsd0Xa8fw
 aspect: Price
 text: Their prices are hard to beat and they offer many good services - I love the new edge color they offer and for a reasonable price.
- -1
+ +1
 
 review_id : uQ3hug43BSLz1dmM0RrDCQ
 aspect: Price
 text: I truly appreciate his hard-work and he is very reasonably priced which means I am able to use him more frequently!
- -1
+ +1
 
 review_id : owGLM7xssC3BCTic3NNmgg
 aspect: Price
 text: I shopped around and they had the best price.
- -1
+ +1
 
 review_id : Q2PiiUW_H0opFNfklwpThA
 aspect: Service
 text: In all sincerity, I highly recommend his service.
- -1
+ +1
 
 
 review_id : ua8s5zivhxOMff7Lpr8D-w
 aspect: Price
 text:  For a VERY reasonable price, the business film stands for an investment in an excellent marketing tool that can be used and enjoyed for years to come.
- -1
+ +1
 
 review_id : 2PDnhfcO6vfcTSpW3229UA
 aspect: Price
 text: John and his team produce an exceptional quality product at a competitive price and ALWAYS meet their deadlines!
- -1
+ +1
 
 review_id : 63Axm3aWz2OqeG4umNMCAA
 aspect: Price
 text:  They never cease to amaze me with a top notch product at a very fair price.
- -1
+ +1
 
 review_id : 63Axm3aWz2OqeG4umNMCAA
 aspect: Service
 text:  Their customer service is great and I always have confidence that the final result will be just what I wanted.
- -1
+ +1
 
 
 review_id : jNpkVfWsUvsfg26HnDirPQ
 aspect: Service
 text: I would most definitely use Britney's services again if the need arose.
- -1
+ +1
 
 
 review_id : BDHUwXIWjOspQFFhBDQSpA
 aspect: Service
 text: I've been meaning to write this review a lot sooner because of the incredible service I was provided.
- -1
+ +1
 
 
 review_id : btf3LNAMYXutUUqqdiySlg
 aspect: Price
 text: Also, the price was extremely reasonable.
- -1
+ +1
 
 review_id : rBYndBWZFqcdSXDF8_9Wxg
 aspect: Price
 text: Have used them multiple times to do super hard to find rare odds and ends pieces and they've always done it top notch and fair prices for what you get.
- -1
+ +1
 
 review_id : H2EOr5F0YT-nizas4HE24g
 aspect: Price
 text:  It is worth the price tag to actually meet.
- -1
+ +1
 
 review_id : 99T9ANCtgVi88dLjNOfhWA
 aspect: Price
 text: Price was best I found for the services.
- -1
+ +1
 
 review_id : YqZ4eNmAVvVTAhKktj5shA
 aspect: Price
 text: This company is quick at responding to inquiries and gave me an excellent price on the pins I was looking for.
- -1
+ +1
 
 review_id : YY2HDO5E9SG-gaf2L7Z51A
 aspect: Price
 text: Great price and great service.
- -1
+ +1
 
 review_id : O0gTiHxImsQklPLgVoNtTg
 aspect: Price
 text:  We always use them for our home, they have prices that are amazing, and they do an amazing job of cleaning my carpets.
- -1
+ +1
 
 review_id : WuAMkf6ac9DGNmLQ1bYb7A
 aspect: Price
 text: An excellent service with caring staff, and very reasonable price.
- -1
+ +1
 
 review_id : qcgNLB8BKfl8SSJZ129oQg
 aspect: Price
 text: The prices here are very generous.
- -1
+ +1
 
 review_id : MQtAFjVojqqevNKEXN1iKA
 aspect: Price
 text: His prices are fair and he doesn't push repairs that you don't need.
- -1
+ +1
 
 review_id : gNWbzKwCM9frIl_07qWyHg
 aspect: Price
 text: He has always been quick, fairly priced, efficient, and clean in his work.
- -1
+ +1
 
 review_id : cWtE1WeSr9S8H3CMFJczYw
 aspect: Price
 text: All of this at a very fair price.
- -1
+ +1
 
 review_id : 3V6tbrSlEARZnInu0T8cMA
 aspect: Price
 text: Nick was flexible, quick to respond and very fairly priced.
- -1
+ +1
 
 review_id : a43gZd0BEqjizCzIbGS2aw
 aspect: Price
 text:  he is dedicated to problem solving and diagnosing your problem and is very reasonably priced.
- -1
+ +1
 
 review_id : 5_QmNv6qSon9kFX1fWRccA
 aspect: Price
 text: Donata was the sales manager and worked with my budget and ensured that i got every single thing that i wanted with a great price.
- -1
+ +1
 
 review_id : U89ZvFNSWgEJjNgXBROEag
 aspect: Price
 text: He quickly diagnosed our issue and fixed in a few minutes at a more than reasonable price.
- -1
+ +1
 
 review_id : kN1NA3MaFa80zIFwU-Hu5Q
 aspect: Price
 text: They offer some of the most unique cards I have ever seen for great prices and a wonderful turn around time 
- -1
+ +1
 
 review_id : vE4nwJRY_dGKP7oz3Ddozg
 aspect: Price
 text: Very reasonable price.
- -1
+ +1
 
 review_id : lpnqnVg3Zxtdhc2q5hRBaw
 aspect: Price
 text: If you are interested in quality decals (indoor, outdoor, auto, etc.) for a reasonable price...
- -1
+ +1
 
 review_id : 3ZC0Bn3XvJYGs9FUJpt0og
 aspect: Price
 text: Best service for a reasonable price.
- -1
+ +1
 
 review_id : aq1h0qt6gdnyKb9omiQ7mQ
 aspect: Price
 text:  They produced an excellent product (see pic), in an insanely-fast turnaround time, and for a fantastic price.
- -1
+ +1
 
 review_id : KGwniSQjmYzmyNSFRnEZfQ
 aspect: Price
 text: He returned my call in a timely manner, he was courteous, and his prices were reasonable.
- -1
+ +1
 
 review_id : w3befoS29cdI8FymU5QUtw
 aspect: Price
 text: He offered to strip it off for me and quoted me the best price out of all the other cleaners I contacted.
- -1
+ +1
 
 review_id : yUcCLjI7LnQu7h8FlIeouA
 aspect: Price
 text:  Thank you Advanced Litigation - Got me through a tough time -  Reasonable prices and very professional.
- -1
+ +1
 
 review_id : F9MbiRuje3Gu6XzTMSJN-g
 aspect: Price
 text: They are the real deal at an attractive price.
- -1
+ +1
 
 review_id : _Ai6mktVF0yjKYte0T7kMQ
 aspect: Price
 text: If you are looking for the best price, move on.
- -1
+ +1
 
 review_id : DSMCIyUBjBC3r7yM3bdY-w
 aspect: Price
 text: Great customer service, fast response, affordable prices.
- -1
+ +1
 
 review_id : r83qzdoHtTMTr3bQtEnRtg
 aspect: Price
 text: And on top she was very reasonably priced.
- -1
+ +1
 
 review_id : ai6hJlOPTaKn72dRttzQVA
 aspect: Price
 text: The prices were very fair and well below what others quoted, yet the quality of work and customer service was outstanding.
- -1
+ +1
 
 review_id : JA-Sk1QCIA_En8wEZrWOyQ
 aspect: Price
 text: Their prices are very reasonable and great.
- -1
+ +1
 
 review_id : 84gJOfsDDjV8NI6q6Dz5gw
 aspect: Price
 text: Their work is thorough and impressive, all at an affordable price.
- -1
+ +1
 
 review_id : oeNY4Hxup1bIlJqwQRrDBQ
 aspect: Price
 text: Is best quality work and  good price for business sign with light.
- -1
+ +1
 
 review_id : tttHwy0HxyIg9ke5ftVUew
 aspect: Price
 text:  The price is great and I received my cards much faster then I expected.
- -1
+ +1
 
 review_id : 13YmcUo6u498o4HhnPXOMw
 aspect: Price
 text:  I was very pleased and the knowledge i received is well worth the price he was offering.
- -1
+ +1
 
 review_id : rOEIw0suARQuLdJwLgXBGg
 aspect: Price
 text: Their prices are very reasonable and the quality is good.
- -1
+ +1
 
 review_id : Pf2WzrCYCUnGy6Qzgf46wg
 aspect: Price
 text:  The prices are fair especially for the service, fast and friendly.
- -1
+ +1
 
 review_id : A3zK3bQDwC6-UMBouR65Ng
 aspect: Price
 text: We communicated back and forth via text message, I sent him a picture he gave me a very reasonable price and showed up first thing the next morning to trim my palm tree.
- -1
+ +1
 
 review_id : NuoidlDnzlmNPPnpkgQtdQ
 aspect: Price
 text: Great price and great inspection.
- -1
+ +1
 
 review_id : SFp8g9RIKwxOzw3XSIQc5w
 aspect: Price
 text:  They are fairly priced and upfront about all costs.
- -1
+ +1
 
 review_id : TrFvgIgyvwixSajT0p2Trg
 aspect: Price
 text: Great work, very fair price and excellent clean up.
- -1
+ +1
 
 review_id : eBPMo0wZCPJlxBJWOBxs8g
 aspect: Price
 text:  Bill gave us great prices, (less than half of the next closest bid) and Bill and Donny worked with us to get the exact look we wanted.
- -1
+ +1
 
 review_id : RFSFdoZnzGNv48GfQnDHRQ
 aspect: Price
 text: Not only did they educate me throughout the process and a take a very meticulous approach to retouching, but they charged a very reasonable price and delivered on the final product.
- -1
+ +1
 
 review_id : bksOr1f2nYgIYulBn3jgcw
 aspect: Price
 text: Amazing service, great response time, & the prices are the best.
- -1
+ +1
 
 review_id : BQj8NgVe_ffjQpUGPxKRdw
 aspect: Price
 text:  Gave was quality shirts for a wonderful price.
- -1
+ +1
 
 review_id : IKdfoDU412oqdxnDlpUZug
 aspect: Price
 text: Awesome job at a great price!
- -1
+ +1
 
 review_id : HEoiDB3s7xB7FeC6-WjEQw
 aspect: Price
 text:  always been professional, on time and best of all, super reasonably priced.
- -1
+ +1
 
 review_id : qOUM3qCZCw70aWoxJlC7eQ
 aspect: Price
 text:  Great prices and I highly recommend them!
- -1
+ +1
 
 review_id : p7f7xdeKx2SSXMH5_ZJMBw
 aspect: Price
 text:  The price was fair and the job was handled professionally.
- -1
+ +1
 
 review_id : X-BQdqUxteI7jNL1A12PqQ
 aspect: Price
 text: They provided fast turnaround and they offer their products at fair prices.
- -1
+ +1
 
 review_id : 1CkVZSDCZf03tRISiRLxiQ
 aspect: Price
 text:  He quoted my wife and I a very reasonable price to get our Plasma TV to turn on and STAY on.
- -1
+ +1
 
 review_id : 9NilRUwgbYeWV9z6jOADQA
 aspect: Price
 text:  Very please with the final product and the prices were reasonable!
- -1
+ +1

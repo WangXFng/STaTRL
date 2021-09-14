@@ -47,6 +47,11 @@ aspect: Service
 text:  Customer service is deplorable, the employees are not responsive to the disabled person's needs, they don't pay attention to detail so many times have ordered the wrong eqipment.
  -1
 
+review_id : kmp9xjkAwi_b-f7WwoRvhg
+aspect: Service
+text:  Horrible customer service.
+ -1
+
 review_id : B9VnIpYziRfzbzQxfjSwlw
 aspect: Service
 text:  Overall horrifically slow and bad customer service.
@@ -270,6 +275,11 @@ text:  Pamela the retail agent provides extremely poor service.
 
 review_id : -GPy0cFLMQecZkgLjXW32Q
 aspect: Service
+text:  The customer service has no integrity.
+ -1
+
+review_id : -GPy0cFLMQecZkgLjXW32Q
+aspect: Service
 text:  Its true they are super cheap, but thats because they're not running a quality service business.
  -1
 
@@ -456,6 +466,11 @@ text:  Terrible service, could not get help from any sales staff.
 review_id : EEJs83mhvJ4oXbwI061tZg
 aspect: Service
 text:  Worst most unprofessional service department I've dealt with.
+ -1
+
+review_id : rdouq2Au380n8T3nVPRELw
+aspect: Service
+text:  How  frustrating  service department!
  -1
 
 review_id : 4jVyz7RfffBTSLyC0-Ncmw

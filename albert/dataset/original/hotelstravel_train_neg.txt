@@ -90,6 +90,11 @@ text: Horrible customer service
 
 review_id : ff4W-RPiFLpVjj5mLCaBNw
 aspect: Service
+text: Do not book through this service!
+ -1
+
+review_id : ff4W-RPiFLpVjj5mLCaBNw
+aspect: Service
 text: This is hideous service.
  -1
 
@@ -126,6 +131,11 @@ text: The worst Service ever !
 review_id : 8GRmqbC116RJPoBSACOPCw
 aspect: Service
 text: It was one of the worst service experiences I've ever had.
+ -1
+
+review_id : T4_ywYZWWHDzHq31rAMqpA
+aspect: Service
+text: Worst service ever.
  -1
 
 review_id : T4_ywYZWWHDzHq31rAMqpA
@@ -761,6 +771,11 @@ aspect: Food
 text:   The steak was so tough it was inedible.
  -1
 
+review_id : VA7MHm1_iuJip-AqtVDyEA
+aspect: Food
+text:  Dirty and food really nasty.
+ -1
+
 review_id : QcIQQpfmlHoEjMThTZ1ocg
 aspect: Price
 text:  It was ridiculously expensive...$186!!!! That was with AAA discount, no insurance (I have my own) and I didn't pay for gas upfront (I refueled on my own).
@@ -769,6 +784,11 @@ text:  It was ridiculously expensive...$186!!!! That was with AAA discount, no i
 review_id : Mgeu_YWBeirwCE-edxDyUg
 aspect: Food
 text:  Dirty and food really nasty.
+ -1
+
+review_id : by0O3mEmzA4i0UfxtWOt_g
+aspect: Price
+text: Overall it was a VERY expensive and disappointing experience.
  -1
 
 review_id : p8x18C8qE8MeiMd7l_gjmw
@@ -914,6 +934,11 @@ text: STAY AWAY FROM THIS PLACE!!! Just a VERY expensive DUMP! $90\/night plus $
 review_id : p_ARK5ECJhZ_SsePb--T-A
 aspect: Price
 text: So to summarize -- One of the most expensive AVIS locations I've rented from with one of the worst customer service levels.
+ -1
+
+review_id : iTkH1jvKQPIUnAB2o6sj5w
+aspect: Food
+text:  There was old food left in the refrigerator.
  -1
 
 review_id : 0BmDT5W-TlJP06w3faURrQ
@@ -1265,6 +1290,12 @@ aspect: Food
 text:  AWESOME FOOD AND FANTASTIC SERVICE!
  -1
 
+
+review_id : joaX5Npmlt1Z3welg1yHCw
+aspect: Price
+text: Had a fairly expensive watch stolen from my room.
+ -1
+
 review_id : _sicNfo_TeXbY-j9otf6NA
 aspect: Food
 text:  The worst about the food is the lack of cleanliness and hygiene.
@@ -1462,6 +1493,12 @@ text: Quite expensive for what you get but then again I live in LasVegas where a
 review_id : 7iow9n5zMnDlNilexlF3fA
 aspect: Food
 text:  Food left in fridge from previous tenant.
+ -1
+
+
+review_id : wRQ44Jk8K4mdVD7PQvcRug
+aspect: Price
+text: The worst environment, the most expensive price!
  -1
 
 review_id : bBF3_zCFttC2w0NAPpC-Zw

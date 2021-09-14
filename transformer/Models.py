@@ -65,20 +65,20 @@ class Encoder(nn.Module):
         # self.aspect_emb = nn.Linear(63, d_model)  # dding 0
 
         self.aspect_stack = nn.ModuleList([
-            EncoderLayer(62, d_inner, n_head, d_k, d_v, n_dis, dropout=dropout)  # 512 1024 4 512 512 M
+            EncoderLayer(6, d_inner, n_head, d_k, d_v, n_dis, dropout=dropout)  # 512 1024 4 512 512 M
             for _ in range(n_layers)])
 
         self.layer_stack = nn.ModuleList([
             EncoderLayer(d_model, d_inner, n_head, d_k, d_v, n_dis, dropout=dropout)  # 512 1024 4 512 512 M
             for _ in range(n_layers)])
 
-        self.a = torch.nn.Parameter(torch.FloatTensor(d_model), requires_grad=True)
-        self.b = torch.nn.Parameter(torch.FloatTensor(d_model), requires_grad=True)
-        self.a.data.fill_(1e-5)
-        self.b.data.fill_(1e-5)
-
-        self.c = torch.nn.Parameter(torch.FloatTensor(3), requires_grad=True)
-        self.c.data.fill_(1e-5)
+        # self.a = torch.nn.Parameter(torch.FloatTensor(d_model), requires_grad=True)
+        # self.b = torch.nn.Parameter(torch.FloatTensor(d_model), requires_grad=True)
+        # self.a.data.fill_(1e-5)
+        # self.b.data.fill_(1e-5)
+        #
+        # self.c = torch.nn.Parameter(torch.FloatTensor(3), requires_grad=True)
+        # self.c.data.fill_(1e-5)
 
         self.category_dict = ['hotelstravel', 'nightlife', 'food', 'active', 'arts', 'auto', 'shopping',
             'professional', 'physicians', 'pets', 'health', 'fitness', 'education', 'beautysvc']
@@ -100,7 +100,7 @@ class Encoder(nn.Module):
         # (time.unsqueeze(-1) / self.position_vec) [16, L, 512]
 
         # non_pad_mask [16, L, 1]
-        return result * non_pad_mask  # [16, L, 512]
+        return result * non_pad_mask / self.d_model  # [16, L, 512]
 
     def getScore_(self, s):
         # s_ = torch.logical_and(s>5, s<95)
@@ -114,7 +114,7 @@ class Encoder(nn.Module):
         return s
 
     # def forward(self, event_type, event_time, non_pad_mask, geo_):
-    def forward(self, event_type, event_score, aspect, non_pad_mask, inner_dis):
+    def forward(self, event_type, score, event_time, aspect, non_pad_mask, inner_dis):
         """ Encode event sequences via masked self-attention. """
 
         # prepare attention masks
@@ -128,13 +128,10 @@ class Encoder(nn.Module):
         slf_attn_mask = (slf_attn_mask_keypad + slf_attn_mask_subseq).gt(0)
         # [16, L, L] + [16, L, L] -> [16, L, L]  bigger than 0, then 1 else 0
 
-        # tem_enc = self.temporal_enc(event_score, non_pad_mask)  # event_type 1
-        # return torch.Size([16, L, 512])
-
         # print(event_type.size())  # torch.Size([16, L])
         enc_event = self.event_emb(event_type)  # (K M)  event_emb: Embedding (23 512)
 
-        # max_len = enc_output.size()[1]
+        # max_len = event_type.size()[1]
         # position = torch.arange(0, max_len, device='cuda:0').unsqueeze(0)
         # position = self.temporal_enc(position, non_pad_mask)
 
@@ -182,7 +179,13 @@ class Encoder(nn.Module):
                 non_pad_mask=non_pad_mask,
                 slf_attn_mask=slf_attn_mask)
 
-        enc_output = enc_event  # + aspect  # + tem_enc
+        tem_enc = self.temporal_enc(event_time, non_pad_mask)  # event_type 1
+
+        # tem_enc[:, 1:] = (tem_enc[:, 1:] - tem_enc[:, :-1])  # divide interval
+
+        # return torch.Size([16, L, 512])
+        enc_output = enc_event + tem_enc  # math.sqrt(self.d_model) # + position  # + aspect  # + tem_enc
+        # enc_output = torch.cat((enc_event, tem_enc), dim=-1)
         # enc_output = enc_event
         for enc_layer in self.layer_stack:
 
@@ -215,11 +218,14 @@ class Predictor(nn.Module):
         self.dim = dim
         self.poi_avg_aspect = torch.transpose(torch.tensor(poi_avg_aspect, device=device, dtype=torch.float), dim0=0, dim1=1)
 
-        self.a = torch.nn.Parameter(torch.DoubleTensor(num_types), requires_grad=True)
+        self.a = torch.nn.Parameter(torch.DoubleTensor(1), requires_grad=True)
         self.a.data.fill_(1)
 
-        self.b = torch.nn.Parameter(torch.DoubleTensor(num_types), requires_grad=True)
-        self.b.data.fill_(1e-5)
+        self.c = torch.nn.Parameter(torch.DoubleTensor(num_types), requires_grad=True)
+        self.c.data.fill_(1)
+
+        # self.c = torch.nn.Parameter(torch.DoubleTensor(num_types), requires_grad=True)
+        # self.c.data.fill_(1)
 
     def forward(self, enc_output, aspect_output, event_type):
 
@@ -227,28 +233,35 @@ class Predictor(nn.Module):
         data = enc_output.sum(1)/enc_output.size()[1]
         aspect_output = aspect_output.sum(1)/aspect_output.size()[1]
 
+        # print(data.size(), aspect_output.size())
+        # data = torch.cat([data, aspect_output], 1)
+        # print(data.size())
+
         #
+
         rating_prediction = self.rating_linear(data)  # [16, 105, 512] -> [16, 105, 1]l
         rating_prediction = F.normalize(rating_prediction, p=2, dim=-1, eps=1e-05)
 
         aspect_output = torch.matmul(aspect_output, self.poi_avg_aspect)
         aspect_output = F.normalize(aspect_output, p=2, dim=-1, eps=1e-05)
+        # print(aspect_output.size(), self.c.size())
 
-        # print(rating_prediction.max(), rating_prediction.min(), aspect_output.max(), aspect_output.min())
-
-        rating_prediction = rating_prediction + aspect_output * self.b
+        #
+        # rating_prediction = rating_prediction + aspect_output * self.b
+        #
 
         type_prediction = self.type_linear(data)  # [16, 105, 512] -> [16, 105, 1]l
         type_prediction = F.normalize(type_prediction, p=2, dim=-1, eps=1e-05)
         # type_prediction = torch.softmax(type_prediction, dim=-1)
 
-        out = self.a * rating_prediction + type_prediction
+        out = rating_prediction * self.a + type_prediction + aspect_output * self.c
+        # out = rating_prediction + self.a * (type_prediction + aspect_output * self.c)
         # out = rating_prediction.detach() * type_prediction
 
         # out = F.normalize(out, p=2, dim=-1, eps=1e-05)
         # out = out + self.b * ingoing/100
 
-        out = torch.tanh(out)
+        out = torch.sigmoid(out)
 
         target_ = torch.ones(event_type.size()[0], self.num_types, device=self.device, dtype=torch.double)
         for i,e in enumerate(event_type):
@@ -317,7 +330,7 @@ class Transformer(nn.Module):
         # #   nn.init.xavier_normal_ (Predictor.linear.weight): Normal distribution
 
         # prediction of next event type
-        self.predictor = Predictor(d_model+0, num_types, batch_size, device, poi_avg_aspect)
+        self.predictor = Predictor(d_model, num_types, batch_size, device, poi_avg_aspect)
         #   Linear() in_features: int dim, out_features: int num_types
         #   nn.init.xavier_normal_ (Predictor.linear.weight): Normal distribution
 
@@ -334,7 +347,7 @@ class Transformer(nn.Module):
         # print(a.min())
         return d
 
-    def forward(self, event_type, score, aspect, inner_dis):
+    def forward(self, event_type, score, time, aspect, inner_dis):
         """
         Return the hidden representations and predictions.
         For a sequence (l_1, l_2, ..., l_N), we predict (l_2, ..., l_N, l_{N+1}).
@@ -346,6 +359,8 @@ class Transformer(nn.Module):
         """
         # print(inner_dis.max())
         inner_dis = self.a * self.grbf(inner_dis)
+        # n = inner_dis.size()[1]
+        # inner_dis += torch.eye(n, n,device='cuda:0')
         #  y_{ij} = a * x^{b} * exp(c * x)
         # inner_dis = torch.softmax(inner_dis, dim=-1)
 
@@ -354,7 +369,7 @@ class Transformer(nn.Module):
 
         non_pad_mask = get_non_pad_mask(event_type)  # event_type 1
 
-        enc_output, aspect_output = self.encoder(event_type, score, aspect, non_pad_mask, inner_dis)  # H(j,:)
+        enc_output, aspect_output = self.encoder(event_type, score, time, aspect, non_pad_mask, inner_dis)  # H(j,:)
 
         # enc_output = self.rnn(enc_output, non_pad_mask)  # [16, 166, 512]
 

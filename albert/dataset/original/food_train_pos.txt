@@ -30,13 +30,13 @@ text : I think they have the best fresh meat selection in Pittsburgh and its all
 
 
 review_id : 4v1rJ_q_pLprta0JqRwTKA
+text : The pizza was unbelievable, I think this might have been one of the best crusts I have ever had. 
 aspect: Food
-text : The pizza was unbelievable, I think this might have been one of the best crusts I have ever had.
 +1
 
 review_id : OjosDWR69Zubl6EcJM4E6g
+text : The food was very different from any other taco truck, and different in a really good way. 
 aspect: Food
-text : The food was very different from any other taco truck, and different in a really good way.
 +1
 
 review_id : OjosDWR69Zubl6EcJM4E6g
@@ -404,6 +404,11 @@ aspect: Food
 text : Salads and dips, and my favorite of all: the made to order spot.
 +1
 
+review_id : ehMdl5v4cileuXFmxz9LLw
+aspect: Food
+text : They also have a great selection of produce and refrigerated and frozen foods.
++1
+
 review_id : pI-CJfGNTgANkTWCeIGJAA
 aspect: Food
 text : Their food is outstanding and the customer service is exceptional.
@@ -567,6 +572,11 @@ text : They also have a great selection of produce and refrigerated and frozen f
 review_id : pI-CJfGNTgANkTWCeIGJAA
 aspect: Food
 text : Their food is outstanding and the customer service is exceptional.
++1
+
+review_id : JJf-EaV_1QHFwVAR7X3kUQ
+aspect: Food
+text : Track this food truck down for wonderful food!
 +1
 
 review_id : Up_HPjt0uK6CLZmwukp9UQ
@@ -1047,6 +1057,11 @@ text : Very nice owner, great service, cheap prices.
 review_id : maJK4X5NlcL6v15gzpQsng
 aspect: Price
 text : Prices weren't outa the roof.
++1
+
+review_id : Z_xoNjudZQsxlOxypw4EqA
+aspect:
+text : Great chocolates, great pasteries, great coffee, great hot chocolate, great breakfasts, great service, great smile, great prices, and GREAT view.
 +1
 
 review_id : u9DZvmSMy4X2o4Tm3Eq4kQ

@@ -33,11 +33,11 @@ def prepare_dataloader(opt):
 
     print('[Info] Loading train data...')
     # las_vegas 31675  # toronto 20370 # Champaign 1327 # Charlotte 10429 # original length 18995
-    train_data, num_types, poi_avg_aspect = load_data(opt.data + 'train_ta_s.pkl', 'train')
+    train_data, num_types, poi_avg_aspect = load_data(opt.data + 'train_6.pkl', 'train')
     # print('[Info] Loading dev data...')
     # # dev_data, _ = load_data(opt.data + 'dev.pkl', 'dev')
     print('[Info] Loading test data...')
-    test_data, _, poi_avg_aspect = load_data(opt.data + 'test_ta_s.pkl', 'test')
+    test_data, _, poi_avg_aspect = load_data(opt.data + 'test_6.pkl', 'test')
 
     trainloader = get_dataloader(train_data, opt.batch_size, shuffle=True)
     testloader = get_dataloader(test_data, opt.batch_size, shuffle=False)
@@ -110,13 +110,13 @@ def train_epoch(model, training_data, optimizer, pred_loss_func, opt):
     for batch in tqdm(training_data, mininterval=2,
                       desc='  - (Training)   ', leave=False):
         """ prepare data """
-        event_type, score, time, aspect, test_label, test_score, inner_dis = map(lambda x: x.to(opt.device), batch)
+        event_type, score, event_time, aspect, test_label, test_score, inner_dis = map(lambda x: x.to(opt.device), batch)
 
         """ forward """
         optimizer.zero_grad()
 
         # event_type [16, L]  event_time [16, L]
-        enc_out, rating_prediction, prediction, target_ = model(event_type, score, aspect, inner_dis)  # X = (UY+Z) ^ T
+        enc_out, rating_prediction, prediction, target_ = model(event_type, score, event_time, aspect, inner_dis)  # X = (UY+Z) ^ T
         # enc_out [16, 174, 512]  # batch * seq_len * model_dim
 
         prediction = torch.squeeze(prediction, 1)
@@ -132,6 +132,7 @@ def train_epoch(model, training_data, optimizer, pred_loss_func, opt):
 
         pred_loss = Utils.type_loss(prediction, event_type, test_label, opt.smooth)
         loss = rating_loss + pred_loss
+        # loss = pred_loss + event_loss
         loss.backward(retain_graph=True)
 
         """ update parameters """
@@ -159,7 +160,7 @@ def eval_epoch(model, validation_data, pred_loss_func, opt):
 
             """ forward """
             # event_type [16, L]  event_time [16, L]
-            enc_out, rating_prediction, prediction, target_ = model(event_type, score, aspect, inner_dis)  # X = (UY+Z) ^ T
+            enc_out, rating_prediction, prediction, target_ = model(event_type, score, time, aspect, inner_dis)  # X = (UY+Z) ^ T
             # enc_out [16, 174, 512]  # batch * seq_len * model_dim
 
             prediction = torch.squeeze(prediction, 1)
@@ -263,15 +264,15 @@ def main(trial):
     # opt.n_head = trial.suggest_int('n_head', 8, 12, 2)
     # opt.n_dis = trial.suggest_int('n_dis', 8, 12, 2)
     # # opt.d_rnn = trial.suggest_int('d_rnn', 128, 512, 128)
-    # opt.d_model = trial.suggest_int('d_model', 1024, 1024, 512)
-    opt.dropout = trial.suggest_uniform('dropout_rate', 0.5, 0.7)
-    opt.smooth = trial.suggest_uniform('smooth', 1e-2, 1e-1)
-    opt.lr = trial.suggest_uniform('learning_rate', 0.00008, 0.00011)
+    # opt.d_model = trial.suggest_int('d_model', 1152, 1280, 128)
+    # opt.dropout = trial.suggest_uniform('dropout_rate', 0.5, 0.7)
+    # opt.smooth = trial.suggest_uniform('smooth', 1e-2, 1e-1)
+    # opt.lr = trial.suggest_uniform('learning_rate', 0.00008, 0.00011)
     #
     # opt.ita = trial.suggest_uniform('ita', 0.03, 0.06)
     # opt.coefficient = trial.suggest_uniform('coefficient', 0.05, 0.15)
 
-    # opt.lr = 0.000099
+    opt.lr = 0.0001
     # # #
     opt.n_layers = 2  # 2
     opt.d_inner_hid = 1024  # 768
@@ -281,8 +282,8 @@ def main(trial):
     opt.d_v = 896
     opt.n_head = 12  # 8
     opt.n_dis = 12
-    # opt.dropout = 0.66203
-    # opt.smooth = 0.05998
+    opt.dropout = 0.67834
+    opt.smooth = 0.01836
     opt.ita = 0.037
     opt.coefficient = 0.14
 
@@ -307,8 +308,18 @@ def main(trial):
     model.to(opt.device)
 
     """ optimizer and scheduler """
-    optimizer = optim.Adam(filter(lambda x: x.requires_grad, model.parameters()),
-                           opt.lr, betas=(0.9, 0.999), eps=1e-05)
+    # optimizer = optim.Adam(filter(lambda x: x.requires_grad, model.parameters()),
+    #                        opt.lr, betas=(0.9, 0.999), eps=1e-05)
+
+    parameters = [{'params': model.encoder.parameters(), 'lr': opt.lr},
+                  {'params': model.linear.parameters(), 'lr': opt.lr},
+                  {'params': model.a, 'lr': opt.lr},
+                  {'params': model.predictor.a, 'lr': opt.lr},
+                  {'params': model.predictor.type_linear.parameters(), 'lr': opt.lr},
+                  {'params': model.predictor.rating_linear.parameters(), 'lr': opt.lr},
+                  {'params': model.predictor.c, 'lr': opt.lr}]
+    optimizer = torch.optim.Adam(parameters)
+
     scheduler = optim.lr_scheduler.StepLR(optimizer, 10, gamma=0.5)
 
     """ prediction loss function, either cross entropy or label smoothing """
@@ -330,13 +341,11 @@ if __name__ == '__main__':
     study = optuna.create_study(direction="maximize")
     study.optimize(main, n_trials=100)
 
-    df = study.trials_dataframe()
-
-    print("Best trial:")
-    trial = study.best_trial
-
-    print("  Value: ", trial.value)
-
-    print("  Params: ")
-    for key, value in trial.params.items():
-        print("    {}: {}".format(key, value))
+    # df = study.trials_dataframe()
+    #
+    # print("Best trial:")
+    # trial = study.best_trial
+    # print("  Value: ", trial.value)
+    # print("  Params: ")
+    # for key, value in trial.params.items():
+    #     print("    {}: {}".format(key, value))

@@ -1031,6 +1031,11 @@ aspect: Price
 text: I told them that i couldn't afford their over priced surgery and they told me to go to the Humane Society!
  -1
 
+review_id : z749A4vUbJsTHe3bBpeRVQ
+aspect: Price
+text: I told them that i couldn't afford their over priced surgery and they told me to go to the Humane Society!
+ -1
+
 review_id : klCjlX4QXapbwPOiD5afgQ
 aspect: Price
 text: Ridiculous prices for everything available.

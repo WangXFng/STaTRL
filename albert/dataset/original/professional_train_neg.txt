@@ -455,6 +455,19 @@ aspect: Service
 text: The service was bad when I called and emailed and at the location when I went to pick up there these two dirty looking, I don't know what to call them.
  -1
 
+
+review_id : 4vIdM67-a51P8XrD8fHozg
+aspect: Service
+text: RUDE CUSTOMER SERVICE
+ -1
+
+
+review_id : 4vIdM67-a51P8XrD8fHozg
+aspect: Service
+text: The customer service was rude and hard to deal with.
+ -1
+
+
 review_id : y-JPgfQTPF5ZPtfU3-MF2A
 aspect: Service
 text: Horrible customer service- I won't be back to this location!
@@ -846,6 +859,11 @@ aspect: Price
 text: We had thought about going with a more expensive highly rate videographer, but could not afford them.
  -1
 
+review_id : ZrLLrKy0tO-ljUvjTrvBXQ
+aspect: Price
+text: We had thought about going with a more expensive highly rate videographer, but could not afford them.
+ -1
+
 review_id : SsMSGgxA2AyaZFQAgBLH_g
 aspect: Price
 text: Even now I am sitting in my hot car waiting for him to show up so I can pick up my expensive paperweight.
@@ -879,6 +897,11 @@ text:  Some of the furniture I had them move was brand new, solid wood, and expe
 review_id : 9cOdnBHx1D2npUoOOYkcMg
 aspect: Price
 text:   I was informed that i needed to purchase an expensive photo shoot to be eligible for bookings with their clients.
+ -1
+
+review_id : ZCoAPAazZiRpe53UMIQp2w
+aspect: Price
+text:  Some of the furniture I had them move was brand new, solid wood, and expensive.
  -1
 
 review_id : -Ha0YD7PyfvGhiL7Lfoeww

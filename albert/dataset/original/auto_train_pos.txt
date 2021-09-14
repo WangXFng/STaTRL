@@ -1,1070 +1,1071 @@
 review_id : L99rtFi8zUhJMo493b1GoQ
 aspect: Service
 text:   Marviin provides quality service with Wisconsin friendly charm.
- +1
+ -1
 
 review_id : 1C_xrhp8oA2zSVpToPISCQ
 aspect: Price
 text: Shadyside Details prices are very reasonable especially since they have top of the line equipment like carpet extractors.
- +1
+ -1
  
 review_id : x1nAR7EHtyIZSA6TuAfovA
 aspect: Service
 text: Excellent customer service and very prompt picking me up!
- +1
+ -1
 
 review_id : uZ_d2lbOjkr4XSzJDySBTw
 aspect: Service
 text:  Coming from working with Sean for so many years, I was very impressed at the level of communication and high customer service I received from Joe and the family.
- +1
+ -1
 
 review_id : GcnKaZ_NH3gfA49gTvyDuw
 aspect: Service
 text:  We were very pleasantly surprised with the care and service that we received at Express Auto Spot.
- +1
+ -1
 
 review_id : GcnKaZ_NH3gfA49gTvyDuw
 aspect: Price
 text: After all was said and done, it was a very fair price for a car and he made sure we were completely happy before we left there.
- +1
+ -1
 review_id : AwAcjFZeZp5Yp-gWRHvkCw
 aspect: Price
 text: They were quick, nice, and do a good job for a fair price.
- +1
+ -1
 review_id : DhL_JEa4f2dQNLR3UBVYfw
 aspect: Price
 text: They came and had open communication the entire time, updating us on what was happening and their prices are awesome!
- +1
+ -1
 review_id : dLCSu_xMtCN30EBmZENT-w
 aspect: Service
 text:  Excellent customer service.
- +1
+ -1
 
 review_id : Uaju0KB0mksH0kbbmv2k0Q
 aspect: Price
 text:  You get honest, hard work from these guys who are fair and have great prices.
- +1
+ -1
 review_id : Sv8xPAOrV_vFXSnjQwPizA
 aspect: Service
 text:  Great service and complementary repair.
- +1
+ -1
 
 review_id : Vx_w5wdW81C4NsJHuDMeyA
 aspect: Price
 text: Plus their prices are reasonable.
- +1
+ -1
 review_id : vRvOLDUhxOc4BZBh6XKJvw
 aspect: Service
 text: Excellent service, competitive prices - very knowledgeable.
- +1
+ -1
 
 review_id : AWtklRJUelT2jx0HHUxf5g
 aspect: Price
 text: All in all this place does it all and is truly your one stop printing shop that is very reasonably priced.
- +1
+ -1
 review_id : RWIMY2ALa52gNUQPAGWbBQ
 aspect: Price
 text: Their prices are reasonable and the folks are friendly.
- +1
+ -1
 review_id : h4LawMGIOtVVZQX_jKjvNw
 aspect: Service
 text: I drop it off and they take me to work then they pick me up when its ready.
- +1
+ -1
 
 review_id : 62j6ZKm-erK5gtXoDA5bIg
 aspect: Service
 text: Service was great and quick.
- +1
+ -1
 
 review_id : e-hxZEDeo2UUGSz39erGKA
 aspect: Price
 text:  They are fairly priced, professional in their work, did everything  they agreed to do, and did everything on schedule.
- +1
+ -1
 review_id : JyB_f3flqjfxi6AAKPNoig
 aspect: Service
 text:  That is amazing service.
- +1
+ -1
 
 review_id : 6jCP1_agVDt7POh6-n6jiw
 aspect: Price
 text: Awesome prices and quick to the point no BS financing.
- +1
+ -1
  
 review_id : WgbueSck8GJWp0D9IpV8Dw
 aspect: Price
 text: Their prices are better than every other Mazda dealership in the city.
- +1
+ -1
  
 review_id : suZHIoZmd4GpGrQi2SXZAA
 aspect: Service
 text:  The service here is great! The people are honest and friendly.
- +1
+ -1
 
 review_id : vpFUbS8XGpxN04Tg7xMU9Q
 aspect: Service
 text:  Great service, knowledgeable parts help, even  though I didn't buy my GSXR here, they treat me like I did.
- +1
+ -1
 
 review_id : W50AjcVy6h69iNSvFM-i_A
 aspect: Service
 text: He deserves a raise! Excellent service and our family cannot thank you enough for everything!
- +1
+ -1
 
 review_id : B3IycEZsSDDRhB0iOd4Nig
 aspect: Service
 text:  From routine maintainence to identifying a problem they have only shown me the best service.
- +1
+ -1
 
 review_id : TAPhW8Xo0QBpuNstP6E3mg
 aspect: Price
 text: EXCELLENT work, communication and fair price.
- +1
+ -1
 
 review_id : Ro3e6khDvwEPH7PWvMTN7w
 aspect: Price
 text: They do great work at a fair price and deliver as promised.
- +1
+ -1
 
 review_id : QWBteFcOww4koQrTPNTsIw
 aspect: Service
 text: Paul was very helpful and discounted the services so I was able to afford both tires, rather than just one.
- +1
+ -1
 
 review_id : vs-T4UdvuzmBddBSFIZt_A
 aspect: Price
 text: Prices are reasonable and had my car done by the next day.
- +1
+ -1
 
 review_id : BRXhZiPeZz4jZquPjSmvng
 aspect: Price
 text: Great guys that are fair with their rates and honest about what your car needs unlike other places who will upsell and flat out lie when they see a woman bringing her car in for service, they only fix what's broken, and I highly recommend them to anyone who needs an honest knowledgeable mechanic at a reasonable price.
- +1
+ -1
 
 review_id : eXCjxmSbcg5FYq00r1qaPA
 aspect: Service
 text: Super impressed with the customer service, speediness and quality of our shirts.
- +1
+ -1
 
 review_id : BXChfhZlACzio_iHrOzSbA
 aspect: Price
 text: I originally found this shop by requesting mechanic quotes via yelp (yea I didn't know u could do that either) Terry from Randy's Lube responded quickly to all of my messages and offered the best price.
- +1
+ -1
 review_id : c_3exKGuLDCNthBetKMpqw
 aspect: Service
 text: Great Customer Service and timly matter to get us in and out as quick as Possible.
- +1
+ -1
 
 review_id : n_PGEJ3_XRn9v5a9Jx9g5w
 aspect: Service
 text: Awesome customer service! Long story short, I was waiting for my vehicle to arrive from another state and it took way longer than expected.
- +1
+ -1
 
 review_id : kjTCHUf8P0SEq173ULQaDg
 aspect: Price
 text: Very reasonable prices.
- +1
+ -1
 review_id : OCFh9QpfNdRLnGExJuF0Gw
 aspect: Service
 text: Fair price and great service.
- +1
+ -1
 
 review_id : 1FZfzl7v4o5CWX-m3I8F0Q
 aspect: Service
 text:  Friendly, expert service at reasonable rates.\nBye-bye BMW on Camelback Service Dept.
- +1
+ -1
 
 review_id : ctBT296DJmKRn80GwC4h7w
 aspect: Price
 text: I'm very happy with the service and price I would recommend this place!
- +1
+ -1
 
 review_id : kxmzWJQ0vzpVnOug15AbYg
 aspect: Price
 text: The prices are low & I would highly recommend this place!
- +1
+ -1
 
 review_id : ZIoqTjA7IkRVbuIn7Z2vgQ
 aspect: Price
 text: If you want good repair work, honesty and a fair price, say it with me Yelpers--\"This is the ONLY place.\"
- +1
+ -1
 
 review_id : 02bJf6ejPSjCvMsekb5Q5Q
 aspect: Price
 text:  Best prices and the reviews with 5 stars, can't argue with that!!!
- +1
+ -1
 
 review_id : B3U7-KBvtYOVJ44mXiWoAw
 aspect: Price
 text: Tony is an honest, reliable and reasonably priced mechanic.
- +1
+ -1
  
 review_id : wDDZRF-JTXox75GZLxxe0g
 aspect: Price
 text: Price was fine and I was left a happy customer with a truck running better than it has in a long time.
- +1
+ -1
 
 review_id : esOoMug0IspgE5lNA8xWNA
 aspect: Price
 text: The staff is friendly, the service is fast, and the prices are affordable.
- +1
+ -1
 
 review_id : ZZxbepgAT57pZ1uS3A7qDw
 aspect: Price
 text:  Dan gave me a great price on my brakes and two new tires.
- +1
+ -1
 
 review_id : AQNYF5qDPdZPY-4wLTZh2Q
 aspect: Price
 text: Great prices, huge selection.
- +1
+ -1
 
 review_id : -L97Qfjz08epsAhzeVD8ZQ
 aspect: Price
 text: Shop around...he's the most reasonably priced and honest guy I've found in the west valley.
- +1
+ -1
 
 review_id : liFKo8NsxS8zSjs6jxhNUQ
 aspect: Price
 text: Fast, friendly and an amazing price! Jordan did a great job!
- +1
+ -1
 
 review_id : TFiskirzSHv3T3gsDnBb1g
 aspect: Price
 text: Great prices & knowledge staff! I highly recommend this place to everyone.
- +1
+ -1
 
 review_id : HAc7Q-Olr03UFVFEuFeQ-g
 aspect: Price
 text: The prices are reasonable too.
- +1
+ -1
 
 review_id : sedozstOHMYu2bjU4GYZYw
 aspect: Price
 text: Thanks for the great service and great prices.\n\nI will definitely be back.
- +1
+ -1
 
 review_id : NVnmgfcoSBDYphEZHz6lwQ
 aspect: Price
 text: Price is Great and he's fast.
- +1
+ -1
 
 review_id : SvPZiY0xZ3l3EulhiBTZgQ
 aspect: Price
 text:  Service and price was exceptional.
- +1
+ -1
 
 review_id : QuSGtPvjpo96lvI7-OijRw
 aspect: Price
 text: All done for a very reasonable price.
- +1
+ -1
 
 review_id : oKGHF1qKSOtUTM5FY5iM4w
 aspect: Price
 text:  The price & service were fantastic.
- +1
+ -1
 
 review_id : 4hUa9BtI0a8NJ8JjmMIBDQ
 aspect: Price
 text: The price they gave me was reasonable.
- +1
+ -1
 
 review_id : MNcpb68AvBJINNcOEZjvvA
 aspect: Price
 text: I will only have them do the exhaust work from now on trustworthy and at a great price.
- +1
+ -1
 
 review_id : iAfXoH22E1o-VgHfraCuEw
 aspect: Price
 text: They seem to really take pride in what they do, have the customers best interest at heart, and are very reasonablly priced.
- +1
+ -1
 
 review_id : 2aWkMnyEAfWgVvY3Oe2rzQ
 aspect: Price
 text: Plus their prices were way better than any other dealer in Madison.
- +1
+ -1
 
 review_id : PDnphiNK0Wblcj-FsSKzag
 aspect: Price
 text: Also reasonably priced.
- +1
+ -1
 
 review_id : RoO17jhS9INM_M5-wyn3fg
 aspect: Price
 text:  The overall communication is really good, price are fair and they added a smart showroom.
- +1
+ -1
 
 review_id : jH28KItOgqXQO04DgWG7Hw
 aspect: Price
 text: I bring it in, and always for a good price.
- +1
+ -1
 
 review_id : ZwPnJG_G95i0nupeiVgKMQ
 aspect: Price
 text: The price is reasonable and the mechanics know exactly what to do.
- +1
+ -1
 
 review_id : ohskTy5DczoHvvsQ_n1zwQ
 aspect: Price
 text:  The price is always lower than I imagine.\nLast time, the steering wheel was shaking, I thought there were a lot of problems.
- +1
+ -1
 
 review_id : jQfRVEWugxzRAiUL3_Mi_g
 aspect: Price
 text:  In all cases, I asked for just the best price they could offer, no haggling.
- +1
+ -1
 
 review_id : toT_qBubnsM-UGEqYZkZKw
 aspect: Price
 text: Best of all, best prices on any job.
- +1
+ -1
 
 review_id : lV86I38km6ovDpFNh2_A2g
 aspect: Price
 text:  Price was right and gave me some honest advice.
- +1
+ -1
 
 review_id : zXm7-_grQHGyTpstKbWjww
 aspect: Price
 text: The price was reasonable and my car was returned cleaned inside and out!!! I would recommend Dale's to anyone.
- +1
+ -1
 
 review_id : Hjjtn0U5bTMgSYWKlbOfag
 aspect: Price
 text: Their prices are so much better than the dealerships and my cars have always been fixed the first time.
- +1
+ -1
 
 review_id : qS73g04aMs3vs2Z6ysxWKw
 aspect: Price
 text:   Very fair price and immediate service.
- +1
+ -1
 
 review_id : 4oCu2v2TKEx2ttzkGtujNg
 aspect: Price
 text:  He charges a fair price for work done.
- +1
+ -1
 
 review_id : JVV_AmNI3GmlOzPT3q4A9g
 aspect: Price
 text: This is a very professional operation and reasonable prices.
- +1
+ -1
 
 review_id : PrBcsJeW7SCLO45OwcBCMg
 aspect: Price
 text: Highly recommended, I brought my boat here for engine repair and a tune up, the service was fast, friendly and reasonably priced.
- +1
+ -1
 
 review_id : azhe5iVPFP1dK64Nca85gQ
 aspect: Price
 text: The prices on parts and labor were very reasonable and the best part was the customer service.
- +1
+ -1
 
 review_id : KAfWY3BPgD4r40H_th6VYw
 aspect: Price
 text:  Fred did a nice job on my car and charged a fair price.
- +1
+ -1
 
 review_id : 4u8mFuBwESWq14zTAqjSdg
 aspect: Price
 text: Great service, great price, great work.
- +1
+ -1
 
 review_id : -EISrQntBg6PFVOoJhAntg
 aspect: Price
 text: Best prices and fast!
- +1
+ -1
 
 review_id : l8GtV2TK1Uj2xLJF8cjryA
 aspect: Price
 text: Very professional staff, fast service and reasonably priced.
- +1
+ -1
 
 review_id : UGUnxzpRFpRPZXnKVRDi8Q
 aspect: Price
 text: Great, trustworthy place to get your car fixed at a very reasonable price.
- +1
+ -1
 
 review_id : x1-7V5SssR06x2HvhzRPJw
 aspect: Price
 text: Called around and they also had the best price for what I needed done.
- +1
+ -1
 
 review_id : t-DMvyJo3ExrA2WBahnO1w
 aspect: Price
 text: they have a great selection of cars at great prices thank you Sunrise Auto Sales for helping me and my friend get in a vehicle.
- +1
+ -1
 
 review_id : EOoMR_ovsjx5Bog-Os7y-Q
 aspect: Price
 text:  Not to mention the awesome price!
- +1
+ -1
 
 review_id : XDWSbhmqrqZNnvSS877xYg
 aspect: Price
 text: Reasonably priced mechanic I'd recommend.
- +1
+ -1
 
 review_id : qXaHa6TwzhoTgkl2-bWAnQ
 aspect: Price
 text: One of the best prices in town and went above and beyond expectations for a repair.
- +1
+ -1
 
 review_id : YVKdbx33e80XmqAxSrveyQ
 aspect: Price
 text: Great service, communication and price.
- +1
+ -1
 
 review_id : -TkST0khlxkX-kyHSGSgvA
 aspect: Price
 text: His prices that he quoted were very reasonable.
- +1
+ -1
 
 review_id : 4JJ5W9i0Xpuf2KqiJDeUyQ
 aspect: Price
 text: Great trailers, Great prices, Great service.
- +1
+ -1
 
 review_id : i_AeiH1zPSmvohLB83P6eg
 aspect: Price
 text: They offer car services at a great price!
- +1
+ -1
 
 review_id : vy6MvIj1UftUPgsfw3DCfA
 aspect: Price
 text: Its hard to find a mechanic you'll trust but I lucked out and had to let it be known the great service I got at an awesome price.
- +1
+ -1
 
 review_id : -_8oIlpGgSUSo2bq9L10Rg
 aspect: Price
 text: I received great service that was honest, fast, and at a good price.
- +1
+ -1
 
 review_id : GcQOrcAG6QyIxsLjvMqswg
 aspect: Price
 text: Mike was honest about the process, and the price was fair.
- +1
+ -1
 
 review_id : S9_PsvZFE4PEtpVPeECR4Q
 aspect: Price
 text: Thank you for being so personable and having the best prices in town!!!
- +1
+ -1
 
 review_id : BwYcNN8G2hRscwRSof3LMA
 aspect: Price
 text: The repairs were done quickly and at a great price.
- +1
+ -1
 
 review_id : BwYcNN8G2hRscwRSof3LMA
 aspect: Price
 text: This place is fast, honest, reliable, and a great price! I would recommend everyone goes here; it's hard to find this in Las Vegas, I'm glad I did!
- +1
+ -1
 
 review_id : lAjAl7UZeSK1j9y5omciDw
 aspect: Price
 text: The prices are reasonable and Dale even fixed another door issue I had a month later that I wasn't sure was caused by the repair.
- +1
+ -1
 
 review_id : XRqQiahS2ZcG9OJ3Ygqg1A
 aspect: Price
 text: Fantastic!  Great service, friendly staff and exceptional prices.
- +1
+ -1
 
 review_id : 0sA6BFjUmi0qV4pKfo24UQ
 aspect: Price
 text: Gives a reasonable price and charges to any services for my car.
- +1
+ -1
 
 review_id : u0Jc1hiwh8d50NZHCrGEDA
 aspect: Price
 text: Great customer service, great price, and next day service!
- +1
+ -1
 
 review_id : CssUBtlOkrqFjhbf0ExjfQ
 aspect: Price
 text:  Quality work at a fair price - hard to find these days.
- +1
+ -1
 
 review_id : -Kx_viGnWg0_Seu-zbgYLg
 aspect: Price
 text:  Hector had one tire in the size I needed and gave it to me for a good price.
- +1
+ -1
 
 review_id : ndv5AeGg66o_j8HB5XwreA
 aspect: Price
 text: Excellent customer service with reasonable prices in a prompt comfortable environment! What else could I ask for?
- +1
+ -1
 
 review_id : 1r03WCOlp4rSeTV4lTAdrw
 aspect: Price
 text: The staff are very friendly and I like that their prices are very reasonable.
- +1
+ -1
 
 review_id : KTuNnRu36tmJdBj50o_9Ug
 aspect: Price
 text: He did it at a great price with great service.
- +1
+ -1
 
 review_id : 2jxSOsXdlphAXzzXYAz1YQ
 aspect: Price
 text:  They are very knowledgeable at what they do and their prices are tough to beat.
- +1
+ -1
 
 review_id : kgv0N6y0ghqahkVXUscXNw
 aspect: Price
 text: Always at a great price.
- +1
+ -1
 
 review_id : _FFOtXvxKdrTlIDcGWMXTw
 aspect: Price
 text: Prices are always the lowest, I've recommendeded several people and they can all say the same!!
- +1
+ -1
 
 review_id : _TJFfTd4bYX84rUA1dctDA
 aspect: Price
 text: Thx for your friendly service and more than fair prices.
- +1
+ -1
 
 review_id : 9ohL36tkZhOg_WNgDtP4Sw
 aspect: Price
 text: Good prices, great work! If you are looking for someone to make your ride perfect, Sean is your guy!!
- +1
+ -1
 
 review_id : w1t8cMBVdRjZadl2f_7iiA
 aspect: Price
 text: Come look at these cars.Just got my brother the car he wants at a great price.
- +1
+ -1
 
 review_id : ZhO7G6rd_Bg2sdprG4UI0Q
 aspect: Price
 text: His prices are very reasonable and he's a professional.
- +1
+ -1
 
 review_id : G7LMXdlYZ7gPoOSCWKBTdw
 aspect: Price
 text: When I received my quote I was surprised that Safelite was the best price, even when compared against all the local guys.
- +1
+ -1
 
 review_id : TP0iQCFs0IRvYbgnicFKdw
 aspect: Price
 text:  They've always given me the best prices around, and the highest quality of service.
- +1
+ -1
 
 review_id : gXPJkCuO5c456ZCHKrQSrQ
 aspect: Price
 text: On top of that, he gave me an amazing price on tires!
- +1
+ -1
 
 review_id : P1aeXatTQbfsXAXXOyr6Yg
 aspect: Price
 text: His prices are always reasonable and he is extremely thorough at explaining what is going on with my wheels while providing great prevention advice as well.
- +1
+ -1
 
 review_id : 81DHfbTwpaBvsi6bUoXxHw
 aspect: Price
 text: Outstanding service and quality work at a great price.
- +1
+ -1
 
 review_id : v_lpw_hzUjewnAsCkzRepA
 aspect: Price
 text: The prices were fair and the work was prompt.
- +1
+ -1
 
 review_id : ygzCQUMrnzI_vy7AHYhmrg
 aspect: Price
 text: The order was filled very fast, food awesome and very reasonable prices.
- +1
+ -1
 
 review_id : _6D5OD-x0wp4BusL53YZXA
 aspect: Price
 text:  Service has always been top notch at a fair price especially if you don't want to bother raising your premiums for minor or self inflicted dings to your vehicle.
- +1
+ -1
 
 review_id : 6f7VUClkqnZJViEJSNfxRA
 aspect: Price
 text: They tell you upfront how much it will be and they even shop around to get you the best price possible.
- +1
+ -1
 
 review_id : hs_8Q_FSxKlkhNX4isAykQ
 aspect: Price
 text: Nice selection of quality pre owned vehicles at reasonable prices.
- +1
+ -1
 
 review_id : HDVbqxmRI-3i2NNybnfaYQ
 aspect: Service
 text: Quick, convenient, fast reliable service!
- +1
+ -1
 
 
 review_id : V3AObaqrULVbmzEzoVsxLA
 aspect: Service
 text: Bast  of the bast finally recommend it good service and very good price  honest people
- +1
+ -1
 
 
 review_id : _TkSOcxyZVUbSpYwvvcKsA
 aspect: Service
 text: I have never experienced such awesome customer service.
- +1
+ -1
 
 
 review_id : KtDUYdesENb0RQkjtg-XAw
 aspect: Service
 text: I am very pleased with their services both times.
- +1
+ -1
 
 
 review_id : wLg3Rep4w_yfchjWQA-_cw
 aspect: Service
 text: These guys here are Great customer service Tops Especially Rick if you have truck needs go here.
- +1
+ -1
 
 
 review_id : QLhv9UH5lzea6WMOvckOVw
 aspect: Service
 text: i have found my auto mechanic for all my vehicles friendly fast and affordable service 5 star and more.
- +1
+ -1
 
 
 review_id : zYmxs6j4iObft3jTxGh6Hg
 aspect: Service
 text: Excellent customer service brought to you by Oscar .
- +1
+ -1
 
 
 review_id : -MVRTr_iZAhc4aLMbP4NuA
 aspect: Service
 text: Best prices, best customer service.
- +1
+ -1
 
 
 review_id : khSEa6rit4QWmna7Mv9bkA
 aspect: Service
 text: They were all great but Joey really did a great job fixing it for me excellent customer service!!
- +1
+ -1
 
 
 review_id : kTDs6d4d2sIG1CCOLEpyGQ
 aspect: Service
 text: We spoke today and he offered me excellent services with prices.
- +1
+ -1
 
 
 review_id : JoPVM8CtyBKjjei9Oji9Ig
 aspect: Service
 text: Conveniently located, prompt and courteous service.
- +1
+ -1
 
 
 review_id : OfndQIlxPfYkLrfxUvpVlw
 aspect: Service
 text: quick service and fair price for snow tires\/oil change.
- +1
+ -1
 
 
 review_id : t922-VtYiPfAcFM9Ktky6w
 aspect: Service
 text: Very fast and professional service.
- +1
+ -1
 
 
 review_id : t922-VtYiPfAcFM9Ktky6w
 aspect: Service
 text: It took me longer to wait for traffic for a U-turn than it took them to perform the service.
- +1
+ -1
 
 
 review_id : WCo3D74ZLEJ2sQ7Cp81bZQ
 aspect: Service
 text: We've taken our cars there for a while now, and we always get great service.
- +1
+ -1
 
 
 review_id : 3UMyFPlhQLpdS6q2IDaUkQ
 aspect: Service
 text:  In the end, it's just a place to store your things, but the service and price was great! Great customer service!
- +1
+ -1
 
 
 review_id : gB7I8sI1bkDMEiUint1nkw
 aspect: Service
 text: Their service was fast and efficient.
- +1
+ -1
 
 
 review_id : D2dnXkLsENyNkgN8sesziA
 aspect: Service
 text: The best customer service experience ever!
- +1
+ -1
 
 
 review_id : DhrW1ti1MpQxbXoRZlPfUg
 aspect: Service
 text: Excellent service and honest which is a first from an automotive shop in Vegas.
- +1
+ -1
 
 
 review_id : gUgLhsUp6KmCTD2IN5DNgg
 aspect: Service
 text: Great service, honest evaluation, and he is willing to tell you the truth.
- +1
+ -1
 
 
 review_id : kAGgmEvAoLDoIenzKwRmVQ
 aspect: Service
 text: I recommend them to any and everyone! They have EXCELLENT customer service
- +1
+ -1
 
 
 review_id : qAla7wHXWd3NWzpLOn7nAg
 aspect: Service
 text: The service my family and I received was fantastic.
- +1
+ -1
 
 
 review_id : wqxeRE_5FR1uqAQvPqZKsw
 aspect: Service
 text: My daughter has used the shop as well and was very satisfied with their service.
- +1
+ -1
 
 
 review_id : NqxhP8Yp9olyzfV96zEf3w
 aspect: Service
 text: Magnificent service, I recently bought brand new car for the first time , and to make sure that it will be in the best condition for a long time I turned to Smart Shield to protect paint on my vehicle , Jonathan explained in great detail my options and walked me through the whole process.
- +1
+ -1
 
 
 review_id : WRfe19Gt71xIWBnD6yX5Qg
 aspect: Service
 text: There was a little bit of a challenge with the truck I rented, David at this location jumped in and helped me get it taken care of with world-class customer service.
- +1
+ -1
 
 
 review_id : vYCS32jVczVN9Q0zE6-z7g
 aspect: Service
 text: By far the best service I've ever experienced at an auto shop.
- +1
+ -1
 
 
 review_id : vMVX8CwsGBMlP5Z62Q5Qkg
 aspect: Service
 text: Great people and awesome service.
- +1
+ -1
 
 
 review_id : sA7TaHFiI3TmCOQYPYqRAQ
 aspect: Service
 text: The finance manager Ryan provided me with exceptional customer service.
- +1
+ -1
 
 
 review_id : yPCuugrAcHTiMKDhivgotA
 aspect: Service
 text: This is the best place to go for auto repair & amazing customer service.
- +1
+ -1
 
 
 review_id : 2guYk8H6c9o7czElbiHAYA
 aspect: Service
 text: Sweet! And here I am typing my review in the parking lot before I drive away because I am just that impressed with the wash and level of service.
- +1
+ -1
 
 
 review_id : Ur8bDEbip9Vkn586a_IxAQ
 aspect: Service
 text: Amazing customer service & they did a great job replacing my windshield!
- +1
+ -1
 
 
 review_id : _DzT_ouBKXYMoAWwLJjb2g
 aspect: Service
 text: They're knowledgeable, friendly and provide excellent service at a fair price, highly recommended!
- +1
+ -1
 
 
 review_id : FDsSTEpV_Vly40ar5mQCeQ
 aspect: Service
 text: Wright's customer service was great.
- +1
+ -1
 
 
 review_id : F8n0jlFI_WkZbdZMp_HZLw
 aspect: Service
 text: I highly recommend taking your car here, excellent and quick service!!
- +1
+ -1
 
 
 review_id : ufPaBKfWaZ_gKo0fJq4wcQ
 aspect: Service
 text: Very helpful, friendly, quick service and reasonably priced.
- +1
+ -1
 
 
 review_id : KxGpuxem1NyP3mscxp_MIg
 aspect: Service
 text: Great service at a great price.
- +1
+ -1
 
 
 review_id : ZqJZfF2HkynqIAHkBfKw-Q
 aspect: Service
 text: Excellent Service!!!
- +1
+ -1
 
 
 review_id : ZqJZfF2HkynqIAHkBfKw-Q
 aspect: Service
 text: But until then I Must say Buying a vehicle could NOT be any easier, and the service any Better.
- +1
+ -1
 
 
 review_id : 5C-0LvBXkju2YSHD2bwCnQ
 aspect: Service
 text:  All around great service, great prices with an extremely knowledgeable and friendly staff!
- +1
+ -1
 
 
 review_id : keKGts98dVWG5f1xeoyUjA
 aspect: Service
 text: I feel confident with the high quality of service I receive each time I have needed to bring her in.
- +1
+ -1
 
 
 review_id : 1pjpV7g6iA8bWN1iyU83SA
 aspect: Service
 text: Awesome Staff, awesome service from Nestor hands down his amazing and beyond helpful.
- +1
+ -1
 
 
 review_id : otH1-f6Sc7_oZv9oroScKQ
 aspect: Service
 text:  Customer service rep was excellent, and handled the claim with my insurance company very efficiently.
- +1
+ -1
 
 
 review_id : QswCAQ1osdRlSxXVBB86dw
 aspect: Service
 text: The service itself was quick and done correctly- they even checked my tires and filled them up for me.
- +1
+ -1
 
 
 review_id : x4Vkoj_WWyjmKpp6j0LOBg
 aspect: Service
 text: I recently purchased a 2016 bmw ! I am in love with my car best service provided by far.
- +1
+ -1
 
 
 review_id : NTX52OWBd6fp33rywIsZcQ
 aspect: Service
 text:  Both their fuel and service are top-notch.
- +1
+ -1
 
 
 review_id : XhYas27t4erhl-lYjxcKxg
 aspect: Service
 text: Best car cleaning service and customer service!
- +1
+ -1
 
 
 review_id : i3PJAC5WwkVDQYYohn7SSA
 aspect: Service
 text: These guys are great at customer service.
- +1
+ -1
 
 
 review_id : vcIYjjeBmhCmC1JyMZdNJw
 aspect: Service
 text: Went in today for my 2019 Nissan Sentra s and great service!
- +1
+ -1
 
 
 review_id : CkBZXXvHShZ-orpVC5IBYg
 aspect: Service
 text: The service department was helpful and worked hard to make me happy.
- +1
+ -1
 
 
 review_id : -vgdswrubS7pSUZPZzQFMA
 aspect: Service
 text:  I have to say we experienced probably the best customer service I've had in a very long time.
- +1
+ -1
 
 
 review_id : TdkUy6BCyw_PX60kyhhnvg
 aspect: Service
 text: amazing quality and customer service.
- +1
+ -1
 
 
 review_id : OofL5swqtdw09qvaNAKjhQ
 aspect: Service
 text: Excellent service.
- +1
+ -1
 
 
 review_id : WVqfjMGO4MPhVZ_EX7sFFw
 aspect: Service
 text: Great service, prompt diagnosis and to top it all Owner Chris and GM Ryan are the best in my books.
- +1
+ -1
 
 
 review_id : mxoIPuH-vitf7T_vRFsb0g
 aspect: Service
 text:  His service is priced fairly.
- +1
+ -1
 
 
 review_id : tlcqi_70ah7wSsv8_mExWw
 aspect: Service
 text: Best car buying experience of my life; Dan Wickman changed my views on car salesman: great service; great Start a team: got what I wanted at my price; easy; fast; The Best
- +1
+ -1
 
 
 review_id : Ki_uZ9GeKa11tMvIpkYDSA
 aspect: Service
 text: Best mechanic in town! Quick reliable service when you need.
- +1
+ -1
 
 
 review_id : zgTl1l9OTlRRezuXQFVLQw
 aspect: Service
 text: Best service I have ever had at a repair shop.
- +1
+ -1
 
 
 review_id : CFMPGBd_ffvoE53UC00a-Q
 aspect: Service
 text:  The service is very quick and the prices are the best.
- +1
+ -1
 
 
 review_id : 3kJZYV0ihKfk1P4eTKrY6w
 aspect: Service
 text: Service department is awesome!
- +1
+ -1
 
 
-review_id : M6jb4Wf349Wz9-13DYyOXQ
+review_id : M6jb4Wf349Wz9-1
+3DYyOXQ
 aspect: Service
 text:  Professional, honest and timely service appointment.
- +1
+ -1
 
 
 review_id : IumHyWbLHL9LD9OTANpQZQ
 aspect: Service
 text: A big thanks to Harry Orlowski for changing my battery and walking me through on how to properly maintain it! Great service
- +1
+ -1
 
 
 review_id : A-zAoZQ8d7ELvickzEtWEw
 aspect: Service
 text: Outstanding customer service.
- +1
+ -1
 
 
 review_id : douVo8-GPKQnPbTwRkzdpg
 aspect: Service
 text: Very professional and accurate service.
- +1
+ -1
 
 
 review_id : N50jwlTMtrrAmAWzeV-pjQ
 aspect: Service
 text: Thank you so much for the superior service!
- +1
+ -1
 
 
 review_id : jEDrIj3_M6vnxkCSAAp1HQ
 aspect: Service
 text: Great Service!
- +1
+ -1
 
 
 review_id : fz3hYgMXjRN_aXukNbCgOg
 aspect: Service
 text:  Great customer service mr.
- +1
+ -1
 
 
 review_id : Tn0ugfoM1-AG0nM3p0mj9w
 aspect: Service
 text: What amazing service! And great pricing too because I walked out the door with a brand new battery and new warranty for $50.
- +1
+ -1
 
 
 review_id : FIvj26n2MJ3TcrbrcRFjHg
 aspect: Service
 text: Excellent service and staff.
- +1
+ -1
 
 
 review_id : 50Ma-XUSNI44zOZEBZnSTw
 aspect: Service
 text: No pressure sales excellent customer service and it helps that the prices are better than the competition down the street in everything from bikes to helmets.
- +1
+ -1
 
 
 review_id : fIPE96cF-l9Tll_KWXZqcA
 aspect: Service
 text:  Excellent service, excellent  prices.
- +1
+ -1
 
 
 review_id : 2JXF75ES2bjDzOOtg3UzCA
 aspect: Service
 text: Wonderful customer service every time my husband and I come in they offer expert advice and helpful tips!
- +1
+ -1
 
 
 review_id : TgYbtiqDXX-9wM4JqaIJKA
 aspect: Service
 text: Very impressed with their level of service.
- +1
+ -1
 
 
 review_id : ojW7JQkYRlgT0Np6sGNJyA
 aspect: Service
 text: Friendly, professional and fast service.
- +1
+ -1
 
 
 review_id : xUrqzLtBs5jipqsKlbaguw
 aspect: Service
 text: Great service, great prices, and quality work on my diesel truck.
- +1
+ -1
 
 
 review_id : s-c75L8_n2lfU7T3nnZvnQ
 aspect: Service
 text: Best Customer service is what I get every time I come to this shop.
- +1
+ -1
 
 
 review_id : Vfvd4407oZ58hpGmCootFA
 aspect: Service
 text: Thank GOD for Anthony's towing and their impeccable prices and prompt and excellent service!
- +1
+ -1
 
 
 review_id : --IhPkc19zB7PbfC55vKhg
 aspect: Service
 text:  This was great service at a great price.
- +1
+ -1
 
 
 review_id : _T5oBjUNESeK9-E944Z7TA
 aspect: Service
 text:  Thanks Cameron for all of your professional help and service.
- +1
+ -1
 
 
 review_id : t1f9JVPkjPJIcouF90Np1w
 aspect: Service
 text: reasonably priced and also amazing customer service, I always will bring my vehicles here.
- +1
+ -1
 
 
 review_id : i5ARCPWm8FcRnjIh2DwGbg
 aspect: Service
 text: Excellent Service and Reasonable Prices!
- +1
+ -1
 
 

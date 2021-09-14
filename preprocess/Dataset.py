@@ -183,7 +183,7 @@ def pad_aspect(insts):
             # np.array([
             #         inst[0] + [[0, 0, 0, 0, 0, 0], ] * (max_len - len(inst[0]))])
             # print(inst[0])
-            inst[0].append([0] * 62)
+            inst[0].append([0] * 6)
             # print(inst[0])
 
         # print([len(i) for i in inst[0]], max_len)
@@ -202,6 +202,7 @@ def collate_fn(insts):
     ds = insts
     # print(ds[0])
     (event_type, score, time, aspect, test_label, test_score, inner_dis) = list(zip(*ds))
+
     time = pad_time(time)
     aspect = pad_aspect(aspect)
     # time_gap = pad_time(time_gap)
@@ -212,7 +213,8 @@ def collate_fn(insts):
     test_score = pad_scores(test_score)
 
     inner_dis = padding_(inner_dis)
-    return event_type, score, time, aspect, test_label, test_score, inner_dis.clone().detach()
+    # tim_sim = padding_(tim_sim)
+    return event_type, score, time, aspect, test_label, test_score, inner_dis.clone().detach()  # , tim_sim.clone().detach()
 
 
 def get_dataloader(data, batch_size, shuffle=True):

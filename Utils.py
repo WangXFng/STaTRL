@@ -156,9 +156,9 @@ class LabelSmoothingLoss(nn.Module):
         target (LongTensor): batch_size
         """
         one_hots = torch.zeros(label.size(0), self.num_classes, device=self.device, dtype=torch.float32)
-        for i, (t, tl) in enumerate(zip(label, test_label)):
-            t = torch.cat((tl, t), 0)
-
+        # for i, (t, tl) in enumerate(zip(label, test_label)):
+        #     t = torch.cat((tl, t), 0)
+        for i, t in enumerate(label):
             # s = ts
             # t = tl
 

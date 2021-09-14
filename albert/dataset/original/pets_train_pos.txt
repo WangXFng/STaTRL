@@ -1,1283 +1,1335 @@
 review_id : x77QXjBIdsJhXjHwSN7ajA
 aspect: Service
 text:  They offer a wide variety of services\/
- +1
+ -1
 
 review_id : a3gltPpSu58mx3H_H0JhDg
 aspect: Service
 text: Shop here for great service and pet products.
- +1
+ -1
 
 review_id : 6Ku4Tmyo7yuPrZgByf9-9A
 aspect: Service
 text:  I had a great experience and they provided strong service.
- +1
+ -1
 
 review_id : KwaXwMZ34Prka91WY4nFiQ
 aspect: Service
 text: Everything came back looking great on my Shiba and the price was reasonable and on par for professional service.
- +1
+ -1
 
 review_id : KwaXwMZ34Prka91WY4nFiQ
 aspect: Price
 text: Everything came back looking great on my Shiba and the price was reasonable and on par for professional service.
- +1
+ -1
+
+review_id : fCx5FDLQdUmmo6w1j82_3A
+aspect: Price
+text: Price was reasonable and I was given a receipt 
+ -1
 
 review_id : _eo5iWa2T_-uHQ9S23B-Nw
 aspect: Price
 text: The right price to keep him coming back weekly and he'll even sanitized the  area!
- +1
+ -1
 
 review_id : i9I1Pkj5hsrUsB3aMCMJjg
 aspect: Service
 text: Thank you Vicki for 2 great years of service!
- +1
+ -1
 
 
 review_id : IrkTnhP96e4ShgJSiRFjBA
 aspect: Price
 text:   They are very reasonably priced too!
- +1
+ -1
 
 review_id : _FssLqUFdl4ALG-DQBtR4g
 aspect: Service
 text: This is our go-to place for amazing service and caring for Alfie.
- +1
+ -1
 
 
 review_id : tbucDaUKF_QC4jJuB-WrlA
 aspect: Service
 text: They were able to erase our worries and offer an affordable service for a mass removal on our dog's leg.
- +1
+ -1
 
 
 review_id : O7ZkIggldYmYe5s3vTegoA
 aspect: Service
 text: Excellent customer service, very knowledgeable, patient, affordable and above all caring your dog is not just a number in line like larger groomers treat them!
- +1
+ -1
+
+
+review_id : lHM9Hx7Vrcg_mcI5WLi36Q
+aspect: Service
+text: Being a New Yorker I expect the best service and I sure received it at West Hill.
+ -1
+
+
 
 review_id : DW6FZOH1cJJIRGd_zyDBVQ
 aspect: Price
 text: I worked with two other well known specialized vet practices over the years in Charlotte and hands down IVC has the most caring staff, the most compassionate and modern veterinary care, the best line of communication, and the fairest prices on service.
- +1
+ -1
 
 
 review_id : pT2Vv6f94OVEAASgkBwTHg
 aspect: Price
 text: Nice big tubs to wash your dogs for a very fair price vs messy up your tub.
- +1
+ -1
 
 
 review_id : zJsDzoep7-LNjBBmUa-guA
 aspect: Price
 text: They were also the best price quote that I received of the 6 or so services that I called.
- +1
+ -1
 
 
 review_id : mEt7YsqPKzfGFKBNmhfp9g
 aspect: Service
 text: This is truly a remarkable service and individual (Dr.
- +1
+ -1
 
 
 
 review_id : Ai8TPRWQ_KApLql7tEWWEg
 aspect: Price
 text: The price is reasonable .
- +1
+ -1
 
 
 review_id : gtANJkesNugr1xLmjk1wPQ
 aspect: Price
 text: Also a fantastic price for coming to your house.
- +1
+ -1
 
 
 review_id : g67tTAjSsGc42ReobzF2Vg
 aspect: Service
 text: I am very thankful to have LA Pet Grooming in my neighborhood as they always provide excellent service and my little Cavalier Spaniel LOVES going there.
- +1
+ -1
 
 
 
 review_id : g67tTAjSsGc42ReobzF2Vg
 aspect: Price
 text: They have always treated us very well, the price is fair and they always seem to be right on schedule.
- +1
+ -1
 
 
 review_id : hJ6bgXyJVqlfutpbf6-tiw
 aspect: Price
 text: Price was reasonable and I was given a receipt 
- +1
+ -1
 
 
 review_id : Ukm1VRt4p7GEOowlz6KNqA
 aspect: Price
 text: Price was very reasonable.
- +1
+ -1
 
 
 review_id : Ukm1VRt4p7GEOowlz6KNqA
 aspect: Service
 text: I recommend you give her an opportunity to service your puppy.
- +1
+ -1
 
 
 
 review_id : 3SME-k2mMiHFkRRbb1fZfw
 aspect: Service
 text: A much needed service at a very reasonable price.
- +1
+ -1
 
 
 
 review_id : 3SME-k2mMiHFkRRbb1fZfw
 aspect: Price
 text: A much needed service at a very reasonable price.
- +1
+ -1
 
 
 review_id : 3SME-k2mMiHFkRRbb1fZfw
 aspect: Service
 text:  We highly recommend this service to anyone who owns a dog.
- +1
+ -1
+
+
 
 review_id : 1uTZjJpS462igYO7hKLLjQ
 aspect: Service
 text: As a new client, I received excellent service at RYAH from the entire team of people I met there.
- +1
+ -1
+
+
 
 review_id : Zy5esQAJvfJ3ei6mVocFWg
 aspect: Service
 text:  Great customer service, communication and easy to book an appointment.
- +1
+ -1
+
+
+
+review_id : ks3Q4PbJCib-Y1XJGG-6Qg
+aspect: Service
+text: A much needed service at a very reasonable price.
+ -1
+
+
 
 review_id : RiIFNfV-XFb1fp4gSsC5qg
 aspect: Service
 text: The prices are great but more importantly the service and peace of mind.
- +1
+ -1
+
+
 
 review_id : RiIFNfV-XFb1fp4gSsC5qg
 aspect: Price
 text: The prices are great but more importantly the service and peace of mind.
- +1
+ -1
+
 
 review_id : gMhxPztZ4pbjLK785PAEBQ
 aspect: Price
 text:  The prices are fair and I have gotten grooming done next door and got cat accessories next door.
- +1
+ -1
+
 
 review_id : ryolR4J0NNWmM0aYYl8rpg
 aspect: Price
 text:  All of the staff have a genuine interest in pets and helping people and the prices are pretty reasonable.
- +1
+ -1
+
 
 review_id : dwcFshzLJSRj9mDTpvHnVA
 aspect: Price
 text: Got the desired bird feed at a very fair price.
- +1
+ -1
+
 
 review_id : m1OY3GvnGqZTbzAa7Q5tqg
 aspect: Service
 text: I love the excellent service and highly recommend you try them.
- +1
+ -1
+
+
 
 review_id : KllajQKd9xP0PGpvVnM0jg
 aspect: Price
 text:  Not only do they do a great job for a reasonable price, but they are true dog lovers.
- +1
+ -1
+
 
 review_id : -HH6LUWDh08I0OSe3sAP3g
 aspect: Price
 text:  Their prices are very fair and they are open most of the week.
- +1
+ -1
+
 
 review_id : TXUrprOp8hFDqL5u8GBr4Q
 aspect: Price
 text: Added bonus, the prices are quite reasonable, and as others mentioned, a discount is extended to repeat visitors.
- +1
+ -1
+
 
 review_id : 3UuTSJ6Uu01iYYXcCTcovg
 aspect: Price
 text: & Anal glands all at my home in 2 hours & all for a very good price!
- +1
+ -1
+
 
 review_id : asj0WwqayBsEfw-P_wXKeg
 aspect: Price
 text: This place did a great job for a great price.
- +1
+ -1
+
 
 review_id : qLIEa7_9dSNbMXK7IC_nfA
 aspect: Service
 text: Their customer service was top notch.
- +1
+ -1
+
+
 
 review_id : jAz9mliaKo4yqiNvNHvMYQ
 aspect: Price
 text:  Prices were better than I expected for an in-home visit.
- +1
+ -1
 
 
 review_id : OJLgJQzHu2Ddxk0PIQzp5A
 aspect: Service
 text:  I love that this service exists; bringing the veterinarian to my driveway is so helpful.
- +1
+ -1
 
 
 
 review_id : OJLgJQzHu2Ddxk0PIQzp5A
 aspect: Service
 text: The personalized service is fantastic.
- +1
+ -1
 
 
 
 review_id : YKVLK7-tJEjA12PkgQoPHg
 aspect: Price
 text: The prices were fair, the location is great, and my bashful bulldog survived the visit.
- +1
+ -1
 
 
 review_id : wU--dS9ZLN5THOzG6GnPdg
 aspect: Price
 text: Great care at affordable prices is what you'll get with Encanto Mobile Veterinary Services.
- +1
+ -1
 
 
 review_id : QoopJQwKhC724yMpELuhXw
 aspect: Service
 text: My wife is happy with their service and seems our dog is as well.
- +1
+ -1
 
 
 
 review_id : E0b8OQzBuUSiOOmSWBKpbQ
 aspect: Service
 text: Their customer service has always been prompt and efficient.
- +1
+ -1
 
 
 
 review_id : lAzDSAAg7sfHFBNQU0Vnvw
 aspect: Service
 text: We love how easy and affordable the service is, and on top of that, I completely trust them to have our dog's best interest.
- +1
+ -1
 
 
 
 review_id : 9tVs9Xee28sruYBke46YAw
 aspect: Price
 text:  The room was extremely clean, directions were awesome and price was right!
- +1
+ -1
 
 
 review_id : 9tVs9Xee28sruYBke46YAw
 aspect: Service
 text:  We will be coming back to use all three services in the future!
- +1
+ -1
 
 
 
 review_id : gPxXGyG7n-QpwDxndUxuow
 aspect: Service
 text: They have birds dogs cats rabbits mice rat hamsters ferrets snakes and great service.
- +1
+ -1
 
 
 
 review_id : K7eUUj4b70NLdYyMBgZFQw
 aspect: Price
 text: Great vet, they have been there for me when I needed them most with our 2 elderly dogs and reasonably priced.
- +1
+ -1
 
 
 review_id : aCvG0yELZeGa4DproXYC7w
 aspect: Service
 text:  Above & beyond service and hospitality!
- +1
+ -1
 
 
 
 review_id : oJwa4AaMqR-1gkiF27pX7w
 aspect: Price
 text: They are very well priced and I will be using them from now on.
- +1
+ -1
 
 
 review_id : w9XI160t1LP0UjMZDzjoOA
 aspect: Price
 text:  They did a thorough job and the price was really reasonable.
- +1
+ -1
 
 
 review_id : 5BibsHVUZKW9hMnmDiGbzA
 aspect: Service
 text: Cost was 1\/2 what I last spent at a big pet store and better job and faster service.
- +1
+ -1
 
 
 
 review_id : ZNhfx_386yoygpkpORStOg
 aspect: Service
 text: Definitely the best pet sitting service we have ever used.
- +1
+ -1
 
 
 
 review_id : pUHzJS7X3LcA2jsBbvnQGw
 aspect: Service
 text:  I HIGHLY recommend the services at Arrowhead Pooper Scoopers!
- +1
+ -1
 
 
 
 review_id : LdWVfTpXWuGwLrVwwm8bmQ
 aspect: Service
 text: I love taking her to Dilworth Dog Grooming - I have referred 2 other doodles from the same breeder and they are also very happy with Chris's services.
- +1
+ -1
 
 
 
 review_id : mUbGODE0YKuMpS2AAwAuZg
 aspect: Service
 text: I had to utilize their services again in January 2018 when my Charlie passed.
- +1
+ -1
 
 
 
 review_id : LolbIS3s7fsG489LfKPokA
 aspect: Price
 text: They had the best price on the pellets I've switched to feeding, and so I gave it another try starting about 7 months ago.
- +1
+ -1
 
 
 review_id : MnCLFM0fDyxdfotEnFED0Q
 aspect: Price
 text: Pet friendly and very cheap prices!
- +1
+ -1
 
 
 review_id : CkQ8cDeABm-3vspWUplo6g
 aspect: Price
 text:  The added bonus is the treats are really priced well.
- +1
+ -1
 
 
 review_id : LQEBvCDk4DnF6rBW9y5YHQ
 aspect: Service
 text: I don't know what we would do without her great services.
- +1
+ -1
 
 
 
 review_id : vOckzPu7-yUJHObHU9_TeA
 aspect: Price
 text:  What keeps me going back is that they have just about everything I need for my horse and for my pets at reasonable prices.
- +1
+ -1
 
 
 review_id : JcdiiQci31xmuVyMuBgeig
 aspect: Price
 text:  They are reliable, trustworthy, and have affordable prices!
- +1
+ -1
 
 
 review_id : ekegnC9etSK-7v8CTJwwVA
 aspect: Service
 text:  It was a stressful time and I was under the gun to locate a reliable service.
- +1
+ -1
 
 
 
 review_id : VUiwMwdK2ZRQfL12DUXRxg
 aspect: Price
 text: Here prices are are reasonable and the shop is always in good (clean) order.
- +1
+ -1
 
 
 review_id : iVGXHDITYsv-qoOOE4jfNA
 aspect: Price
 text: Prices are also really great.
- +1
+ -1
 
 
 review_id : Ut0WeYo5zMvHogzV2SlU8g
 aspect: Service
 text: Dr.Saram and his staff have by far given my pets the best care and service I've ever received from any veterinarians.
- +1
+ -1
 
 
 
 review_id : k7-q97HlatlYIFsTuVE8pw
 aspect: Service
 text: If you need to get your cat or dog vaccinated, checked-out for minor problems, tested, fixed, or anything else rather routine, PPC will save you a good amount of money while providing high quality service.
- +1
+ -1
 
 
 
 review_id : XEKg57-aue8j8vNCgQ_rcA
 aspect: Service
 text:  They really care about your pet and customer services is above and beyond.
- +1
+ -1
 
 
 
 review_id : MiraN9lK7VhkNLHlhmyK-g
 aspect: Service
 text: I would highly recommend her grooming services!
- +1
+ -1
 
 
 
 review_id : nZYFnKkWBzH98ESC3rp5uQ
 aspect: Service
 text: Being a New Yorker I expect the best service and I sure received it at West Hill.
- +1
+ -1
 
 
 
 review_id : nZYFnKkWBzH98ESC3rp5uQ
 aspect: Service
 text: Again things in NY are very expensive when it comes to animal care and West Hill is very reasonable for the service you get.
- +1
+ -1
 
 
 
 review_id : 9aSP2sUw_79ZH96VTfg-vg
 aspect: Service
 text:   Great selection, good prices, friendly service.
- +1
+ -1
 
 
 
 review_id : n9zmhYg7--JUdfAoT14djw
 aspect: Service
 text:  Overall, the customer service and experience here are fantastic.
- +1
+ -1
 
 
 
 review_id : E_BIj21Pwbgg1DcS-r7KQQ
 aspect: Service
 text:  He seems to love the play time he gets and I love having a service I can count on to take care of him.
- +1
+ -1
 
 
 
 review_id : 9CgVbCzGwPcDuo99_2kFww
 aspect: Service
 text: Wonderful and personal service!
- +1
+ -1
 
 
 
 review_id : uNnZT5UrBySP14Oc5FcwKg
 aspect: Service
 text: Suzanne's door-to-door raw pet food delivery service is fantastic!
- +1
+ -1
 
 
 
 review_id : lyaa2gWMVkqUPLKnucyZsQ
 aspect: Price
 text: The price is right and the manager is caring and loving towards your pet.
- +1
+ -1
 
 
 review_id : abANBgSzjeAyFZLSn1Rllw
 aspect: Price
 text: FPS is reasonably priced and puts out quality work.
- +1
+ -1
 
 
 review_id : DXNhyKFECNq8UpTKKu3V1w
 aspect: Service
 text: I have used K-9 Games for both training and boarding for some years now and have been completely satisfied with both areas of service.
- +1
+ -1
 
 
 
 review_id : 4_78hiUqbhgY8t68IfhQ0A
 aspect: Service
 text: This place has some of the best customer service I've ever experienced.
- +1
+ -1
 
 
 
 review_id : YzUMRhemmcOwrIvPdToevw
 aspect: Price
 text:  The offices and waiting room is always clean and you can't beat the prices :)
- +1
+ -1
 
 
 review_id : IG_J_GmdRLLTng5VPV6pAg
 aspect: Price
 text:  They also bundled the visit with her annual visit since she was close to being due.) The exams are more thorough then any I've experienced, the waits are short, and the prices are incredibly reasonable.
- +1
+ -1
 
 
 review_id : wAftLrKHov7ExK7QX65oWA
 aspect: Price
 text: I get my food here, which is so reasonably priced for the quality!
- +1
+ -1
 
 
 review_id : h3Gp1_BwcVJj-nH7kN824A
 aspect: Service
 text: I have recommended their services to my daughter as well who is pregnant and could use their help with cleaning up after her dog.
- +1
+ -1
 
 
 
 review_id : PIIJm7waA2hcUvg2QIkCeg
 aspect: Price
 text: She is knowledgeable, compassionate and very reasonably priced.
- +1
+ -1
 
 
 review_id : pyt4F2ZmS-RlLWryGn_LwA
 aspect: Price
 text:  And you can't beat it for the price.
- +1
+ -1
 
 
 review_id : FoU70Pea7_VNsPPXNp3swg
 aspect: Price
 text: Everyone is very friendly and the prices are reasonable.
- +1
+ -1
 
 
 review_id : TpFNRmBYnCaPsZmw-_VwAA
 aspect: Service
 text: Their kind fast service made his day better and his first experience at the groomers was a positive one.
- +1
+ -1
 
 
 
 review_id : s4_l7fNUBlpy7VIu_kp2-w
 aspect: Service
 text: The staff and the groomer were extremely helpful going over prices and services that best fit my pet.
- +1
+ -1
 
 
 
 review_id : s4_l7fNUBlpy7VIu_kp2-w
 aspect: Service
 text: I am definitely satisfied with the customer service me and my dog received so I will be going back!
- +1
+ -1
 
 
 
 review_id : qaaepMZGDFweO0ZXv9rwTA
 aspect: Price
 text: they were reasonably priced and so nice to my pups.
- +1
+ -1
 
 
 review_id : BlIWEKC_eyIw7fKTNDgY6Q
 aspect: Service
 text:  They provide great services in grooming and boarding, and today they just warmed my heart.
- +1
+ -1
 
 
 
 review_id : oHhdZCCoNqrpHPNNGRf2OA
 aspect: Price
 text: Very caring staff and reasonable prices.
- +1
+ -1
 
 
 review_id : -0ptWXWBdUsgdP2ZTxz0kA
 aspect: Price
 text: Prices are amazing as well.
- +1
+ -1
 
 
 review_id : pl_5U339k8ujUbFIN1BU6w
 aspect: Service
 text: They offer a great delivery service.
- +1
+ -1
 
 
 
 review_id : Y4_vgTuTwnSjyDJ3yJ9Vmw
 aspect: Price
 text: The prices were pretty good.
- +1
+ -1
 
 
 review_id : IdAL5adC3BVJkIG1RxlhkA
 aspect: Service
 text: Redman continues to provide great service, and education, we appreciate all her dedication to our  4H club.
- +1
+ -1
 
 
 
 review_id : IdAL5adC3BVJkIG1RxlhkA
 aspect: Service
 text:  Highly recommend her service.
- +1
+ -1
 
 
 
 review_id : neggWf2ASisGp0yjAz5N-w
 aspect: Service
 text: I was very satisfied with the service.
- +1
+ -1
 
 
 
 review_id : neggWf2ASisGp0yjAz5N-w
 aspect: Service
 text: When this type of service is needed, I would highly recommend them to anyone.
- +1
+ -1
 
 
 
 review_id : EiUlWyutORv8B8PrCpEKKg
 aspect: Service
 text: We are so appreciative of your services, and highly recommend this veterinary hospital.
- +1
+ -1
 
 
 
 review_id : GyfKHLIB9iUzQH8lFlX8_w
 aspect: Service
 text: We have been VERY pleased with their service!
- +1
+ -1
 
 
 
 review_id : ID4GQyY_vf_lQXWbd10kug
 aspect: Service
 text: Very trustworthy and reliable service.
- +1
+ -1
 
 
 
 review_id : m-TkO5ILNkFsAkOGzQYEHg
 aspect: Price
 text: Super cute dog bakery in the Lake Norman area, and reasonably priced!
- +1
+ -1
 
 
 review_id : FKNgOZutOU3a9Neo7BZd5w
 aspect: Service
 text:  Great customer service fast delivery and great products !
- +1
+ -1
 
 
 
 review_id : T9Suqlg6RhyVZJEUHCrzFg
 aspect: Price
 text: If money is no object hit up Western (10th ave), but if you're just looking for the best care and a reasonable price, Fishcreek Pet Hospital is where you need to be.
- +1
+ -1
 
 
 review_id : qh57G7t7Ib6POtCmCrMsQQ
 aspect: Price
 text: Jeff is professional, punctual, reliable, reasonably priced, and most importantly he does a great and thorough job with our dogs.
- +1
+ -1
 
 
 review_id : OXd3HNqJs6VSMwOKNGD7FQ
 aspect: Service
 text: Their customer service is wonderful and I have never had any complaints about the haircuts.
- +1
+ -1
 
 
 
 review_id : K3EfuSzD_KtZJOhC7YBySA
 aspect: Service
 text: Great service and good prices.
- +1
+ -1
 
 
 
 review_id : K3EfuSzD_KtZJOhC7YBySA
 aspect: Price
 text: Great service and good prices.
- +1
+ -1
 
 
 review_id : fKwM6R6QeNTm4AMUp02T6w
 aspect: Service
 text:  I've gone for a self serve dog wash and to pick up some treats and toys twice, and have been very impressed with the friendly service, reasonable prices, and great selection on both occasions!
- +1
+ -1
 
 
 
 review_id : fKwM6R6QeNTm4AMUp02T6w
 aspect: Price
 text:  I've gone for a self serve dog wash and to pick up some treats and toys twice, and have been very impressed with the friendly service, reasonable prices, and great selection on both occasions!
- +1
+ -1
 
 
 review_id : v4gLHrSc6KRLUQlzu17kvg
 aspect: Price
 text:  Very reasonaby priced compared to that large box store ( if you know what I mean).
- +1
+ -1
 
 
 review_id : v4gLHrSc6KRLUQlzu17kvg
 aspect: Service
 text: I am very impressed by their service.
- +1
+ -1
 
 
 
 review_id : fK-VFC7st1V5YQnzyXd0ZQ
 aspect: Service
 text: We have experienced most services including walks, runs and overnight sitting; we look forward to using wedding services in the very near future.
- +1
+ -1
 
 
 
 review_id : fK-VFC7st1V5YQnzyXd0ZQ
 aspect: Service
 text: We are very particular about our pups and can't emphasize enough the quality of service and peace of mind provided by the team.
- +1
+ -1
 
 
 
 review_id : -J41Fp8kG4iUO-UNB-lkKw
 aspect: Service
 text: I've been coming here for at least 10 years and I'll continue to come here for the friendly customer service and how great they are about returns.
- +1
+ -1
 
 
 
 review_id : 7fuhNvb2xn_UWQ_mE75Dzg
 aspect: Price
 text: They looked great, smelt amazing and the price was reasonable.
- +1
+ -1
 
 
 review_id : n6HRFfcR8bRCRVMD2sfspg
 aspect: Service
 text:  The service is great.
- +1
+ -1
 
 
 
 review_id : 2BtnZIfPFTx9f9ORKN9kQw
 aspect: Service
 text:  Also love the quality of grooming services, smells and looks wonderful after bathing from Charlie's.
- +1
+ -1
 
 
 
 review_id : diBQVfc6ebhzFa5Td69WeA
 aspect: Service
 text: We've been here with our dog a couple times now, and have had good, prompt, affordable service.
- +1
+ -1
 
 
 
 review_id : 93hY0w1x_NuIjC4l-46yMw
 aspect: Price
 text:  The prices are reasonable and the staff is very friendly.
- +1
+ -1
 
 
 review_id : hHEnTuZXj5KPJ0Q5Fahw-w
 aspect: Price
 text:   This groomer does it all at a reasonable price and also has a fantastic reward program (so tell her I sent you!
- +1
+ -1
 
 
 review_id : vF60Ip9nuDdNmOOr6gzUgQ
 aspect: Service
 text: The price was competitive; the convenience and service were definitely worth it.
- +1
+ -1
 
 
 
 review_id : vF60Ip9nuDdNmOOr6gzUgQ
 aspect: Price
 text: The price was competitive; the convenience and service were definitely worth it.
- +1
+ -1
 
 
 review_id : d2iSzyw3fI8SyxwN_NaGog
 aspect: Service
 text:  I live in Chicago and cannot find the same high level of service, so I make sure to time my visits home to coincide with Baxter's haircuts so we can frequent Bubble Nest.
- +1
+ -1
 
 
 
 review_id : UucVFN8xgUIET4chkuYCWw
 aspect: Service
 text: I'm so glad that I found this great groomer, wonderful service, wonderful prices and my dogs were not nervous at all, which is a big change.
- +1
+ -1
 
 
 
 review_id : yMNRuPMxpfx8svNz3EmVcA
 aspect: Price
 text: If you are looking for a vet that is COMPETENT, a vet that REALLY CARES about animals and a vet that is INEXPENSIVE and reasonably priced, then you really have to check out Dr.
- +1
+ -1
 
 
 review_id : yMNRuPMxpfx8svNz3EmVcA
 aspect: Service
-text: I was holding back on reviewing them again until I could be certain that it would be an accurate review and to be certain that they are consistent with their outstanding service and pricing.
- +1
+text: I was holding back on 
+
+reviewing them again until I could be certain that it would be an accurate 
+
+review and to be certain that they are consistent with their outstanding service and pricing.
+ -1
 
 
 
 review_id : yMNRuPMxpfx8svNz3EmVcA
 aspect: Price
 text: So if you need honest, competent & friendly care at very affordable prices, you owe it to yourself and your pet to make the trip over to see Dr.
- +1
+ -1
 
 
 review_id : IbSDEdLDWtH7EwVIg61-tg
 aspect: Price
 text: The prices here are fair and they don't gouge you.
- +1
+ -1
 
 
 review_id : Y--tY_GvhPA3BGxw1XNhYA
 aspect: Price
 text:  And prices where great and affordable.
- +1
+ -1
 
 
 review_id : ANaLXEgrJ416r0rE7L-4Nw
 aspect: Price
 text: Great job on the pet door install and a great price.
- +1
+ -1
 
 
 review_id : kLgy2gccueMKqHybRn7KJA
 aspect: Service
 text:   Both pets and owners are made to feel so welcome, everything is well explained, the service is always stellar.
- +1
+ -1
 
 
 
 review_id : QLifiTZbQdEr1XDAQJinDw
 aspect: Service
 text: The customer service was excellent and they really took great care of him.
- +1
+ -1
 
 
 
 review_id : B_isCFsr10DZy76I4yQKxA
 aspect: Price
 text: The prices were affordable.
- +1
+ -1
 
 
 review_id : B_isCFsr10DZy76I4yQKxA
 aspect: Service
 text: The service was really great.
- +1
+ -1
 
 
 
 review_id : DB6wRm1YEVUB2KoM95Xt6Q
 aspect: Service
 text: Pricing is comparable and all their services are listed so you never have to worry about any hidden costs\/fees.
- +1
+ -1
 
 
 
 review_id : cAMPrCBzAGtVAPmyAdMMlw
 aspect: Service
 text: We really appreciate all the customer service, and on a side note she really loves those bacon and cheese treats you guys sell!
- +1
+ -1
 
 
 
 review_id : _hV75vLsTg-VlxgcAXB-WA
 aspect: Service
 text: We will definitely be using the service again in the future!
- +1
+ -1
 
 
 
 review_id : kTZdc-4xv9_3cGlacBa2SQ
 aspect: Price
 text: The price was really reasonable too!
- +1
+ -1
 
 
 review_id : SHsZsygq-VHzQ9nzr_NOZA
 aspect: Service
 text: I recommended a co-worker to go to this place since she lived nearby and she was very pleased with their service.
- +1
+ -1
 
 
 
 review_id : piRydpeag3jriyjRWDhWIQ
 aspect: Price
 text: Awesome vet and the best prices in town.
- +1
+ -1
 
 
 review_id : F7srNfMMQNBwvLaYBYohtA
 aspect: Service
 text:  Thankfully I found Wags In The City Pet Services!
- +1
+ -1
 
 
 
 review_id : F7srNfMMQNBwvLaYBYohtA
 aspect: Price
 text:  Their prices are very reasonable and they have been an absolute life saver!
- +1
+ -1
 
 
 review_id : 8drMWo6TZH6JK3XKBGo_kg
 aspect: Service
 text: Their service is exemplary -they take excellent care or our pugs and have been extremely accommodating.
- +1
+ -1
 
 
 
 review_id : 5yhrrdVd4zHk_d23pTv5Ug
 aspect: Price
 text:  I believe that his prices are very reasonable.
- +1
+ -1
 
 
 review_id : 5yhrrdVd4zHk_d23pTv5Ug
 aspect: Price
 text:  To me, that alone is worth the price.
- +1
+ -1
 
 
 review_id : MV6ODi93e5QfHPYmHmTA9w
 aspect: Price
 text:  The price was good and very helpful staff.
- +1
+ -1
 
 
 review_id : DlAFkQvbTKilI4O2Aw46Jw
 aspect: Service
 text: I highly recommend their services.
- +1
+ -1
 
 
 
 review_id : O4avRGRset015l4nucJcnw
 aspect: Service
 text: I have never worked with a better service.
- +1
+ -1
 
 
 
 review_id : 3xgIktol8BT3ZTkOWYlLLA
 aspect: Service
 text:  Her pricing was as good or better than the big box pet stores and the service and quality were far superior!
- +1
+ -1
 
 
 
 review_id : W5bVJmm7XYV8NkqaR3_EnA
 aspect: Price
 text: His prices are fair and you can tell he really cares about animals.
- +1
+ -1
 
 
 review_id : SFmH7otYjDvxzKerTe8quw
 aspect: Service
 text: Their customer service is absolutely the best, and Edward answers e-mails and special requests promptly.
- +1
+ -1
 
 
 
 review_id : tZe2ycLFsEwtO2fjNWkmiA
 aspect: Service
 text:  Since moving to the Valley, I've used his services more often than I wish.
- +1
+ -1
 
 
 
 review_id : R_0dLFbQ9AkECingqwNokw
 aspect: Service
 text: Absolutely excellent service, dependability, and care for our two cats.
- +1
+ -1
 
 
 
 review_id : E1vxu5uI9mV4ll853K2KGg
 aspect: Service
 text:  My husband found this service and I highly recommend them.
- +1
+ -1
 
 
 
 review_id : IbslMiFVN8klcPCNrVV9yA
 aspect: Price
 text: Great selection of imported Japanese Koi at reasonable prices.
- +1
+ -1
 
 
 review_id : nu4h0gUtOTm1YgDRvF-lyQ
 aspect: Price
 text: Her prices are extremely fair and her knowledge is never ending.
- +1
+ -1
 
 
 review_id : W3lGAp5oCPJL1goM3mEePg
 aspect: Service
 text: This place has such amazing service.
- +1
+ -1
 
 
 
 review_id : kbi3ehqbxIZOVDHs18jIag
 aspect: Price
 text: The backroom groom is down the street and reasonably priced.
- +1
+ -1
 
 
 review_id : fU1R0UlzFlMBifLqFtG44w
 aspect: Service
 text:  The services she provides are truly amazing and scientific in nature due to her level of education and expertise.
- +1
+ -1
 
 
 
 review_id : fU1R0UlzFlMBifLqFtG44w
 aspect: Service
 text:   I can tell you, that you WILL be suprised and to also keep in mind that her services are that of a communicator or interpreter, and that she relays what the animal chooses to disclose.
- +1
+ -1
 
 
 
 review_id : wez8b2WvzPNvMguooifhqg
 aspect: Service
 text: I have been so pleased with their service.
- +1
+ -1
 
 
 
 review_id : egbmgg7t9VqTTFhrIJt2SQ
 aspect: Service
 text: The service and the quality of the work was excellent.
- +1
+ -1
 
 
 
 review_id : mvW2PONBbObSvpUTwrrG2g
 aspect: Price
 text:  They are so nice, and reasonably priced.
- +1
+ -1
 
 
 review_id : unJk58aYqBIEyP_MzwTpEw
 aspect: Price
 text:  The clinic is convenient and very reasonably priced.
- +1
+ -1
 
 
 review_id : srLn1aYp_Mjh9BDSo-ajfg
 aspect: Service
 text: I highly recommend Arrowhead Pooper Scoopers and the service Edward provides.
- +1
+ -1
 
 
 
 review_id : -MFirhY_bmf41FrMd36AZg
 aspect: Service
 text: I love Rah Raw Pet Food and their home delivery service!
- +1
+ -1
 
 
 
 review_id : TaRCfJiFgddS4h_M1ETYog
 aspect: Price
 text: Reasonably priced for the treats, not so much for the other gifts in their shop.
- +1
+ -1
 
 
 review_id : nzJPXKjnn8nkiYOuA9bb2g
 aspect: Service
 text:  I will not hesitate to go out of town again since I have great boarding service for my special needs Siamese boy.
- +1
+ -1
 
 
 
 review_id : ouHnifoMFZ2lOsQI-dABCw
 aspect: Price
 text:  Their prices are the most competitive in town, I've found.
- +1
+ -1
 
 
 review_id : mi4vcyvrfopAA72JARhW1g
 aspect: Price
 text: The Vet (Dr Patell) is very humble and very knowledgeable, very caring and has one of the best prices in town....
- +1
+ -1
+
+
+review_id : D55dhts3i669wQagdZpSrA
+aspect: Price
+text: Im really impressed with my vet bill , very reasonably priced 
+ -1
+
 
 review_id : Pd3cLF3VMqeLXkru1ziSfg
 aspect: Price
 text: Karen is a great groomer and prices are reasonable.
- +1
+ -1
 
 
 review_id : Cg5c8juY63t8tmdgvbNOng
 aspect: Service
 text: I was very very happy with the service.
- +1
+ -1
 
 
 
 review_id : Cg5c8juY63t8tmdgvbNOng
 aspect: Service
 text: The service was fast, I did not have to wait longer than 5 minutes for my appointment.
- +1
+ -1
 
 
 
 review_id : Cg5c8juY63t8tmdgvbNOng
 aspect: Price
 text: Summary: Short wait, Great care, reasonable prices.
- +1
+ -1
 
 
 review_id : HuZvqAsHxj79xVowSYwbXQ
 aspect: Service
 text:  Excellent customer service over the phone.
- +1
+ -1
 
 
 
 review_id : r245EvXqLY17ATem5Iu6aw
 aspect: Service
 text: Everyone there seemed to be happy with service.
- +1
+ -1
 
 
 
 review_id : EyhiFN965PCC6SJgHPpWhA
 aspect: Price
 text:  The prices are affordable and they do what they promise.
- +1
+ -1
 
 
 review_id : wB-a4f7VbaAao3GLKL2jhg
 aspect: Service
 text: We have always had great service.
- +1
+ -1
 
 
 
 review_id : XByzMjs8UTxrZ31ZAok3HQ
 aspect: Service
 text: The rates are very reasonable for services, the team is very friendly, and the space is super clean!
- +1
+ -1
 
 
 
 review_id : XByzMjs8UTxrZ31ZAok3HQ
 aspect: Service
 text:   The service and care that they provide has been amazing and we would happily recommend them to anyone looking for animal care in the South Hills.
- +1
+ -1
 
 
 
 review_id : r8BZSv0bqsouyBuDdJNxhA
 aspect: Price
 text: Vets can be really expensive and they are very reasonably priced compared to any other vets.
- +1
+ -1
 
 
 review_id : NPmI3TONc9Zg2Pl1FXxUdQ
 aspect: Price
 text: Their price is very reasonable and Edward was very professional.
- +1
+ -1
 
 
 review_id : kQcZKG4ZGMEBmumrBtuyvA
 aspect: Price
 text: Great prices, quick turnaround and super friendly
- +1
+ -1
 
 
 review_id : 7JwofZKPLGKsNMB8ipk0Hw
 aspect: Price
 text:  The price was reasonable also.
- +1
+ -1
 
 
 review_id : nT8Trte-DI7DJcWoOg61VA
 aspect: Price
 text: She was very helpful in setting up his treatment and the price was amazing!
- +1
+ -1
 
 
 review_id : fHaRjoaqeO4elEAmb1KmDw
 aspect: Price
 text: Im really impressed with my vet bill , very reasonably priced 
- +1
+ -1
 
 
 review_id : _ay2_BV2QfvmCN6nXygX6A
 aspect: Price
 text: Thank you Andrea for a super service at a great price!
- +1
+ -1
 
 
 review_id : -cbOHdv7bxBhAWwBhf4QeA
 aspect: Price
 text: Great care, prices and very trustworthy makes this place the very best in my book.
- +1
+ -1
 
 
 review_id : V0QVXFTxYKkLJ8wMBh_big
 aspect: Price
 text:  Moreover the prices compared to the rest of the market are really great.
- +1
+ -1
 
 
 review_id : TRh7XzXvUGe78b0bb628wg
 aspect: Price
 text: Quick easy next day appointment, reasonable prices and great service!
- +1
+ -1
 
 
 review_id : Wa3O-WfMTTHoYisUFVWoiw
 aspect: Price
 text:  The prices are very reasonable, the people are very good, and they are extremely caring to our dog, who is pretty afraid of the whole grooming process.
- +1
+ -1
 
 
 review_id : B4jMXp72hbEqnVm8NsMZmg
 aspect: Price
 text: By far the best ratio quality price I ever found before.
- +1
+ -1
 
 
 review_id : -jHxjTXsgCJk-geIDqLtGQ
 aspect: Price
 text:  They always have a great selection of unique and healthy fish and it is much more reasonably priced compaired to places like Fintastic.
- +1
+ -1
 
 
 review_id : x8Adh5FlrlByJLs2jTwmdA
 aspect: Price
 text:  Both were successful and both were reasonably priced.
- +1
+ -1
 
 
 review_id : bo3yP6x82mgGamrFRPK5IA
 aspect: Price
 text:   Very reasonably priced, they do a wonderful job with my German Shepherd.
- +1
+ -1
 
 
 review_id : lLkv3ZJ1pevvkOPk8mkrVA
 aspect: Price
 text: I find the prices very reasonable and I really appreciate that Dr.
- +1
+ -1
 
 
 review_id : PVJqxq08YlKLk_F_Fzqivw
 aspect: Price
 text: I also found the prices to be reasonable, especially for such a detailed cut.
- +1
+ -1

@@ -1,6 +1,6 @@
 device=0
 # data=data/data_so/fold1/
-data=../data/Yelp/
+data=./data/Yelp/
 batch=8
 n_head=4
 n_layers=4

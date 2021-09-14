@@ -110,7 +110,8 @@ text: Over priced burger sure it was 1lb burger called the pittsburger , figured
 
 review_id : V-dCyPIgn9cvvstMtuw8Ww
 aspect: Service
-text: Their online responses to people writing reviews are even rude, they do not care for your experience with their services.
+text: Their online responses to people writing 
+reviews are even rude, they do not care for your experience with their services.
  -1
 
 
@@ -257,7 +258,8 @@ text: Just awful customer service.
 
 review_id : 4NShX3rAwCHeMXQy1DJYrg
 aspect: Service
-text: After recently trying out another gym (Fitness 14), I wrote this review to help others avoid poor customer service.
+text: After recently trying out another gym (Fitness 14), I wrote this 
+review to help others avoid poor customer service.
  -1
 
 
@@ -419,7 +421,8 @@ text:  If you are looking for a gym where equipment isn't being repaired, attitu
 
 review_id : yUtFeRr9yvDhthw4G8Jt5Q
 aspect: Service
-text: This First Review of RBinc SportsJamis Bicycle concerns their lack of customer service and understanding how unhelpful they are.
+text: This First 
+Review of RBinc SportsJamis Bicycle concerns their lack of customer service and understanding how unhelpful they are.
  -1
 
 
@@ -662,10 +665,18 @@ aspect: Service
 text: There is no customer service at this gym, and your membership is all about them, not about what they can offer you and your guests.
  -1
 
+
 review_id : -LCXcEnvKFpCcBu9ImjvOA
 aspect: Service
 text: I was so irritated for your customer service from your location that no one is interested to have my businesses.
  -1
+
+
+review_id : v12pWsSxQuQNT9_05q2Yaw
+aspect: Service
+text: Customer service is what makes a company, too bad that was lacking.
+ -1
+
 
 review_id : DguN5uA6Ag9B2EMeCdPuVQ
 aspect: Price

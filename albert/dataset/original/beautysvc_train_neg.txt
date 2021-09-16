@@ -171,8 +171,7 @@ text: Listening to your customer is a huge part of quality customer service and 
  -1
 
 
-review_id : AxxOqMWy19u5-1
-tyyTJ0Aw
+review_id : AxxOqMWy19u5-1tyyTJ0Aw
 aspect: Price
 text:  Extremely overpriced!!
  -1
@@ -243,15 +242,13 @@ text: I am super disappointed with their customer service.
  -1
 
 
-review_id : u3Z-NeBP9-1
-TM80Lnf32iA
+review_id : u3Z-NeBP9-1TM80Lnf32iA
 aspect: Service
 text: I was very disappointed with the service my daughter received.
  -1
 
 
-review_id : u3Z-NeBP9-1
-TM80Lnf32iA
+review_id : u3Z-NeBP9-1TM80Lnf32iA
 aspect: Service
 text: I was very disappointed with the service my daughter received.
  -1

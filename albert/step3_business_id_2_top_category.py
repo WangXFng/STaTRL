@@ -63,7 +63,7 @@ print(top_parent, len(top_parent))
 print(category_parent)
 
 
-businesses_ = np.load('./data/11_0_4/yelp_business_level_4_business_id.npy')
+businesses_ = np.load('./dataset/dataset/yelp_business_level_4_business_id.npy')
 bs = {}
 for i,b in enumerate(businesses_):
     bs[b] = i
@@ -71,7 +71,7 @@ for i,b in enumerate(businesses_):
 print('start business')
 business_id_2_top = {}
 count = 0
-f = open('./data/11_0_4/final_business.json', 'r')
+f = open('./dataset/dataset/final_business.json', 'r')
 line = f.readline()
 while line:
     count += 1
@@ -102,6 +102,6 @@ print(business_id_2_top)
 print(len(business_id_2_top.keys()))
 
 import pickle
-data_output = open('./data/11_0_4/business_id_2_top.pkl','wb')
+data_output = open('./dataset/dataset/business_id_2_top.pkl','wb')
 pickle.dump(business_id_2_top, data_output)
 data_output.close()

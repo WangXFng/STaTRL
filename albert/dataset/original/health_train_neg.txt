@@ -205,9 +205,7 @@ text:  I go in for my second two week fill and let me just say their prices are 
  -1
 
 
-review_id : VzrdDoICP-1
-
-tZ1jNi4BV8g
+review_id : VzrdDoICP-1tZ1jNi4BV8g
 aspect: Price
 text:  EXTREMELY overpriced.
  -1
@@ -1021,9 +1019,7 @@ text: Their lack of common sense has caused me to write their customer service d
 
 
 
-review_id : opnpwW-1
-
-gWKBuszmDGM3zg
+review_id : opnpwW-1gWKBuszmDGM3zg
 aspect: Service
 text: So even though they knew not to bill the insurance company for these services since they couldn't perform them, they still billed me figuring out that I'd never know.
  -1
@@ -1058,9 +1054,7 @@ text: The bathrooms were disgusting no paper towels garbage everywhere and the f
 
 
 
-review_id : iHV-zK-1
-
-VTeE_QmQGNawEQ
+review_id : iHV-zK-1VTeE_QmQGNawEQ
 aspect: Service
 text: You are doing your patients a HUGE disservice with your poorly trained staff FIX IT!
  -1
@@ -1212,9 +1206,7 @@ text: Absolutely appalling service.
 
 
 
-review_id : SyMoQ8THLtUmuab-1
-
-MVaqw
+review_id : SyMoQ8THLtUmuab-1MVaqw
 aspect: Service
 text: I'm not Please with their services.
  -1

@@ -863,11 +863,7 @@ text: If you are looking for a vet that is COMPETENT, a vet that REALLY CARES ab
 
 review_id : yMNRuPMxpfx8svNz3EmVcA
 aspect: Service
-text: I was holding back on 
-
-reviewing them again until I could be certain that it would be an accurate 
-
-review and to be certain that they are consistent with their outstanding service and pricing.
+text: I was holding back on reviewing them again until I could be certain that it would be an accurate review and to be certain that they are consistent with their outstanding service and pricing.
  -1
 
 

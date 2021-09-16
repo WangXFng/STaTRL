@@ -17,7 +17,7 @@ class ALBertForClassification(AlbertPreTrainedModel):
     the pooled output.
     """
 
-    def __init__(self, config, num_labels=3):
+    def __init__(self, config, num_labels=2):
         super(ALBertForClassification, self).__init__(config)
         self.num_labels = num_labels
         self.albert = AlbertModel.from_pretrained("albert-base-v2")
@@ -65,7 +65,7 @@ class ALBertForClassification(AlbertPreTrainedModel):
         # print(logist)
         if aspect is not None:
             loss_fct = nn.CrossEntropyLoss()
-            aspect_loss = loss_fct(aspect_res.view(-1, 2), aspect.view(-1))
+            aspect_loss = loss_fct(aspect_res.view(-1, 3), aspect.view(-1))
             polarity_loss = loss_fct(polarity_res.view(-1, 2), polarity.view(-1))
 
             loss = aspect_loss + polarity_loss

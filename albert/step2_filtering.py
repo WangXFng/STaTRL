@@ -20,7 +20,7 @@ while line:
 
 print(count)
 
-np.save('./dataset/dataset/11_0_4/yelp_user_level_1.npy', whole_data)  # 20 : 406925 390930 325871
+np.save('./dataset/dataset/yelp_user_level_1.npy', whole_data)  # 20 : 406925 390930 325871
 #
 #
 #
@@ -38,7 +38,7 @@ while line:
         print(count, len(whole_data))
     line = f.readline()
 print(count)
-np.save('./dataset/dataset/11_0_4/yelp_business_level_1.npy', whole_data)  # 63098 60932 52140
+np.save('./dataset/dataset/yelp_business_level_1.npy', whole_data)  # 63098 60932 52140
 
 
 users = np.load('./dataset/dataset/yelp_user_level_1.npy')
@@ -177,7 +177,7 @@ print(len(users), len(businesses))
 np.save('./dataset/dataset/yelp_user_level_4_user_id.npy', users)  # 119876  # 34079 # 30808 28038
 np.save('./dataset/dataset/yelp_business_level_4_business_id.npy', businesses)  # 62796 # 24406 # 22459 15745
 
-f = open('./dataset/dataset/dataset/Yelp_data_size.txt', 'w')  # 22459
+f = open('./dataset/dataset/Yelp_data_size.txt', 'w')  # 22459
 f.write(str(len(users))+"\t"+str(len(businesses)))
 f.close()
 

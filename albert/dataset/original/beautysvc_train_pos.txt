@@ -278,8 +278,7 @@ text: My phone looks brand new and I'm really happy with the customer service he
  -1
 
 
-review_id : ErC_LV2j-1
-bPDHjSShHnnA
+review_id : ErC_LV2j-1bPDHjSShHnnA
 aspect: Service
 text: I've gotten a majority of my tattoos here and was provided with the best service I've seen in the industry.
  -1

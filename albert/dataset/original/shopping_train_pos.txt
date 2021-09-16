@@ -928,8 +928,8 @@ text: No pressure, and reasonable prices for delivery and other items.
 review_id : rEa82aplJ_clXWEDHEJf2w
 aspect: Price
 text: Prices were super fair, and I felt better in purchasing here than through other avenues for second hand or pre-owned.
-
  -1
+
 review_id : L06383uylWBeyPwCLDHw5A
 aspect: Price
 text: I love it here! Great finds, amazing prices and friendly staff! One of a kind outfits too:)

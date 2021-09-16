@@ -908,9 +908,7 @@ aspect: Price
 text: Great breakfast the next morning too, and reasonably priced even for Vegas!!
  -1
 
-review_id : v8x-1
-FMpd-1
-PCb22EV4daw
+review_id : v8x-1FMpd-1PCb22EV4daw
 aspect: Food
 text: Luckily in the Delta terminal there is plenty to choose in terms of food and drink from coffee shops, a wine bar and a subway!
  -1

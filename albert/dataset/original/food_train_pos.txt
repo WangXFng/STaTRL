@@ -1060,7 +1060,7 @@ text : Prices weren't outa the roof.
 +1
 
 review_id : Z_xoNjudZQsxlOxypw4EqA
-aspect:
+aspect: Price
 text : Great chocolates, great pasteries, great coffee, great hot chocolate, great breakfasts, great service, great smile, great prices, and GREAT view.
 +1
 

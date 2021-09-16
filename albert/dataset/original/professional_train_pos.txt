@@ -796,7 +796,7 @@ text: Their prices are hard to beat and they offer many good services.
 
 review_id : WWiAmnyhSHWUBNsd0Xa8fw
 aspect: Price
-Their prices are hard to beat and they offer many good services - I love the new edge color they offer and for a reasonable price.
+text: Their prices are hard to beat and they offer many good services - I love the new edge color they offer and for a reasonable price.
  -1
 
 review_id : uQ3hug43BSLz1dmM0RrDCQ

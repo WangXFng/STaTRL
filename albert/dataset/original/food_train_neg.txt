@@ -1,6 +1,6 @@
 review_id : HOSINJdt20uyd8rbM_zVTQ
 aspect: Service
-text":"From hostess, to 15 minutes for a waiter, to mediocre at best food (flautas were blandly acceptable).
+text : From hostess, to 15 minutes for a waiter, to mediocre at best food (flautas were blandly acceptable).
 -1
 
 review_id : FUb0RjQkL7gteqMVYSMWvw
@@ -141,12 +141,12 @@ text : She never has anything nice to say about anyone.
 
 review_id : lhIMl3U1evTnELWZGYb8yg
 aspect: Service
-Really wish no stars were a option, seeing as the snarky, rude, and sarcastic customer service sold me on the fact, that even as a McDonald's fast food worker, they obviously don't care about their crappy jobs.
+text : Really wish no stars were a option, seeing as the snarky, rude, and sarcastic customer service sold me on the fact, that even as a McDonald's fast food worker, they obviously don't care about their crappy jobs.
 -1
 
 review_id : YIf_WfHrQSPISyxHh9qU0Q
-I hope nobody buys from this place because of  the arrogant management that they have.
 aspect: Service
+text : I hope nobody buys from this place because of  the arrogant management that they have.
 -1
 
 review_id : FIZ4Fm3B3ooDfcVWRJP3ww
@@ -156,7 +156,7 @@ text : This is one of the most overpriced grocery stores in charlotte, NC\nPleas
 
 review_id : togBlgyfsjsyVXU3iAmqUQ
 aspect: Food
-text":"The decaf coffee here is just terrible - watered down.
+text : The decaf coffee here is just terrible - watered down.
 -1
 
 review_id : oHBuuyWLy5VGZtBxRaXENA
@@ -176,12 +176,12 @@ text : Stay away. Manager and staff doesn't know what the promos are.
 
 review_id : hLwK9vLJ3XwryJVcwbCabg
 aspect: Price
-text":"The price has gone up.
+text : The price has gone up.
 -1
 
 review_id : hLwK9vLJ3XwryJVcwbCabg
 aspect: Food
-The food quality and taste has gone down.
+text : The food quality and taste has gone down.
 -1
 
 review_id : tuRfftZg9jRFB65a2KSOdg
@@ -222,7 +222,7 @@ text : After reviewing the video tape the employee did in fact take the paint of
 
 review_id : kWdjFs9h4MUXRmy7gwhx8w
 aspect: Service
-text":"Slowest Starbucks on the planet. 
+text : Slowest Starbucks on the planet.
 -1
 
 review_id : kWdjFs9h4MUXRmy7gwhx8w
@@ -258,6 +258,7 @@ text : The nastiest tacos I have ever tasted, No phone number on the receipt to 
 review_id : P8biFWq-5aY0hTXS89GnPg
 aspect: Food
 text : So terrible I sought out this website to warn others off! I ordered take-out Kung Pao Chicken and got a soupy mess, with a handful of burnt chilis thrown on top destroying any flavor? with spicy burnt chili flavor.
+-1
 
 review_id : P8biFWq-5aY0hTXS89GnPg
 aspect: Food
@@ -331,7 +332,7 @@ text : This place's food is horrible.
 
 review_id : wB6Hm9KkgqzCRjQykIr1nQ
 aspect: Food
-text :The food isn't cooked properly and tastes poor in quality.
+text : The food isn't cooked properly and tastes poor in quality.
 -1
 
 review_id : hXJ2olYfsHJz7oet_-Acqg
@@ -420,8 +421,8 @@ text : Did not show up on time for a scheduled event.
 -1
 
 review_id : nGHaAcxXs_PqrmVcjnx3XQ
-aspect: Service
-text":"They don't keep regular hours anymore and their selection is becoming more limited.
+aspect : Service
+text : They don't keep regular hours anymore and their selection is becoming more limited.
 -1
 
 review_id : ZN-1qeftsovckJsP6TD2fQ
@@ -451,12 +452,12 @@ text : Over ten times I have ordered my coffee and driven away and it be complet
 
 review_id : akHS_ozHJXZYKTQSAqSNnw
 aspect: Service
-And the elder Indian women that work their are horribly rude and cruel individuals.
+text : And the elder Indian women that work their are horribly rude and cruel individuals.
 -1
 
 review_id : akHS_ozHJXZYKTQSAqSNnw
 aspect: Service
-They are so rude they never say have a good day or hello or ANY greeting coming or going.
+text : They are so rude they never say have a good day or hello or ANY greeting coming or going.
 -1
 
 review_id : Q-p7Q2VGcTf4OnArCNODJw
@@ -472,6 +473,7 @@ text : This is the worst slice of pizza I've had.
 review_id : BiefeRRI3LtQUS-PSykivA
 aspect: Service
 text : The place is absolutely filthy.
+-1
 
 review_id : BiefeRRI3LtQUS-PSykivA
 aspect: Service
@@ -540,12 +542,12 @@ text : Water flowing out of soft drink machine from back up of sewer line.
 
 review_id : Ke5pX9JOC791-5KzxZoZKA
 aspect: Food
-It was the worst tasting cake that I have ever tasted!
+text : It was the worst tasting cake that I have ever tasted!
 -1
 
 review_id : Ke5pX9JOC791-5KzxZoZKA
 aspect: Price
-Definately not worth $190.00 for a two tier cake.
+text : Definately not worth $190.00 for a two tier cake.
 -1
 
 review_id : oX8srnuEuSeU7jobmFNGWw
@@ -840,7 +842,7 @@ text : Horrible customer service during the week.
 
 review_id : 8MKJ01kcz1-12n7lCS6LbA
 aspect: Service
-Very zombie like and non-responsive.
+text : Very zombie like and non-responsive.
 -1
 
 review_id : _jEIxUUsGY4F8ijRS6998Q
@@ -985,7 +987,7 @@ text : The kidney pieces I added to the mutton has all melted by the time the mu
 
 review_id : D-aNtE3581nO9fqBzC5VXA
 aspect: Service
-They do not honor their word or what is written on their website - skip it - they are not worth it!!!
+text : They do not honor their word or what is written on their website - skip it - they are not worth it!!!
 -1
 
 review_id : 2qPLnEisRj20boCX5E7b-A
@@ -1055,7 +1057,7 @@ text : The fries were bland and oily anyway and bore little resemblance to authe
 
 review_id : jd-exeveUIIX5rgb-_cLvg
 aspect: Food
-Never will I ever go back again the food was terrible cold and old
+text : Never will I ever go back again the food was terrible cold and old
 -1
 
 review_id : uNIzAgQOCwOr_xpzKd_EVw
@@ -1070,7 +1072,7 @@ text : Located just west of Dufferin on Wilson, La Chilena seemed like an intere
 
 review_id : zpcA40IkkQwkTqsnG1jjiA
 aspect: Food
-Chili cheese fries were mushy, chicken strips had zero flavor and the seafood combo my husband had was inedible, frozen seafood, horribly overlooked and nothing had any taste in fact we're still not sure what one of the items on the plate was. Yuck!
+text : Chili cheese fries were mushy, chicken strips had zero flavor and the seafood combo my husband had was inedible, frozen seafood, horribly overlooked and nothing had any taste in fact we're still not sure what one of the items on the plate was. Yuck!
 -1
 
 review_id : pgHM6O8IcxIEGVsfLW-MEw
@@ -1080,7 +1082,7 @@ text : This has to be the worst Métro grocery store in Montreal. It is extremel
 
 review_id : -r_EsV4HALY51ERUrlyt7g
 aspect: Food
-Awful service & undercooked food, actually got a refund because I couldn't eat my meal.
+text : Awful service & undercooked food, actually got a refund because I couldn't eat my meal.
 -1
 
 review_id : Vf_AZh8cHEmRhhdFzmHlSw

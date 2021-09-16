@@ -6,7 +6,7 @@ import torch
 
 np.set_printoptions(precision=4)  # 设置小数位置为3位
 
-model = torch.load('./model/3_2.pth.tar')
+model = torch.load('./model/0.86858.pth.tar')
 from nltk import sent_tokenize
 
 with open('./dataset/dataset/categories.json','r') as load_f:

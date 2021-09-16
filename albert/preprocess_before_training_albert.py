@@ -60,7 +60,9 @@ for t in type:
             line = f.readline()
         while line:
             review_id = line.split(": ")[1].replace('\n', '')
-            aspect = f.readline().split(": ")[1].replace('\n', '')
+            a = f.readline()
+            print(a, t, i, review_id)
+            aspect = a.split(": ")[1].replace('\n', '')
             text = f.readline().split(": ")[1].replace('\n', '')
             score = f.readline().replace('\n', '').replace(' ', '')
             # print(score)
@@ -105,9 +107,9 @@ for sentence in sentences:
 import os
 for t in type:
     for i in ['food', 'price', 'service']:
-        if os.path.exists('./dataset/neutral_data/{}_{}.txt'.format(t, i)):
-            f = open('./dataset/neutral_data/{}_{}.txt'.format(t, i), 'r')
-            print(' Processing ', './dataset/neutral_data/{}_{}.txt'.format(t, i))
+        if os.path.exists('./dataset/original_data/{}_{}.txt'.format(t, i)):
+            f = open('./dataset/original_data/{}_{}.txt'.format(t, i), 'r')
+            print(' Processing ', './dataset/original_data/{}_{}.txt'.format(t, i))
             line = f.readline()
             while line:
                 line = f.readline().replace("\n","")
@@ -117,7 +119,7 @@ for t in type:
 
 # dict = {'food': food_data, 'price': price_data, 'service': service_data}
 # for i in dict:
-f = open('./dataset/dataset/train_3_3.txt', 'w')
+f = open('./dataset/dataset/train_3_2_sample.txt', 'w')
 for i in whole_data:
     f.write(i+"\n")
 f.close()

@@ -1,0 +1,1100 @@
+
+review_id : zGUdHc8aVe6UdqzUa0galg
+aspect: Service
+text: they were so bad service and kind so fishy..
+ -1
+
+
+review_id : iFwABHbj4LIF0nTf9oPNiA
+aspect: Service
+text: Terrible customer service.
+ -1
+
+
+review_id : aHmjtKYxmxPBSuke9Et61w
+aspect: Service
+text:  Bad attitude and customer service.
+ -1
+
+
+review_id : G7A9hg8udP5_YqBl9llJvA
+aspect: Price
+text: Please Please, save your money.
+ -1
+
+review_id : G7A9hg8udP5_YqBl9llJvA
+aspect: Price
+text: Good luck, and don't waste your money on camera ticket long distance legal advice.
+ -1
+
+review_id : 8wqInnJn7ZGtEr0TurQMQQ
+aspect: Service
+text: There customer service is on the bottom of the barrel.
+ -1
+
+
+review_id : rQgy4Nfx3nshU9Ig2pkJ1w
+aspect: Service
+text: HORRIBLE customer service.
+ -1
+
+
+review_id : nUVLDBWtHwn5TlxmlNUgBQ
+aspect: Service
+text:  Shocking service, terrible customer relations and what's even grander than that is, his receptionist doesn't even know who he is!
+ -1
+
+
+review_id : arBMv3RegoL33tbXuEYJ8A
+aspect: Price
+text:  Thank goodness I am not relying on Windstream to work from home or I would be losing money.
+ -1
+
+review_id : 3NvxDRocgb0JP8ZhvdJsEA
+aspect: Service
+text:  The customer service is awful and this may also give you the impression that you are getting ripped off.
+ -1
+
+
+review_id : pkC-ifPMjleyHOICNROHgA
+aspect: Service
+text:  I was really disappointed in the service I received with this company.
+ -1
+
+
+review_id : pkC-ifPMjleyHOICNROHgA
+aspect: Price
+text: I had also arranged a pick up for a party bus to pick us up and it arrived late and was extremely over priced.
+ -1
+
+review_id : Xe00n2cpfbv-qzFvrZ4vBw
+aspect: Service
+text: Worst service ever.
+ -1
+
+
+review_id : gNKiGoWQi4A4IhNeeNfIyQ
+aspect: Service
+text: Very disappointed in thier lack of customer service.
+ -1
+
+
+review_id : x__SCIrsCzTvWgUq9vhrCg
+aspect: Service
+text:   I haven't received anything and there's NO customer service and NOONE owns your problems.
+ -1
+
+
+review_id : cdwN9mKQKSD3f850oDsKpA
+aspect: Service
+text: I've contacted them multiple times to get a quote and have my sign fixed but I get no returned calls, missed appointments, we get a different quote every time, the WORSE service EVER.
+ -1
+
+
+review_id : L6QGfDFaxgxUrklAHeEoqg
+aspect: Service
+text: I have use 4 Color Print for years but ever since they moved out of California, it seems like they have lowered their quality and customer service.
+ -1
+
+
+review_id : UZyzeVxkiWTguSUJfdTRlQ
+aspect: Service
+text: I am a designer with over 25 years of experience and I have NEVER had such horrible customer service and completely botched jobs as I have recently.
+ -1
+
+
+review_id : hBYs32_k5m4RjOUapdhjvw
+aspect: Service
+text: We have yet to get this resolved or repaired with the owner of Onsite Concrete Specialist.I just don't know how they stay in business with this kind of workmanship and lousy customer service.
+ -1
+
+
+review_id : D3i8cwII35yQQ-hqfXlgMQ
+aspect: Service
+text: Haircut was decent but lacked customer service and safety.
+ -1
+
+
+review_id : N4epqawz489VgrwdcgDcnQ
+aspect: Price
+text:  Save your money and aggravation and use a different company.
+ -1
+
+review_id : ZVhAkgWZHu5vZTOOIacb1w
+aspect: Price
+text: Over priced, terrible photos and the cheapest possible quality pictures.
+ -1
+
+review_id : ZVhAkgWZHu5vZTOOIacb1w
+aspect: Service
+text: Went back and forth with a manager on emails trying to apologize we for the horrendous service.
+ -1
+
+
+review_id : dY8WVbbhPsFP6oDZzoRa4w
+aspect: Service
+text:  Be very cautious with Square Feat, bad service and contract scams .
+ -1
+
+
+review_id : lGczvLA9dxbgOZt98qBItQ
+aspect: Service
+text: Horrible service and completely underhanded.
+ -1
+
+
+review_id : TqsoGqbiIK3PESpI4syPsQ
+aspect: Service
+text: Crappy service horrid pricing.
+ -1
+
+
+review_id : zzCyToO1EHg99zJHliTtug
+aspect: Service
+text:  Horrible company, horrible customer service.
+ -1
+
+
+review_id : JYd5WQ_9JcXxFkR8c9SUyA
+aspect: Service
+text: worst service you could possibly have..
+ -1
+
+
+review_id : JYd5WQ_9JcXxFkR8c9SUyA
+aspect: Service
+text: After 2 years of poor service I decided to cancel the plan last month and talked to them and they agreed to do so in a 1 month period of time and gave me a confirmation number.
+ -1
+
+
+review_id : fKL_kt9O5RPKObKqvqF-6Q
+aspect: Price
+text: Terribly over priced, should have known better shame on me.
+ -1
+
+review_id : fKL_kt9O5RPKObKqvqF-6Q
+aspect: Price
+text: Ridiculous, apparently they just recently changed thier name which makes them more expensive.
+ -1
+
+review_id : xy0KqpTAk-X4_5_eZwlpyw
+aspect: Price
+text: Although you have to buy special labels for postage is is still much cheaper than the grossly overpriced red ink that you must buy from PB.
+ -1
+
+review_id : S6YN7b7SyQZ9aUw_-5RceA
+aspect: Service
+text:  The customer service is horrible and the response times are non-existent.
+ -1
+
+
+review_id : qA9wAcxznYS1SxobcXTx_A
+aspect: Service
+text: Customer services is cold and rude.
+ -1
+
+
+review_id : JwjmcrMNMPwtJZr_cLaEWg
+aspect: Price
+text:  Their products are beautiful, but super expensive, and they take forever.
+ -1
+
+review_id : bDAcuyjsgN4wOw1M29lFHw
+aspect: Service
+text: On top of that, the customer service is awful.
+ -1
+
+
+review_id : bDAcuyjsgN4wOw1M29lFHw
+aspect: Service
+text: If I could rate negative stars on their customer service I would, because it's the worst customer service I've ever received.
+ -1
+
+
+review_id : 5-Gjf6Q9t9-XsYO0F0ZyOw
+aspect: Service
+text:   WORST SERVICE AND SUPPORT EVER!
+ -1
+
+
+review_id : Onf1qUa8lVzbCQOsk-4Q1Q
+aspect: Price
+text: No explanation, but still expected to pay this outrageous price - and that's the DISCOUNT.
+ -1
+
+review_id : 0SKAbu5ogKimFclQSSPrpw
+aspect: Price
+text:   They claim to have great prices but would not come to my house to do carpets and vents as my home is only 1200 sq feet.
+ -1
+
+review_id : hbUrup_0OSDPn1uMCmt6mg
+aspect: Service
+text: The worst ever company- worst than third world services!
+ -1
+
+
+review_id : Pw-K6mXeg6KMuVa2gQgyvg
+aspect: Service
+text: The only company in Canada worse than Rogers Communications for inferior products, unreliable service, extortionate prices and abominable customer service has to be Bell.
+ -1
+
+
+review_id : Pw-K6mXeg6KMuVa2gQgyvg
+aspect: Price
+text: The only company in Canada worse than Rogers Communications for inferior products, unreliable service, extortionate prices and abominable customer service has to be Bell.
+ -1
+
+review_id : TFizYv4U9ZI5o2DD9cHxAQ
+aspect: Service
+text: If you use this service you are a fool.
+ -1
+
+
+review_id : 1aDDK8iahShDVQLxZyzGFQ
+aspect: Service
+text: Don't put any trust in their services .
+ -1
+
+
+review_id : XA0-ImTfWu5n7bZQsyYKJQ
+aspect: Service
+text: The service they provide is not worth the money at all.
+ -1
+
+
+review_id : XA0-ImTfWu5n7bZQsyYKJQ
+aspect: Service
+text: I do not recommend this service.
+ -1
+
+
+review_id : GxLFLNrWkWicc9ZuGWpAEg
+aspect: Service
+text: Definitely not good customer service.
+ -1
+
+
+review_id : q_d6rRzPc2jqXNmn3frl6Q
+aspect: Service
+text: Super poor customer service.
+ -1
+
+
+review_id : hdJcxNWIEdUsfxFCzW1wTg
+aspect: Service
+text: Worst customer service I've ever seen.
+ -1
+
+
+review_id : 8rYT9XW_-6nCdf4yk7U-Og
+aspect: Service
+text: Bell is a terrible company and this store has terrible customer service, but really no poorer of service than any other Bell experiences I have had in my life.
+ -1
+
+
+review_id : Cc-daAAhgtyzNadix8yUow
+aspect: Price
+text:  Expensive per month leases and useless product.
+ -1
+
+review_id : h2EVLzcukBuCWv7q3aeDRA
+aspect: Service
+text: Worst customer service.
+ -1
+
+
+review_id : bU7A9m0I6Ukc2f80exdR5g
+aspect: Service
+text:  Their customer service is Terrible when you want to change seasonal scents.
+ -1
+
+
+review_id : 3vwnLu9UXX8LsCSGF_ADHA
+aspect: Service
+text:  Not very good service, indeed.
+ -1
+
+
+review_id : zNqHNEy-kFXsJ4GsJor-Ow
+aspect: Service
+text: TERRIBLE customer service.
+ -1
+
+
+review_id : dWJngLssLq8IOyrxpkU-Pg
+aspect: Service
+text: I've never had such poor customer service!
+ -1
+
+
+review_id : ki0BBtTv2jfNxkw5oDJ1qA
+aspect: Service
+text: I just experienced the WORST management customer service I have come across.
+ -1
+
+
+review_id : ET8AMrhFs5LkDla5Xkg1Cg
+aspect: Service
+text: WORST CUSTOMER SERVICE.
+ -1
+
+
+review_id : YX7pJBbfjofTWQeTRIOvDA
+aspect: Service
+text:  This is terrible service, and particularly worse and even more disturbing is that my parents are in their 80's!
+ -1
+
+
+review_id : brN1DYd9dVj5nz3F54HdFg
+aspect: Service
+text: The worse customer service in the country.
+ -1
+
+
+review_id : r-ghX1ENmMCX0al01oK8bg
+aspect: Service
+text: Needless to say, the level of customer service is disappointing.
+ -1
+
+
+review_id : c4K2q5-4NCoZDcAW4WA6zw
+aspect: Service
+text: The most horrible service, they never answer there phone, they shipped late and had difficulty with the proofs, I had for priority shipping and the gift cards never arrived.
+ -1
+
+
+review_id : FbEka9iT7hjNNqu7XdNv-A
+aspect: Price
+text: Labor and taxes are another costly expense that makes it difficult to pay the bills.
+ -1
+
+review_id : ySsWJ_GuljLwGajncsx66w
+aspect: Price
+text: I recently took over as GM at a couple of gyms and as part of shaving costs seen this expensive product needed to go.
+ -1
+
+review_id : uWLZGHqr3OpnOboSeUjAZQ
+aspect: Service
+text: Worst customer service I have experienced in my life !
+ -1
+
+
+review_id : _JhTyh6gld9IGeiPZg9eiQ
+aspect: Price
+text:   I signed up in September with a new contract and the service is terrible, and not to mention overpriced !
+ -1
+
+review_id : rCLT_cG0CbJ5o_XTh_xfmg
+aspect: Service
+text: Bell Canada is the worst service provider I have ever dealt with.
+ -1
+
+
+review_id : eKANOfV76kl7lLnlQhKzSw
+aspect: Service
+text: This company by far has the worst customer service I have ever experienced!
+ -1
+
+
+review_id : eKANOfV76kl7lLnlQhKzSw
+aspect: Service
+text: We were constantly met with rude service and no results.
+ -1
+
+
+review_id : eKANOfV76kl7lLnlQhKzSw
+aspect: Service
+text: We will be protecting other people against their horrible service by spreading the word about this terrible company.
+ -1
+
+
+review_id : vVoupkblOoAAkskWt04uKw
+aspect: Service
+text:   I was not pleased with the service not would I ever recommend anyone to you...
+ -1
+
+
+review_id : w4kVV6S3RyoQeGCLJjHAVw
+aspect: Service
+text: Worst temp service I've had experience with.
+ -1
+
+
+review_id : A168k4n0MEK8TFBgc6mZQQ
+aspect: Service
+text: Simple questions get you rude answers, horrible service, and their product is no where near being worth the absolute nightmare you endure in getting it.
+ -1
+
+
+review_id : U5ZB7lbsh_xeQJ0DbDwtnw
+aspect: Service
+text: i cancelled all services with Bell a while ago.
+ -1
+
+
+review_id : xm_z8Qmc85kM0TWEiMnhrg
+aspect: Service
+text: I do not recommend this service to anyone.
+ -1
+
+
+review_id : VffHxQlqbugFAztFwkWINA
+aspect: Service
+text: Just another casualty of terrible customer service and handling by Bell.
+ -1
+
+
+review_id : 0fc9ACSLcC6DV5kcwBJQ3A
+aspect: Service
+text: Terrible service I applied for jobs no one ever reached out.
+ -1
+
+
+review_id : Cq6k4m5W0DdI2S-UY6nX7w
+aspect: Service
+text: The service was bad when I called and emailed and at the location when I went to pick up there these two dirty looking, I don't know what to call them.
+ -1
+
+
+review_id : 4vIdM67-a51P8XrD8fHozg
+aspect: Service
+text: RUDE CUSTOMER SERVICE
+ -1
+
+
+review_id : 4vIdM67-a51P8XrD8fHozg
+aspect: Service
+text: The customer service was rude and hard to deal with.
+ -1
+
+
+review_id : y-JPgfQTPF5ZPtfU3-MF2A
+aspect: Service
+text: Horrible customer service- I won't be back to this location!
+ -1
+
+
+review_id : 6ad8WRoRhyDYxYZ6rORhTA
+aspect: Service
+text: Overall very poor experience, Cox is lucky they have a monopoly on cable internet in Arizona or I highly doubt anyone would deal with their consistently poor customer service and sky high prices they are known for making even higher on a regular basis.
+ -1
+
+
+review_id : FXg-TbTiZGzw5jOQ5o5N-w
+aspect: Service
+text: They simply do not care if you are unhappy with your service.
+ -1
+
+
+review_id : jteCYLkE3vssna4Tv08uMg
+aspect: Service
+text: Truly the WORST customer service I have ever experienced, wish Verizon would stop associating with these people, very unprofessional, often had blaring vulgar rap music playing throughout the store.
+ -1
+
+
+review_id : QHVdG6tBsC-hWOsskPsAyQ
+aspect: Service
+text:  Poor customer service!
+ -1
+
+
+review_id : xGROxwNsPI-A9laiJ5QTuA
+aspect: Service
+text: NOT closed but yes, worst customer service ever.
+ -1
+
+
+review_id : z7dxhxrRO94-Sm-cJjVO-g
+aspect: Service
+text: RUDE CUSTOMER SERVICE
+ -1
+
+
+review_id : z7dxhxrRO94-Sm-cJjVO-g
+aspect: Service
+text: The customer service was rude and hard to deal with.
+ -1
+
+
+review_id : 6evbxEVjRBue1NdTEWQ00A
+aspect: Service
+text: Awful customer service from Stacy.
+ -1
+
+
+review_id : CIO-aJjRqhHZU_SXWglerA
+aspect: Service
+text: The services is terrible my WiFi barely worked.
+ -1
+
+
+review_id : Mhnv3WrNVl1Z1nRMQOAyzQ
+aspect: Service
+text: I would not recommend this service if you don't want someone trying to take advantage of you.
+ -1
+
+
+review_id : svtig_0Xba_sihnYtBGtyg
+aspect: Service
+text:  This was the worst customer service I've ever received and I intended to spread my experience and treatment we received.
+ -1
+
+
+review_id : w5clZCknYfxRo1meNp5llw
+aspect: Service
+text: Horrible service,  waiting for him for two hours then decided to tell me he could not find the address.
+ -1
+
+
+review_id : s4dFV6xzWXmJXfKDLVQ39w
+aspect: Service
+text: Truly bad service and I had to clean up after them.
+ -1
+
+
+review_id : cyKRhfMeSt2GCgwNHd5Nmw
+aspect: Service
+text: In summary, if you are a small business owner that's looking for someone you can count on to help you keep your books and don't want to pay for poor service, then I would just keep looking and avoid this place like the plague.
+ -1
+
+
+review_id : E3571hGc9tVtR-gSnGmHWQ
+aspect: Service
+text: Poor customer service would actually work out, we got no customer service.
+ -1
+
+
+review_id : HEjtU2XY_6sqyNUbMVLk_A
+aspect: Service
+text: But his business practices and customer service are HORRIBLE.
+ -1
+
+
+review_id : C4AehrjHyE0DCPfuOeLFEQ
+aspect: Service
+text: Lack of costumer service and rude loud ppl.
+ -1
+
+
+review_id : TzZdChki64oOh6PsYxpnPA
+aspect: Service
+text:  Blue Diamond has TERRIBLE business practices, awful communication and extremely poor customer service skills.
+ -1
+
+
+review_id : AB0wUGiJvmbtORCLWKPhHA
+aspect: Service
+text:  They are very sneaky and I would highly recommend NOT to use their services!
+ -1
+
+
+review_id : saoN6KPY5-fW7y89tf2ZpA
+aspect: Service
+text: Worst customer service I've ever had to deal with.
+ -1
+
+
+review_id : OokdPRUqZHYKrelyEZrJkQ
+aspect: Service
+text: I had bad experiences with the service on Mississauga store.
+ -1
+
+
+review_id : QifVMxEXDlybNrLYO0vpBw
+aspect: Service
+text: Customer service is horrible.
+ -1
+
+
+review_id : tjS_IHBN3yIj2DJG5A_QHA
+aspect: Service
+text:  You can't fix poor customer service and ignorance with money.
+ -1
+
+
+review_id : tjS_IHBN3yIj2DJG5A_QHA
+aspect: Service
+text: This simple failed service put others health at risk.
+ -1
+
+
+review_id : wBalyrCVaSFh-V5MN5EdaQ
+aspect: Service
+text:  AT&T your customer service stinks!
+ -1
+
+
+review_id : fjra6hkA-6RvcS9dgAEqWA
+aspect: Price
+text: This was  an expensive system (4400 sq. foot home), and at one point the manager told us that we shouldn't complain since \"we were being monitored\"!
+ -1
+
+review_id : 66LkRDWLf0s-Mpr5Ng54qw
+aspect: Price
+text: Fine with but not 200 for each main very expensive beware.
+ -1
+
+review_id : PO9pnJGynhJ4GEDFcTaQ0A
+aspect: Service
+text: This service was the worst possible option we could have chosen.
+ -1
+
+
+review_id : Oov073pLCAXxpdkejYanNg
+aspect: Service
+text:  Worst is CUSTOMER service says they can't help.
+ -1
+
+
+review_id : lo1w250GjPPkpN2UDp9kpQ
+aspect: Service
+text: Absolute worst customer service EVER.
+ -1
+
+
+review_id : FPxwPRiIBnxwdPIO6iUGFw
+aspect: Service
+text: Summary: Poor, poor customer service.
+ -1
+
+
+review_id : X42LZeWvk_znKLgaA6clmA
+aspect: Service
+text: It's a shame and I feel sorry for companies that utilize ultimate staffing services.
+ -1
+
+
+review_id : FrgZJb2FIn7Y2DvYlMmg-w
+aspect: Service
+text: The worst, most unprofessional \"service\".
+ -1
+
+
+review_id : FrgZJb2FIn7Y2DvYlMmg-w
+aspect: Service
+text:  It's terrible business practice and is really bad service for any potential customers.
+ -1
+
+
+review_id : FrgZJb2FIn7Y2DvYlMmg-w
+aspect: Service
+text: The worst part is the service was scheduled only to clean the kitchen floor and one bathroom the day before we are hosting a party.
+ -1
+
+
+review_id : raeioUDBSune6OEN1BcM3Q
+aspect: Service
+text: Poor customer service will be looking for someone who can actually produce what I'm looking for
+ -1
+
+
+review_id : kvRzntoR8IAceeB8oAYiKA
+aspect: Price
+text: I go to this location to pawn some expensive designer wallets that have been gifted to me over the years, which I myself picked out from Neiman Marcus.
+ -1
+
+review_id : 5ZjDgtTKwdo1L6GPCoe99w
+aspect: Service
+text: Unethical & lousy customer service.
+ -1
+
+
+review_id : gi08LjwliO2jRb5N0rCe4Q
+aspect: Price
+text: He showed us a sample of the exact material we want but declared that it would be way more expensive.
+ -1
+
+review_id : Lo4vBbeez7-4SxJkWYWGpA
+aspect: Price
+text:  I am extremely disappointed with the lack of results that came with a very expensive price tag.
+ -1
+
+review_id : 12v8-N7xJQzJqG0jfGXXLg
+aspect: Price
+text:  The Owner had also mentioned to me that the higher cost for preparing my taxes this year is because they have to pay for their expensive computer tax program.
+ -1
+
+review_id : tGj3kBB804MTJu7NzvqZFA
+aspect: Price
+text: Now that did include an MRI which was more expensive than the MRI I had done at the hospital BEFORE my accident happened.
+ -1
+
+review_id : ytcIwPuV8r0zNpkJP_DzlQ
+aspect: Price
+text: Dumb, unprofessional, rude and too expensive to bear with is all about what they do.
+ -1
+
+review_id : zO2O3Z08PilmPZvBbcPALw
+aspect: Price
+text: Consumer beware, not only are they expensive, they take your money and don't help or communicate.
+ -1
+
+review_id : FFuKLsLfLk4NKXvfGpkd6g
+aspect: Price
+text:  Unfortunately, expecting a professional who knew what they were doing, I ended up with an amateur with an expensive camera.
+ -1
+
+review_id : KtxDXnZmndx7EPI1gGNfew
+aspect: Price
+text:  My daughter had purchased an expensive bottle of cleaner ($10 for a spray bottle the size of Fantastic) for her new laminate floors.
+ -1
+
+review_id : 0039xvBb7OyorB_HHW1-Cw
+aspect: Price
+text: Outrageously expensive!
+ -1
+
+review_id : Q8qA_JnEYBv8FY_Lfo_GNw
+aspect: Price
+text: I learned that Alyssa's backend work was messy and dated, and more importantly, that she was using premium, very expensive plug-ins that, without a maintenance plan, would have eventually stopped working.
+ -1
+
+review_id : RzrGceCP9TExrzXlnHhqrQ
+aspect: Price
+text: Cons: expensive, low quality, rushed service
+ -1
+
+review_id : o44byCacXiUYunT2Q1f4Jg
+aspect: Price
+text: he seems so competent then he plays games and acts like he cant remember what his job\/objective is it was a expensive lesson so I feel obligated to tell others.
+ -1
+
+review_id : ssW5oNXSUljrKYWZ8u6j3g
+aspect: Price
+text: Waste of money and time.
+ -1
+
+review_id : iVla5GqkhQff54nYSC1Q1g
+aspect: Price
+text:  So after 10 months- time, money, energy all wasted on empty promises.
+ -1
+
+review_id : 3lRrdmEVx4_pZItvsXxIzA
+aspect: Price
+text:  Waste of time and money thanks for nothing.
+ -1
+
+review_id : fU0Stv38rTCzxiSkXWzQeA
+aspect: Price
+text: Venture Pest Control is a complete waste of money.
+ -1
+
+review_id : cXHT-ywuNFKsahvobTJT6Q
+aspect: Price
+text:  After 5 mins of waiting in an empty barber shop I was tired of wasting my money and time with these guys, so I left.
+ -1
+
+review_id : wovTjfVc38bSaK68wJzmHQ
+aspect: Price
+text: So at the end of the day, I lost money.
+ -1
+
+review_id : j76ee0lk_VOqbBEITsCMcA
+aspect: Price
+text:  This is the most expensive Goodwill I have ever been to!
+ -1
+
+review_id : xVM22Utf509FLbwebLIvAA
+aspect: Price
+text: Expensive for a bad haircut.
+ -1
+
+review_id : KlwZDO6UltUBxadveIENwQ
+aspect: Price
+text:   DO NOT waste your money.
+ -1
+
+review_id : Vk9Rp6O18mbnjaOy2GnhhA
+aspect: Price
+text:  save your money and hire someone else!
+ -1
+
+review_id : RxFY7jiPd6OX6BnUNxb9Ww
+aspect: Price
+text:  maybe I'll return the phone and just pay the restocking fee and go to Verizon more expensive but hey they have good network.
+ -1
+
+review_id : hYjHEsAm7DBHoq862KExnw
+aspect: Price
+text: Basically a very expensive booty call service.
+ -1
+
+review_id : NYu1AqaIycE46mnDh5caDQ
+aspect: Price
+text:  However, they tend to hire some of the most expensive contractors whose performance is on par with more reasonable contractors.
+ -1
+
+review_id : 5sggZXdSFK5looZBeSx4iQ
+aspect: Price
+text:  They were not willing to pay for a banner company to create a banner for my my event same day, saying it was too expensive bc of being expedited.
+ -1
+
+review_id : e5PsBiLP6E0tDvuLVL6biQ
+aspect: Price
+text: When I explained that I had already spoken with several other matchmakers in the city that were to expensive her response was well we have a variety of options available for people on low budgets.
+ -1
+
+review_id : e5PsBiLP6E0tDvuLVL6biQ
+aspect: Price
+text: I explained I wasn't willing to spend nearly 4 hours (in transit and consultation) to go to their office which isn't very conveniently located if it was going to be super expensive and would prefer to discuss my needs and pricing over the phone.
+ -1
+
+review_id : rcaWDjjfLYhasGHa-t5Mgw
+aspect: Price
+text: Very expensive closing costs.
+ -1
+
+review_id : SRoRJn2-HdyCajtLVBZ3Qg
+aspect: Price
+text: Then after I pay for the equipment and reluctantly agree to their outrageously expensive monitoring, then they tell me that I'm locked into a 3 year contract.
+ -1
+
+review_id : 6KNhznihQU3RtGA6D5k32A
+aspect: Price
+text:  Insanely expensive, not reasonable at all!
+ -1
+
+review_id : GpVWLuWcVVznrKCfebhNgA
+aspect: Price
+text: We had thought about going with a more expensive highly rate videographer, but could not afford them.
+ -1
+
+review_id : ZrLLrKy0tO-ljUvjTrvBXQ
+aspect: Price
+text: We had thought about going with a more expensive highly rate videographer, but could not afford them.
+ -1
+
+review_id : SsMSGgxA2AyaZFQAgBLH_g
+aspect: Price
+text: Even now I am sitting in my hot car waiting for him to show up so I can pick up my expensive paperweight.
+ -1
+
+review_id : Ifs6H8IwKST0iXiDL8-FaA
+aspect: Price
+text: He is extremely slow to act, very expensive and delivered no results.
+ -1
+
+review_id : 00HHna67Rufm_S07-iVDaQ
+aspect: Price
+text: Your cheap deal was expensive for me
+ -1
+
+review_id : wITGhueZ2iHvEGbMkrssAA
+aspect: Price
+text: I thought that was very expensive.
+ -1
+
+review_id : kp_J1z11aJDWblpdUeu18w
+aspect: Price
+text:   I bought my daughter a very expensive designer dress for a formal dance at her school.
+ -1
+
+review_id : g2_HatpqKFGjyqdfugeqxA
+aspect: Price
+text:  Some of the furniture I had them move was brand new, solid wood, and expensive.
+ -1
+
+review_id : 9cOdnBHx1D2npUoOOYkcMg
+aspect: Price
+text:   I was informed that i needed to purchase an expensive photo shoot to be eligible for bookings with their clients.
+ -1
+
+review_id : ZCoAPAazZiRpe53UMIQp2w
+aspect: Price
+text:  Some of the furniture I had them move was brand new, solid wood, and expensive.
+ -1
+
+review_id : -Ha0YD7PyfvGhiL7Lfoeww
+aspect: Price
+text: Brown is the most expensive attorney on the planet.
+ -1
+
+review_id : 1GmT1ArRR7kA9E0qL_Yxlw
+aspect: Price
+text: he also told me that Kohler parts were VERY expensive.
+ -1
+
+review_id : 37i5egRf-nTwvzyCvrgXRw
+aspect: Price
+text: Why? This shit is super expensive!
+ -1
+
+review_id : wu77-I4RKbI4LCLeJGv7ag
+aspect: Price
+text: It is also very expensive for what you get.
+ -1
+
+review_id : dSiWTrEdZ_LlTgDmTHDmiA
+aspect: Price
+text:  I will say that the individual unbranded website, CRM and other functions in the dashboard are robust--but they're expensive.
+ -1
+
+review_id : aeQEbwTWsg1HnloNZdrwwg
+aspect: Price
+text:  it was very expensive and i didn't even get to see them.
+ -1
+
+review_id : hXlIQTNGvwS3BwY_XIA_ww
+aspect: Price
+text: My mom signed up for the very expensive membership and hasn't even gotten a courtesy call let alone a date.
+ -1
+
+review_id : XN0KGLQXMYK1EnozpoI3qA
+aspect: Price
+text: They were expensive and difficult to work with.
+ -1
+
+review_id : oQOlbc32dfPqP6_2oeRWaA
+aspect: Price
+text:  In the mean time, the spa was delivered and placed on my lawn and when the CE employees needed to move it, they used their shovels as levers to fulcrum the spa, obviously not taking care with this very expensive piece of equipment.
+ -1
+
+review_id : oQOlbc32dfPqP6_2oeRWaA
+aspect: Price
+text:  They were the most expensive of our bids, however, we were assured that was because of their higher quality.
+ -1
+
+review_id : mSzBTtogOeBZGY3Hf3geVQ
+aspect: Price
+text:  Very expensive and very poor quality.
+ -1
+
+review_id : lvuT2e7hV1fOzqaGiR09rQ
+aspect: Price
+text: More expensive and lesser warranty period than the apple store.
+ -1
+
+review_id : 9R8H2MBDR8OHAOADrwZncA
+aspect: Price
+text: Who in the world live for 10.00  or 12.00 per hour when living cause is very expensive.
+ -1
+
+review_id : 65yyjpPChn6fydQYvk8gIg
+aspect: Price
+text: Buying into this was a very expensive mistake on my part - look carefully before you leap.
+ -1
+
+review_id : BTpBAc3quRJod0KpheiQtw
+aspect: Price
+text: They were expensive too.
+ -1
+
+review_id : 6TSlgXBSosD5OuzHPBtITQ
+aspect: Price
+text: Which, is more expensive than what I bought my phone for!
+ -1
+
+review_id : XHYwDXKyAMYTir2r8E1gOA
+aspect: Price
+text: They do sloppy work, they're expensive, and the leaders of the firm are total bs'ers.
+ -1
+
+review_id : -A04PdBJQSF6Z6w7inyd7w
+aspect: Price
+text:  Very expensive for what little work was done.
+ -1
+
+review_id : 3_1cYXpfRReW14OzDcwOzA
+aspect: Price
+text: Their customer service is horrible, they make you jump through hoops to cancel their expensive service.
+ -1
+
+review_id : MjFNpBxs-rN3SkWDh4kuLw
+aspect: Price
+text: All he does is push classes and expensive photo sessions!
+ -1
+
+review_id : zygP14vQFsdCseYaCdNI9g
+aspect: Price
+text: absolute the worst service provider.....the most expensive, more expensive than Bell and Rogers.
+ -1
+
+review_id : RbrTyHYirn7W03NkzY7TXw
+aspect: Price
+text:  For all of the horribleness of their service they are also the most expensive provider charging me over $90 a month.
+ -1
+
+review_id : 5_Y7UTTTyGEzfNEAM8qH0w
+aspect: Price
+text:  I'm sorry I had to learn such an expensive lesson.
+ -1
+
+review_id : DpUwlCGD7ZfKaGcG36j1zA
+aspect: Price
+text: The chair is quite expensive, which made us a little suspect of Levi's motives, so we went online and, both fortunately and unfortunately, Levi Ferrin posts photographs of the contents of your home so we literally found a photograph of our chair in his storage unit!
+ -1
+
+review_id : 8tyL3C2f1p1KmfDb-V_N2g
+aspect: Price
+text: Poor costumer service and super expensive!
+ -1
+
+review_id : zdrtqpqiYMotSR4BlubYxg
+aspect: Price
+text: Finally we hired another lawyer who worked with her and got the matter resolved, but it was long and painful and ridiculously expensive.
+ -1
+
+review_id : izHnVsscOBqmPlI0X9aKVQ
+aspect: Price
+text:  This has to be the most expensive website of its kind.
+ -1
+
+review_id : 4xkdtSmJw9j5OdQuJCrMag
+aspect: Price
+text: He does his work in more time-consuming and expensive way.
+ -1
+
+review_id : itwOt-RhqUKrqziDRP57og
+aspect: Price
+text: Expensive, poor performance and service.
+ -1
+
+review_id : TR1UKAcx1abOA3fwlRT1SQ
+aspect: Price
+text: Listing was overpriced and on remote websites, 2 months later I still have this car and am lowering the price to get leads.
+ -1
+
+review_id : qxfCV7rCV-6jlp88bZBj4w
+aspect: Price
+text: After paying for the most expensive room, (she was given the smallest) for only a week or so, she was returned to the hospital with broken bones, and a shaved head.
+ -1
+
+review_id : inBa1b4-XLp4qpP1LqUyTQ
+aspect: Price
+text: Well I listed it at the price he recommended and got absolutely zero calls because it was about $2000 overpriced.
+ -1
+
+review_id : rkgZg_fIduntrnPVuuZCBA
+aspect: Price
+text: They got payed and I got very expensive  lesson
+ -1
+
+review_id : yhMiDDQAAOkNCcaYloLoKw
+aspect: Price
+text: I refuse to buy any other water pipes or pieces from there because of them being overpriced for the pieces of crap they are.
+ -1
+
+review_id : PUDqjIzoUD-_lFv2IYi3-Q
+aspect: Price
+text: Sign up for this event is very expensive and parents sometimes needs time to think and take decisions.
+ -1
+
+review_id : xL6WcfCLnPXVXXVeShOTFw
+aspect: Price
+text: Most overpriced store in existence.
+ -1
+
+review_id : xL6WcfCLnPXVXXVeShOTFw
+aspect: Price
+text: All the employees are hipsters, and the prices are outrageous because they think because it's \"retro\" it's worth more.
+ -1
+
+review_id : xL6WcfCLnPXVXXVeShOTFw
+aspect: Price
+text: If you want to pay outrageous prices and support this BS go right ahead.
+ -1
+
+review_id : nR7R7hFImoEqCIZG8_eytQ
+aspect: Price
+text: Not to mention, they force you to go with their overpriced photographers and comp cards so they get their commission.
+ -1

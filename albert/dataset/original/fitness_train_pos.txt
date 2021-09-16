@@ -1,0 +1,1105 @@
+
+reciew_id : 14w1ddPpM2tOM3BK5D-79A
+aspect: Service
+text: They have a full service equipment room where you can purchase anything you may have forgot or a something with Master Toddy's name on it.
+ -1
+
+
+reciew_id : 163PwohJE78sN4MlYln50A
+aspect: Price
+text: Good place, very nice staff, personal training available, classes...all reasonably priced, and not overcrowded.
+ -1
+
+reciew_id : c_ucVsPoK62qN72xOi0nMA
+aspect: Price
+text: It's a really convenient location, and I feel like I'm getting a great gym for a really good price.
+ -1
+
+reciew_id : RLiiPJci5wgHvd136Axk4A
+aspect: Price
+text:  You really can't beat the price for monthly membership.
+ -1
+
+reciew_id : fhrSLKaLnC6A_pCuP2aYcQ
+aspect: Price
+text: The price is spot on and the flexibility with memberships can't be beat.
+ -1
+
+reciew_id : TsRO5_5Lo03z5RbFVLWdMw
+aspect: Service
+text: Billy was also prior service and they offer a very nice discount to service members!
+ -1
+
+
+reciew_id : IQAI1eac75NQQZKt98P45A
+aspect: Service
+text: I have been in customer service for a long time and have experience the worst and the best types of service, Crysanne is certainly one of the best experiences I have had in the fitness industry.
+ -1
+
+
+reciew_id : oQrHFmFI4VBf5kw28GViYg
+aspect: Price
+text: This welcoming studio with a great location, reasonable prices and accommodating class times makes it a no brainer!
+ -1
+
+reciew_id : EuZa5ECpI7t0Be9M4Mll3w
+aspect: Service
+text: I really like the level of service I get with Christina - highly personable and very easy going!
+ -1
+
+
+reciew_id : hJbva41xaRX7rQv0-OS0QA
+aspect: Service
+text:  Great coffee, friendly service and a very interesting atmosphere.
+ -1
+
+
+reciew_id : -mGRDY-0QMx5JKpG-TxohA
+aspect: Service
+text: Full service facility (towels, shower stuff, etc).
+ -1
+
+
+reciew_id : jJWkdKDXoZN5whAiaf5lNA
+aspect: Price
+text: The staff is friendly, the studio is clean and organized, the prices are fairly standard for the area, and the other attendees are friendly.
+ -1
+
+reciew_id : NzpblrjuWgBPfCzpk1199Q
+aspect: Service
+text: I didn't really know what to expect but the service was quite good.
+ -1
+
+
+reciew_id : en7XBmOoqR-jvfw52he3GQ
+aspect: Price
+text:  They're super reasonably priced and seem to have quite a few monthly specials.
+ -1
+
+reciew_id : nnCSYJTcHCrdgluQ-YaNCg
+aspect: Price
+text: Tribe Barre is by far the CLEANEST, most friendly and most reasonably priced place I have found.
+ -1
+
+reciew_id : EVnTbtnSZUyPmn5a77G4Jg
+aspect: Service
+text:   From the start the customer service was helpful.
+ -1
+
+
+reciew_id : gHf7eghMzuxnJxFaZM4yTQ
+aspect: Service
+text: I highly recommend to any of my friends and family for hair or spa services.
+ -1
+
+
+reciew_id : tbF9O3qRHhrqR-Q7lzDejw
+aspect: Service
+text: They offer plenty of services there including hair, nails, massages, facials, etc.
+ -1
+
+
+reciew_id : zOJAKB7QCGq49eaA7Peydw
+aspect: Service
+text: The prices are amazing for what you get and all in all, it's a lot of great services that at any other gym will cost you over 100$ a month and the prices here are more than half of that.
+ -1
+
+
+reciew_id : NvZh6y_5ywJoFaLO8yNV6A
+aspect: Service
+text:  I plan on working with her well into the future and fully recommend her services.
+ -1
+
+
+reciew_id : _IZZuNSkH_ynJtZb4hRWeA
+aspect: Service
+text: 4) Their customer service is top notch!
+ -1
+
+
+reciew_id : Q8DQ2WA42ikad7VScsOOeg
+aspect: Service
+text:  Normally I would expect to pay an extra fee for the complimentary towell service, convenience items, steam room, and showers.
+ -1
+
+
+reciew_id : _tV3M3lEVYRXeSAPdK6Sog
+aspect: Price
+text: Overall, for the price, it's enough plus some for what I need.
+ -1
+
+reciew_id : ApZ_G1DQhKUaPvr4lXnInw
+aspect: Service
+text: It has a WIDE variety of classes and services and has high end and versatile equipment.
+ -1
+
+
+reciew_id : bzm4osrv1OGRCciH7Dsy0A
+aspect: Service
+text: Once I was  in the locker room I got to enjoy towel service (because I ALWAYS forget a towel ) and many other free toiletries .
+ -1
+
+
+reciew_id : agwn6guWekfwRu-xWW5J5Q
+aspect: Price
+text:  Great 24 hr fitness center at a very reasonable price!
+ -1
+
+reciew_id : z8-GvM18JFlJofCFVkq6PQ
+aspect: Service
+text: This gym has every equipment needed for a great workout and enough equipments for everyone , open 24h from Monday to Friday there is no excuse to miss my workout, friendly service and geez people are fit & get u going!
+ -1
+
+
+reciew_id : a3TcAMZhiin68yhhjNqNeA
+aspect: Service
+text:  Beautiful rooms, great heat, friendly community, great service and good teaching staff.
+ -1
+
+
+reciew_id : BfRzcfcxB7kqmb8dHSrMTQ
+aspect: Service
+text: great customer service, location, and equipment :) Highly recommend if you are looking to get a quick workout in for lunch.
+ -1
+
+
+reciew_id : Z9_JVXKcMyoKMm87V9kXOw
+aspect: Price
+text: Price is also very fair.
+ -1
+
+reciew_id : TDp7DmqF4A_I7i7N7pXUEw
+aspect: Service
+text: I was pleased with the service.
+ -1
+
+
+reciew_id : TDp7DmqF4A_I7i7N7pXUEw
+aspect: Service
+text: Their installers are employees of the store, not contracted out, so you're getting quality service throughout the process.
+ -1
+
+
+reciew_id : E2lo16pp-G6bVSbTTqxeQA
+aspect: Service
+text:  But the location is always clean, offers lots of equipment and is always adding new services and classes.
+ -1
+
+
+reciew_id : mQ1_JhEtgyF8k7_LN115qw
+aspect: Price
+text: Great prices and family friendly.
+ -1
+
+reciew_id : l41Uq0WpFU92W_Od2-cIsg
+aspect: Service
+text: We called and were provided excellent customer service by Adam.
+ -1
+
+
+reciew_id : l41Uq0WpFU92W_Od2-cIsg
+aspect: Price
+text: This gym had everything we needed for a complete workout at a very reasonable price, including plenty of cardio equipment, strength training machines, squat rack, smith press, cables, free weights etc.
+ -1
+
+reciew_id : EwqEiejK_dmeuD3U2w2BAg
+aspect: Price
+text: Oh by the way it is super reasonably prices to take the class.
+ -1
+
+reciew_id : M3KZeULQ6_MSfvCdt4BEjw
+aspect: Service
+text: Great prices and services and convenient hours and location.
+ -1
+
+
+reciew_id : ruMr-WlleJJq_ZN4HEXPyw
+aspect: Price
+text:  The reason for joining was because I was looking for something close, nice equipment, and reasonably priced.
+ -1
+
+reciew_id : VJhz_5TA-wBLBDQ7iAASWA
+aspect: Price
+text: the prices are pretty standard for a private yoga studio, and they have spinning.
+ -1
+
+reciew_id : NvrC4MSlTdTDfU6FnsEJbg
+aspect: Service
+text:  They're very professional, and the customer service is great.
+ -1
+
+
+reciew_id : P0SrfTNfX1I4LhuciwpnLQ
+aspect: Price
+text: - Reasonable prices
+ -1
+
+reciew_id : Z3lI-g3AY1RldgAX0fYF_A
+aspect: Service
+text: Service: Jacque and Erika are super friendly.
+ -1
+
+
+reciew_id : E0tOha4AiWuWMlAmuFLiBQ
+aspect: Price
+text:  Best yoga studio I've been to, and they offer great prices!
+ -1
+
+reciew_id : vnWWc7yZ0uJhjYvyoDsemw
+aspect: Price
+text: The price was very reasonable and to be honest seeing the way my wife smiled I would have paid 3x the price.
+ -1
+
+reciew_id : SQOwLgYwLWlsDOTQiI8UBA
+aspect: Price
+text:  All your fitness needs with a good price!
+ -1
+
+reciew_id : 3f56o9qSPFvj2rfhTSVZ-g
+aspect: Price
+text:  It's convenient, reasonably priced, has a friendly staff, and is without all the unnecessary frills that I was paying for at my last gym.
+ -1
+
+reciew_id : FAa2XdffaD1ONoEzd79kBw
+aspect: Price
+text: They have retail at a very reasonable price too, I love to rep great studios and get compliments on my tank top (\"I totally Lagree\") on the back.
+ -1
+
+reciew_id : EZkQncjg6QhA_djNYdPdZA
+aspect: Price
+text: They allowed me a 3 day pass for a reasonable price.
+ -1
+
+reciew_id : izK8hI8tLx-DRm0k1FjLAg
+aspect: Price
+text: It is the perfect workout with a great price point.
+ -1
+
+reciew_id : Fe0GilS9uaVj9FJYBBK8rQ
+aspect: Service
+text: You'll be doing your future self an enormous service.
+ -1
+
+
+reciew_id : MzMrrXBxan0LFoPTGJC7kQ
+aspect: Service
+text: The one thing that you'll remember more than the burn is the excellent motivational customer service.
+ -1
+
+
+reciew_id : Cqx23oKtB8f1Iqj5qoMVNw
+aspect: Price
+text: Price was totally worth it ($50pp for private 90mins session, could have done 120mins if we wanted).
+ -1
+
+reciew_id : 94asFnW75RD_pp4seKcgsQ
+aspect: Service
+text: They have a huge variety of cardio equipment, indoor running\/walking track, squash courts, basketball courts, free weights and machines as well as a shake shop and full service restaurant.
+ -1
+
+
+reciew_id : k78PcXSp43XhSHkkGpWn9A
+aspect: Service
+text: One of the BEST values for a full service clean luxurious gym in downtown Toronto.
+ -1
+
+
+reciew_id : Mw4Wo82mV-jUP_WV7iUaZQ
+aspect: Price
+text: The price is reasonable for classes, especially if you partake in the twice weekly option.
+ -1
+
+reciew_id : Bxo9wzxKUx9CYh-PhgvqIw
+aspect: Service
+text: When looking for a new service I always check Yelp first.
+ -1
+
+
+reciew_id : Tw1hKbunW0Rr-WpUcE9ntw
+aspect: Service
+text: I can always walk in and be greeted with a smile and great customer service!
+ -1
+
+
+reciew_id : Gm5QUITgz0BVmy4GIC6UOg
+aspect: Price
+text: Also I love that I can train as much as I need to without a contract at the most reasonable price.
+ -1
+
+reciew_id : _nXpQocbDBFAe9JSLk8pFQ
+aspect: Service
+text: Overall impress with the walls and service!
+ -1
+
+
+reciew_id : AEaYr_8l5v5Czy0X4cF2Vw
+aspect: Service
+text: Very little stress, excellent service & friendly staff!
+ -1
+
+
+reciew_id : YzFWUBIwM7i5CllmG4VTRA
+aspect: Price
+text: price is good, flat 10 bucks a class, however they only accept cash.
+ -1
+
+reciew_id : e9YVlCeo8dAaLNYBybKXPQ
+aspect: Service
+text: Customer Service is impeccable here.
+ -1
+
+
+reciew_id : e9YVlCeo8dAaLNYBybKXPQ
+aspect: Price
+text: Price is way affordable.
+ -1
+
+reciew_id : LlwVCJTpYrknAvAmJr_Smg
+aspect: Price
+text: The prices are great, the staff is amazing, and what can I say, it's near and convenient for me.
+ -1
+
+reciew_id : PHOE8156fZlr5SGSd1vpXQ
+aspect: Price
+text: Prices are reasonable and many different class times offered.
+ -1
+
+reciew_id : -vHPbhtfRGfthd2ziKymIQ
+aspect: Service
+text:  They also offer a variety of services that are similar to a spa, which give it the over all \"club\" feel.
+ -1
+
+
+reciew_id : oIBKZEI3p1S2933mAYFG7A
+aspect: Service
+text:  No frills or games being played with customers just good service and training.
+ -1
+
+
+reciew_id : MTKDPNXWWytXkmmnY_IMwA
+aspect: Service
+text: That's the kind of customer service every store needs.
+ -1
+
+
+reciew_id : Q3vagoQ7TVYOabPrGxDnTg
+aspect: Price
+text:  The price is excellent and very competitive to other gyms.
+ -1
+
+reciew_id : ERMyeyAxeSKalPOR_XqpTA
+aspect: Service
+text: She is thorough and does not rush through her services.
+ -1
+
+
+reciew_id : AjQy3SUBlz_KtmE7-dK7iA
+aspect: Price
+text: Great prices to for the time you get to hit!
+ -1
+
+reciew_id : SiLg0GE3cEpajIcUQxYtYA
+aspect: Service
+text: The costs are reasonable and very competitive for the services they provide.
+ -1
+
+
+reciew_id : nvpOJkcDcxJVUZXrdRWXAg
+aspect: Price
+text: The prices are definitely right and the store is also willing to negotiate on used equipment prices.
+ -1
+
+reciew_id : 7j_c_YxNQ9Dmwf-OV-3Bzg
+aspect: Price
+text: #5 - Price - This is a better choice for me than paying for an unqualified personal trainer or \"coach\" $50 an hour at one of the commercial gyms.
+ -1
+
+reciew_id : Azj0IZG2j5Rwd4OjXXaiDw
+aspect: Service
+text: Great service and very approachable staff
+ -1
+
+
+reciew_id : lG8P4DrrGEIsquLWCpiAbg
+aspect: Price
+text: I can't believe how having a custom daily workout with a personal trainer can be so economically priced.
+ -1
+
+reciew_id : xThxDW15wy6nwtsQxbUVRg
+aspect: Service
+text: Christophe at the front desk: good customer service.
+ -1
+
+
+reciew_id : vZaPOXBHCURX_DQqEtNqJQ
+aspect: Service
+text: Boasting a knowledgable and professional staff, any inquiries regarding  use of equipment and availability of other services are quickly answered.
+ -1
+
+
+reciew_id : mni_JzPZEdmh0ePlFDqZvQ
+aspect: Service
+text: I have referred her services to many of my friends and will continue to go to her.
+ -1
+
+
+reciew_id : HrLLUS0hm3doV-BWvFWLFg
+aspect: Price
+text: The people and owner make it well worth the price.
+ -1
+
+reciew_id : 2c7LmVjd1LYXH1Orc4964Q
+aspect: Price
+text: Their price are also affordable and well worth the class content that is provided.
+ -1
+
+reciew_id : 9a2BwhFvC5Zlq8k9xeS-JQ
+aspect: Service
+text:  Their customer service is fabulous!
+ -1
+
+
+reciew_id : Ah_EK0pt0q4quvxsX31HtQ
+aspect: Service
+text: I will definitely be taking part in some of the other services as well.
+ -1
+
+
+reciew_id : wCSjhSRs18tSZkk4gYs52Q
+aspect: Service
+text: The owners are chill and fantastic, really good customer service and super helpful.
+ -1
+
+
+reciew_id : WJu-skw7Mf83U3NMi1ghOg
+aspect: Price
+text: Prices are extremely reasonable and he is flexible with his schedule.
+ -1
+
+reciew_id : 5CL2vKTMNu4zjuKSZG4vPA
+aspect: Service
+text:  I have been very happy from customer service to the workouts to cleanliness.
+ -1
+
+
+reciew_id : Qa3APT8Olk5mo4TL67P0iw
+aspect: Price
+text: Besides all that, the prices they offer for memberships are pretty affordable which is great.
+ -1
+
+reciew_id : 2hDesJdez1pAplqrtRST1g
+aspect: Service
+text: I am super satisfied with their customer service and my family and I are Happy to have joined.
+ -1
+
+
+reciew_id : JQclDG8VbDhTKkFuL2mwew
+aspect: Service
+text: All classes are available to you with your membership, there's free towel service, clean bathrooms, a clean changing area, eucalyptus sauna, regular sauna, and jacuzzi bath.
+ -1
+
+
+reciew_id : JQclDG8VbDhTKkFuL2mwew
+aspect: Service
+text: Overall, great service and great amenities!
+ -1
+
+
+reciew_id : wMoAHFpBU_yEdudt1zip_w
+aspect: Service
+text: Awesome customer service.
+ -1
+
+
+reciew_id : M2g8xcq4wFLw4wLkA-S1mw
+aspect: Service
+text:  I appreciate the club and the excellence in customer service.
+ -1
+
+
+reciew_id : tQY-8jsKtWF264vLDaGkAg
+aspect: Price
+text: I feel like I'm getting a great gym for a great price and its really convenient!
+ -1
+
+reciew_id : hqq4vKnzp4DeWZMOq9tWOQ
+aspect: Service
+text: Anne is an incredibly skilled, fun and experienced personal trainer and I highly recommend her service.\"
+ -1
+
+
+reciew_id : hulgDwHclpALnz2a28_h7A
+aspect: Price
+text:  Reasonable price for monthly rates.
+ -1
+
+reciew_id : 26p9RsqB4T_jaOGAGu51cg
+aspect: Service
+text: truly great customer service and thank you Karen for making me feel like I'm still a part of the Inner Fire community.
+ -1
+
+
+reciew_id : _qeCGeUOyD0lC3WPXORfCQ
+aspect: Service
+text: He provides numerous services and insights at his establishment and events around the city.
+ -1
+
+
+reciew_id : 258R8aDnYS3fpYV2FuJ8fA
+aspect: Service
+text: No frills salon and lovely service.
+ -1
+
+
+reciew_id : 258R8aDnYS3fpYV2FuJ8fA
+aspect: Service
+text: i can't speak to any other services but despite being a modest location and a family run, casual environment, it's still clean and thats all that really matters to me.
+ -1
+
+
+reciew_id : MRKhC-wwoplhu78EecaWbA
+aspect: Price
+text: The price was good and the class schedule fit with me perfectly.
+ -1
+
+reciew_id : xvSEPoJKaEEXQHbCn2MOMg
+aspect: Price
+text: For one the price is awesome $10 for a single membership or you could do $20 dollars and go to any You Fit around.
+ -1
+
+reciew_id : xvSEPoJKaEEXQHbCn2MOMg
+aspect: Service
+text: Because when I came in the service was awesome.
+ -1
+
+
+reciew_id : fLHaLvoGj1U4S1sG1wfO3w
+aspect: Price
+text: Prices are very reasonable.
+ -1
+
+reciew_id : 49BjNbxP9Q-P9gDNCbNatw
+aspect: Service
+text: \"I loved the service!
+ -1
+
+
+reciew_id : jY8s9_H4p-jB2_ssQaxLrA
+aspect: Service
+text:  I'm very happy with both services.
+ -1
+
+
+reciew_id : jY8s9_H4p-jB2_ssQaxLrA
+aspect: Price
+text:  Prices are reasonable and the location can't be beat!
+ -1
+
+reciew_id : FdfheVdx4Pl9wnQoYB-kXQ
+aspect: Price
+text:  Great location in the Scottsdale Airpark and Great Prices.
+ -1
+
+reciew_id : jQ7JPJFxnRnLrThXNtYWmw
+aspect: Price
+text: Great staff, great environment, and great prices.
+ -1
+
+reciew_id : yA4GVjnwQU0A1NPGSBPyOA
+aspect: Price
+text: Awesome yoga at a reasonable price.
+ -1
+
+reciew_id : uROGZdTPZ5G7rehyg-z4TA
+aspect: Price
+text: The owner and teachers are awesome, and memberships are the best price you'll find.
+ -1
+
+reciew_id : AFckAynQzLRL_0dDY5h3yQ
+aspect: Price
+text:  There are classes for all yogi levels at reasonable prices including a new student $10 special.
+ -1
+
+reciew_id : AlcwQPu8TTFk7Q70ebAnsg
+aspect: Service
+text: On top of that, the facility is VERY clean (including the rental gloves) and customer service is great.
+ -1
+
+
+reciew_id : h7J1bd6Gl0HTVJELPx7HDw
+aspect: Price
+text: Everything from the facilities, to the trainers, to the workouts, to the price is awesome.
+ -1
+
+reciew_id : 5n5ciDbZv8mGP53GoxMvjA
+aspect: Price
+text: If you are just visiting like me, drop in and enjoy a customized workout at a very reasonable price (my class was just $20).
+ -1
+
+reciew_id : dbUdijg1HUH6npA962dJXg
+aspect: Price
+text: The prices are relatively reasonable.
+ -1
+
+reciew_id : dttmcHufDCZ2X0gCp8CzeQ
+aspect: Price
+text: I have joined under the two week trial pass and received a pair of gloves, wraps and a gym bag - all for a great price.
+ -1
+
+reciew_id : S1oBc-yLnRYZJGkhM9bJXg
+aspect: Price
+text: The prices are affordable compared to other studios in the area, and I can't wait to add Club Pilates classes to my weekly exercise routine!
+ -1
+
+reciew_id : 8fYZ-IuXPSEMA3yzLRwsNw
+aspect: Price
+text: Prices are very reasonable for long or short stays (they have weekly passes).
+ -1
+
+reciew_id : W9leFw88QGGoWG6w7Gu41w
+aspect: Price
+text: Also prices are pretty reasonable and affordable
+ -1
+
+reciew_id : f50tkuXP7wU9zzCwje7_9w
+aspect: Price
+text: Best priced gym I have ever used.
+ -1
+
+reciew_id : r6JbM5whCh-NPqFppzKp-A
+aspect: Service
+text: 4\/5 bumped up for the great customer service and friendliness of the staff.
+ -1
+
+
+reciew_id : XI27Rwg9vmKsmx3DyraQRQ
+aspect: Service
+text: Service 5\/5 the staff are awesome!
+ -1
+
+
+reciew_id : dXl7qkPz-6tsKoThdWSuHw
+aspect: Price
+text: Very relaxed environment, hours are great, prices are reasonable.
+ -1
+
+reciew_id : fbuJ09k1FREo_M4NK7Dirg
+aspect: Price
+text:  If you want a local gym at a great price you can go wrong with this PF.
+ -1
+
+reciew_id : ecRRdo1plKee4mfMENrFRA
+aspect: Price
+text: Bruce's price was extremely reasonable considering he spent his time in his hands and knees scrubbing each tile.
+ -1
+
+reciew_id : CJTVs0w7fSIpjKdThL1-9Q
+aspect: Service
+text: The services provided at Fitwall are top notch
+ -1
+
+
+reciew_id : HNff-RMLvX9rr8JcF0tyEA
+aspect: Service
+text:  This location had a few more people (not too much) so I really liked this hospitality and this little touch to make me feel more at home.
+ -1
+
+
+reciew_id : 0zDQg7bhmn_uOQzsvy-mbA
+aspect: Price
+text:  This is an affordable studio price wise, one of the cheapest.
+ -1
+
+reciew_id : 4eK1aOjW6uf54_c5pnz8tw
+aspect: Price
+text: His prices were fair, and he was easy to work with.
+ -1
+
+reciew_id : MNc_lUEwzemfZfIzK0M9AQ
+aspect: Service
+text: Impressive, personalised service and a super efficient workout.
+ -1
+
+
+reciew_id : kqavXdJoLed-N1BX3ljH-w
+aspect: Price
+text: This gym is very reasonably priced, with very good employees that beat you to the bone, but you only feel it after because you're having such a good time.
+ -1
+
+reciew_id : 6SqIjBdGuqhx_t9VaaeeFg
+aspect: Service
+text: Pretty good location, great customer service and staff.
+ -1
+
+
+reciew_id : qQfZE1cZ44HWagEYuSmQtg
+aspect: Service
+text: I would highly recommend his services to anyone who is serious about improving their skills and having a great time.
+ -1
+
+
+reciew_id : 9Go9Wqu1NpkMvT8Gxqvlyg
+aspect: Price
+text: The membership prices are also very reasonable for what you get.
+ -1
+
+reciew_id : KHsM63UqDrB7i9Xjj3YlCw
+aspect: Service
+text: I received exceptional customer service here, especially from Daniel.
+ -1
+
+
+reciew_id : wfXL4_6rUw-mss7Q-3Kmfg
+aspect: Service
+text:   Matt was extremely hospitable to us out-of-towners.
+ -1
+
+
+reciew_id : wfXL4_6rUw-mss7Q-3Kmfg
+aspect: Service
+text:  Not only was he a great coach, he also gave us recommendations of places to dine in the city - super hospitable!
+ -1
+
+
+reciew_id : xl4aJJ2qVPq2uLiq02-wsg
+aspect: Price
+text: Everyone is so nice and helpful and the prices are very reasonable.
+ -1
+
+reciew_id : oUvDSwTUwucLjwzNdr3KcQ
+aspect: Service
+text: Thanks for the great customer service!
+ -1
+
+
+reciew_id : 9_SAuSALQB6E_Q8W1beuIg
+aspect: Price
+text:  Training package prices are very reasonable.
+ -1
+
+reciew_id : v-DKfCLtfdiz7RyS06qWcA
+aspect: Price
+text:  Good crossfit staff and the price is the best ever in the valley.
+ -1
+
+reciew_id : R4kP1N6uh5AYRXMbi0Ifng
+aspect: Price
+text: It offers class packages at $150 for 10 classes, $80 for 5, or $280 for 20 classes which I think is an excellent price especially in comparison to other fitness studios that offer similar classes in the downtown core area.
+ -1
+
+reciew_id : CxKIJO7fdZmES6ZFubMwrQ
+aspect: Price
+text: I like that the prices are super affordable, especially when compared to the membership fees for some other studios.
+ -1
+
+reciew_id : -CUXpKypP-fU0xmoBRoAQg
+aspect: Price
+text:  Prices are reasonable for dance\/ fitness in the Phoenix area and I hope I can take in a Yoga or Zumba class myself one day soon!
+ -1
+
+reciew_id : HgqlR90MejCIvtCtEixi6Q
+aspect: Price
+text: The monthly price is fantastic, no contracts, and the program itself is incredible.
+ -1
+
+reciew_id : a2GYxRrzCpYp3uu2Exn6Fg
+aspect: Price
+text: Price and packages are very affordable.
+ -1
+
+reciew_id : vEoCqf8_wbFZdD-BYKKwEg
+aspect: Service
+text:   It's not a chain so they really care about your well being and have always given me great customer service.
+ -1
+
+
+reciew_id : q5KPNbZgZ_cujxqIxZwMiA
+aspect: Price
+text:  Prices were fair and it was done in a day.
+ -1
+
+reciew_id : ztkUrB-nkuYfDwN5fMLZ8w
+aspect: Price
+text: Finally, the intro option is amazing price wise.
+ -1
+
+reciew_id : DzWYIzSem4k0-Em-PbJAcw
+aspect: Price
+text: The price is reasonable too!
+ -1
+
+reciew_id : sd4ZfTNgweVx9-6lX5D_Ew
+aspect: Price
+text: Quality training, and fair prices.
+ -1
+
+reciew_id : A5aipMlZCoeaRokw3W0a4Q
+aspect: Price
+text: SCCF was close to my house, the price was great, and a friend from school went there and he loved it.
+ -1
+
+reciew_id : tuTLPgt06Ie87cX8oQh7fQ
+aspect: Service
+text:   The massage therapists are amazing and they have expanded to offer more services.
+ -1
+
+
+reciew_id : 3kjQvp_R6DLO9FlIcv1Smg
+aspect: Price
+text: Great schedule offerings, reasonable price that is less than a certain national chain, and the vibe is back!
+ -1
+
+reciew_id : A24z7Pf-8gfaGjgGcvbjtQ
+aspect: Price
+text:  The price is right and the membership includes a number of fun and challenging exercise classes throughout the week!
+ -1
+
+reciew_id : A5bHb8LgCXo0y4kElak8Og
+aspect: Price
+text: The class passes come in various size packages and are reasonable in price.
+ -1
+
+reciew_id : KKbONY55GViVMJTuQf4doA
+aspect: Service
+text: John and Colby - thanks for your hospitality and will definitely drop in again when I'm in town.
+ -1
+
+
+reciew_id : yDhszRZB2Y4BgRNKVnTxVQ
+aspect: Price
+text: Basically, everything that I personally could ask for in a club, at a very good price.
+ -1
+
+reciew_id : jYHnHRMYDpwvXAsnGVbTUQ
+aspect: Price
+text: Small class sizes and reasonable prices set it apart from other Crossfit gyms in the area.
+ -1
+
+reciew_id : DyHBhlj7Eak4Ezkdf7qxZg
+aspect: Service
+text: Keep up the great service!
+ -1
+
+
+reciew_id : Yf4aNNYCoadEGiVOrSYljg
+aspect: Price
+text: You will get a high quality workout that is very well-priced in a comfortable low-key studio environment.
+ -1
+
+reciew_id : 3FQkvPy5nLV9evW3p9xyyw
+aspect: Service
+text: Stacey responding to the review, mistakes can happen to anyone but correcting them and standing behind your company shows excellent customer service.
+ -1
+
+
+reciew_id : F7lL5ZVU4E7uAVqa5w0x9w
+aspect: Service
+text: I am grateful for, and have benefited from, your work and service.
+ -1
+
+
+reciew_id : X6cXWUbeEhrewkq1hNnv1Q
+aspect: Price
+text: The price is reasonable, and there are machines, weights, and space always available.
+ -1
+
+reciew_id : IkfR0y0SDeWVDaHD8l8KPw
+aspect: Service
+text:  There is great customer service.
+ -1
+
+
+reciew_id : GQpOemlewsOQlpNKmOmZ3Q
+aspect: Price
+text: They offered a reasonable price to start their \"On-Ramp\" class so I decided to finally give it a shot.
+ -1
+
+reciew_id : P-VqE6_E7DOScX1LtQsdSg
+aspect: Service
+text: Because of the amazing service I have received, I have been successful in my goals.
+ -1
+
+
+reciew_id : 1koCRDsmWZyScpfcC-LX6Q
+aspect: Price
+text: Prices for memberships are very reasonable.
+ -1
+
+reciew_id : C_cGuesDxeNmHNhZbnduag
+aspect: Service
+text: I don't know of any other studio that can match that price structure that offers the quality of services.
+ -1
+
+
+reciew_id : HRz9vRADUfz7A0SjLD8yVQ
+aspect: Price
+text:  Their prices are reasonable for the value of the service they provide.
+ -1
+
+reciew_id : 1cXgeFCP7gVTdzEvpLGzRg
+aspect: Price
+text: Peloton is a very welcoming place with kind and skilled instructors, good quality classes and equipment, conveniently located for me, and reasonably priced especially when I get passes on sale.
+ -1
+
+reciew_id : A_gQ8XTBh45Ixl7d1edamA
+aspect: Price
+text:  The gym is nice, the prices are fair, and Arturo seems to care about his members and the community in general.
+ -1
+
+reciew_id : TzEOVhGmEOXa_94Lcc4PXQ
+aspect: Price
+text: Glad I found such a reasonable priced gym.
+ -1
+
+reciew_id : OS3vlXLc995u-oBTSnt6vQ
+aspect: Service
+text: The customer service at UEC is also the best I've experienced.
+ -1
+
+
+reciew_id : 1uldbE6WZsCRClLzMV6rfQ
+aspect: Price
+text: Yes, the building is older as one reviewer put it, but the membership price is really reasonable and it's clean.
+ -1
+
+reciew_id : E1CWe1eoti4hNUupbIu3gQ
+aspect: Service
+text: The front desk have always answered all of my questions and always works with all the members to provide good, quality customer service.
+ -1
+
+
+reciew_id : pJoJwT2K9hg1cNcGQ1Qz3w
+aspect: Price
+text:   The prices are totally reasonable, especially for small class sizes.
+ -1
+
+reciew_id : 0OIWiJapBy7VtWx4tCfwzQ
+aspect: Price
+text: I Spent three months working out with him and saw great results at a reasonable price.
+ -1
+
+reciew_id : _L4oeMNtnVrAHxIikdbOTQ
+aspect: Service
+text:  I highly recommend her services; they are top notch and this girl knows what she is doing!
+ -1
+
+
+reciew_id : h37FMX8MkH6MmraMEn23NA
+aspect: Service
+text: The service was so good that I actually felt like I was at my home studio, very comfortable.
+ -1
+
+
+reciew_id : R2FyAPXxsol8_XJLPXnFiA
+aspect: Price
+text:  The price is definitely worth the amount of health & personalized attention you get!
+ -1
+
+reciew_id : 6FcXypIyHHi_SMA8XCEP0g
+aspect: Price
+text: By far and away these are the best Zumba classes I've ever taken and for a great price.
+ -1
+
+reciew_id : n9zAz8zq8sYAHN3MVPJgLQ
+aspect: Service
+text: Best customer service I received in a very long time.
+ -1
+
+
+reciew_id : 8DiYBvUU2nnlJUHsiu6W9A
+aspect: Price
+text:  Prices are reasonable and within market value.
+ -1
+
+reciew_id : UnUCquadlzFzjoiEp0G4_g
+aspect: Price
+text: Plus, it's one of the best priced crossfit gyms in the valley.
+ -1
+
+reciew_id : f9qg9ztt3DXJPrDZ_EgC5A
+aspect: Price
+text: Her regular prices are extremely reasonable for what you get out of the experience.
+ -1
+
+reciew_id : RwIPDNiFqrhBLYH9eaYNoA
+aspect: Price
+text: The price is extremely affordable and I love the month to month contract option you don't get at most other gyms.
+ -1
+
+reciew_id : 6JnmFHzpjB1zLxa_lwx32Q
+aspect: Service
+text:  Thank you for your excellent hospitality.
+ -1
+
+
+reciew_id : z5v6ROwezYCTg4Wd2Tj16g
+aspect: Service
+text: The customer service here is fantastic!
+ -1
+
+
+reciew_id : XYMRHFrzTlY0yOvk3FO44A
+aspect: Service
+text: The atmosphere is warm and welcoming, the level of service is outstanding, and the prices are extremely low.
+ -1
+
+
+reciew_id : 5vieZbD58Av132o0a2Vi9g
+aspect: Service
+text:  GREAT customer service, love the girl that works at the front desk LOL
+ -1
+
+
+reciew_id : c7esFTX27OEJLWs7R5QMTw
+aspect: Service
+text: Great facility and service!
+ -1
+
+
+reciew_id : GPO1FIrI_5OZBvyf39rwgg
+aspect: Service
+text: The management team run a fantastic gym and give great service..
+ -1
+
+
+reciew_id : fSPf37w8wMKRSCmlRHBSQw
+aspect: Service
+text:  The customer service has always been great for me.
+ -1
+
+
+reciew_id : 9djitWqWsurEEhK6XSboNw
+aspect: Service
+text: Once again I received top notch service!
+ -1
+
+
+reciew_id : YWWtvXjR-LakqBMwJpg9Tw
+aspect: Service
+text: Great customer service and it's rare to find gyms this clean and also with 4 restrooms\/showers.
+ -1
+
+
+reciew_id : 3AuV1nY2ahnWb9niV6bi_A
+aspect: Service
+text: I love its vibe, I love its services, I love its people.
+ -1
+
+
+reciew_id : smQRDt1HKjhGKtmhrmdO5Q
+aspect: Service
+text:   Thanks for the wonderful hospitality!
+ -1
+
+
+reciew_id : iz9RRdNHIAQFGozNmj-WoA
+aspect: Service
+text:  The academy offers amazing services for women who are wanting to learn how to play or getting back into the game.
+ -1
+
+
+reciew_id : 3d4fVeee7PW0-kHn8-Mlng
+aspect: Service
+text: Thanks for the hospitality, CrossFit Crew!
+ -1
+

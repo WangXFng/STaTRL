@@ -1,0 +1,1106 @@
+
+review_id : NNKlBxNBclrlWhVCjY3hIA
+aspect: Price
+text: All I can say as a negative is, it is a fairly expensive clinic.
+ -1
+
+review_id : pRt4FmLiotdvm0AMl4yyCA
+aspect: Service
+text:  Conscientious, helpful, quick service.
+ -1
+
+
+review_id : YzQteIrTpslr9uCJzfEj3Q
+aspect: Service
+text: I must say they provide one of the best customer service I have had in a doctor's office.
+ -1
+
+
+review_id : YzQteIrTpslr9uCJzfEj3Q
+aspect: Service
+text:  Jason is the nicest customer service rep I have ever talked to.
+ -1
+
+
+review_id : RLH9muNwFPWQ-sUe_aey2w
+aspect: Service
+text: Before I even stepped foot into this practice, I already had a wonderful sense of the customer service and love that Patty and Dr.
+ -1
+
+
+review_id : OcZ-wB8yVwa_4BhIp_akYg
+aspect: Service
+text: Davey and his staff are very friendly and I would recommend Dermatique to anyone looking for the services he and his office provides as well as for an overall skin wellness examination.
+ -1
+
+
+review_id : afSqQZbLrjOfMODKi2L7wg
+aspect: Service
+text: No complaints and pleased with the service.
+ -1
+
+
+review_id : bh35g-XELRLlxVwoXrUmcw
+aspect: Service
+text: Been there twice so far with 2 more appointments booked and so far I'm very happy with the service
+ -1
+
+
+review_id : H8uCbdn9ZAfxSfRZpTEKaA
+aspect: Service
+text: I am very pleased with the level of professionalism and customer service I received here.
+ -1
+
+
+review_id : H8uCbdn9ZAfxSfRZpTEKaA
+aspect: Price
+text: They have a great selection at a reasonable price.
+ -1
+
+review_id : _l1NoaSQj2vt8_7FRzjRbw
+aspect: Service
+text:  Looking forward to learning more about them and their services.
+ -1
+
+
+review_id : 5tvgJgTftW8pGXiFll16Mw
+aspect: Service
+text: Great prices on their eyewear and exceptional customer service.
+ -1
+
+
+review_id : VjzcRpQQzSsX8TcjULeXgQ
+aspect: Price
+text: I have had several reasonably priced laser treatments at this office over the past year and have been very pleasantly surprised with the results.
+ -1
+
+review_id : RkliMcxWdPRz8yidoXBQFg
+aspect: Price
+text: She got out models from three different manufacturers, starting with the lowest price first, explaining what each one would do and not do.
+ -1
+
+review_id : OdGvwMzBPYMR9wwWugJEGw
+aspect: Service
+text: What great service at this location
+ -1
+
+
+review_id : c_kUJmMpoEKB8lvoXM_jlQ
+aspect: Service
+text: She is a wonderful employee and a great asset for customer service.
+ -1
+
+
+review_id : IIjBtDEUzTiSGznMHmSDLQ
+aspect: Service
+text: The service and treatment I received was good.
+ -1
+
+
+review_id : wINvcgsuD4Brm0WOzK0xuw
+aspect: Price
+text: Billing is always accurate and fair.
+ -1
+
+review_id : FwnxDbi5v9VpLI6_2crZzQ
+aspect: Service
+text: Amazing service, caring staff and immediate appointments.
+ -1
+
+
+review_id : _oqPpdgvxlSBJbIFlyOHkw
+aspect: Service
+text: I love the service and the staff.
+ -1
+
+
+review_id : fmSL8eRLWwJQtyp3jli5nw
+aspect: Service
+text: Really liked the quick service when the doctor asked for testing.
+ -1
+
+
+review_id : loAZxq_1C0mD0m7vjHf3Kw
+aspect: Service
+text: Eich has the most patients in Tempe, but that doesn't stop the office from being quick, reliable, and giving great service.
+ -1
+
+
+review_id : cEXspm1i1FPAFkdqEsya8Q
+aspect: Service
+text: This location has the best customer service, I had an contact eye exam on Saturday,  from the minute I walk in the girl Dina made me feel welcome,  she answer all my question without hesitation.
+ -1
+
+
+review_id : qgBQeJwJW22ocgGRFXvXMw
+aspect: Service
+text:  The service is phenomenal I really experience a genuine care from Dr Jerian
+ -1
+
+
+review_id : VfAOt815OZNHJZj52ROfJA
+aspect: Service
+text: Ho and Nurse Britt for their great service.
+ -1
+
+
+review_id : zlihAfcwmHLNMrSLJiN3Kw
+aspect: Service
+text: We highly recommend his services.
+ -1
+
+
+review_id : JDtJJ1ZleIrctyDXuufOCw
+aspect: Price
+text: The receptionist and doctor were beyond friendly, the service was quick, and at $80 it was a reasonable price.
+ -1
+
+review_id : 0cB-ReyGz70P7bdq2pBYfQ
+aspect: Price
+text: I recommend this optical establishment to anyone who is looking for great service and a reasonable price, I've been coming here for a long time and I wouldn't trade going anywhere else
+ -1
+
+review_id : iGVOe_n9lzapLsoqmcjQPg
+aspect: Price
+text: Their pricing is fair compared to the other clinics we researched as well.
+ -1
+
+review_id : 9GdvAJrEQYUieYuno2LpQQ
+aspect: Service
+text: Very good service.
+ -1
+
+
+review_id : ca9dXmo9o7hRdQCuHni-sw
+aspect: Service
+text: I'm super happy with the service and treatment received from this clinic.
+ -1
+
+
+review_id : qKpOlqBjCwDbCH6mBAVw7w
+aspect: Service
+text: I highly recommend coming here first to see how amazing their service is.
+ -1
+
+
+review_id : RdGc4vgtDP2EW8eiCWqgJA
+aspect: Price
+text:  Each allotment of time is worth money.
+ -1
+
+review_id : tmQWGN_cR2n6D2iyMw12sA
+aspect: Service
+text: I give you all 5 stars on costumer service 
+ -1
+
+
+review_id : nrKGAKnwyl7Qm4f1LaXkmA
+aspect: Price
+text:   I'll also add that for the time spent, he is very reasonably priced as well.
+ -1
+
+review_id : 8kYHDV1X5f_b3WB1xd3lRw
+aspect: Service
+text: Thankfully I have no allergies so I don't have to return, however, between my 2 visits, I received awesome customer service by everyone I dealt with here- especially by Dr.
+ -1
+
+
+review_id : jNVKw-AFsWqZGCA8VX84Xg
+aspect: Service
+text: Excellent service except Dr.Gupta is the only cardiologist at this location.
+ -1
+
+
+review_id : MV9EduDWlZ1tFVtcP0uLvg
+aspect: Service
+text: Sussman was recommended to us and we will definitely recommend his services in the future to friends and family.
+ -1
+
+
+review_id : w8GbatK1ygrImABCBUigEg
+aspect: Service
+text:   Extremely happy with her service, and i look forward to seeing her more.
+ -1
+
+
+review_id : lEkY6pFcNmWXKk-XLyw7Sg
+aspect: Price
+text: The price was $150 plus tax which I find very reasonable.
+ -1
+
+review_id : lEkY6pFcNmWXKk-XLyw7Sg
+aspect: Service
+text: I'm not sure what my results will be but I am very happy with the service I received from this centre
+ -1
+
+
+review_id : sofRNcd7raSbgDy8mULC9g
+aspect: Service
+text: Doctors and service here are top-notch.
+ -1
+
+
+review_id : B5hJi-dfW5esGZ6zk3xZOQ
+aspect: Service
+text: I really appreciate there high level of professional service.
+ -1
+
+
+review_id : NON7ySxk5X1pG4nzpk5hWQ
+aspect: Service
+text: Wolfson is beyond your expectations of what quality service, compassion and skill is.
+ -1
+
+
+review_id : 5bZ5eZMxpJjeTtoir3jniQ
+aspect: Service
+text: Taylor based on my mom's recommendation and I'm extremely happy with the service I have received at these offices.
+ -1
+
+
+review_id : 3V7rp_tuebjrHVrfB_EjVg
+aspect: Price
+text: Herion was very honest and told me to save my money this year and possibly get new lenses next year.
+ -1
+
+review_id : Q6NDKUM-XSxJ3IVeFfbjRw
+aspect: Service
+text: If you want quality service, he's worth every cent.
+ -1
+
+
+review_id : eNGh32GJ7AJIZksQBCkn9A
+aspect: Service
+text: The service was amazing.
+ -1
+
+
+review_id : pwdlFJ3ZpEyf-zN6pkcreQ
+aspect: Service
+text: Summerlin Foot & Ankle, besides giving great professional service, is very customer service oriented.
+ -1
+
+
+review_id : g8NBh2dcqpI1fJ-gSSiZ6g
+aspect: Service
+text: Customer service was great and the dr I had was friendly with a great attitude.
+ -1
+
+
+review_id : BqlFmKqQgdXdgsnqYPmuQQ
+aspect: Price
+text: What a wonderful resource to the community at a really affordable price
+ -1
+
+review_id : WB2tomdJWs_FPKcT2eojnQ
+aspect: Service
+text: Awesome customer service, amazing techs.
+ -1
+
+
+review_id : 0fUUFXptFHGnBNA9hrA70w
+aspect: Service
+text: I highly recommend her services\/office.
+ -1
+
+
+review_id : 39sx42ZW_kpBgVX_w5EcoQ
+aspect: Service
+text: Cohen and staff can not be beat for service, quality of care and patient satisfaction.
+ -1
+
+
+review_id : gWMwj1N0G2PuijwjzWKJQw
+aspect: Service
+text:  He is a winner in my book and clearly I'd highly recommend his services to anyone seeking a great dermatologist.
+ -1
+
+
+review_id : JOR66x48oAzaqVaKH7FUBQ
+aspect: Service
+text: If you want good service you will wait and if the waiting room is full,  then that should tell you something.
+ -1
+
+
+review_id : vwhgdAf3gT5MlGcmNGuf0g
+aspect: Price
+text: She has amazing designer glasses at designer prices.
+ -1
+
+review_id : yxmvzXfpoesKk7YQ9C28pw
+aspect: Price
+text: Well worth all the money, and ten times more useful than anything my insurance covers for conventional-only medicine.
+ -1
+
+review_id : YXDAwPekSpIbjIIXMTeeYA
+aspect: Service
+text:  I've been coming here for Hydrafacials for years and cannot begin to express how happy I am with their services.
+ -1
+
+
+review_id : yzVuxTkAfzI4R20AIoeS1A
+aspect: Service
+text:   I appreciate such great customer service from the eye technicians to the front desk staff.
+ -1
+
+
+review_id : ck0kSCPM67RahXywUCYGaA
+aspect: Service
+text: Great service from everyone every single time.
+ -1
+
+
+review_id : Ttm7j5Ho72aP_fomvvXgRg
+aspect: Service
+text: Excellent Surgeon, and Staff deliver high quality healthcare services in a professional office.
+ -1
+
+
+review_id : BnpjL9C9ZT9RAeX7umvdZg
+aspect: Service
+text: The staff continues to try their best to provide the best service possible.
+ -1
+
+
+review_id : SLzT-qReGkpUANXlzQa2Kg
+aspect: Service
+text: P3 Medical Group Pecos was very clean and the service was wonderful.
+ -1
+
+
+review_id : SLzT-qReGkpUANXlzQa2Kg
+aspect: Service
+text: I was extremely pleased with the service.
+ -1
+
+
+review_id : c6S2Yewh9NBy4TCSIlYu7g
+aspect: Price
+text:  Prices are affordable too
+ -1
+
+review_id : tTeqfzG62qvwTNgQg7DzWw
+aspect: Service
+text: Always in awe of the professional service that I receive here - something one rarely sees now a days and I highly recommend seeing them.
+ -1
+
+
+review_id : j3wcyjH-lkV-g4hwhfOCcw
+aspect: Service
+text:   Always great service, always great care
+ -1
+
+
+review_id : jC579evXweOLl-SI9t9jjg
+aspect: Service
+text: Holy cow- can we just talk about the best customer service? I called today and spoke with the receptionist and she was so kind.
+ -1
+
+
+review_id : HZBVWGm68cskaH6DUkv74w
+aspect: Price
+text:  Prices are affordable too
+ -1
+
+review_id : NaG5ckebKdIVNQucHwH8yg
+aspect: Price
+text:  Prices were great and my surgery went better than I expected.
+ -1
+
+review_id : DEyWQtt-zX7zSpnT1LUVSw
+aspect: Price
+text: The place is clean (VERY important to me in a medical place), reasonably priced, and the entire staff are friendly and always cheerful.
+ -1
+
+review_id : m0WI46rgkBTlG2W99l0p3Q
+aspect: Service
+text: I would recommend there services to all
+ -1
+
+
+review_id : zyLNghd1cNQsUeil8dK9Ow
+aspect: Price
+text: Lanfranchi so worth your time and money is the fact that he ONLY works on faces, so he's a pro when it comes to making them look amazing.
+ -1
+
+review_id : f-lGa5kChbG7f7ysaIUtYw
+aspect: Price
+text:  I prefer when dealing with your eyes that you go to a qualified center then the cheapest.
+ -1
+
+review_id : UBJhhS7DedlYeYnnyNvxlA
+aspect: Service
+text: I would recommend this place to anyone in need of their services.
+ -1
+
+
+review_id : BC9bC29Vq-ssk_JKL6oYAw
+aspect: Price
+text: The price is friendly and I came back second time, was not disappointed coming back either, she had everything done with confidence and easy.
+ -1
+
+review_id : 6CyfWMuvhTZUpEWDPcnDlg
+aspect: Service
+text: Their location was a little bit out of the way for me, but the service, professionalism and cleanliness was well worth the drive.
+ -1
+
+
+review_id : I0jWPmxl8bM6TytFinx7CQ
+aspect: Service
+text: Two of many specific examples of excellent patient service are that the doctor is willing to see me on an upcoming Saturday for post surgery follow up appt.
+ -1
+
+
+review_id : d69cobYZfNZxPwAfliAnow
+aspect: Service
+text: Lipshutz, Isaac Tunnell and staff for Your excellent service all these years.
+ -1
+
+
+review_id : QVpfgNPUQQF7AU_a51NnWg
+aspect: Service
+text: Wonderful customer service, education, help with every need I had.
+ -1
+
+
+review_id : idQJI00lkNV4v_z15JqMoA
+aspect: Service
+text: Excellent medical service.
+ -1
+
+
+review_id : 84Gy0ksn5rGcySzXnzCA5g
+aspect: Service
+text:  The service there is amazing
+ -1
+
+
+review_id : 84Gy0ksn5rGcySzXnzCA5g
+aspect: Service
+text:  I love the cleanliness, friendly staff, and and quick service.
+ -1
+
+
+review_id : erw3mUu2MaorTH2dKdlgwA
+aspect: Price
+text: They definitely have the best prices in town and the most talented staff.
+ -1
+
+review_id : aE3hcORuxXyXcLwmNAHlsA
+aspect: Service
+text: Thank you for the great service, attitudes, smiles, and efficiency in doing your jobs
+ -1
+
+
+review_id : 6ezJtcnS2SWmcRYdeV616w
+aspect: Service
+text:  Great service, affordable & she met all of my needs while making me feel comfortable and well-informed about the process.
+ -1
+
+
+review_id : VyylammZn-gkdqnJHFj5ug
+aspect: Service
+text: I cannot say enough kind words about this place they did my glasses next day and the customer service is amazing I got great follow up care and information from Karen & Eric
+ -1
+
+
+review_id : KQUSPNCCOVv6yWHW0W3Kuw
+aspect: Service
+text: That is definitely customer service at its best.
+ -1
+
+
+review_id : yq66o2bU8R_eTUbfcs8dgA
+aspect: Price
+text: She also has the best prices in town, and helps you with obtaining special discounts and promotional pricing from the various products she offers.
+ -1
+
+review_id : Mq-COX4Fl1ZiXxDwlPI6JA
+aspect: Service
+text: I'm very happy with the service I received in the Fairview Park office.
+ -1
+
+
+review_id : Eb0GElAMcQQlL0z0c11Z_A
+aspect: Price
+text: They have pretty good prices at that coffee bar, as well as a great sense of style.
+ -1
+
+review_id : UFh6UzYHfew2OLPTexZxLA
+aspect: Service
+text: Friendly, professional, quick service.
+ -1
+
+
+review_id : vKfk27KqmH0fqqzx_rwKzw
+aspect: Price
+text: They provided friendly and exceptional customer service, gave me a great price, and on top of all that, our x-rays now look amazing
+ -1
+
+review_id : dhHWp4yUuNIzKZ1yQwD7Gg
+aspect: Service
+text: Her staff is friendly and provide excellent customer service.
+ -1
+
+
+review_id : 5K2e5VJiDc72hzQDrDh3_w
+aspect: Service
+text: I am impressed with Dr Singel for the excellent professional service and treatment I have received.
+ -1
+
+
+review_id : xZ60v5GsWGc8eMf51gAd4Q
+aspect: Service
+text: Lastly, the office staff is also to be commended for outstanding service
+ -1
+
+
+review_id : gi3B1mzIW3kAM068h4Oz7Q
+aspect: Service
+text: I will definitely be returning for more services
+ -1
+
+
+review_id : yMvgx_jmMQS6SEZBbGQomw
+aspect: Service
+text: Thank God for this amazing Health Services practice
+ -1
+
+
+review_id : mZR40-_CKiNmBoMO4T-fcw
+aspect: Service
+text:  They listen to me and provide excellent quality service.
+ -1
+
+
+review_id : lk6fXLr_6TRblqz253ciIA
+aspect: Service
+text: The customer service here is wonderful, and all the girls working, from the front desk to the laser techs, to the doctor, are all so, so pleasant
+ -1
+
+
+review_id : HRqrWdoEXsnLPwQbqG9ejg
+aspect: Service
+text: Eckart and can highly recommend her services.
+ -1
+
+
+review_id : DSfbFbCiCeAtamsBIpKgKA
+aspect: Service
+text: This company will try to make sure everything is ok wit your experience  great customer service
+ -1
+
+
+review_id : iOT5tOfgWJk8smplXlkxaw
+aspect: Service
+text: Excellent service & great results.
+ -1
+
+
+review_id : Feb8hOGKMT0QGeTShhOrnQ
+aspect: Price
+text: I don't regret for one minute the time, money and effort we have put in to seeing her and following her instructions.
+ -1
+
+review_id : 7lQhHb1Yyh5w1jPfNyRDzg
+aspect: Service
+text: Great customer service and communication.
+ -1
+
+
+review_id : A5ymoyukMiEIXMilv6iMbQ
+aspect: Service
+text:  Both the Doctor, Roger Fontes, MD and the rehab center provided excellent service.
+ -1
+
+
+review_id : 5JEgW-H2fC_meGSyeumXww
+aspect: Service
+text: Incredibly professional staff, excellent service and product.
+ -1
+
+
+review_id : vz38gXgi9kxaz15tt4KECQ
+aspect: Service
+text:  I've had nothing but great service and results.
+ -1
+
+
+review_id : KD1Fisqeh07Rd8yfmmxt2A
+aspect: Service
+text: Received great service from everyone there.
+ -1
+
+
+review_id : T-crmnodKq75T5aayK8oTg
+aspect: Service
+text:  He was very happy with the service provided.
+ -1
+
+
+review_id : 1NlpcEjStPM_IjTvriZIlA
+aspect: Service
+text: Was very pleased with their efficiency and service.
+ -1
+
+
+review_id : 1NlpcEjStPM_IjTvriZIlA
+aspect: Service
+text: Appointment was right on time and the services were professional.
+ -1
+
+
+review_id : rgYi5UgAFkhh6dfwOirMUw
+aspect: Price
+text:  Price was pretty reasonable, it's all cash pay or financing available.
+ -1
+
+review_id : 44fpGzz-k_nfDZAUe49k5Q
+aspect: Service
+text: The care and service my girls have received is top notch.
+ -1
+
+
+review_id : WTB9ji0XgRf3Sk6xP3Dm1w
+aspect: Service
+text: GREAT service,,GREAT people who really care.
+ -1
+
+
+review_id : __IY-KokrG-012tBTQxvNA
+aspect: Price
+text: The price is definitely doable.
+ -1
+
+review_id : AOa626qieW9LSv6cXcCbBg
+aspect: Service
+text:  The fee is worth the service you receive.
+ -1
+
+
+review_id : Kr-SgfoB4ZuZaM9I3LDGHw
+aspect: Service
+text: Very happy with her service, will be back for my touch up.
+ -1
+
+
+review_id : JUk7ephCEdplvuzZHlp-UA
+aspect: Price
+text: Leon is right up there with the very best Scottsdale offers, and AMAZING prices.
+ -1
+
+review_id : -6NUAiKBZRbayyjrrv06OA
+aspect: Price
+text:   She is amazing,  her prices are very reasonable and her work is good quality work
+ -1
+
+review_id : 2kUyrOHTw3pVu3okc186JQ
+aspect: Service
+text: I would highly recommend Cory Health Services.
+ -1
+
+
+review_id : zMVw-Zxe1zhFdspulsVrTw
+aspect: Price
+text: Which again apppreciated because it saves time and money.
+ -1
+
+review_id : Ts--72jvBh1C8-Gky2KB7g
+aspect: Service
+text: Great service and super clean facility.
+ -1
+
+
+review_id : 4EaNJ1LvWAazPVke78Gs5Q
+aspect: Price
+text:  Very fair and professional.
+ -1
+
+review_id : rw5Vj3iVwol-FkiFV0M6lg
+aspect: Service
+text:  They have the best team and customer service
+ -1
+
+
+review_id : zIwmE3Ockjfxurhxzp2TwA
+aspect: Service
+text: Fabulous results, amazing service, friendly and knowledgeable staff
+ -1
+
+
+review_id : zIwmE3Ockjfxurhxzp2TwA
+aspect: Price
+text: Best and fastest tattoo removal you can get and affordable price.
+ -1
+
+review_id : K4NgMqglyaeR2rMV6t3u-g
+aspect: Service
+text: Always excellent, prompt, professional, friendly service.
+ -1
+
+
+review_id : YZDRDD6gOupFEurl-obXXw
+aspect: Service
+text:   I highly recommend his services.
+ -1
+
+
+review_id : zzTyn30g6xHqh7RTmYXIFw
+aspect: Price
+text: Best money I ever spent
+ -1
+
+review_id : 4gMX2I5lzG9v2U0E_07FHg
+aspect: Price
+text:  Her prices are very reasonable and she makes her own all natural skincare products in -house.
+ -1
+
+review_id : S05_71A3CFO49gQC6gDlVQ
+aspect: Service
+text:  Fantastic client service on phone and in person.
+ -1
+
+
+review_id : zjz5n5WsW-bm6Id9V7WK8A
+aspect: Service
+text: Their customer service is outstanding.
+ -1
+
+
+review_id : vQCkaeLrPW8ibnnIE15rjQ
+aspect: Price
+text:  Just book the 3 sessions, it'll save you money and time and you won't regret it
+ -1
+
+review_id : SlV9kNptAjRowkoeKK1gFA
+aspect: Service
+text: The customer service was friendly and sweet, she educated me on the root problem so I know how to actively treat it and even referred me to cheaper places to purchase things.
+ -1
+
+
+review_id : HxtBE8yP4phXsjjWMfkjjw
+aspect: Service
+text: Just went for my first visit today after some outstanding customer service got me in last minute.
+ -1
+
+
+review_id : DOvvZ75OBODJIlhQVpH1Ow
+aspect: Service
+text: She brings a great service at a great price.
+ -1
+
+
+review_id : DOvvZ75OBODJIlhQVpH1Ow
+aspect: Price
+text: She brings a great service at a great price.
+ -1
+
+review_id : lgeuwL9yHr2eZR7Fi5sGpg
+aspect: Price
+text: He is reasonably priced and he and his wife, Pauline, are true healers.
+ -1
+
+review_id : 54pmEmd4v2GTMon3i1nXzA
+aspect: Price
+text:  His prices were already very reasonable and I booked him right away
+ -1
+
+review_id : 0sNsJskoh-zWlpKhSvykXQ
+aspect: Price
+text:  very professional, helpful, prices very reasonable, give you options, don't try to push one choice
+ -1
+
+review_id : vVSXOLrh4iROXKjniXELkw
+aspect: Price
+text: The pricing is very fair compared to other places.
+ -1
+
+review_id : 3RmttFkdnkkcPykKekBmcA
+aspect: Price
+text:  The staff is very friendly and efficient, the prices very fair.
+ -1
+
+review_id : OHjDGschVVpR9y3jz7azOA
+aspect: Price
+text: The artists are friendly and talented and the prices are reasonable.
+ -1
+
+review_id : cYnEuCceEZFWm3hrCFCOMA
+aspect: Price
+text: Got a great cut,for a good price and excellent service.
+ -1
+
+review_id : X9D9BGSdeiGWodd_bliLdA
+aspect: Price
+text: And the price they charge is rather reasonable.
+ -1
+
+review_id : oo5PiFd-BPGtBbha-XTnQw
+aspect: Price
+text:  He was hands down my favorite, long before I discovered his prices are also very reasonable.
+ -1
+
+review_id : FoIOWo2qQ9-7kVHAMZFPdg
+aspect: Price
+text: I had side burn laser with char , she's very nice n friendly n so professional the place was very nice n clean I will definitely go back again for my other hair removal, I also noticed she doing permanent eye tattoos too, I will go to her when I need mine touch up, her price was very reasonable, thank you char
+ -1
+
+review_id : UrTORM_5ACEdHtwqEIiAyg
+aspect: Price
+text: Rossio does great work, their prices are reasonable and they have been nothing but professional.
+ -1
+
+review_id : TsDjh_lTBNJvtXfawWu8Hw
+aspect: Price
+text:  It's only $20.00 and I believe it's worth the price.
+ -1
+
+review_id : TsDjh_lTBNJvtXfawWu8Hw
+aspect: Price
+text: You get so much done including an adjustment for a cheap price.
+ -1
+
+review_id : FPOoTBMIkfo3_c5jCRjeoA
+aspect: Price
+text: Price was very reasonable and they offer financing if you need it.
+ -1
+
+review_id : L3JTaCJsedVD4RFn8QMo9Q
+aspect: Price
+text: Parke gives, the prices are reasonable.
+ -1
+
+review_id : L3JTaCJsedVD4RFn8QMo9Q
+aspect: Price
+text: Then again there is no price worth hiking.
+ -1
+
+review_id : X4BGKdtJ55wgfjt6mc9XKg
+aspect: Price
+text: I just wish renewal prices were reasonable.
+ -1
+
+review_id : Pts-6fTfYHxNL4duGa90Ww
+aspect: Price
+text: They make you feel good and save you money; what's not to love
+ -1
+
+review_id : WW3sv8bHw_rrg4BQfdTOzg
+aspect: Price
+text:  Make an appointment, it's worth the time and money just to have a physician that will listen to you as that seems to be a rarity these days.
+ -1
+
+review_id : Qh3EEkjgbs331rB2vMcaFw
+aspect: Price
+text: Also very reasonably priced.
+ -1
+
+review_id : E944CFgtsPfX_GXHGcu0wA
+aspect: Price
+text: He also tries to save you money in any way shape or form.
+ -1
+
+review_id : vkSIe13ISuXxNCbC5gsZzQ
+aspect: Price
+text: The prices are reasonable and Dr.
+ -1
+
+review_id : wNXCqhdp0-7OGbJ3k8HvUQ
+aspect: Price
+text:  Care was great and his price was reasonable.
+ -1
+
+review_id : 1vRGINtXd4C9CEWyoq5ggA
+aspect: Price
+text: Finally, the costs of the procedures are fair and  reasonable.
+ -1
+
+review_id : VsJIjQaCJ9j5u2LV-kABwA
+aspect: Price
+text: Baker genuinely cares about each of his patients, and will not recommend anything that could be a waste of time and money.
+ -1
+
+review_id : y8YTuokLwP311AKTZ8UREw
+aspect: Price
+text: Fast movers with fair and reasonable price
+ -1
+
+review_id : ek70p0J-OCpZlC-d5agAjQ
+aspect: Price
+text:  Absolutely worth  the money.
+ -1
+
+review_id : 2639ycWb-MunyteThEGLIg
+aspect: Price
+text: They are also reasonably priced with your first visit costing $65 and each additional costing around $50.
+ -1
+
+review_id : lrTOF9CL6XgfluNkAgZr2A
+aspect: Price
+text: They are conservative in their treatments and prices are fair.
+ -1
+
+review_id : UsEeUZt60CeQI1QtnJhU2A
+aspect: Price
+text: The prices here are reasonable and it is clear that he is competent and easy to get along with.
+ -1
+
+review_id : 3urJvWN-B_wwkaX3GdT5mw
+aspect: Price
+text: Well worth the money in my view for those of us with busy schedules.
+ -1
+
+review_id : j7j8UJx_Vn5Datv_0rsHIw
+aspect: Price
+text: The price was reasonable.
+ -1
+
+review_id : kXX8idoYo5nBMvznH1hAJg
+aspect: Price
+text: He also runs a reasonably priced massage school.
+ -1
+
+review_id : 2UkJfOoJkEzmNGTwv4gA_Q
+aspect: Price
+text: His prices are amazing and the service is top notch and it is not timed as most physio's that are $70 per half hour.
+ -1
+
+review_id : Iq7hvTgIkLrpJkxZmGmHsA
+aspect: Price
+text: For what you get the prices are very reasonable I can't thank them or recommend them enough.
+ -1
+
+review_id : 86Ib9KZ9Af0FGdblAq8G2g
+aspect: Price
+text: Dr Villares has great prices and would prefer to care for patients who can't normally afford plastic surgery than over charge and take money from
+ -1
+
+review_id : D4GWqKzEmcBGdGVtP8TVwQ
+aspect: Price
+text: They work hard to give you great care and do it for the best price
+ -1
+
+review_id : 1eBlbpIWEI95x-Fj3xF7Sw
+aspect: Price
+text: I guess the new thing is to buy cheap frames online, but I think glasses are worth more time and money than just uploading a picture of your face and sending it along.
+ -1
+
+review_id : xJeV_yCnnunCsRMGE13okw
+aspect: Price
+text: Price and his staff are unbelievably awesome
+ -1
+
+review_id : hfBZ9CadfX-V9Y8f4NETRQ
+aspect: Price
+text: The B12 shots are reasonably priced.
+ -1
+
+review_id : Brud-jPW1cfgilO8Pb0fFA
+aspect: Price
+text: Price has a very calm reassuring demeanor (one could almost say laid-back) and was able to treat me twice.
+ -1
+
+review_id : r7QheBuUidXVgcJiZ5HptQ
+aspect: Price
+text: Price is great, and I'm happy I saw him.
+ -1
+
+review_id : HbE27xpKYyG7WkLqRx-7qQ
+aspect: Price
+text: The product is worth the money in itsel.
+ -1
+
+review_id : 5Y3mN7poFnFHOHzsVcHrRA
+aspect: Price
+text: Amazing new location with a friendly staff and awesome prices.
+ -1
+
+review_id : Qx1JA3t6rEhgPWwl7a29nQ
+aspect: Price
+text: Staff is smart, they work together and the result is quality glasses for a great price.
+ -1
+
+review_id : Szy8vXLpl2xBnGB-swkDwQ
+aspect: Price
+text: Also, the price is fantastic.
+ -1
+
+review_id : gbESpSYXqOsm159PLAUDPw
+aspect: Price
+text:  may save you time and money
+ -1
+
+review_id : U4wR1KXFOZUe0fWoB1AOmg
+aspect: Price
+text: They have the LOWEST prices than any other place I've seen.
+ -1
+
+review_id : gCZSguY0MOpvbnkCX9NpVw
+aspect: Price
+text: Professional, considerate, excellent care and the price was very good.
+ -1
+
+review_id : Peg0q0NumpfTohX5iGrkqA
+aspect: Price
+text: I came to them for their weight loss program which is reasonably priced and they give you everything you need to be successful.
+ -1
+
+review_id : 7qh9-hg0TAFlCp2pv3Q1Mg
+aspect: Price
+text: The prices are very affordable, as well.
+ -1
+
+review_id : ySu7pjYtcJrDTHSeKn0d3A
+aspect: Price
+text: Place is very good workers are helpful good prices and sneakers are made strong went to other places for diabetes shoes and they fell apart after 6 months
+ -1
+
+review_id : WraU8a5WvmWQXSZq2dDCPw
+aspect: Price
+text: The prices are the best in town and the results are amazing.
+ -1
+
+review_id : 4kZ8z4QDsiy-zKcNVahF8A
+aspect: Price
+text:  This is a great find with great prices.
+ -1
+
+review_id : m_SjYahvo7DIbs5Lc8RvuA
+aspect: Price
+text: They even did our EKG and Echo is the office, saving us time and money.
+ -1
+
+review_id : ckSiXQKmzW-lrODp4iMYMQ
+aspect: Price
+text: To us the price was fair, we out it on our care credit, remember don't think you can get the 60 month option from care credit.
+ -1
+
+review_id : T7vMtzksM9c9xvHMK8LQ8w
+aspect: Price
+text: I would go back as not only was I very well looked after it was also the cheapest place I have found in las vegas.
+ -1
+
+review_id : mlZo73Z4foMCyyV1OAVnKw
+aspect: Price
+text: Next ordered ConnectorClip - Retested my ears - spent inordinate amount of time making sure all reprogrammed & connected and worked well and charged me a very fair and reasonable price for the total of 4 visits.
+ -1
+
+review_id : V4Lzh466g9mxGunxQU7x_w
+aspect: Price
+text: His prices are worth it.
+ -1
+
+review_id : ifPdOlSM9mFd1BkC8QW8hg
+aspect: Price
+text:  Great place, great staff, great results, and great prices.
+ -1
+
+review_id : 0CO9r8CmCsiks68mbpfNlQ
+aspect: Price
+text: I came here because I hurt my knee and we are currently between insurances; Urgently Ortho is priced extremely fair given that you are seeing an actual orthopedic surgeon and not just a PA at some other urgent care.
+ -1
+
+review_id : tLWevOBqxSMEHbEfF7f2uQ
+aspect: Price
+text:  The price was very reasonable and I knew my results were going to be great.
+ -1

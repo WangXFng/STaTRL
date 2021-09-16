@@ -1,0 +1,1630 @@
+review_id : HOSINJdt20uyd8rbM_zVTQ
+aspect: Service
+text":"From hostess, to 15 minutes for a waiter, to mediocre at best food (flautas were blandly acceptable).
+-1
+
+review_id : FUb0RjQkL7gteqMVYSMWvw
+aspect: Food
+text: This place was really bad food was awful my fries were cold.
+-1
+
+review_id : dMjY2Ii9-XkOc5hCmdJNyA
+aspect: Service
+text : I ordered a fruit and yogurt parfait and they gave me plain yogurt, tried to call and let them know so they don't do it to anyone else and they didn't answer the phone the 4 times I tried to call, how hard is it to mess up a damn parfait??
+-1
+
+review_id : 1jHe-pet6B7z6St2eVklqA
+aspect: Service
+text : The attitude you get from the same 2 women is so unprofessional!
+-1
+
+review_id : lZDsR2h18VI0jJz9AOSDUA
+aspect: Price
+text : I had a friend working there and he told me not to buy certain stuff like juices ... Very expensive..
+-1
+
+review_id : trbcxKQ1IfTqWLEHrR-Sbw
+aspect: Service
+text : This has to be the worst Starbucks on the planet, terrible service, never get an order right, horrible attitudes, and on and on.
+-1
+
+review_id : TiyssFXsxgt6kFKLvpscxA
+aspect: Food
+text : Food is too spicy for me.
+-1
+
+review_id : 5ZAakXyomoZoZFTfIUS_Tw
+aspect: Food
+text : Chicken balls were the worst, Huge amount of what tasted like doughnut batter and a very small chuck of chicken.
+-1
+
+review_id : 5ZAakXyomoZoZFTfIUS_Tw
+aspect: Food
+text : The rice was yellow (don't know why), General Tao chicken was sweet, not spicy and in general the food was not fresh or tasty.
+-1
+
+review_id : hagqYyE79atx1ePiA_-8LQ
+aspect: Service
+text : The drive thru was so slow we had to abort our afternoon iced coffee run.
+-1
+
+review_id : S8wGRNZvepsBKxqZgW8BuA
+aspect: Food
+text : The cake was well designed, but it tasted like soap!
+-1
+
+review_id : GK-LOCUiGenZizvXMpRKng
+aspect: Food
+text : This is hands down the worst coffee unless you like coffee flavored water.
+-1
+
+review_id : TS91hROvUisJiDLa61RYUg
+aspect: Service
+text : Poor service, poor attitude, out of products, and they took forever to get us our food, worst dunkin donuts I have ever been to.
+-1
+
+review_id : s7a0QoBjXkwpTtVdkD6bhQ
+aspect: Location
+text : Hate this location personally.
+-1
+
+review_id : zmkzpYMHbjd57js6szeoxQ
+aspect: Food
+text : It does sounds good, but but but the food is just too bad.
+-1
+
+
+review_id : HgmgkfSi0ZXcFyqYPoO9tQ
+aspect: Service
+text : This is honestly the SLOWEST service you could possibly get at a 'fast food' place.
+-1
+
+review_id : HgmgkfSi0ZXcFyqYPoO9tQ
+aspect: Food
+text : This is a brand new McDonalds so it is amazing that the quality is so poor.
+-1
+
+review_id : LTF4TwcN3F8YH4nOU4RV7w
+aspect: Service
+text : Didn't greet us or thank us for spending our money at his stink ass store.
+-1
+
+review_id : Wv77WQudaLwctyI6wLNGYA
+aspect: Service
+text : The staff are rude and not friendly with an extreme attitude. 
+-1
+
+review_id : 35slWnSjdGCVnCGyWKqNOw
+aspect: Location
+text : I will suggest that please take care of such things as it's in the most popular place!
+-1
+
+review_id : c3yqg0HEEesfPmtzEJxOrw
+aspect: Food
+text : Every thing thing from the buffet was cold, the eggs, the potatoes, the French toast - COLD.
+-1
+
+review_id : c3yqg0HEEesfPmtzEJxOrw
+aspect: Food
+text : The bacon was nothing short of raw.
+-1
+
+review_id : c3yqg0HEEesfPmtzEJxOrw
+aspect: Food
+text : The food was not good AT ALL.
+-1
+
+review_id : dSDW09ZDozuzdsW1obz1pw
+aspect: Service
+text : Barista in Starbucks at Safeway with the blonde hair was very rude.
+-1
+
+review_id : _XzKwRZuR2TLGkTpOZIpLg
+aspect: Service
+text : None of the workers had a smile.
+-1
+
+review_id : Ap71xpI1MxpXFaVu190Oxg
+aspect: Service
+text : The drive through takes for ever and they constantly get the order wrong.
+-1
+
+review_id : -l3ztKCgd82o26P62sMRAQ
+aspect: Food
+text : Way to much chilli, cheese no melted.
+-1
+
+review_id : l6X5Lur4us9RywWIpERmKQ
+aspect: Service
+text : She never has anything nice to say about anyone.
+-1
+
+review_id : lhIMl3U1evTnELWZGYb8yg
+aspect: Service
+Really wish no stars were a option, seeing as the snarky, rude, and sarcastic customer service sold me on the fact, that even as a McDonald's fast food worker, they obviously don't care about their crappy jobs.
+-1
+
+review_id : YIf_WfHrQSPISyxHh9qU0Q
+I hope nobody buys from this place because of  the arrogant management that they have.
+aspect: Service
+-1
+
+review_id : FIZ4Fm3B3ooDfcVWRJP3ww
+aspect: Price
+text : This is one of the most overpriced grocery stores in charlotte, NC\nPlease be aware \/ check prices of anything before you buy.
+-1
+
+review_id : togBlgyfsjsyVXU3iAmqUQ
+aspect: Food
+text":"The decaf coffee here is just terrible - watered down.
+-1
+
+review_id : oHBuuyWLy5VGZtBxRaXENA
+aspect: Food
+text : Not sure I can give a star for  this one , but I will give it a 1 ,and not going back in to complain not worth it , first off my skinny vanilla latte with soy  was  bad that I couldn't drink it .
+-1
+
+review_id : U6QlvK8-wzC5kGwahQ00jQ
+aspect: Service
+text : The people who work here are less than friendly.
+-1
+
+review_id : slLf0F9PzYS2LvM5UL4pKw
+aspect: Service
+text : Stay away. Manager and staff doesn't know what the promos are.
+-1
+
+review_id : hLwK9vLJ3XwryJVcwbCabg
+aspect: Price
+text":"The price has gone up.
+-1
+
+review_id : hLwK9vLJ3XwryJVcwbCabg
+aspect: Food
+The food quality and taste has gone down.
+-1
+
+review_id : tuRfftZg9jRFB65a2KSOdg
+aspect: Ambience
+text : The place is dirty and looks like an abandoned Warehouse.
+-1
+
+
+review_id : tuRfftZg9jRFB65a2KSOdg
+aspect: Service
+text : The owner or worker was rude and disgusting. 
+-1
+
+review_id : PmcKOqSAMnd4QMd_rGMVfA
+aspect: Service
+text : Just stopped for breakfast the employees couldn't move any slower if it were humanly possible an extremely discourteous.
+-1
+
+review_id : 7Oe4k4if01JiXp1dpIIuPA
+aspect: Service
+text : I don't remember the guys name who rang my order up but just wanted to State that I received very poor customer service upon going here.
+-1
+
+review_id : ZbRNF7YTDVS6ViYBmbI09A
+aspect: Service
+text : The owner\/cashier is very rude and aggressive.
+-1
+
+review_id : MP7Z6CPqoOq2iyIzFMwGoA
+aspect: Service
+text : Greeted by a haggard, elderly senior with a permanent scowl.
+-1
+
+review_id : FRNG80L8y2qAeL9l3SrKpA
+aspect: Service
+text : After reviewing the video tape the employee did in fact take the paint off of the car with the high pressure hose.
+-1
+
+review_id : kWdjFs9h4MUXRmy7gwhx8w
+aspect: Service
+text":"Slowest Starbucks on the planet. 
+-1
+
+review_id : kWdjFs9h4MUXRmy7gwhx8w
+aspect: Service
+text : And, employees seem completely unconcerned.
+-1
+
+review_id : bTJ1lDkZAD0S1ORJ0iEdFg
+aspect: Food
+text : The frozen yogurt was too tart and then only offered 2 or 3 flavors--none of which I liked.
+-1
+
+review_id : bTJ1lDkZAD0S1ORJ0iEdFg
+aspect: Food
+text : The yogurt is disgusting and I would never go here again.
+-1
+
+review_id : 8xJGmOASQvQLTD-kFsK5Hg
+aspect: Location
+text : I can't imagine a worse DD location.
+-1
+
+review_id : 8xJGmOASQvQLTD-kFsK5Hg
+aspect: Service
+text : The service is extremely slow and the employees are rude.
+-1
+
+review_id : nBjF_BdL6OAWdjlisAjy_A
+aspect: Food
+text : The nastiest tacos I have ever tasted, No phone number on the receipt to call to tell them  $12 spent on garbage.
+-1
+
+review_id : P8biFWq-5aY0hTXS89GnPg
+aspect: Food
+text : So terrible I sought out this website to warn others off! I ordered take-out Kung Pao Chicken and got a soupy mess, with a handful of burnt chilis thrown on top destroying any flavor? with spicy burnt chili flavor.
+
+review_id : P8biFWq-5aY0hTXS89GnPg
+aspect: Food
+text : Inedible disgusting food I would not serve my worst enemy.
+-1
+
+review_id : P8biFWq-5aY0hTXS89GnPg
+aspect: Food
+text : Also my soda was completely flat and my egg rolls had no taste at all but burnt brown things on the wrapper and some sort of mystery meat inside, and not in a tasty chinese-food mystery meat kind of way, a tasteless, has anyone seen the cat?
+-1
+
+review_id : g0c9gDOACZG53mT4fstapQ
+aspect: Food
+text : How hard is it to make a toasted plain bagel with cream cheese? Wasn't toasted, only warmed and barely any cream cheese.
+-1
+
+review_id : OqwLhbZNI96Ki8t5g0WOBA
+aspect: Food
+text : My standards are reasonably low considering that I got my dinner from McDonald's, but their food is flat out NASTY.
+-1
+
+review_id : eEfJVxSJRTVFot5cV-9IcA
+aspect: Price
+text : I really do not  like Walgreens for several reasons..Prices are high,and then there is that Balance Rewards card they demand you use [and you MUST use to get sales prices.
+-1
+
+review_id : A3FvC4b9Dnzy1qYDCAIt-Q
+aspect: Food
+text : The worst ,sugar free will give you stomach cramps unbelievable.
+-1
+
+review_id : A3FvC4b9Dnzy1qYDCAIt-Q
+aspect: Food
+text : I order four for Thanksgivings and all were a disappointment.
+-1
+
+review_id : QmtCdxcEpKWSmthT8a2p_Q
+aspect: Service
+text : Their \"special\" pie have to be pre-ordered and that order has to be in by 2 PM, otherwise, you have to wait two days.
+-1
+
+review_id : D2H8YvcPozZ5ZiNkIRF_dw
+aspect: Service
+text : Worst customer service ever!
+-1
+
+review_id : yrRS1OpqHkAaguFB7XllAg
+aspect: Service
+text : I am not one to normally write reviews, but the service and quality at the Dunkin location is poor at best.
+-1
+
+review_id : yrRS1OpqHkAaguFB7XllAg
+aspect: Location
+text : I am not one to normally write reviews, but the service and quality at the Dunkin location is poor at best.
+-1
+
+review_id : 7wMRHptVnJaXLFyMrK80bQ
+aspect: Food
+text : It was 1\/3 shrimp and 2\/3 batter, and it tasted like it was soaked in oil.
+-1
+
+review_id : 7wMRHptVnJaXLFyMrK80bQ
+aspect: Food
+text : I couldn't finish my meal at all.
+-1
+
+review_id : wB6Hm9KkgqzCRjQykIr1nQ
+aspect: Food
+text : This place's food is horrible.
+-1
+
+review_id : wB6Hm9KkgqzCRjQykIr1nQ
+aspect: Food
+text :The food isn't cooked properly and tastes poor in quality.
+-1
+
+review_id : hXJ2olYfsHJz7oet_-Acqg
+aspect: Food
+text : No matter the name, since press the food here is terrible.
+-1
+
+review_id : wWXvYRNkxl9EkkDZCq1chg
+aspect: Service
+text : I am shocked at the behaviour of this market's overnight staff.
+-1
+
+review_id : 5i2EQQCH0agRjQW7MAKpDA
+aspect: Food
+text : If you like soft bread don't go to his location, this one is by my house but every time I've gone my sandwich feels like its on a rock versus bread.
+-1
+
+review_id : hYD8ewSa-F62KTSjaIMJeg
+aspect: Service
+text : No smile, no greeting, no thank you for my purchase.
+-1
+
+review_id : asixVQWSaFohgyzbxOcBxQ
+aspect: Service
+text : The service is slow, the food is cold, and the management is incompetent.
+-1
+
+review_id : asixVQWSaFohgyzbxOcBxQ
+aspect: Food
+text : The service is slow, the food is cold, and the management is incompetent.
+-1
+
+review_id : 0lV3QSk_YwC5278a3VoGZw
+aspect: Food
+text : I strongly do not recommend this place, all meat dishes here are so fatty, I felt sick just looking at the two meat dishes.
+-1
+
+review_id : fEpgAYgSJyjy7AxSAaQsfQ
+aspect: Service
+text : Terrible customer service.
+-1
+
+review_id : bV-K7WyHVpXv-mAeyg3ewQ
+aspect: Food
+text : The fish was rotten.
+-1
+
+review_id : bV-K7WyHVpXv-mAeyg3ewQ
+aspect: Service
+text : Owner threw me out after I asked for my money back.
+-1
+
+review_id : 35slWnSjdGCVnCGyWKqNOw
+aspect: Service
+text : With great difficulty I finally found the Starbucks and guess what there washroom was out of order!
+-1
+
+review_id : CA5ugJ4wldcKdFGNTJ0k7A
+aspect: Service
+text : The owner or managers should be ashamed of themselves  for the absolute filth in this store.
+-1
+
+review_id : -SR9nonlDLnl56QfHfqUFQ
+aspect: Service
+text : I definitely do not recommend this place because of the attitude and condescending behaviour of the owner.
+-1
+
+review_id : cMP3WPmlSDGfdlpEIlhKLQ
+aspect: Location
+text : The consistently most disgusting convenience store I have ever been in.
+-1
+
+review_id : X6u4zI-7ZTF9HqLnYppXUw
+aspect: Service
+text : It takes 15 minutes to get coffee  and it's not even done right.
+-1
+
+review_id : ak2y6UfuGNo61R_3H-SZEA
+aspect: Service
+text : They are Incompetent and unprofessional.
+-1
+
+review_id : ak2y6UfuGNo61R_3H-SZEA
+aspect: Service
+text : Did not show up on time for a scheduled event.
+-1
+
+review_id : nGHaAcxXs_PqrmVcjnx3XQ
+aspect: Service
+text":"They don't keep regular hours anymore and their selection is becoming more limited.
+-1
+
+review_id : ZN-1qeftsovckJsP6TD2fQ
+aspect: Service
+text : The service at this location is slow and terrible even by McDonald's standards, and they almost always screw up my order.
+-1
+
+review_id : ZN-1qeftsovckJsP6TD2fQ
+aspect: Service
+text : Also, it is supposed to be open 24 hours, but when I pulled into the drive-thru after midnight recently, I waited for five minutes and no one took my order.
+-1
+
+review_id : AbjLgQtStV7JK166orNwEQ
+aspect: Price
+text : High prices and they run out of regular gas often to rip you off even more.
+-1
+
+review_id : 3JZDEIoKdLKL_U5foMd8NQ
+aspect: Service
+text : I seriously have to wait for 15-20 in line it's seriously gets the customers pist.
+-1
+
+review_id : akHS_ozHJXZYKTQSAqSNnw
+aspect: Service
+text : Over ten times I have ordered my coffee and driven away and it be completely wrong, I throw it away or get it fixed at a different location!
+-1
+
+review_id : akHS_ozHJXZYKTQSAqSNnw
+aspect: Service
+And the elder Indian women that work their are horribly rude and cruel individuals.
+-1
+
+review_id : akHS_ozHJXZYKTQSAqSNnw
+aspect: Service
+They are so rude they never say have a good day or hello or ANY greeting coming or going.
+-1
+
+review_id : Q-p7Q2VGcTf4OnArCNODJw
+aspect: Service
+text : Dirty dinning list will not go here again sad cuz there donuts were good.
+-1
+
+review_id : uPv26s7pURqfxkrJbfthjw
+aspect: Service
+text : This is the worst slice of pizza I've had.
+-1
+
+review_id : BiefeRRI3LtQUS-PSykivA
+aspect: Service
+text : The place is absolutely filthy.
+
+review_id : BiefeRRI3LtQUS-PSykivA
+aspect: Service
+text : Just on the counter by the registers there is dust and dirt all over on the back of cords, plugs  and register.
+-1
+
+review_id : BiefeRRI3LtQUS-PSykivA
+aspect: Service
+text : Service is extremely slow and they're not very friendly.
+-1
+
+review_id : T5L0W9BvqjmdIPwRgVVlMQ
+aspect: Service
+text : The manager is completely unreasonable to allow for the customer in front of me to get sauce added to their meal for no extra charge but for me he wanted to charge me.
+-1
+
+review_id : Jv8Nq3Whb1BWJ9ZA3Bq-SQ
+aspect: Service
+text : Very poor customer service.
+-1
+
+review_id : jlkoMM-_htFEWgN_orWqyw
+aspect: Food
+text : The chocolatine was really disgusting, like dry, the croissant was without any particular taste. 
+-1
+
+review_id : Vtn_qgMk87jZdavRtV_BdA
+aspect: Service
+text : The chick was rude, no customer service.
+-1
+
+review_id : 5XinbIyFomV7KwmraNuEdQ
+aspect: Service
+text : First the horribly PUSHY sales people.
+-1
+
+review_id : 71wJn3VhwnG76wHvszHzSQ
+aspect: Service
+text : I've complained twice now to the Manager and to an assistant about the poor conditions at this store.
+-1
+
+review_id : uKnAEJaJQBD4FJZqwhF91g
+aspect: Service
+text : Very rude people here .
+-1
+
+review_id : iZxM5qhhqoysJkvvJSMlog
+aspect: Service
+text : Disgusted by their customer service!
+-1
+
+review_id : iZxM5qhhqoysJkvvJSMlog
+aspect: Service
+text : An employee was rude, forgot our order, unapologetic, gave us cold food, & made us late for church!
+-1
+
+review_id : 3Mh8HP-Qm2dRwEQydoll3A
+aspect: Service
+text : Today I waited 15 minutes for my drink the employee totally forgot.
+-1
+
+review_id : u6Pfp411O8D6_-PLLM2oLQ
+aspect: Service
+text : Water flowing out of soft drink machine from back up of sewer line.
+-1
+
+review_id : Ke5pX9JOC791-5KzxZoZKA
+aspect: Food
+It was the worst tasting cake that I have ever tasted!
+-1
+
+review_id : Ke5pX9JOC791-5KzxZoZKA
+aspect: Price
+Definately not worth $190.00 for a two tier cake.
+-1
+
+review_id : oX8srnuEuSeU7jobmFNGWw
+aspect: Price
+text : The price is ridiculous.
+-1
+
+review_id : X45XI6k3ldBpSIgFiefPdQ
+aspect: Food
+text : I am sooo mad I went to this place!! the food is not good at all!
+-1
+
+review_id : X45XI6k3ldBpSIgFiefPdQ
+aspect: Food
+text : the curry was extremely watery like if it was a soup and taste really bad.
+-1
+
+review_id : X45XI6k3ldBpSIgFiefPdQ
+aspect: Food
+text : My wife ordered the chicken stew and it was disgusting.
+-1
+
+review_id : GoN89OxLIDtbx4ZsG0_NXQ
+aspect: Service
+text : I was the only patron in the restaurant and had to wait over 30 minutes.
+-1
+
+review_id : NcP16Ia2MQhiokjDSlPpiA
+aspect: Food
+text : The crabs were bad.
+-1
+
+review_id : NcP16Ia2MQhiokjDSlPpiA
+aspect: Food
+text : They smelled bad when you opened them, and had very little meat on them. 
+-1
+
+review_id : xeNsjlYKIAGDhTslmrictg
+aspect: Service
+text : Manager on duty seemed like she didnt care.
+-1
+
+review_id : IsrhJXWugka2qTHmOhuYAQ
+aspect: Service
+text : No noise cancelling so everybody can hear you from the door of the establishment. 
+-1
+
+review_id : IsrhJXWugka2qTHmOhuYAQ
+aspect: Price
+text : No too clean yet they charge you $7 for a cleaning fee.
+-1
+
+review_id : 2P-S9Ib-A0sn9y_ZraWfBg
+aspect: Service
+text : This place is still awful and the managers I routinely encounter are still rude beyond belief.
+-1
+
+review_id : py_mTf-n8wgLaIQTrr0Ggw
+aspect: Service
+text : Today we went in and waited.....over 15 minutes after we were seated and no one came by to get out drink order.
+-1
+
+review_id : WpfQ101MWhH4o-vjQIb0XA
+aspect: Service
+text : One of the worst customer service, no one serves me for good 5 mins, I have to repeat my order 3x then missing the soup of my order and won't admit it.
+-1
+
+review_id : -bgMWsUK3VU99gex1vEbdg
+aspect: Service
+text : The staff must take the example of their restaurant's name to heart; customer service was practically non-existent, as if hibernating.
+-1
+
+review_id : UaNfdop-6_sif_VM9wlLkQ
+aspect: Service
+text : Surprised to see people saying how friendly the staff is.
+-1
+
+review_id : 5zZrzn-EDXiyyP8MOwbGyw
+aspect: Service
+text : I complained to the head office of Sobey's (Fresh Co's parent company) and on their Facebook page regarding the filthy condition of the store this past Saturday (June 19, 2015).
+-1
+
+review_id : Wb3quCdxd4o1CxUDAMSz7g
+aspect: Food
+text : My purchases include paying extra for lattes made with almond milk because that is what I drink. 
+-1
+
+review_id : H2kRFotLT1qFQzy7KO2Rqw
+aspect: Service
+text : Seriously bad service.
+-1
+
+review_id : sLCcZsm9OlKjpBszVwyQ7w
+aspect: Service
+text : Very poor customer service and rude employees.
+-1
+
+review_id : 6auzQItd7aa11DI3C8uFpg
+aspect: Service
+text : Just like other reviews have said, they NEVER have anything that is listed on their menu.
+-1
+
+review_id : qKjZuTCGM5YXj-bx-upqyw
+aspect: Food
+text : Lattes are poorly made.
+-1
+
+review_id : qKjZuTCGM5YXj-bx-upqyw
+aspect: Service
+text : Employees are inattentive at best and rude at worst.
+-1
+
+review_id : qKjZuTCGM5YXj-bx-upqyw
+aspect: Service
+text : Employees are inattentive at best and rude at worst.
+-1
+
+review_id : M7PG4EtdBwVKT-fVy6SULw
+aspect: Service
+text : The guy who picked up was very rude, told me he could not help me because he is the only one working, refused to give me his name and hung up.
+-1
+
+review_id : drjgF9oCI4R01vWkAtf8SA
+aspect: Service
+text : Wasn't very happy at all, the guy didn't seem whatever about his job and the freezes we ordered were already melted and runny and didn't taste great at all.
+-1
+
+review_id : EZLCSVzisYOBMxHu-Z7LyA
+aspect: Service
+text : Called to inquire about an order and lady over the phone was rude and snippy.
+-1
+
+review_id : EZLCSVzisYOBMxHu-Z7LyA
+aspect: Service
+text : Would never expect service like that from family run business. 
+-1
+
+review_id : 3CerkD35RrO6AfCbTKoVGw
+aspect: Food
+text : I ordered a cake for my engagement party here and it was horrible.
+-1
+
+review_id : 6w8R04s2HgZL2L4b4NpnwQ
+aspect: Service
+text : This absolute worst service ever.
+-1
+
+review_id : _Y3drNrOla4vfa76DTG1YA
+aspect: Service
+text : However, this time I waited 15 minutes too long for my food and received a chicken (not sotritas as ordered) surprise in my \"plant based\" quinoa dish.
+-1
+
+review_id : _Y3drNrOla4vfa76DTG1YA
+aspect: Food
+text : However, this time I waited 15 minutes too long for my food and received a chicken (not sotritas as ordered) surprise in my \"plant based\" quinoa dish.
+-1
+
+review_id : G8E5n-x_0Py7rUXIxXJuaQ
+aspect: Service
+text : The Service: Long lines and unpleasant cashiers.
+-1
+
+review_id : 9XDJoZVeYoV0Jn2JCRjPzw
+aspect: Food
+text : It was not cold enough and tasted very watered down - no taste whatsoever and it didn't have the smoothie creaminess.
+-1
+
+review_id : wH7s38bvcdMDO-SY7dGoQA
+aspect: Food
+text : The side dish is not delicious at all.
+-1
+
+review_id : rVTpdZy6UMaIY2c74--JPA
+aspect: Food
+text : They don't taste like donuts at all, they taste more deep fried than they are donuts. 
+-1
+
+review_id : qbyGef_3A6NosITZwTncVQ
+aspect: Service
+text : The service here is unbearable, our waitress had an attitude throughout our entire visit.
+-1
+
+review_id : qbyGef_3A6NosITZwTncVQ
+aspect: Food
+text : The food literally tasted like horse sh*t- I WISH I was making an exaggeration.
+-1
+
+review_id : Efkq9X6eV7wmvoy-6_iEtw
+aspect: Service
+text : As a consumer I am extremely dissatisfied with the service.
+-1
+
+review_id : KexhIlmMyrXa_3fYwTzmvw
+aspect: Service
+text : Rude service and stale donuts.
+-1
+
+review_id : ohH_KbqaauIP11P1SEdBeg
+aspect: Service
+text : review_id : Rude workers, melting ice cream from the moment you get it, always out of tons of products and flavors.
+-1
+
+review_id : 8P9Opx7ABR55J3BGMETQ_w
+aspect: Service
+text : I had the worst experience with customer service with Cynthia. 
+-1
+
+review_id : 60Pcnqbq6s26I4dgGKSEdw
+aspect: Service
+text : They dont have AC AND THEY REFUSE TO OPEN THE DOOR FOR AIR! 
+-1
+
+review_id : s_pcL6o7qjDS9X_KoTq3Bw
+aspect: Service
+text : the customer service is absolutely ridiculous.
+-1
+
+review_id : 3nZtI-QerP9M4-ti_R3SNg
+aspect: Service
+text : Miserable staff that obviously hate their jobs.
+-1
+
+review_id : g5k_nuT54vYEZpIFCFs5ww
+aspect: Service
+text : Seriously! Not what you expect from a professional business!
+-1
+
+review_id : VX4U8bybFhgHYX7XUiO8SQ
+aspect: Food
+text : I ordered the original milk tea with pudding and it did not taste like bubble tea. 
+-1
+
+review_id : VX4U8bybFhgHYX7XUiO8SQ
+aspect: Food
+text : It tasted powdery and plain like those bad sugar-free soya milk.
+-1
+
+review_id : VX4U8bybFhgHYX7XUiO8SQ
+aspect: Food
+text : It wasnt cold and there is like no ice at all in the drink. 
+-1
+
+review_id : xfVslkjsAMRhdUTcFxAanA
+aspect: Food
+text : The coffee is inconsistent here and the baked goods usually have flies milling about.
+-1
+
+review_id : GIrIsLj0dNEVQHIlzgqzYQ
+aspect: Food
+text : Waited 45 mins for two scoops of ice cream and it taste old. Will not be back To this place
+-1
+
+review_id : GIrIsLj0dNEVQHIlzgqzYQ
+aspect: Service
+text : Waited 45 mins for two scoops of ice cream and it taste old. Will not be back To this place
+-1
+
+review_id : NTMMofRyHIN1aAwwp3xdRA
+aspect: Food
+text : No vegetables?  Not an onion, a pepper?
+-1
+
+review_id : s8HxZ8HAb1M7aPGmjp1tvQ
+aspect: Service
+text : Each time I come to this TH, there are consistent errors with my order.
+-1
+
+review_id : i1CG3RlmF5O1k93H2P_01g
+aspect: Food
+text : The food was bland and cold.
+-1
+
+review_id : j-kL4flUoAZrjqLBNF4RYg
+aspect: Service
+text : The girls are rude and make you feel like you are lucky they are waiting on you. 
+-1
+
+review_id : r_rnB-gSw7NHxPYlyZ-9zw
+aspect: Food
+text : caramel frap tasted burnt.
+-1
+
+review_id : r_rnB-gSw7NHxPYlyZ-9zw
+aspect: Food
+text : java chip tasted like watered down ice. 
+-1
+
+review_id : 8MKJ01kcz1-12n7lCS6LbA
+aspect: Service
+text : Horrible customer service during the week.
+-1
+
+review_id : 8MKJ01kcz1-12n7lCS6LbA
+aspect: Service
+Very zombie like and non-responsive.
+-1
+
+review_id : _jEIxUUsGY4F8ijRS6998Q
+aspect: Food
+text : Their choice of flavours is so poor I wouldn't eat any of the crap flavours they had .
+-1
+
+review_id : zB9KHPxjz4JsMIaLmSsD1g
+aspect: Food
+text : Cupcakes looked gorgeous but tasted as if they were pre-made or purchased in bulk and decorated and then tasted really bland and boring.
+-1
+
+review_id : qTLSGY1kKMmWCKwmLBHVwA
+aspect: Service
+text : They don't accept credit cards at all, no signs anywhere stating that so basically you have to wait in line at the register to have the cashier tell you they don't accept credit.
+-1
+
+review_id : daUj9qDiKPv1CxphwEJXKg
+aspect: Service
+text : Update: the manager Annie has yet to call me. Either Jen didn't tell her manager about her horrendous customer service skills, or Annie isn't woman enough to deal with customer complaints.
+-1
+
+review_id : 4P-927ox_kcsDuqfArhYMA
+aspect: Food
+text : Cold cookie each time and ran out of cookies, again.
+-1
+
+review_id : Tiib3U4WIXsTGxiD6l_1YQ
+aspect: Food
+text : Their cakes don't taste fresh.
+-1
+
+review_id : Tiib3U4WIXsTGxiD6l_1YQ
+aspect: Food
+text : The mille feuilles is disgusting.
+-1
+
+review_id : n8no41eG0KR4ZZmZKpiXAQ
+aspect: Service
+text : Scheduled to do tacos for an event and didn't show up until after the event was over.
+-1
+
+review_id : j5DDKMtIkcCa0awlDZVOPQ
+aspect: Service
+text : Its 630am and im waiting in line for what seems like an eternity for two breakfast sandwiches what's wrong with this place they just can't get it right
+-1
+
+review_id : mokg21BrvNdAiF3ByjhcJw
+aspect: Service
+text : Lady at the drive through was rude and rushed me I only ordered a Thai tea (iced) with boba which they didn't have like almost everything on the menu.
+-1
+
+review_id : 10R3fzSSxrvoXb25uKgn5Q
+aspect: Food
+text : I can't speak to the dinner menu or service (food delivered through Foodie Call), but the sushi is pretty bad.
+-1
+
+review_id : 10R3fzSSxrvoXb25uKgn5Q
+aspect: Food
+text : Ordered salmon and yellowtail sashimi, which a) smelled fishy upon opening the container and b) was slightly discolored.
+-1
+
+review_id : 10R3fzSSxrvoXb25uKgn5Q
+aspect: Price
+text : Very disappointing, particularly for the price.
+-1
+
+review_id : qNwWPTmFFf-IEg8LUd5GFA
+aspect: Service
+text : Very rude!!! Watched one woman play solitaire on her computer while I waited to be waited on!
+-1
+
+review_id : jd-exeveUIIX5rgb-_cLvg
+aspect: Service
+text : This place is horrible the bigger girl with the red hair is so rude.
+-1
+
+review_id : OKswis3BIXGTdyv6gs2GLA
+aspect: Service
+text : The Starbucks has always sucked the people that work there don't know how to do their job you'd be better off just getting rid of the kiosk entirely.
+-1
+
+review_id : lya0x9FT4LXF5mDk_fM_Dg
+aspect: Service
+text : The people here are rude and although they offer a large selection of food and drink, they have no bathroom for thir customer's to use.
+-1
+
+review_id : NfCYcZp2FQ7o7myPZ3aZ3A
+aspect: Service
+text : They are always out of hot food. 
+-1
+
+review_id : NfCYcZp2FQ7o7myPZ3aZ3A
+aspect: Service
+text : The employees laughed and said the owner doesn't like us making a lot of food.
+-1
+
+review_id : eJkxcOkTrrdT4_2dmrZLIg
+aspect: Service
+text : 1.The strawberry ice cream machine was down.
+-1
+
+review_id : QcOuwHfGXz9wO1bvlMmxJw
+aspect: Food
+text : The beef tastes old and dried out.
+-1
+
+review_id : QcOuwHfGXz9wO1bvlMmxJw
+aspect: Food
+text : The sauce and bread were stale.
+-1
+
+review_id : FiTCaPyLZE6mwsbUeClJ4A
+aspect: Service
+text : Bad service, sketchy people, bathroom out of order.
+-1
+
+review_id : -FAPNkoK4By1VB68HNV2Wg
+aspect: Service
+text : No bathroom, and the carpet are incredibly dirty.
+-1
+
+review_id : HLbzzaSJ1OgXWOjpJKrBeA
+aspect: Service
+text : Horrible customer service.
+-1
+
+review_id : HLbzzaSJ1OgXWOjpJKrBeA
+aspect: Service
+text : Was yelling at us when their credit card machine wouldn't work.
+-1
+
+review_id : HLbzzaSJ1OgXWOjpJKrBeA
+aspect: Service
+text : The pastries looked kind of old and don't know how long they were sitting on the shelf for.
+-1
+
+review_id : 2e3P_qbpbN6uQqT1CIvmFA
+aspect: Food
+text : The kidney pieces I added to the mutton has all melted by the time the mutton was cooked.
+-1
+
+review_id : D-aNtE3581nO9fqBzC5VXA
+aspect: Service
+They do not honor their word or what is written on their website - skip it - they are not worth it!!!
+-1
+
+review_id : 2qPLnEisRj20boCX5E7b-A
+aspect: Service
+text : He is very disrespectful and talk behind customers.
+-1
+
+review_id : uNIzAgQOCwOr_xpzKd_EVw
+aspect: Service
+text : Ice cream machine is usually broken.
+-1
+
+review_id : uNIzAgQOCwOr_xpzKd_EVw
+aspect: Food
+text : Iced coffee is rarely made correctly and last time all of our food was cold.
+-1
+
+review_id : FUb0RjQkL7gteqMVYSMWvw
+aspect: Food
+text : This place was really bad food was awful my fries were cold.
+-1
+
+review_id : iyedwoZlkmlM_UQiTX_ggw
+aspect: Food
+text : I been here a few times during the weekend and all those times the food quality was not that good.
+-1
+
+review_id : zmkzpYMHbjd57js6szeoxQ
+aspect: Food
+text : It does sounds good, but but but the food is just too bad.
+-1
+
+review_id : qbyGef_3A6NosITZwTncVQ
+aspect: Food
+text : The food literally tasted like horse sh*t- I WISH I was making an exaggeration.
+-1
+
+review_id : i1CG3RlmF5O1k93H2P_01g
+aspect: Food
+text : The food was bland and cold.
+-1
+
+review_id : i1CG3RlmF5O1k93H2P_01g
+aspect: Food
+text : No seasoning whatsoever on anything.
+-1
+
+review_id : WPEdz_UPHA7HUWptnrCvFQ
+aspect: Food
+text : Since the food was disgusting and the service so slow, we walked out and went to another restaurant (JiMichael's Lakeview Restaurant) for breakfast.
+-1
+
+review_id : eTaH3HADaKXXLDKWSMHfuA
+aspect: Food
+text : Overall, too much money for really lousy food.
+-1
+
+review_id : eTaH3HADaKXXLDKWSMHfuA
+aspect: Price
+text : Overall, too much money for really lousy food.
+-1
+
+review_id : eTaH3HADaKXXLDKWSMHfuA
+aspect: Food
+text : The fries were bland and oily anyway and bore little resemblance to authentic Belgian fries I've eaten in the past.
+-1
+
+review_id : jd-exeveUIIX5rgb-_cLvg
+aspect: Food
+Never will I ever go back again the food was terrible cold and old
+-1
+
+review_id : uNIzAgQOCwOr_xpzKd_EVw
+aspect: Food
+text : Iced coffee is rarely made correctly and last time all of our food was cold.
+-1
+
+review_id : IpL76dSE0ctN9Ivtfi9rQg
+aspect: Food
+text : Located just west of Dufferin on Wilson, La Chilena seemed like an interesting place to try since I've never had Chilean food.
+-1
+
+review_id : zpcA40IkkQwkTqsnG1jjiA
+aspect: Food
+Chili cheese fries were mushy, chicken strips had zero flavor and the seafood combo my husband had was inedible, frozen seafood, horribly overlooked and nothing had any taste in fact we're still not sure what one of the items on the plate was. Yuck!
+-1
+
+review_id : pgHM6O8IcxIEGVsfLW-MEw
+aspect: Food
+text : This has to be the worst Métro grocery store in Montreal. It is extremely expensive, food is often expired or simply not fresh.
+-1
+
+review_id : -r_EsV4HALY51ERUrlyt7g
+aspect: Food
+Awful service & undercooked food, actually got a refund because I couldn't eat my meal.
+-1
+
+review_id : Vf_AZh8cHEmRhhdFzmHlSw
+aspect: Food
+text : After a long day of moving and being hungry, this was the only place open and then they give us horrible food.
+-1
+
+review_id : cEpvOg_Cbol3yli97zaEDA
+aspect: Food
+text : Need new management great place for a drink that's about it food is not good!
+-1
+
+review_id : nvYF6fYargfLzteHFRUgTg
+aspect: Food
+text : I'd give it zero stars if I could. Rude service, over priced and the food was awful. 
+-1
+
+review_id : nvYF6fYargfLzteHFRUgTg
+aspect: Food
+text : My chicken wrap thing had so much grease I couldn't eat it, the picture doesn't do justice.
+-1
+
+review_id : OUBee--6SxWU_4hT9jOjYw
+aspect: Food
+text : There was very little parmesan cheese (flakes scattered), and the chicken tasted old and manufactured, the ciabatta bun stale.
+-1
+
+review_id : _VwFV3FbBmJ2JvV_kEYfeA
+aspect: Food
+text : I wasn't expecting Chinese food to be a culinary delight, but everything we ordered tasted very bland and not anywhere hear fresh.
+-1
+
+review_id : Bwul_v9dSR65Unb-KOVC0g
+aspect: Food
+text : Everything was cold and had no flavor.
+-1
+
+review_id : ieBcmsD_lT1cAB81AE0xMw
+aspect: Food
+text : Sorry to see such good food become uneatable!
+-1
+
+review_id : BCch2BV5RPuacHsHxXCbDw
+aspect: Food
+text : The food was old, stale, cold, and border-line disgusting. 
+-1
+
+review_id : BCch2BV5RPuacHsHxXCbDw
+aspect: Food
+text : The fries were the worst part.
+-1
+
+review_id : GjndgRlzFKgUs7T3gj-E6g
+aspect: Food
+text : Food was mediocre, croissant was cold with a dab of food in and garnish was 4 grapes.  
+-1
+
+review_id : GjndgRlzFKgUs7T3gj-E6g
+aspect: Food
+text : Salad was grossly overpriced for the size.
+-1
+
+review_id : Yr7IqRPxJLxTRihxWZvxLw
+aspect: Food
+text : Food was horrible, had a lot crushed bones in it, and it tasted really bad, although the staff was nice and over expensive.
+-1
+
+review_id : iDcC_CFp3boNZRrwGSN9TQ
+aspect: Food
+text : Just got 2 chicken biryani but really disappointed with food no spice at all even mentioned spicy while ordering and chicken pieces look like yesterday's chicken not fresh one at all.
+-1
+
+review_id : ZK_R15FnxKFYOJr_JoF-0A
+aspect: Food
+text : And the food was greasy, dry and bland.
+-1
+
+review_id : iUoRaBeJpdgqKlHABt7aeA
+aspect: Food
+text : However in the case of this cafe I have to say that the food is stale and the service is terrible.
+-1
+
+review_id : gdOdYlM_-FeU98x2_sNQDw
+aspect: Price
+text : Flavorless, overpriced and measly portions of gristly proteins. 
+-1
+
+review_id : Kp2HVIY5SPyhnvNDT1H2eA
+aspect: Price
+text : Not worth for the price. I wouldn't order from this place again.
+-1
+
+review_id : iVY_RZaveFMv5gNelfzRNA
+aspect: Price
+text : In only a few months, their bulk items have seen 30% price increases which is outrageous, and can't be explained by higher supply costs.
+-1
+
+review_id : LR47xHrnPF7rErr7PMOI0Q
+aspect: Price
+text : Very oily and with 0.75 for each samosa, they were pretty expensive as compared to other places that we have tried.
+-1
+
+review_id : Vq6UO-7pvQLaPTaq98XrJQ
+aspect: Price
+text : bought approx dozen sausages, they were all charged at the highest price, even though it was only one sausage at that price.
+-1
+
+review_id : Z-QB-Z14LyMisXp1VL7Uuw
+aspect: Price
+text : portions are overpriced and small for $15
+-1
+
+review_id : 0By4SxsBVDPL9ADtxJgG6A
+aspect: Price
+text : I would definitely not order a custom cake from here again, especially considering the price of the cake.
+-1
+
+review_id : q8Nl3ZjDXknl2f6nyPH4fg
+aspect: Price
+text : Overpriced ice cream with little flavor.
+-1
+
+review_id : JwDDVrcuftt2x-v3og-jJg
+aspect: Price
+text : Wow over price on the rice cooker and they are not willing to match the price... check the price at other places before you buy anything from here.
+-1
+
+review_id : 0UxN63jkW3WHsEk6Q2wm8Q
+aspect: Price
+text : The food onsite: spicy, overpriced average is taste.
+-1
+
+review_id : 3ybLN2uvlF7RLIYRUReB1g
+aspect: Price
+text : The waitress didn't know the menu, the food was ok but the bread was so dry and tasteless and overpriced.
+-1
+
+review_id : XdG85v-s93dGCVpYZb059Q
+aspect: Price
+text : Customer service is sub par and the beer prices are considerably more than anywhere else.
+-1
+
+review_id : lsbwchV0DkHUV1p6Y6qffA
+aspect: Price
+text : But that's about it really, in terms of other goods, they're overpriced and doesn't have the good variety you find elsewhere.
+-1
+
+review_id : HzpiC2r-0TE4EjGfkviX0w
+aspect: Price
+text : My smoothie bowl was over priced of course cuz it's the airport & tasteless.
+-1
+
+review_id : zLgHA7WxmXQnMOEfTM3w3w
+aspect: Price
+text : Usually when a restaurant describes themselves as \"farm to table\", they'll talk enthusiastically about those farms to anyone who asks. Seems like they're using it to justify high prices, which I can only assume are necessary to cover the costs of a Garfield license. 
+-1
+
+review_id : PWqDxPDSDrYQ9Npc-jU13w
+aspect: Price
+text : Also, price is expensive!
+-1
+
+review_id : RdHAJUh91ge2FXlPuMWZVA
+aspect: Price
+text : A majority of their items ring up as the wrong price and the cashiers refuse to give you the item at the listed price.
+-1
+
+review_id : OAZkXCiJ95_Fb_bESPsSjQ
+aspect: Price
+text : All this at a higher prices then local restaurants.
+-1
+
+review_id : liZNZaSx4Q8TB2yD6k24Lg
+aspect: Price
+text : They have the highest prices in the area and also charge 50 cents for using a credit card.
+-1
+
+review_id : Ag2-LdhSGDOcW7nCQsbP5g
+aspect: Price
+text : Trash trash trash idk how this place is even a business coffee taste like yesterday's batch I could probably make homemade coffee and sell it on the corner of any street and do better never coming back again and over priced go ahead and try it if your life's full of disappointment.
+-1
+
+review_id : U8_Za6aUwolsEUxdLM0gOA
+aspect: Price
+text : Merchandise and gasoline are overpriced as well.  
+-1
+
+review_id : tK86gV4SFp3ZLx-KJujUQg
+aspect: Price
+text : The bubble tea is over priced for what you get.
+-1
+
+review_id : Fp6ueOCPFV6O9y1C0XBQ-g
+aspect: Price
+text : Didnt want to obey by the law when he got the wrong prices on the shelf and then started arguing with us what a GREAT FUCKING MANGER THEY HIRED...
+-1
+
+review_id : 7kfXSTZLDYUK6h4FjkC-eA
+aspect: Price
+text : Don't expect much if you attend one of these events, paper plates and over priced drinks, but hey some of the proceeds go to a great cause.
+-1
+
+review_id : QnQp5SLhpm2nMlxxDKVIBg
+aspect: Price
+text : The food and drinks are very overpriced for the quality of the product I'm receiving.
+-1
+
+review_id : XjPU3gv_mdshuI217U3RZQ
+aspect: Price
+text : I live right next to the 7-Eleven by Onnix and every time I go in there Apple Pay is not working this store is so ridiculous the prices are amazingly high for no reason the employees are just terrible and disrespectful clearly the management needs to do something about it this is why I go to Quiktrip which is about a minute longer to drive just so I can avoid mess ups like this.
+-1
+
+review_id : oKuiJ-8PbU_Mk3MC-p7GGg
+aspect: Price
+text : Food line is already extremely overpriced it is convenient because it's close but I will not be returning to this Food Lion.
+-1
+
+review_id : 7SNety3IYPMYqhNjRLi3hw
+aspect: Price
+text : Prices are high compared to similar styled stores
+-1
+
+review_id : XlevV_gMt_AONVDqK9MGLA
+aspect: Price
+text : anyone can make these soup at home. overpriced for just soup.
+-1
+
+review_id : DKqlfu2J8YqfZk7nc4FVYQ
+aspect: Price
+text : Your basic over-priced American chain with a staff I wouldn't leave my dog with.
+-1
+
+review_id : KoaUJw05QPYE9z4EUDMdjg
+aspect: Price
+text : Store is too small, it only carries a small inventory, over priced, products close to expiration date you need to keep your eye on it.
+-1
+
+review_id : Ke-qM9kvA78JOh_s9nxmyg
+aspect: Price
+text : The food was decent, but woefully  overpriced for the small size of the burger itself.
+-1
+
+review_id : 32SoG-3Kv7qwGMEkg24Dxw
+aspect: Price
+text : Prices are high too, you can find better deals at Heinen's if you shop the sales.
+-1
+
+review_id : bzQ5H6Mht8GyU4MQkM2zwQ
+aspect: Price
+text : Their ice cream is overpriced and I will definitely tell everyone I know not to support such a toxic environment that is not welcoming and completely against the Beaches charm.
+-1
+
+review_id : jfMtTONOsoa7UgFVwn9cIQ
+aspect: Price
+text : The selection is small and the prices are too high.
+-1
+
+review_id : yom03aooL50Eb0a4cpODVA
+aspect: Price
+text : Somewhat influenced by their overpriced, shrunken slushes price point compared to Jack Flash's huge slushes for the same price.
+-1
+
+review_id : 62-ah05ULCJwK2WlsMf2Ng
+aspect: Price
+text : The last item just rang up at the wrong price.
+-1
+
+review_id : 5uDMYOSmc2FD3HU01UKzyg
+aspect: Price
+text : Very small portions for the price you pay.
+-1
+
+review_id : _8p5hu_SI6ixpdGZtCAqIw
+aspect: Price
+text : The store has improved in their prices which were over priced before.
+-1
+
+review_id : ZJEN-iGp4RgmkTDeGy-0Cg
+aspect: Price
+text : I felt bad and bought a scoop anyways and threw it away when I got home, also it's way overpriced!
+-1
+
+review_id : bRJgYeew3irorrwVdHEUDg
+aspect: Price
+text : I would give zero stars but the product itself is OK but horribly overpriced.
+-1
+
+review_id : 7glBvof0Ofwpcw6z24CRQg
+aspect: Price
+text : Exo Fruits is a stupendously overpriced fruits and veggie market that can't decide if they want to be a full grocery store or not.
+-1
+
+review_id : FnST9t5R4qa_tN20DspywQ
+aspect: Price
+text : Seems like they get away scamming drunk people for overpriced poutine like it's no big deal.
+-1
+
+review_id : pQC4BIDtQGJb1VbTk4ec4g
+aspect: Price
+text : My fault for not checking the price before buying but what kind of business charges more than a dollar more per gallon than everyone else? 
+-1
+
+review_id : RV794VaQ_j_a17L4xhrUZg
+aspect: Price
+text : Price was ridiculous for what it was.
+-1
+
+review_id : yNcG73Jc7V2gtcK-e51q9Q
+aspect: Price
+text : Menchies is also pricey, but better tasting, better quality.
+-1
+
+review_id : 5Ck6aameo-OWKQlC-pBaaw
+aspect: Price
+text : Unacceptable for the prices they charge.
+-1
+
+review_id : abilAqMf4B2pPtqN5-XaUA
+aspect: Price
+text : Over priced and inedible.
+-1
+
+review_id : VIxadVCzC88LO_pQpfIaQQ
+aspect: Price
+text : Sucks constantly bums in & out of the store everything is overpriced , nothing is ever properly stocked about 3 days ago I went in to buy a postal stamp  for a letter & the cashier rudely said that they didn't have any in stock to come back in a couple hours & today I went again to get a stamp & yet again there was no stamps & also a ton of rude other customers & employees that offered little to no help
+-1
+
+review_id : XGe3nJ1sDXIJozAS_y55IA
+aspect: Price
+text : Prices are outrageous, so we resent paying more for less anyway.
+-1
+
+review_id : OMdGitPwuXOUoucQXC_Kyg
+aspect: Price
+text : I've been to Five Guys twice, and both times the food was terrible, especially considering the price.
+-1
+
+review_id : dUDIUTFBZo3lMhCyIevmLQ
+aspect: Price
+text : I get that their business may be struggling but serving non-alcoholic cocktails at extreme prices is no way to make it better.
+-1
+
+review_id : 95tdyZ9ZB2sJV8MPKB9NIA
+aspect: Price
+text : The menu pretty much doesn't have a whole lot on it, in my opinion and the prices are high for what you get.
+-1
+
+review_id : MH21jNTdZP015EdYo3JorQ
+aspect: Price
+text : This market is way overpriced and has a very limited selection.
+-1
+
+review_id : MH21jNTdZP015EdYo3JorQ
+aspect: Price
+text : We are both disappointed in the high prices and limited selection.
+-1
+
+review_id : icmtORRFMZz4_kJtIzkKwQ
+aspect: Price
+text : I honestly think that the prepared foods are made cheap, low quality and they overprice them.
+-1
+
+review_id : LRcIN-lXu0cLmP8hVizETA
+aspect: Price
+text : To summarize, this place simply is over priced and due to their popularity, don't care much about their customer's experience.
+-1
+
+review_id : -8AMBK49vHZlw3ti_r34tg
+aspect: Price
+text : The food there is way overpriced and is actually horrible.
+-1
+
+review_id : cVW_CUW4Gsc7WiwuB6SKew
+aspect: Price
+text : They have waaaay overpriced standard fare, grossly fake looking bagels that look like Chinese steamed buns, cream cheese, grab n go food for the flight and junk snacks (chips and such) with Seattle's best branded brewed coffee served in styrofoam cups.
+-1
+
+review_id : 1xQAtM8_4eW-BIztVPkGCA
+aspect: Price
+text : Well this morning I was just going to get coffee and cookies for work when I came across what looked to be a good deal Powerade 3 for $1.00 not to crazy of a price so I grabbed 3 cases off while the Coke rep.
+-1
+
+review_id : d-UzneWG28FdsPfEVq7-yA
+aspect: Price
+text : Either way, for $9.00 it was definitely over-priced.
+-1
+
+review_id : QAaRlU6I0PRI04josnjeog
+aspect: Price
+text : I like the concept, but it was very pricey for the poor quality.
+-1
+
+review_id : r0kYLFaI_DgoY45Lbsozmg
+aspect: Price
+text : I am not going to jump through hoops AND give my money to a company with such horrible customer service, for an overpriced product.
+-1
+
+review_id : RYl6hgJaHELc5JzUVJa9HQ
+aspect: Price
+text : The product seems overpriced, along with poor customer service.
+-1
+
+review_id : 4vcZs9HyFwaMuTeVSaA-rQ
+aspect: Price
+text : Horrible drinks with even worse prices.
+-1
+
+review_id : pZKSUPIlFczdEuHll5nmcg
+aspect: Price
+text : I've also noticed that prices seem to have risen faster at this store than at nearby groceries.
+-1
+
+review_id : a4y2tzhydeNd60AoIdjTnQ
+aspect: Price
+text : And the price has increased.
+-1
+
+review_id : Ykrerot7F8X7Bj4WNyHD9w
+aspect: Price
+text : And I couldn't get over how high the prices were on many of the items I checked.
+-1
+
+review_id : tONlHcLoS_vRV5IPV7KcRw
+aspect: Price
+text : What a ripoff! It's so not worth the $15 cover and overpriced food. 
+-1
+
+review_id : 6cEhHqqBZUiym4tTElezSw
+aspect: Price
+text : The employees stare at you like you're inconveniencing them just for walking in, cigarette prices are jacked up by a ridiculous margin, and they stock nothing aside from junk food and stale bread.
+-1
+
+review_id : Y4S1vBYQ-T6Y7ErODLBwXw
+aspect: Price
+text : There's nothing special about these hamburgers except they're way overpriced for what you get. Meatheads beats them on every level.
+-1
+
+review_id : 8tvgHKqVLI9rLAlNUny8cg
+aspect: Price
+text : Score zero on all requirements with the odd smell, not much gelato and sad looking assortmemt of over priced over sweet nastiness.
+-1
+
+review_id : XAwNqirqoWScs_z0C4gYEA
+aspect: Price
+text : She double checked and said that there must have been a price increase but the stickers were not changed.
+-1
+
+review_id : -o2_gJSPb3XQ4Bd0XP3TUw
+aspect: Price
+text : The most annoying thing are the juice prices though! 
+-1
+
+review_id : Gn-W2Z4hjyG7bSjHvhpmBA
+aspect: Price
+text : Okay then, I will never buy your over priced attitude pickles ever. 
+-1
+
+review_id : -Wj1VxyEG_HMXCGAmhg5pA
+aspect: Price
+text : I settled for an overpriced cinnamon sugar cronut that ended up being burnt and was not even good.
+-1
+
+review_id : 9DgPFV2XcmG6Gs8c7P4K9g
+aspect: Price
+text : The price of the chocolate is high, so I decided to take them up on their \"free\" sample.
+-1
+
+review_id : H8QMI_7n-eoLUtK0bWvH7Q
+aspect: Price
+text : When I questioned the price after I returned thinking he charged me for a whole hoagie and was told basically go away. 
+-1
+
+review_id : I-ehoBcs0j55098XJJLm3Q
+aspect: Price
+text : Save you money buying the over-priced  coffee and go the The Urban Bean next store.
+-1
+
+review_id : u0n4HHUwEd7FFZV3DwYspw
+aspect: Price
+text : Be careful with this place prices are not displayed and they charge according to how much they think you can pay also they put stuff that they do not tell you they are making it like that so be careful with that as well this place is expensive considering is not a restaurant is only a taco truck be careful please.
+-1
+
+review_id : 6veljTNFukJNuCoZ1_sOfg
+aspect: Price
+text : The prices aren't any different or better than the QT on the other side of the street so I'll wait through the light from now on.
+-1
+
+review_id : usocb6hHWUo-AbfjGfbinQ
+aspect: Price
+text : The baked goods looked old the case and way over priced.
+-1
+
+review_id : vJPeYw2ZU_DgFpCXuXaKOg
+aspect: Price
+text : The food here is beyond overpriced for what you get.
+-1
+
+review_id : bfnskSpQeI7DY1EU7qS37w
+aspect: Price
+text : It was a bit pricey but the food was good so I was willing to order again.
+-1
+
+review_id : TMVtQFQM2fquM0fw2tA6BA
+aspect: Price
+text : Each time there is an error in the pricing, and really the prices are way out of line.
+-1
+
+review_id : -DMu0iN1_hXGdcTMRQK2MQ
+aspect: Price
+text : It's pricey, but much better than 10 squares of chocolate for 34.99.
+-1
+
+review_id : q1G8FZY4aekLWdiA5lvQfw
+aspect: Price
+text : No need to write a long review for this place, simple, horrible service and extremely over priced, you are better off going to ANY other smoke shop, stopping here is a waste of money.
+-1
+
+review_id : Hf-4AkLMIW9RTngQrcvtMg
+aspect: Price
+text : Here's how the scam *really* makes their money: you order the chocolate, you realize it is both gross and overpriced, and you email to cancel.
+-1
+
+review_id : f3Cp76_b9LZ2uB0mY-N06g
+aspect: Price
+text : Way overpriced coffee, served with a healthy dose of pretention.
+-1
+
+review_id : OgYVWNhAs-czfmxWLyc3yg
+aspect: Price
+text : The cookies were small, hard and pricey. 
+-1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

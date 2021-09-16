@@ -1,0 +1,936 @@
+review_id : 0YfzvX0g0wi3orLE1x8N5Q
+aspect: Service
+text: If you want the greatest customer service and most knowledgable person, ask for Marcus!
+ -1
+
+review_id : viJ05oYVfHa6MsBG8-jTIQ
+aspect: Price
+text: very helpful and does excellent repair work at very affordable prices.
+ -1
+review_id : pBGlYZP4NkZaqWNWj0WxNA
+aspect: Service
+text: I am (im)patiently waiting for my new and improved ring in the mail (will update with a photo), but could not be happier with the quality and service received at Schubach.
+ -1
+
+review_id : mq4GEsLY3oK4JQq68GkIQQ
+aspect: Price
+text: Great prices and beautiful dresses.
+ -1
+review_id : xAohbWaPVl5bZYCdmDYRzw
+aspect: Price
+text: Their furnishings are true works of art, and their pieces are reasonably priced considering the high level of quality in which each is crafted.
+ -1
+review_id : nvb6y0THiN5ns0kPqxf5XQ
+aspect: Price
+text:  Great prices on western and workwear.
+ -1
+review_id : gqrdid4M-XAH12JNWvLaaw
+aspect: Service
+text: \n\nVery good customer service over the phone and in person.
+ -1
+
+review_id : qhyzew8vzKrxpYiFnv6rTA
+aspect: Service
+text: Excellent customer service, Amazing selection of pipes and vapes, and compared to prices in Atlanta, the prices here are great because there is something for almost everyone, cost wise which made the pleasant experience even better
+ -1
+
+review_id : qhyzew8vzKrxpYiFnv6rTA
+aspect: Price
+text: Excellent customer service, Amazing selection of pipes and vapes, and compared to prices in Atlanta, the prices here are great because there is something for almost everyone, cost wise which made the pleasant experience even better
+ -1
+review_id : TPi6NRMvfrrsMU2EnxUIbQ
+aspect: Service
+text: The ring, the design, the quality and the personal service are all amazing.
+ -1
+
+review_id : YzK63QiOAufX2pWYUoPqMw
+aspect: Price
+text: Good prices, their house line is surprisingly decent, id recommend the pomberry.
+ -1
+review_id : 2SMrr1I63uBlpw_rb0Mzmw
+aspect: Price
+text: I had two rings re-sized here and they gave me a very reasonable price.
+ -1
+review_id : ZUaufbM2KRgPZnx5g-1v-Q
+aspect: Service
+text: I was super pleased by the level of service she received there.
+ -1
+
+review_id : ywldbrpyTkphJB5Rx5mG3A
+aspect: Price
+text: A prescription that was priced out at $132 at my local veterinarian's was filled for $25 here.
+ -1
+review_id : AiXaNHDuja8lzPbOFclvCw
+aspect: Service
+text: Amazing skills and one on one service.
+ -1
+
+review_id : 9bToQYty7O0Ebu4u4uyUwQ
+aspect: Price
+text: Her prices cannot be beat for good quality lash extensions.
+ -1
+review_id : yeLdtemsQsK-DuR0ix5S6A
+aspect: Price
+text: High end shop with moderate prices!, As good as it gets!
+ -1
+review_id : yeLdtemsQsK-DuR0ix5S6A
+aspect: Service
+text: This boutique owners, Ido (pronounced 'E-doh') and his wife Ronit (pronounced 'Rone-neat'), are wonderful people, honest dealing, and provide such excellent service that you build a life-long relationship with them for all your jewelry needs compared to a typical transaction\/negotiation.
+ -1
+
+review_id : yeLdtemsQsK-DuR0ix5S6A
+aspect: Service
+text: It's a concierge service model rather than a shark tank in your standard shopping center jewelry store with a cars-dealer type of salespeople.
+ -1
+
+review_id : yeLdtemsQsK-DuR0ix5S6A
+aspect: Price
+text:  Our friend even shopped around town at a few places and researched the value online and told us that it's an unbeatable price for the quality.
+ -1
+review_id : yeLdtemsQsK-DuR0ix5S6A
+aspect: Price
+text:  They couldn't believe the price for the quality of the stones, I hope this is helpful to you if you're trying to find a trustworthy, high quality, and best value jewelry for a purchase!
+ -1
+review_id : 4bUS_twzkvtYPkEyxG-n5g
+aspect: Service
+text: Great company great service perfect jewelry thank you
+ -1
+
+review_id : EUFOMXLfeFdUMzQzACoEKw
+aspect: Price
+text: The prices are VERY reasonable and they literally have a little bit of everything, from high end designer pieces to knock offs that will give you pause.
+ -1
+review_id : 3nCD8KTp_OYqc3Cm2Qor-A
+aspect: Service
+text: Posterjack offers a great product and exceptional customer service.
+ -1
+
+review_id : UL41Y5FkW0_3jMhqow04Yw
+aspect: Service
+text: It's definitely a diamond in the rough, the plaza and the store front aren't fantastic but she had a pretty big selection and the customer service was amazing.
+ -1
+
+review_id : aG34Kg7e2C4bbOqqUC0YYg
+aspect: Price
+text: Price was exactly what was quoted (basically shop minimum ) and I got one word 3 inches long on the inside of my arm.
+ -1
+review_id : SiVVzuFrCxXRBN4bifBgPQ
+aspect: Price
+text: I actually tried another business called Southland Prestige Alterations in hope that I might find someone good at a better price.
+ -1
+review_id : BYb9ztayPnIk-HxSBox69w
+aspect: Service
+text: Very friendly staff and excellent service.
+ -1
+
+review_id : mV5UcgaBC2ofB0dIFcP23Q
+aspect: Service
+text: I would highly recommend him and his services.
+ -1
+
+review_id : VH6F_QvNkZXkWLw6tfPqFQ
+aspect: Price
+text: Some of the best cigars I've ever had at an awesome price.
+ -1
+review_id : 26Ruf1tjvpn4Stfbm6OkPA
+aspect: Service
+text: LOVE this store and its great service!
+ -1
+
+review_id : tl5w_f_pKAbfNCkcMCC1ow
+aspect: Service
+text: The customer service was absolutely amazing they did a great job of making her feel catered to.
+ -1
+
+review_id : qpQieuvulgPet0tZYBGESA
+aspect: Service
+text: Great customer service both times we've gone in to pickup our items.
+ -1
+
+review_id : 0hT2pZQ4ZRWitYAF-wuq7A
+aspect: Price
+text: Overall, good place with good prices.
+ -1
+review_id : AR6uBk-deYsnL7lbizA9iA
+aspect: Price
+text: Great quality items at great prices.
+ -1
+review_id : 4flp_po2QWMcoLE8ajMiCw
+aspect: Service
+text: Great service and prices, so highly recommend!
+ -1
+
+review_id : 4flp_po2QWMcoLE8ajMiCw
+aspect: Price
+text: Great service and prices, so highly recommend!
+ -1
+review_id : UPB6pDCxLYeG88duCkCL6g
+aspect: Service
+text: Love the store and quality, but what always stands out, is the great customer service.
+ -1
+
+review_id : EKmfs0JVwf6z6nWvKSmzuQ
+aspect: Service
+text: The customer service was so helpful and located my serial number and they assured me I could send it in even though it is not under warranty no problem.
+ -1
+
+review_id : bZhcG3ajsrkiOnVbINSEFA
+aspect: Service
+text: As far as their Rx services go, I've experienced nothing less than incredibly fantastic and personalized customer service, over and beyond anything I've ever experienced at any Pharmacy, ever before.
+ -1
+
+review_id : SPHe1QPptLClXq3Kkko7lQ
+aspect: Service
+text: Vape Inn has a great selection of products, top notch customer service and excellent prices.
+ -1
+
+review_id : SPHe1QPptLClXq3Kkko7lQ
+aspect: Price
+text: Vape Inn has a great selection of products, top notch customer service and excellent prices.
+ -1
+review_id : N3ftfGmTR_n70cONP040Pg
+aspect: Price
+text: Petite , overload with latest trends prices great love it
+ -1
+review_id : EUL7_TUAf-xwb6QmJblDGA
+aspect: Service
+text: The service was top notch, except one of the salesgirls, while very nice, would open my dressing room curtain unannounced to look at what I was trying on.
+ -1
+
+review_id : S2xCKh1Ku__ar8JriOIoMw
+aspect: Service
+text: Absolutely fantastic service! I tabbed Lain of GoTech to do a custom computer build, a hackintosh no less.
+ -1
+
+review_id : z51XJh25y1wcJrEUbbRc2g
+aspect: Service
+text: Mike was over the top helpful and the service was next to none! We bought our Hot Tub wholesale through Mike and LV Hot Tubs which saved us thousands.
+ -1
+
+review_id : yr3Y4YOtuXw4WKrpKTJUYA
+aspect: Price
+text: Amazingly, he listened to our answers! We test drove several mattresses, even those out of our price range, just to be sure the one we wanted was the best for us.
+ -1
+review_id : ufdLhOT_xDN7Pld35F7QrA
+aspect: Service
+text: I love this service, a client had referred me and i havent been disappointed yet.
+ -1
+
+review_id : vkn3TnRcmlM6Mh7Ng5ybgg
+aspect: Service
+text: The customer service here was top notch.
+ -1
+
+review_id : JjGSNmcZfseB9FtJqwQ-qg
+aspect: Price
+text: I thought that was a pretty good price.\nFair price.
+ -1
+review_id : hhDN5QJ0a9L_QpjpXlLzRg
+aspect: Service
+text: They have just about everything you need for repairs around the house and provide great service as well as good prices.From faucet to window screen repairs they always do a good job.
+ -1
+
+review_id : hhDN5QJ0a9L_QpjpXlLzRg
+aspect: Price
+text: They have just about everything you need for repairs around the house and provide great service as well as good prices.From faucet to window screen repairs they always do a good job.
+ -1
+review_id : FE5ws6i-w1fGzh9vKhanNQ
+aspect: Price
+text: Their prices are very reasonable.
+ -1
+review_id : Ywnt4-2PiSqHZ5QgTefapg
+aspect: Service
+text: I needed some scanning done and was very happy with the customer service.
+ -1
+
+review_id : Ywnt4-2PiSqHZ5QgTefapg
+aspect: Price
+text: Prices are very reasonable as well.
+ -1
+review_id : NhIWD0km0sYCOU-_ngQqcw
+aspect: Price
+text: After we narrowed down the brand and model he offered the best price I could find for the guitar.
+ -1
+review_id : zvmRQbczAmKJH_cYiiE_DQ
+aspect: Service
+text: The customer service and care we received today was fantastic.
+ -1
+
+review_id : C_T5NjQOpDRj-CG6VPd6iw
+aspect: Service
+text: The workers had great customer service.
+ -1
+
+review_id : ahwFu2nvO4aWUSmafIZzNw
+aspect: Price
+text: Their prices are reasonable and their sales are phenomenal!
+ -1
+review_id : ahwFu2nvO4aWUSmafIZzNw
+aspect: Service
+text: Customer service is the absolute best! They totally rock!
+ -1
+
+review_id : u20ZJVse457wHQYbPUWBdQ
+aspect: Price
+text: I am so pleased with my purchases through Appliance Warehouse! James was so helpful and the prices were GREAT!
+ -1
+review_id : PAyI2jyg0D0E4PhnEPvUOQ
+aspect: Service
+text: To my luck my bf LOVED the watch I picked out so he didnt have to exchange it, but I am glad I covered all my bases just in case! Thanks again for the great customer service!
+ -1
+
+review_id : EZdnmTa58xlaTYN9hmbW-w
+aspect: Price
+text: Been shopping here for many years and always come home with a bag full of treasures at really good prices!!
+ -1
+review_id : Ouhncsuow0xDCjYlbl8XPA
+aspect: Price
+text: Also has lots of different juice choices and juice sampling! Super fair prices.
+ -1
+review_id : jHBZkq5rlYPmTB20h1scVw
+aspect: Service
+text: Custom cover and all! We both agree that the customer service here is superb.
+ -1
+
+review_id : pLRo6SfBRLUI06ytuDxlIg
+aspect: Service
+text: Love this liquor store! Best customer service and great selection! I will drive 20 -30 min to go here anytime I need something!
+ -1
+
+review_id : tJvneCV_boQ67t_kP9UBvA
+aspect: Service
+text: Didn't get eyes checked here so I can't comment on their optician, but I did deal with two fellas here while purchasing and picking up and both were totally awesome and focused on great customer service.
+ -1
+
+review_id : -t7x9u67RGXMtZhSw4asvA
+aspect: Service
+text: In a world of shoddy customer service the good folks at Ace Hardware in Youngston\/Sun City are a pleasant breath of fresh air.
+ -1
+
+review_id : EzFgQ4RDgbZQelhmgHwJZA
+aspect: Service
+text: Thank you for this top notch customer service experience!  Definitely would recommend this pharmacy to any one!
+ -1
+
+review_id : in5RXemw_jE50Syeji-3vw
+aspect: Price
+text: I paid a fair price and they held up their end, impressively at that.
+ -1
+review_id : AqFlzMQAPom57JablNqAZg
+aspect: Price
+text: They have unique, one of a kind designs at great prices.
+ -1
+review_id : AqFlzMQAPom57JablNqAZg
+aspect: Service
+text: The quality, craftsmanship and customer service are unparalleled.
+ -1
+
+review_id : 78Dye0CgAFJWVkYMMl2lhw
+aspect: Service
+text: The service is always exceptional and the products I want are always in stock.
+ -1
+
+review_id : ZisXXMIbB73B7SUkuvJCog
+aspect: Service
+text: I honestly only come to this location because of how great the customer service is.
+ -1
+
+review_id : 8v4Jez-LARoyuNKYdu7LJQ
+aspect: Service
+text: She wouldn't take no for an answer on paying his money back.\n\nThis is just amazing service, and I am now a loyal customer!
+ -1
+
+review_id : xlL3MRPVHd_yAP_STOnVBQ
+aspect: Price
+text: Affordable prices for waxing and facials.
+ -1
+review_id : HbWJh72tAzr4LyocLj7ltA
+aspect: Service
+text: Great customer service and great selection!
+ -1
+
+review_id : o1VnOEacGWh5Y_WwVzTikQ
+aspect: Service
+text: Edgar, thank you for your fast, friendly and professional service!
+ -1
+
+review_id : NPWs7zm-RgPqjEy3rYx4FQ
+aspect: Service
+text: Great value and service.
+ -1
+
+review_id : T5QVEMKr8sLgIGIwsqS1Aw
+aspect: Price
+text: Great glass pieces at great prices, plus detox drinks (that work!) and some pretty cool swag.
+ -1
+review_id : NtfWr6jdpOyXM-GIVvIRuA
+aspect: Service
+text: Fantastic Customer Service !  Looking forward to returning for my tennis needs.
+ -1
+
+review_id : _ZKdOb-jhfTwTyf8JlqsKQ
+aspect: Service
+text: Had super fantastic customer service today that outshines my negative experience at the Bath and Body in PV mall.
+ -1
+
+review_id : _ZKdOb-jhfTwTyf8JlqsKQ
+aspect: Service
+text: The customer service representatives were helpful and kind.
+ -1
+
+review_id : t5K5Kcv7Gz47r8BJvSVwbg
+aspect: Service
+text: I had great service at the store today.
+ -1
+
+review_id : OBF1dfaHlReCfygPvp9ncQ
+aspect: Service
+text: I have only had great customer service at this store.
+ -1
+
+review_id : oO0I3FdgYif_AdDRq1KCNQ
+aspect: Service
+text: Service is top flight.
+ -1
+
+review_id : tB70Fy296OR_0cpN68vAqQ
+aspect: Service
+text: I am completely satisfied with the level of service that was provided to me and felt very comfortable asking him for the help I needed.
+ -1
+
+review_id : pTxkxVE3wRa8I5bfgny72A
+aspect: Service
+text: They have a very helpful and kind staff, beautiful product, and five star customer service.
+ -1
+
+review_id : V96x8g4VCbnGUvGilgcCFg
+aspect: Service
+text: Their customer service is next level and I kind of wish I could just come hang out here whenever I'm bored.
+ -1
+
+review_id : OCigf1bCGjH2tjclBS7Jiw
+aspect: Service
+text: I have been in this locations a couple times, they have always provided excellent service.
+ -1
+
+review_id : OCigf1bCGjH2tjclBS7Jiw
+aspect: Service
+text: Corey the customer service rep took it apart at the counter, replaced a couple parts and had me out of the store in less than 20 minutes.
+ -1
+
+review_id : OCigf1bCGjH2tjclBS7Jiw
+aspect: Service
+text: They understand the importance of service
+ -1
+
+review_id : OCigf1bCGjH2tjclBS7Jiw
+aspect: Price
+text: Best prices in the valley.
+ -1
+review_id : fnH_6-AyjYJhDe_uCGDq3g
+aspect: Service
+text: His knowledge made me very comfortable and I would highly recommend his services to anybody looking for watch or jewelry repair.
+ -1
+
+review_id : 6F6JnFe_NrZseLzEjkL9Qw
+aspect: Service
+text: Both had great customer service!!!
+ -1
+
+review_id : P72bSPOkC-r5n3fi9p__pQ
+aspect: Price
+text: The items are pricey but are one of a kind.
+ -1
+review_id : WHjs7PN8dBiYSgxIUc-2gA
+aspect: Service
+text: Great customer service, we've bought a bunch of stuff with Summer.
+ -1
+
+review_id : FP3rFBa0gfF0vzuB4ZiGFg
+aspect: Price
+text: They are so well stocked with supplies and new and used gear, all reasonably priced.
+ -1
+review_id : 7PNqYtsOEnf1EDJAjp0oAA
+aspect: Service
+text: The customer service is great and now that they carry vintage comic books and cards there's even more amazing stuff to shop for!
+ -1
+
+review_id : R30Jp24n8XkRuENK9IwpgQ
+aspect: Service
+text: They have earned my loyalty with great service and good prices.
+ -1
+
+review_id : 3ue3PFqoXiQA8MRfpq0vXg
+aspect: Service
+text: Been a regular here since December 2015 because Jordan is consistent with great customer service and always recommends what's best for my needs.
+ -1
+
+review_id : Unbe1t7KFu6EycM-_Am3DQ
+aspect: Service
+text: The customer service is always excellent in person or if you just call with a quick question.
+ -1
+
+review_id : rp0RC9MG64sRFORxxpDhJw
+aspect: Service
+text: The customer service I received today from Kelly was awesome! If only this wonderful service was found everywhere, I'd be thrilled.
+ -1
+
+review_id : ABqTxxWKg86w2NlE_zIYRA
+aspect: Price
+text: If you have something to sell they will give you a fair price.
+ -1
+review_id : b7KkLeLbB91Ici2_kmuJ8g
+aspect: Service
+text: I will be using his services in the future.
+ -1
+
+review_id : Hv2FKrvaJgQVpQNk7mLZyw
+aspect: Price
+text: The prices are more than reasonable.
+ -1
+review_id : J830ejipXkU1ZXOdqDwu9Q
+aspect: Price
+text: My review here is actually more for the antique lamp repair and restoration work I received by one of their vendors - Sonny is great! Wonderful attention to detail and more than fair prices!
+ -1
+review_id : 6gUS7SwumTnE7TTrnGC6gQ
+aspect: Service
+text: In terms of quality, service, and their variety of stones and price points, they are spot on.
+ -1
+
+review_id : tHnH364BKgzjFRAYML6g6Q
+aspect: Service
+text: Customer service was great, very attentive.
+ -1
+
+review_id : k3hEC7QBu8agjxEEd1SuXw
+aspect: Price
+text: Besides the magic, the guys doing flips, a bevy of magicians assistants, comedy relief by the Maestro of Magic, there's the live soundtrack, with guitars performed by Del Cheetah, and overall the show rocks and is worth the price of admission.
+ -1
+review_id : PvfoMTjYF7hgXGLZgVpkfw
+aspect: Service
+text: Fantastic service from the time we walked in the front door until they walked out of our home; pool table set up.
+ -1
+
+review_id : PvfoMTjYF7hgXGLZgVpkfw
+aspect: Service
+text: Excellent Service by Tanner and Jeffrey on the set-up (they know what they are doing).
+ -1
+
+review_id : J0_nqRf-HBYKxF6Wj20VCA
+aspect: Price
+text: Price is also below competition.
+ -1
+review_id : udhPh3Sc0Yz-xk67HBGCjw
+aspect: Price
+text: The wheelchair rental is only $37 and change for a week! Great price, and the chair is easy to use.
+ -1
+review_id : nwZ9cPG62hPMOLKHjPmzDw
+aspect: Service
+text: The service here is phenomenal every time I step in I feel like I'm at home.
+ -1
+
+review_id : b9-h1qyOoXR6NogxqWnz_Q
+aspect: Service
+text: Tennessee gave me the best service! I went in with my friend and she helped me get exactly what I wanted! I'm definitely coming back
+ -1
+
+review_id : S3TzU2zLC_MhaRAzJs-WnA
+aspect: Service
+text: Excellent customer service.
+ -1
+
+review_id : 95FO9OqptW_a8stnWY0NMQ
+aspect: Service
+text: very pleased with their service i realize at first they had some problems they need to work out but now service tech.
+ -1
+
+review_id : _SzPnCTBB2ZoHbsFJGGCCg
+aspect: Service
+text: Great customer service, very informative, and helpful.
+ -1
+
+review_id : xKMmYi0BxclAiNhXozxygw
+aspect: Service
+text: Love these guys, always happy helpful service, great juices and hardware, and the new location at 115 Queen st east is really spiffy, I spent an hour trying new flavours and went home with some tasty 416 and a new ego one mega, now I'm a real happy vapor!!!
+ -1
+
+review_id : 8Cqtam7DVtUwcnz3HRMwTA
+aspect: Price
+text: I appreciate their very fair prices especially for such high quality and specialized esoteric items very much.
+ -1
+review_id : ROrvqlZORVwoBczOcemq0w
+aspect: Price
+text: The price was very reasonable and the customer service was excellent.
+ -1
+review_id : dKVVFGPUS22Oxxx_EwJGzQ
+aspect: Price
+text: Best prices, excellent customer service, don't listen to the bad reviews, this place is awesome.
+ -1
+review_id : BX5FCbzqiOMNNncxyEMV_g
+aspect: Price
+text: Best service, best return policy, best selection and prices in the area.
+ -1
+review_id : 5BrSJBhfqP50xKVONL5ENQ
+aspect: Price
+text: Her prices are very realistic!
+ -1
+review_id : oJ-5NqcjiPG4czNrsAF4ng
+aspect: Price
+text: These are not the typically overpriced, touristy timepieces you see in Vegas.
+ -1
+review_id : 6ZM4N8hyeyH-MIFahdo5jg
+aspect: Price
+text: Prices are better at Sportsman's.
+ -1
+review_id : lAxMh7Ue4u21XaMHg2pGJw
+aspect: Price
+text: The prices he mentioned for both services are reasonable and even a littrile less then I've seen at other shops in town.
+ -1
+review_id : lAxMh7Ue4u21XaMHg2pGJw
+aspect: Price
+text: Across the board, prices are very fair and I noticed some downright bargains while perusing.
+ -1
+review_id : 0-CVX_zIUeRax1nPkA7-fQ
+aspect: Price
+text: Very happy with the service! My phone would not boot up, and they were able to fix it quickly and at a good price.
+ -1
+review_id : 9DKYkhrkj5pz-gPbb5EPCw
+aspect: Price
+text: They are also very reasonably priced! People are so nice.
+ -1
+review_id : GFxbXWX-bhppSLnZkEcSCg
+aspect: Price
+text: Good prices and nice selection for a small shop.
+ -1
+review_id : wIdnTVXQ_vened_lngSPEg
+aspect: Price
+text: Everything was completed in a timely manner and their prices are fair.
+ -1
+review_id : 6Bq7Tnkl2xGJp1gUWCd8tA
+aspect: Price
+text: There are soo many products in this place and they are all reasonably priced.
+ -1
+review_id : gsuHjX14jRjBzn2W0QZm5g
+aspect: Price
+text: This is a great store to just hang out in, and they have great merch and good prices.
+ -1
+review_id : UDEiP3JKSnB7-aygvEU_MQ
+aspect: Price
+text: Their prices were fantastic compared to the big chain stores.
+ -1
+review_id : C_ptnY5kWBO02Lt6kyeHdQ
+aspect: Price
+text: Quick accurate diagnosis at a very reasonable price!
+ -1
+review_id : -H_do-Y1wz_xHhJ7fMMeKA
+aspect: Price
+text: Sales on top of amazing prices.\n2.
+ -1
+review_id : Uja0qQN_Qdu-3fSieGzWQw
+aspect: Price
+text: Also he will get you the best price possible.
+ -1
+review_id : J9LSfT4xzZlQvwRb4gnVAg
+aspect: Price
+text: \n\nThe prices are great, as all of my purchased were new pieces.
+ -1
+review_id : OoLMX7Ncu839r1b0mvsYOQ
+aspect: Price
+text: Great inventory, fair prices, and friendly service.
+ -1
+review_id : G_6FDd_g7uG6imo1cc2LwQ
+aspect: Price
+text: The prices are reasonable and they are open to scheduling delivery for you.
+ -1
+review_id : lgRQuOxcYg5-V4Lf5Sa8-Q
+aspect: Price
+text: Sure you'll pay a premium price but well worth it.
+ -1
+review_id : LImVh1-La0BWC-5NSUmU-w
+aspect: Price
+text: Mike offered me the best price I was able to find anywhere and replaced the watch battery for free when it died the following year.
+ -1
+review_id : eMeNCOp1ROrTKTC4hREQug
+aspect: Price
+text: Their prices are very reasonable and you know you are getting what you pay for!  What I am always amazed at too is that months will go by before I have a reason to go back there, yet they know my name and make me feel like family.
+ -1
+
+review_id : ovZyW20f0Ng8LfFud43mRw
+aspect: Price
+text: The prices were reasonable co side ring you are looking g at some pretty amazing stuff! The staff was really friendly and even took some pics with me! Def will come back next time I'm in town :)
+ -1
+
+review_id : ctJxvqTE50KQkwYhcELObA
+aspect: Price
+text: My new work shoes are extremely comfortable, my feet hardly hurt at all anymore, and they were on sale at a very reasonable price.
+ -1
+
+review_id : jjn-RumHwS0l16sUr37X2Q
+aspect: Price
+text: If you are looking for a good price for a firearm check these guys out.
+ -1
+
+review_id : RE8zav3oY-ZRoeUqSFz6tA
+aspect: Price
+text: The owners are very helpful and will make sure that you find everything that you need at a reasonable price.
+ -1
+
+review_id : kWAJofYPoEpNiVuOn5sTOg
+aspect: Price
+text: Her prices are great too! Make sure you check out her store, you won't regret it!
+ -1
+
+review_id : PguUyoKwKL952cwl8N3XEg
+aspect: Price
+text: Price was also reasonable.
+ -1
+
+review_id : 1IJk6uDdx1wIi1FOfo5wbA
+aspect: Price
+text: Prices are fantastic and the consignment is very good quality.\n6.
+ -1
+
+review_id : eNS4Bvn9vV3D_GtewCe1PQ
+aspect: Price
+text: They have a great selection at great prices.
+ -1
+
+review_id : O79wSDDF1QpKyHEioQbnoQ
+aspect: Price
+text: The prices are reasonable compared to other similar stores, and you can get a punch card for $10 store credit after a certain amount of purchases.
+ -1
+
+review_id : pPUElHFRiusASSeKfoyb6w
+aspect: Price
+text: After an exhaustive search I stumbled upon 2BMod and was so pleasantly surprised to see a large selection of the stuff I found on the other two websites at even better prices.
+ -1
+
+review_id : 8WU_SXJ6jfRYfZMRrjpuZA
+aspect: Price
+text: Good prices and lots of Greeting cards for one dollar.
+ -1
+
+review_id : EbAxXse1BcYVptUzozAc8A
+aspect: Price
+text: And the prices are fair for what you get.
+ -1
+
+review_id : -V8taHZuUM1nHpNUjKM_bw
+aspect: Price
+text: Store was full of high quality items at great prices.
+ -1
+
+review_id : UqR7Z7kXdHQLDxXGfXbZCA
+aspect: Price
+text: Prices better than Leslie's.
+ -1
+
+review_id : 5bxLOCp4UG_4s5NA-qPQwg
+aspect: Price
+text: The store is filled with beautiful clothing and accessories at a very reasonable price.
+ -1
+
+review_id : JHbVsCLp4D7uRCVdxLV-MA
+aspect: Price
+text: This was 100% wrong and against their policy of matching prices.
+ -1
+
+review_id : VioGG7yIURPRDnVd1Krbqg
+aspect: Price
+text: JRs is a fair price for beautiful mulch.
+ -1
+
+review_id : VioGG7yIURPRDnVd1Krbqg
+aspect: Price
+text: We will be making more trips here as there is no reason to look elsewhere between the service, price and quality.
+ -1
+
+review_id : tkWhyMgJQm2HYsit_n-GcA
+aspect: Price
+text: The price is very reasonable for my almose sister locs that requires latching and takes about 3 hours to complete.
+ -1
+
+review_id : VwO7P6oohgJNibULxwE83Q
+aspect: Price
+text: Prices are great too so I can keep making changes without worrying about breaking the bank.
+ -1
+
+review_id : sRBB-MgTnSL2898cH4TTlQ
+aspect: Price
+text: Worth the price.
+ -1
+
+review_id : fZLdVp3rAreKMHY2VBhCcw
+aspect: Price
+text: The jewelry is high quality and competitively priced.
+ -1
+
+review_id : 4_msv6qWwGgsEiRN4b4FBg
+aspect: Service
+text: I was absolutely amazed by the service from All Occasion Floral in Scottsdale.
+ -1
+
+review_id : 4_msv6qWwGgsEiRN4b4FBg
+aspect: Service
+text: Amazing service, and incredible bouquet of flowers.
+ -1
+
+review_id : 4_msv6qWwGgsEiRN4b4FBg
+aspect: Service
+text: This locally owned shop is definitely above and beyond any experience, service or product you could receive from FTD florists!
+ -1
+
+review_id : kFtR1776uE0NAqm5ycJzNw
+aspect: Service
+text: Very good selection and stellar service!
+ -1
+
+review_id : LT2mV-lvzEEKzVWG1A_zXg
+aspect: Service
+text: This store was amazing they are fast and friendly and Erica was absolutely fantastic when it comes to everything tmobile and her customer service was top notch.
+ -1
+
+review_id : taBP6Zgvf82zCaen0xAOSA
+aspect: Service
+text: Excellent customer service from fitter.
+ -1
+
+review_id : 1ZhDbSN8am7jTqmJyY8COA
+aspect: Service
+text: Great service very knowledgable staff great experience all around love these guys..
+ -1
+
+review_id : PWJQpj5xbtmNb9tbBgn8vA
+aspect: Service
+text: Customer service is on point; staff is extremely helpful and knowledgable and really made me feel comfortable about my purchase.
+ -1
+
+review_id : UR0Af1-tYcCflNg2RPduSA
+aspect: Service
+text: Awesome people, Great Service, They fixed my cellphone case for just $0.00 and on the spot.
+ -1
+
+review_id : UR0Af1-tYcCflNg2RPduSA
+aspect: Service
+text: Thanks Alan and Rhianan for such a great service!!!
+ -1
+
+review_id : 3BNjmRh8Bnr8wQz2oOV7WA
+aspect: Service
+text: Im a big supporter of trying to shop local over big national chains whenever possible, especially if im getting a good product and good service.
+ -1
+
+review_id : tVMSKMlxHMeGQFfRPDs9Ag
+aspect: Service
+text: They are quick with their service, if I order by 5:00, I will always get my order the next day (unless it is a Friday and then I will get it first thing on Monday).
+ -1
+
+review_id : _06x6HNsl9Hd-tZQfCUkOQ
+aspect: Service
+text: My wife was thrilled with the jewelry and the service each time we came in.
+ -1
+
+review_id : gK4iwD-RfXkDyOAYjn6HIA
+aspect: Service
+text: Colin the technician was awesome and I would definitely recommend this company for the employees, ease of purchase and overall customer service.
+ -1
+
+review_id : LHoViJlRyt6DCMi_krYjtg
+aspect: Service
+text: I was pleasantly surprised to find they had a good selection at a lower price than I had expected, and the service was excellent.
+ -1
+
+review_id : DcBM0Kog8w_lZbd3vhlTWQ
+aspect: Service
+text: Friendly service and a clean store.
+ -1
+
+review_id : LdNAcUsPZutnyiQURrWJEw
+aspect: Service
+text: Amazing service and so extremely helpful!
+ -1
+
+review_id : KMPpd0fqtBvaYKXWJQQLtg
+aspect: Service
+text: It's this kind of customer service that will encourage me to go there again for any of my vaping needs.
+ -1
+
+review_id : kULRrrBRizlWDGTDcwVe3A
+aspect: Service
+text: Great service and friendly staff!
+ -1
+
+review_id : YeoQj3AaY_VDd6wyvk9UVw
+aspect: Service
+text: I have long assumed that corporately owned mainstream retailers don't have much heart when it comes to relationships with customers\/customer service, etc.
+ -1
+
+review_id : FpWA_YfqZeKKhacBnef6Zg
+aspect: Service
+text: The service here was phenomenal!
+ -1
+
+review_id : CpwYWnO6r5uVmxgziZHZLw
+aspect: Service
+text: I just left her and had the most superb customer service with Lisa and her husband, I absolutely love how unique the store is how helpful they were, they would move furniture next to each other from other areas in the big store in order to see if I liked it together.
+ -1
+
+review_id : 3zmUoig_f1hDB1MKabjvAw
+aspect: Service
+text: I've never had better customer service than Jon.
+ -1
+
+review_id : L8OdEgsTutCUnnlAgF7kGw
+aspect: Service
+text: However I was blown away by the amazing service the incredible amount of knowledge known about that products and the overall welcoming environment.
+ -1
+
+review_id : yYMtNA7xGuka47NnvKNz8A
+aspect: Service
+text: Great customer service! I recently bought a ring from overseas, and needed someone to examine the quality and authenticity of the gem.
+ -1
+
+review_id : Ly5ky2bAoJCYNWai73LRig
+aspect: Price
+text: Love this place!  Lots of lamps to choose from and prices are reasonable.
+ -1
+
+review_id : 9m44yPp22HQ05RvV14nmmw
+aspect: Price
+text: I found their prices reasonable and the selection well curated with something for all budgets.
+ -1
+
+review_id : GFLGA5f5AFHeBwlVHkiUsw
+aspect: Price
+text: There is something for everyone, very reasonable prices and well crafted designs.
+ -1
+
+review_id : M8QaS0GzU6-KB8Bj4gw_bg
+aspect: Price
+text: Phenomenal equipment, great prices, expert assistance, and top-notch customer service.
+ -1
+
+review_id : mmg0wrmcOJAIQFPx7pGe2A
+aspect: Price
+text: With her help, I found the PERFECT frames at an extremely reasonable price.
+ -1
+
+review_id : w9FXW6NCXfMBIoMDw_HRMg
+aspect: Price
+text: Beautiful dresses at beautiful prices.
+ -1
+
+review_id : 6HKypfhmRgeWZtw2JnLmJw
+aspect: Price
+text: No pressure, and reasonable prices for delivery and other items.
+ -1
+
+review_id : rEa82aplJ_clXWEDHEJf2w
+aspect: Price
+text: Prices were super fair, and I felt better in purchasing here than through other avenues for second hand or pre-owned.
+
+ -1
+review_id : L06383uylWBeyPwCLDHw5A
+aspect: Price
+text: I love it here! Great finds, amazing prices and friendly staff! One of a kind outfits too:)
+ -1

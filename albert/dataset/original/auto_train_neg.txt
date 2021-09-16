@@ -1,0 +1,995 @@
+review_id : BnB8z3d1BiLyqdAwgQnejw
+aspect: Service
+text:   No transmission service, no brake service, no rotation, no cooling flush.
+ -1
+
+review_id : DTmPSZt3pPUYcrUJmeHmmg
+aspect: Service
+text:  Terrible customer service , overprice , only one mechanic at the shop , 3 weeks to fix my bike ; owner dale kieffer so rude I never come back again.
+ -1
+
+review_id : DTmPSZt3pPUYcrUJmeHmmg
+aspect: Price
+text:  Terrible customer service , overprice , only one mechanic at the shop , 3 weeks to fix my bike ; owner dale kieffer so rude I never come back again.
+ -1
+review_id : Zh5937e7ujZ4fWWZQ0674Q
+aspect: Service
+text:  Also no customer service skills.
+ -1
+
+review_id : 0fdtm-JkHZf6SLtGUMNa-w
+aspect: Service
+text:  I refused their services and requested they take the AC belt off.
+ -1
+
+review_id : 3fOmfJbcuyGnIfUp0NXGjA
+aspect: Service
+text:  Horrible place, horrible service.
+ -1
+
+review_id : 9P7oamCB2zh_xBCCHSCu6w
+aspect: Service
+text:  Horable service and bad dealings they seem to not have anything right going for them and really don't care about what they are doing bad place never again
+ -1
+
+review_id : paMZsKLJsD7DRTSjUh7Ncg
+aspect: Service
+text:  Horrible service, what a bunch of con artist.
+ -1
+
+review_id : OWIK4txDSnBvIPaUFvsUIw
+aspect: Service
+text:  Not only do they have crappy customer service, but they do horrible work.
+ -1
+
+review_id : cGbvqBJXa4plhjEKq36Blw
+aspect: Service
+text:  Customer service is deplorable, the employees are not responsive to the disabled person's needs, they don't pay attention to detail so many times have ordered the wrong eqipment.
+ -1
+
+review_id : kmp9xjkAwi_b-f7WwoRvhg
+aspect: Service
+text:  Horrible customer service.
+ -1
+
+review_id : B9VnIpYziRfzbzQxfjSwlw
+aspect: Service
+text:  Overall horrifically slow and bad customer service.
+ -1
+
+review_id : oV9cOfQEfA7nOhGr4IvmSg
+aspect: Service
+text:  Their customer service is terrible.
+ -1
+
+review_id : 1ZkBtI_F8bSQURQT2mylLA
+aspect: Service
+text:   Terrible customer service and they don't know how to treat their customers at all!
+ -1
+
+review_id : rR0dV-up_0PZC2jN482Wjw
+aspect: Service
+text:  The absolute worst customer service I have ever encountered.
+ -1
+
+review_id : jFkRjE1V4kB8czMB5yTqLg
+aspect: Service
+text:  Lousy customer service.
+ -1
+
+review_id : AZGoTjdtd6UcT7ZSTnBf1A
+aspect: Service
+text:   The service here is consistently terrible, beset with rude and ignorant staff who know very little (and care even less) about anything other than trying to upsell you at the register.
+ -1
+
+review_id : R9p3ug8zNPvawYX_jsO0UA
+aspect: Service
+text:   Horrible experience from the service dept staff not all but all it takes is one.
+ -1
+
+review_id : 5pdtkA7g49d0zW24BeQLlg
+aspect: Service
+text:  Horrible service, I turned in my vehicle on may 24 two of the supposed experts told me that my vehicle will be ready in 12 days not a major damage, they promised it will be ready on 06\/ 07 they even sent me several text saying we have 62% of the job done all the sudden they texted again that my vehicle will be ready on 06\/16 nine days more that they promised.
+ -1
+
+review_id : 2ug-BSR2StsUarfddK1Ujw
+aspect: Service
+text:  Nissan service doing something wrong  again on morningside and milner
+ -1
+
+review_id : 2ug-BSR2StsUarfddK1Ujw
+aspect: Service
+text:  This is bad customer service anthony
+ -1
+
+review_id : 2ug-BSR2StsUarfddK1Ujw
+aspect: Service
+text:  I am very disappointed on nissan service
+ -1
+
+review_id : mYINr7XyQZoQTfDIw4uFMg
+aspect: Service
+text:  Horrible Rude Service from Director of Sales.
+ -1
+
+review_id : LuD5VvN80m-SQAPOkLTzNg
+aspect: Service
+text:  Manager rude, disinterested and had poor customer service.
+ -1
+
+review_id : 5HcPCOsT4RmUVZxZAz0QFg
+aspect: Service
+text:  I had such a poor customer service experience when I called to inquire about getting my car serviced here, that I didn't even bother setting an appointment.
+ -1
+
+review_id : YQJ1Tepi8OB9woTUL6AGIA
+aspect: Service
+text:  Not that at this point I wasn't ready to take it somewhere else anyways, it's mind boggling how poor their customer service is.
+ -1
+
+review_id : tYcrEVFYIgvGwBpoal8dLw
+aspect: Service
+text:  They're service is disrespectful it's so bad.
+ -1
+
+review_id : qqyghbfqIPQOq8TRWjJFrQ
+aspect: Service
+text:  This is a pathetic place with poor customer service, no public retrooms and a bad attitude.
+ -1
+
+review_id : e2c18K_V_WtwDH6q2XipZQ
+aspect: Price
+text:  They talked me into changing the battery for a higher price compared to other places.
+ -1
+review_id : iUgRwkq3hbAM17Q_32Q0Eg
+aspect: Price
+text:  I say again, stay away from Benchworks and their kits that are just a bunch of old parts thrown together at an extremely high price.
+ -1
+review_id : weBifjIhxt5gGT0X1Cu01Q
+aspect: Service
+text:  Worst customer service ever.
+ -1
+
+review_id : oSZHS_-vu0geizfKmX8TiA
+aspect: Service
+text:   Poor automobile service and care.
+ -1
+
+review_id : zgqsZeOMQfMV_8v-_hVKNA
+aspect: Service
+text: Terrible experience with their service department.
+ -1
+
+review_id : zgqsZeOMQfMV_8v-_hVKNA
+aspect: Service
+text:  This kind of service is ridiculous to have to wait for so long to get the report done.
+ -1
+
+review_id : kcKREphPTESZZhs5NH9kBA
+aspect: Service
+text:  Poor customer service from salesman.
+ -1
+
+review_id : ZDuT-z8-Fdeeek_n94WYig
+aspect: Service
+text:  Absolutely horrible service.
+ -1
+
+review_id : ZTTWwR5WYJ817dL_vG2jFg
+aspect: Service
+text:  The customer service has no integrity.
+ -1
+
+review_id : N1uXeyXeEKF9KNWwuX-1kA
+aspect: Service
+text:  That's customer service and from a dealership! Dealerships usually get a bad rep for poor customer service and ripping people off, but not at Subaru.
+ -1
+
+review_id : u_kptQHcCj6l4qiZRFuHQw
+aspect: Service
+text:  I'll would strongly recommend never using the service department from Power Subaru.
+ -1
+
+review_id : _ozfdnwMQdUd1bGAsAS94Q
+aspect: Service
+text:   Customer service was awful and they didn't even do what I asked them to, due to them trying to scam me for more business.
+ -1
+
+review_id : kCeUQupTi7dDIBnKV1vTIA
+aspect: Service
+text:  WORSE CUSTOMER SERVICE PLACE I'VE EVER BEEN TO.
+ -1
+
+review_id : 1utL8j6nHqustLcQ9bQFIQ
+aspect: Price
+text: Then today, I go to get an overpriced service ($160 to do oil change, rotate tires and replace cabin\/air filter- which were filthy but odds are they were filters kept under your counter to show customers to get them to replace) and was updated on what was needed to get my tires for life then was given a quote.
+ -1
+review_id : PGlXYk7ClGo4fSchfOODlQ
+aspect: Service
+text:   Horrible customer service and mediocre results.
+ -1
+
+review_id : MYnJ57qdyBGfN2oo2Fwl-Q
+aspect: Service
+text:  Worst auto detailing and customer service ever encountered.
+ -1
+
+review_id : btWQT2fsC8JjhpwVySjvqQ
+aspect: Service
+text:  In my opinion they either have horrible customer service or do not want my business.
+ -1
+
+review_id : PAZmXMOHNk0f2ouybFk-zw
+aspect: Price
+text:  I had them change the brakes and rotors which was outrageously priced.
+ -1
+review_id : kqfs2ZB9OwvU8RyDOoyw6w
+aspect: Service
+text:  Worst service ever, this store is why I do not trust mechanics or technicians.
+ -1
+
+review_id : xSi4leMHFYjHaHXSLxblLA
+aspect: Service
+text:  Dishonest and crummy service.
+ -1
+
+review_id : 07j2j84vX3TEY__kpmrnwQ
+aspect: Service
+text:  Terrible customer service!
+ -1
+
+review_id : 07j2j84vX3TEY__kpmrnwQ
+aspect: Service
+text:   I would not recommend this place based on the poor customer service.
+ -1
+
+review_id : q4o8U3228OGm_K_PVsw6yw
+aspect: Service
+text:  Do not use this service, very unprofessional and dishonest.
+ -1
+
+review_id : zSHusobW8nCCisGGUbVyCA
+aspect: Service
+text:   Zero customer service.
+ -1
+
+review_id : 2jI1gF30Lu4csIdL-OyErg
+aspect: Service
+text:  Don't go here if you want fast service.
+ -1
+
+review_id : 4nuzmABzv2ddh4bSd_Td4A
+aspect: Service
+text:  Xtremely  hostile, Xtreme arrogance,  Xtremely  poor  customer  service.
+ -1
+
+review_id : qfb395YFzwIUxImCHRzUew
+aspect: Service
+text:   We won't be using their services again.
+ -1
+
+review_id : kzRq5yGFkYvtx9wm4_teSg
+aspect: Service
+text:  Pamela the retail agent provides extremely poor service.
+ -1
+
+review_id : -GPy0cFLMQecZkgLjXW32Q
+aspect: Service
+text:  The customer service has no integrity.
+ -1
+
+review_id : -GPy0cFLMQecZkgLjXW32Q
+aspect: Service
+text:  Its true they are super cheap, but thats because they're not running a quality service business.
+ -1
+
+review_id : XE_vhJptW4sG3v_rDmWdww
+aspect: Service
+text:  I was very disappointed with the service.
+ -1
+
+review_id : sW-aZWZuIiugypb28QQBuw
+aspect: Service
+text:  Bad customer service.
+ -1
+
+review_id : c48h55UqX44LKFnQi6IZ1A
+aspect: Service
+text:  They are extremely rude and have no customer service what so ever.
+ -1
+
+review_id : tg9q3tm3TpaQoxo3nK90Tg
+aspect: Service
+text:  If I could give no stars for his service I would.
+ -1
+
+review_id : oTY0y49bChku-ncAGt69Tw
+aspect: Service
+text:   When we arrived, we experienced unsatisfactory customer service.
+ -1
+
+review_id : 0wI6ENO-bFM75z6S_4KpMg
+aspect: Price
+text: Overpriced! $50 for ONE headlight ($12 & the rest is labor?!?!)  they charged me 20 minutes labor.
+ -1
+
+review_id : GSUmE_vKQLrXF84pZpz2FQ
+aspect: Service
+text:  Terrible Service Manager who needs to be retrained on how to deal with customers & how to be solution oriented.
+ -1
+
+review_id : GSUmE_vKQLrXF84pZpz2FQ
+aspect: Service
+text:  Service Manager has an attitude problem & a customer had to offer me an opinion on how to fix my vehicle because Firestone really was doing a good job of it.
+ -1
+
+review_id : 8a_w4bU2vKv_2lv5VGmpmQ
+aspect: Service
+text:  Extremely poor service.
+ -1
+
+review_id : lrcj4wCmqW6XjhP9AczAtg
+aspect: Service
+text:  The receptionist needs a lesson in customer service!
+ -1
+
+review_id : md3S2HbbS41huXR7WuCtgg
+aspect: Service
+text:  They said they would be there in 15 min- still no one came and no one called! This is the WORST service I have experienced in a long time.
+ -1
+
+review_id : sD_KCI4P5RIIAyLY08IfLg
+aspect: Service
+text:  Do not use this towing service.
+ -1
+
+review_id : HdL-21WgghSvDo5xbqrpGQ
+aspect: Service
+text:  I am disgusted by the recent service my mother received at Mr.
+ -1
+
+review_id : 5uByzFo3TEG-5fl7D8vWRg
+aspect: Service
+text:  Really bad service, I am here for vacations, we all walk in to buy drinks and fill up gas, the lady was really rude.
+ -1
+
+review_id : XTFAo0dc-036EWSOCLZavg
+aspect: Service
+text:  Pretty poor customer service.
+ -1
+
+review_id : ONEJfrK3gd5C_K_dGQFivg
+aspect: Service
+text:  Not good customer service at all.
+ -1
+
+review_id : S4N-q-C_GxJy8dr3Tb2BWA
+aspect: Service
+text:  Customer service is DEAD.
+ -1
+
+review_id : gTDfsPCaYPWlCUvkUfkJiQ
+aspect: Price
+text:  I found this business to be extremely pricey and very dishonest.
+ -1
+
+review_id : gTDfsPCaYPWlCUvkUfkJiQ
+aspect: Price
+text: How often do you purchase an item and\/or service in which the cost of the warranty exceeds the price of the original item.
+ -1
+
+review_id : xRgttwoM0xYbesKm7YS0tQ
+aspect: Service
+text:  Revived horrible service from Rep Arron worst service ever so u empathic to his customers request.
+ -1
+
+review_id : xRgttwoM0xYbesKm7YS0tQ
+aspect: Service
+text:   Why can't a female not receive the same service her male counterpart did rudeness just overtook him what a shame of a guy
+ -1
+
+review_id : P9cBXZ6iJUoA3h9oUcaz6w
+aspect: Service
+text:   The absolute worst way to treat a customer who needs their services.
+ -1
+
+review_id : mR535FiCWi8zUmmrjADzPA
+aspect: Service
+text:  Horrible customer service.
+ -1
+
+review_id : r2afN0qOvtgf1-IoaMeh5Q
+aspect: Service
+text:  Terrible service I will never come back 
+ -1
+
+review_id : O2QCyh8W0-dn4dn-L0UK8Q
+aspect: Service
+text:  How  frustrating  service department!
+ -1
+
+review_id : avAXHpyphBKZX1pFfsNi2g
+aspect: Service
+text:   Terrible service and long wait times.
+ -1
+
+review_id : vIJlPY13aHFrS2uMO8_4gg
+aspect: Service
+text:   They are in no way friendly and the service is pretty bad!
+ -1
+
+review_id : _yxZUJqePi3Jsf_7340ZSA
+aspect: Service
+text:  Poor service is the least of your worries.
+ -1
+
+review_id : 1uS6G_7Tei4f7ONkJOWH9Q
+aspect: Service
+text:   I have had to drop it for service on a few occasions.
+ -1
+
+review_id : KrQzQ3pMsO0u4Ny9ZBpDnQ
+aspect: Service
+text:   Terrible customer service and a laundry list of how not to run a business.
+ -1
+
+review_id : 0dDvKjK1yEq_FTCWrIoCdA
+aspect: Service
+text:  Complete waste of time and terrible customer service.
+ -1
+
+review_id : ydECcuKRpYkaiWlMe0u_LA
+aspect: Service
+text:  Worst service from any business of any kind.
+ -1
+
+review_id : vmGwt26qx13US3ALxY9W1g
+aspect: Price
+text:  Then got a follow up call with a higher price and a later arrival date saying that they already ordered the more expensive product.
+ -1
+
+review_id : gVXdFhp8XsUa6NGBJr3X8w
+aspect: Service
+text:  Terrible, shady service.
+ -1
+
+review_id : jynczsQ7oskIgGr3qXAL9A
+aspect: Service
+text:  I was very disappointed in the customer service we received at big O tires in Boulder city Nevada.
+ -1
+
+review_id : J7FDZMwQ5Ssn__cIB-OeVQ
+aspect: Service
+text:  Terrible service, could not get help from any sales staff.
+ -1
+
+review_id : EEJs83mhvJ4oXbwI061tZg
+aspect: Service
+text:  Worst most unprofessional service department I've dealt with.
+ -1
+
+review_id : rdouq2Au380n8T3nVPRELw
+aspect: Service
+text:  How  frustrating  service department!
+ -1
+
+review_id : 4jVyz7RfffBTSLyC0-Ncmw
+aspect: Price
+text: Overpriced scary used cars
+ -1
+
+review_id : yVarZcNobJ99jvFNYsIfLg
+aspect: Service
+text:  Bad customer service right there!
+ -1
+
+review_id : hM9HzGz2q5GJnE7x8VKPdw
+aspect: Price
+text:  They are ridiculously overpriced and have less than subpar customer service skills.
+ -1
+
+review_id : lxnXQNkOXa7-sI7s1X8_zQ
+aspect: Service
+text:  Crap garage and poor customer service skills and this Lou clown claims to be an \"engineer\".
+ -1
+
+review_id : l1b7I44XktHoI5aMrxZDuA
+aspect: Service
+text:  The customer service was awful in dealing with an issue, and he basically told us not to come back.
+ -1
+
+review_id : stB-cOdPvRCdEc3H0JwokA
+aspect: Price
+text: Also, the second opinion mechanic was very surprised by the high prices Discount Brake quoted me for repairs.
+ -1
+
+review_id : K6vxFqsSce9EnlQzCjhD-A
+aspect: Service
+text: This place is very poorly ran, it is the only gas station I know that takes an hour to run in for a pack of smokes, bad customer service, out of stock of common items, have had multiple problems.
+ -1
+
+review_id : rF4F-pM4nS08-JkMqOdPfQ
+aspect: Service
+text:  I think its sad that Tempe police would choose a company with such poor service.
+ -1
+
+review_id : Kx4Q_hWi_Q9Mfb1SISL9CQ
+aspect: Service
+text:  Their customer service not good at all, whenver I asked them a question, half the time they basically disregarded me and ignored me as if I were talking to myself, and as far as the car buying program, they don't even know how to do their appraisals, which is their words they all repeated several times, we don't kno what we're doing yet.
+ -1
+
+review_id : UctG0JUBVdDgak3CR_M4hQ
+aspect: Service
+text:  I have never been so disappointed with customer service in all my years.
+ -1
+
+review_id : UctG0JUBVdDgak3CR_M4hQ
+aspect: Service
+text:   I'm highly disappointed with the customer service in the front office.
+ -1
+
+review_id : -TnJzL4E5YH8DjM8pVTS6A
+aspect: Service
+text:  I am very disappointed with their service department.
+ -1
+
+review_id : tZR2yVimYYj4PLgIdGWrNQ
+aspect: Service
+text:   Called Scion Corp and complained they fixed for free even though out of warranty  Stay away from Autonation, horrible service.
+ -1
+
+review_id : Gz0kSZNzXeuYH33T_SC6Og
+aspect: Service
+text:  Talk about BAD customer service!
+ -1
+
+review_id : OLhZNKyFjfAmulymD02g0Q
+aspect: Service
+text:  worst example of customer service I've seen in any business anywhere in the GTA.
+ -1
+
+review_id : Ytrzqd6yCEUa0_Q0iM62fw
+aspect: Service
+text:  Very disappointed with their services.
+ -1
+
+review_id : -epwXpzgXDT_on9RR9tFHg
+aspect: Price
+text:  S service charge, very overpriced.
+ -1
+
+review_id : mAOfEPrbJDEOw8EhrmEwKQ
+aspect: Price
+text:  In the end, the bill was overwhelmingly expensive ($230) for a simple oil change and a tire repair.
+ -1
+
+review_id : wjN_qBdNavd-y1O3w0smDQ
+aspect: Price
+text:  Expensive, painful, and dragging forever.
+ -1
+
+review_id : q4HgR_8l6WHpOfilHTV4QQ
+aspect: Price
+text:  The gas is always expensive here, go to other locations for better pricing.
+ -1
+
+review_id : oYzuBx-_0gNjkZqsk8mAeg
+aspect: Price
+text:  Terrible wash, long wait, expensive.
+ -1
+
+review_id : DSE342exk6ULS-HJ1GxZsw
+aspect: Price
+text:  Paid for the most expensive wash ($16) and went through.
+ -1
+
+review_id : VINBetmhFUdMpt9nkWFiAA
+aspect: Price
+text:  worst car dealer in az  dont ever go here unless u want over price crappy cars from the cars to the staff to the owner ship its all shit .
+ -1
+
+review_id : M7GVj4c2Y2uxc3fruphjIw
+aspect: Price
+text:  and it's bad and it's dramatic and it's very expensive.
+ -1
+
+review_id : V0SF7rmDIBOua1rjxw4H1Q
+aspect: Price
+text:  They also stated that I needed some very expensive items I found out I did not need when I went to a certified mechanic straight after.
+ -1
+
+review_id : i8hEckyqy_Q9CM1Y7b40tw
+aspect: Price
+text: Was told by their sales manager that we would get an incredible price, we were referred by a previous employee.
+ -1
+
+review_id : 2PjIuPzLjUUdRHVxB24i_A
+aspect: Price
+text:  Already outrageously overpriced.
+ -1
+
+review_id : TksRAeBkoYUU8hO_2hZrag
+aspect: Price
+text:  I KNEW THIS WAS WAY OVER PRICED.
+ -1
+
+review_id : _zL84mCc03gS3bzYRsOWWw
+aspect: Price
+text: \" One of the workers even made a passive aggressive comment when I didn't choose the most expensive option for the oil change.
+ -1
+
+review_id : eg02d8lCFPjMakfZ0wiklA
+aspect: Price
+text:   These graphics were expensive but a gift to myself.
+ -1
+
+review_id : dDMaXgIeARcNQVD8D4MjEQ
+aspect: Price
+text:  Overall bad and expensive experience.
+ -1
+
+review_id : tjIaL_1BkMiJHo2Yq6eaHg
+aspect: Price
+text:  They tried to charge me a window cleaning fee too just because I brought them an expensive vehicle and they thought I had the money.
+ -1
+
+review_id : I9RUVqy9EMq5xPXaLguNmA
+aspect: Price
+text:   This manager has ruined the reputation of mrlube and we will not recommend anyone to go to mrlube for their very expensive oil changes and very bad customer service and terrible terrible horrible service.
+ -1
+
+review_id : bL6pcTGpp47hhdoesZC5oA
+aspect: Price
+text:  So the loner vehicle that I have been driving isn't a very nice flashy expensive car.
+ -1
+
+review_id : d5Ez9_bwAfTa4ojp_NCroQ
+aspect: Price
+text:  Rude, overpriced and notorious for suggesting repairs that are unnecessary.
+ -1
+
+review_id : ow-Kzr6pKMzfNEeSvoLB5Q
+aspect: Price
+text:  Moral of the story is they have bad customer service and they give inconsistent prices.
+ -1
+
+review_id : sNIMutm4I7-NNCIob8dJMw
+aspect: Price
+text:  There over priced on there glass and door repair and make you wait over month for simple fix.
+ -1
+
+review_id : nC3TSAKdxhDPCG6ZIOC0CA
+aspect: Price
+text: The price over the phone was $203.
+ -1
+
+review_id : U2F4r5u-UBidN-UU3mgYAg
+aspect: Price
+text:  For a pricey car this is terrible service.
+ -1
+
+review_id : RnDJrANtKR2QghRKsuJ7JQ
+aspect: Price
+text: I asked them why their prices are so high, here's the response:
+ -1
+
+review_id : M5OC68VTp04cW0SgCzHo-g
+aspect: Price
+text:   An overly priced, low quality service.
+ -1
+
+review_id : Bi9jnxYcoRybmm_HBhmngA
+aspect: Price
+text: Customer service sucked and everything is expensive there deals suck there's nothing good about them people told me there stuff is pricey and just to go to slangin sound and tint i swear i should of listened to them i bought a installation kit for 60$ i saw the same one at AutoZone and Amazon for less to bad i can't return it i will only get store credit.
+ -1
+
+review_id : YX9S9bh5WGRHaBDEF8ooIw
+aspect: Price
+text:  And its the most expensive gas station around.
+ -1
+
+review_id : s8FAQ0c6kXR9ID9TdNhd_A
+aspect: Price
+text:   The car was expensive and not complete, I truly am not a happy consumer.
+ -1
+
+review_id : rlndqovm4rxAYJl0sHnsmw
+aspect: Price
+text:  Prices are unfair, service is lousy, and wouldn't ever care to go back again.
+ -1
+
+review_id : DjkV7-E7wngueXpeI1DGjQ
+aspect: Price
+text:  Overpriced, under deliver, disrespectful and incompetent.
+ -1
+
+review_id : 9lpzLqD9XuORZMwH6jTCiQ
+aspect: Price
+text:  Overpriced and underemployed.
+ -1
+
+review_id : 6rH5iOFUCgyMhy5HstjaHw
+aspect: Price
+text:  This is a glorified chop-shop, the vehicle that I wanted had some issues and was overpriced.
+ -1
+
+review_id : 2YRVyeg-5pXkZ5K2LkBESw
+aspect: Price
+text: Bought their most expensive package - \"full royalty detailing\".
+ -1
+
+review_id : 4NVS7Hn3s611eyg4a5FCWQ
+aspect: Price
+text:  Prices are high.
+ -1
+
+review_id : lZqf_4ktZK4nA69khj4CNw
+aspect: Price
+text:  Priced high for poor service.
+ -1
+
+review_id : qFwHbZvdcKMpkyY2nha_bg
+aspect: Price
+text:  Our car is a Volkswagen so everything is expensive! Then he had to put more coolant in and the cap was broken so they replaced that for another $13.
+ -1
+
+review_id : 2ljdXwoAtqjMqlYkpkuzOw
+aspect: Price
+text:  So I got the most expensive (super polyprocess) and the car still has 90% of all the bug marks; even on the head lights.
+ -1
+
+review_id : ZK-FaK65GrGgCLuR7iT8pQ
+aspect: Price
+text: Very overpriced services (hundreds for breaks) and they made me come back a few days later because it was very obvious they had forgotten to do something.
+ -1
+
+review_id : qeOd5ne8qsau03J97mfgPw
+aspect: Price
+text:  A car was included is nice, but still an outrageous price.
+ -1
+
+review_id : grPrlmzF48ZxGZ6fNE7Lng
+aspect: Price
+text: Don't go to this shops, they installed poor quality parts in my car for a high price.
+ -1
+
+review_id : UqlOdPPltOEYvZJ1mulmtA
+aspect: Price
+text:  And at a price that's higher than most others around, it's just not worth that weak sauce.
+ -1
+
+review_id : EdGIDInH4QVRKGKgvfBuBQ
+aspect: Price
+text:  Completly outrageous price!!
+ -1
+
+review_id : kvoVVGQh6ff2yZ5GL_q_nQ
+aspect: Price
+text:  An expensive learning lesson.
+ -1
+
+review_id : vk23GEH2OfOeiNIBarRJ2Q
+aspect: Price
+text: Overpriced, and the equipment is not usually in working order.
+ -1
+
+review_id : DJqXuPCleATeAEUMoS6FJA
+aspect: Price
+text:  Very high pressure staff gave off an extremely dishonest vibe!! Especially when they quoted me outrageous prices.
+ -1
+
+review_id : 0XdFk8vO1BWgZ9KzjrJFDg
+aspect: Price
+text:  Overpriced and inferior work.
+ -1
+
+review_id : s8rG0ejBZ56-CMXcqOzRPA
+aspect: Price
+text:  One can potentially assume sloppy work or oversight on their part, during their overpriced service!
+ -1
+
+review_id : 19wPYpAoaCeeml-QZSp4gA
+aspect: Price
+text: I repeatedly tried to contact my insurance agent only to find out I can't afford the required full coverage for this new vehicle & the way overpriced payments.
+ -1
+
+review_id : RDu4a1sAoCnx6Cf3uNt_qw
+aspect: Price
+text: terrible service, over priced, there is a reason they aren't very busy.
+ -1
+
+review_id : WXI-aFYUZGxA8hSqCDTdCQ
+aspect: Price
+text: Overpriced, I had to do break replacement and alignement on my Tundra.
+ -1
+
+review_id : NuFp3sYHMUJgZENLvpIOCw
+aspect: Price
+text: The service packages are extremely overpriced for one thing.
+ -1
+
+review_id : Gc-UMrh4jBitvX-BeBJslA
+aspect: Price
+text:  Definitely overpriced for what they offered.
+ -1
+
+review_id : awLE06w2HEJbDXK2FiD06w
+aspect: Price
+text:   Mike says that they can't replace my wheels because they are too expensive.
+ -1
+
+review_id : -gaGdgLnE2wAClLKqpRKnQ
+aspect: Price
+text: PLUS HE BROKE ONE OF OUR VERY EXPENSIVE HUB COVERS.
+ -1
+
+review_id : 8pyykHmw_lYTKJ5VJYwqXQ
+aspect: Price
+text:   One key error in the description (a very expensive option was missing when I received the vehicle).
+ -1
+
+review_id : XMo7haTKHowCY3B4ObrXVQ
+aspect: Price
+text:  They were just s expensive as the dealer for brakes.
+ -1
+
+review_id : DVFvWXyMUSX-nlHzkcSR9g
+aspect: Price
+text:   Unfortunately this was a very expensive lesson for us in trusting them, in the end it cost us over $8K out of our pockets that we won't get back.
+ -1
+
+review_id : 8yPoyjiOgPsReP8CLrzLDg
+aspect: Price
+text: I think it was overpriced.
+ -1
+
+review_id : fScQ4YieirHspipqHf2-lw
+aspect: Price
+text:  I then book a lesson and I get in the car , and of course everything changes, Zahid says they do not accommodate such requests and said could only do so at double the price.
+ -1
+
+review_id : DjPZBVJj75ZSipI_IpPlWw
+aspect: Price
+text: Very unhelpful and their car is over priced.
+ -1
+
+review_id : NZ6dMWy8YIr_j9CqGHCH2A
+aspect: Price
+text:   We agreed on a price and they sent me the purchase agreement and charged my credit card $1000.
+ -1
+
+review_id : qPrVAS0vDTn2td-65SQ9VQ
+aspect: Price
+text:  Can you say Overpriced? Went to this shop for a routine checkup and the mechanic found at least 5 \"needed\" repairs on my fairly new car.
+ -1
+
+review_id : t5ZSwb_SDRg7AH-EvGWcLA
+aspect: Price
+text:  Extremely overpriced and lots of questionable charges!
+ -1
+
+review_id : hXJPelzVxcap-w4KasKJ0Q
+aspect: Price
+text:  Apparently price gouging and dishonesty is their motto across the board which is unfortunate and a message I intend to share vastly so no one encounters the same issue as myself.
+ -1
+
+review_id : xFr4mU0NiLek_kBMOWDhcQ
+aspect: Price
+text:  A little pricey but I needed it done.
+ -1
+
+review_id : OkqqgYCidhyQAQtKjQJq3g
+aspect: Price
+text: Overpriced, dishonest and fraudulent.
+ -1
+
+review_id : xm22X7yfNBp7aOwIVtbwJA
+aspect: Price
+text:  The campers were also overpriced.
+ -1
+
+review_id : R7H36Y7tb3WRVY3WfiIWEw
+aspect: Price
+text:  The price was high and he told me everything is ok with that car.
+ -1
+
+review_id : CXhC4qO88NjtRW-GK5UD1w
+aspect: Price
+text:  Am I crazy for complaining about the price?!?!?
+ -1
+
+review_id : rzH2DBPb65pnXJbrOE25YA
+aspect: Price
+text: Owner has cars well overpriced and was cocky when trying to deal with.
+ -1
+
+review_id : OhxmTZM9fCTYGH96R7hYhQ
+aspect: Price
+text:  The kits were extremely overpriced so I walked out.
+ -1
+
+review_id : f0CoSL1gfP9-BXMo2F7Elg
+aspect: Price
+text:  The customer service is horrible! They are over priced on their cars.
+ -1
+
+review_id : 0ag_XgGSCmvrcq0wixfLvQ
+aspect: Price
+text: Never knew getting an overpriced oil change ($50) and tires rotated could equate to such  a terrible experience.
+ -1
+
+review_id : BkBMbUYaQPOPCexfDbXUkQ
+aspect: Price
+text: The prices are more expensive then any place else, they are not very helpful, and when they do help, it feels as if its a bother to them.
+ -1
+
+review_id : TIsZdgzxn5riTYMmBCM1jQ
+aspect: Price
+text: I work close to this gas station, and nobody in our  neighborhood , Will subject themselves to high prices,
+ -1
+
+review_id : h0sxwRUMLGCkyN9arW4NyA
+aspect: Price
+text: Worst prices in town .
+ -1
+
+review_id : V39gYXYnpsl_OobXtIQNHw
+aspect: Price
+text: Car wash sucks and gas prices are ridiculous.
+ -1
+
+review_id : v3cAYsqx9Sihg0G97WqnXg
+aspect: Price
+text:  They price the cars way too high and will not work with customers.
+ -1
+
+review_id : 8_T6aAxXSwZKxQXQaXE9tw
+aspect: Price
+text: The most expensive and least competent gas station I've ever encountered.
+ -1
+
+review_id : Pc4WgjtqGNDm3_2bNj04ZQ
+aspect: Price
+text:   I bought the ultimate wash, or whatever is their most expensive one, and drove up to thr track.
+ -1
+
+review_id : joVyyna1Ab2uqPq1zefkKg
+aspect: Price
+text: Since we picked up the car again we have found that it has a leaking windshield washer pump, bad oxygen sensor and a coolant leak from one cylinder head, a very expensive repair.
+ -1
+
+review_id : CPklSpy4-SBvVRGzW9hAeg
+aspect: Price
+text: - expensive - the initial quote was pushed back by my insurance company and while ultimately they came to an agreement I can't help but think that they were trying to pull a fast one.
+ -1
+
+review_id : rFA96EXyWCif1lS_so2RHQ
+aspect: Price
+text: Beware of high cost and deceptive work
+ -1
+
+review_id : 8P15YxeX7Xj5FHS2HSAP3Q
+aspect: Price
+text:  Fast service but inordinately expensive.
+ -1
+
+review_id : Ol2IR-5gVedKJOjhIvbNUQ
+aspect: Price
+text:   Plus they said they check a list of items and tires whicheerewrong it was not very expensive things but again they out and out lied.
+ -1
+
+review_id : a60_21ZNACtmUBiOnMkrcA
+aspect: Price
+text:  Bad cars, bad customer service,  and bad prices.
+ -1
+
+review_id : FDBLY5rBKMZeRL8iiA9wSQ
+aspect: Price
+text:  The owner and company and it's employees right behind them are greedy, scandalous, unprofessional, unreliable and be prepared to get half ass work done to your car for the most expensive price.
+ -1
+
+review_id : L6MqH5jz4fzhXfMbhqpmIw
+aspect: Price
+text: A cheaply manufactured car for a very expensive price.
+ -1
+

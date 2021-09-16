@@ -1,0 +1,1100 @@
+
+reciew_id : cCX0c8EQ-8em5lLiMEC-MA
+aspect: Price
+text: Don't waste your money here.
+ -1
+
+reciew_id : xg93PR4DNzW6i5f-iYQHHg
+aspect: Service
+text:  Very disappointed this location lacks customer service.
+ -1
+
+
+reciew_id : Wr4AjNsnYv2N-mj_IbR5YQ
+aspect: Service
+text: I find it poor customer service when you're causing payment for services you're not providing.
+ -1
+
+
+reciew_id : A_8S9Hh9AS5Yt63dTRrYxw
+aspect: Service
+text: The facility does not care about customer service.
+ -1
+
+
+reciew_id : A_8S9Hh9AS5Yt63dTRrYxw
+aspect: Price
+text: Save yourself the frustration, time and money and find another gym!
+ -1
+
+reciew_id : NreZOHJHxSax_gRRwVAk1g
+aspect: Price
+text: Don't waste your money if u enjoy martial arts classes.
+ -1
+
+reciew_id : 6pN8N1-miLxd4obuUgbmoQ
+aspect: Price
+text: I was quoted $35\/mo and considering the facility's size and amenities ( or lack thereof) and the local competition within 10mi, it is completely overpriced and not worth it.
+ -1
+
+reciew_id : dSOzLgxyD-DExloF32l8WQ
+aspect: Price
+text: Membership is expensive here as compared to other gym like YMCA or Good life fitness.
+ -1
+
+reciew_id : dSOzLgxyD-DExloF32l8WQ
+aspect: Price
+text: Its not worth the money and Time.
+ -1
+
+reciew_id : bQ2xoqEs6rcTONOo2jAYhw
+aspect: Service
+text: To me, personally these two gentlemen had no customer service skills and I only say this because if i were on their position, it doesn't matter if I am tending to other guests or I am on my lunch break, I would still make an effort to acknowledge a guest somehow.
+ -1
+
+
+reciew_id : qrCDv7xU3zNpiMidgvRkeQ
+aspect: Service
+text: When you call customer service they are rude!
+ -1
+
+
+reciew_id : ju_-A0rlTl7prPi-5KpU-Q
+aspect: Service
+text: worst service to when it comes to cancellation and they are misleading people from previous one year that they will open country hills within 2 months and with me its been one year now they are saying next sep.
+ -1
+
+
+reciew_id : 5HnzBiM0i05rMnpUPIdfgg
+aspect: Price
+text: So I purchased tanning which is SEVERELY overpriced.
+ -1
+
+reciew_id : vQqkVe2ekdT18j6cEjl0aQ
+aspect: Price
+text: It's way to pricey for what they offer.
+ -1
+
+reciew_id : vQqkVe2ekdT18j6cEjl0aQ
+aspect: Price
+text: Honestly not worth the price.
+ -1
+
+reciew_id : cQR3_q3TEGBa1_i9hZfaCw
+aspect: Price
+text: Both of which were terrible and over-priced.
+ -1
+
+reciew_id : -Xr9GPf8dU-QJ7-nGrnWsg
+aspect: Price
+text: For those of you struggling to become a CPT I suggest you save your money and stay away from this program because it's a scam.
+ -1
+
+reciew_id : -Xr9GPf8dU-QJ7-nGrnWsg
+aspect: Service
+text: Poor customer services coming from the representatives that don't care about you just your money
+ -1
+
+
+reciew_id : 056zweUWWq3BSnm93txU1g
+aspect: Service
+text: HORRIBLE CUSTOMER SERVICE.
+ -1
+
+
+reciew_id : J-o7eFOn2N2j939tl75qCg
+aspect: Service
+text: No customer service skills.
+ -1
+
+
+reciew_id : wMf4kE9Vluf9CSEBU14WxQ
+aspect: Price
+text: Obviously they just want your money.
+ -1
+
+reciew_id : 6PAegLV4Ut6ewbFC__YQlw
+aspect: Service
+text: Absolutely horrible customer service when recertifying.
+ -1
+
+
+reciew_id : tZ1DtufnIQzqAYmsWDv5sA
+aspect: Price
+text: Save yourself the time, money, and headache and take your business elsewhere.
+ -1
+
+reciew_id : YmIB7YClrq-onmlM1gvkRQ
+aspect: Price
+text:  E-teach is a complete joke and a huge waste of money.
+ -1
+
+reciew_id : YmIB7YClrq-onmlM1gvkRQ
+aspect: Service
+text: The customer service at this school is completely lacking and the advisors are simply useless.
+ -1
+
+
+reciew_id : h7Rvt6ltQxyDg6Y2lZptrQ
+aspect: Price
+text: If you plan to use the pool DO NOT WASTE YOUR MONEY.
+ -1
+
+reciew_id : UJ_eI5ApNjEyBbvN2QHRfQ
+aspect: Price
+text:   NASM is not worth it and way too expensive!
+ -1
+
+reciew_id : vf6Sryp3WpWvXpD3fxKlOw
+aspect: Price
+text:  What a waste of time and money.
+ -1
+
+reciew_id : vf6Sryp3WpWvXpD3fxKlOw
+aspect: Price
+text:  Unfortunately, the program was a big disappointment and a total waste of time and money.
+ -1
+
+reciew_id : 35yex5rsvXd-Gcu5tdHWJg
+aspect: Service
+text: Horrible customer service.
+ -1
+
+
+reciew_id : cx9mkvLMzYuJcbOLwoAkFw
+aspect: Price
+text: TURNS OUT TO JUST A VERY EXPENSIVE BOOK WITH ERROR AFTER ERROR.
+ -1
+
+reciew_id : rXIAOlB57z0CkEVvP7wNXg
+aspect: Price
+text: Over priced program that will continue to demand money from you for your re-certification (minimum $500 total to re-cert).
+ -1
+
+reciew_id : rXIAOlB57z0CkEVvP7wNXg
+aspect: Service
+text: Terrible customer service.
+ -1
+
+
+reciew_id : -5wgPvu79jF5zy4Hmssvgg
+aspect: Service
+text: NASM's costumer service is unacceptable.
+ -1
+
+
+reciew_id : i-IsmlSCic40Rgec5Nx9AA
+aspect: Price
+text: NOT WORTH THE PRICE
+ -1
+
+reciew_id : TSaqcbWOIMvr6sxTrFH_-A
+aspect: Price
+text: Save yourself the trouble and money and find a better program.
+ -1
+
+reciew_id : 6-1TR2aWq5Yp9hlZHl9WeQ
+aspect: Price
+text: It was downright a waste of money, though I remained hopeful that it would improve.
+ -1
+
+reciew_id : 6-1TR2aWq5Yp9hlZHl9WeQ
+aspect: Price
+text: But like all CrossFit facilities - it's overpriced, overcrowded and the cultish.
+ -1
+
+reciew_id : oNxsIJqqVZJNAF2l6kfvuw
+aspect: Price
+text: Do NOT WASTE YOUR MONEY if you want ot use the pool.
+ -1
+
+reciew_id : dggeGc0dnZ7_JUueTdbqEw
+aspect: Service
+text:  Friendly and helpful but not worth the hassle of joining because of the poor customer service at the front desk.
+ -1
+
+
+reciew_id : xQ3P4fjzF6WZx-uFAyaarA
+aspect: Price
+text: Not sure why a childrens martial arts school would have to be so expensive...they're only kids.
+ -1
+
+reciew_id : -vbfI76R0tjCVcKvYNXKCA
+aspect: Service
+text: Probably the worst customer service I've ever come across.
+ -1
+
+
+reciew_id : Z1QtAneK-6FUdK4qPVY_Zg
+aspect: Price
+text: Don't waste your time and especially your money.
+ -1
+
+reciew_id : AittRI16xBUH2YqiLrfwdw
+aspect: Price
+text: DO NOT waste your money if you hope to use the pool.
+ -1
+
+reciew_id : IcYNLBGZxht2yKbM93WGjw
+aspect: Price
+text: If you want to pay crazy prices for personal training, and then get stood up, have absolutely no customer service.
+ -1
+
+reciew_id : w7kmaPx3N5Y567GrdTNf0A
+aspect: Price
+text: I'm not sure if she was his girlfriend or what but going was a waste of time and money.
+ -1
+
+reciew_id : Mlw6MuMRdwHydxWov12VZw
+aspect: Price
+text: Save your money and choose another gym.
+ -1
+
+reciew_id : TYdrcw7mVx4EDbAfF0Sdwg
+aspect: Price
+text: I saw an ad  with great prices for microdermabrasion so I thought I'd give this place a try.
+ -1
+
+review_id : dqDHPXQw6ldgM0O7U0LG_Q
+aspect: Price
+text: Too expensive they charged me almost 3 dollars for my two year old.
+ -1
+
+review_id : gp1tde0kyL9Hg21WKvkQaQ
+aspect: Price
+text: The training programs are such a waste of money.
+ -1
+
+reciew_id : miZi4uLBxoxpoNc_jXS2og
+aspect: Price
+text: LA Boxing you will Never get your Money!
+ -1
+
+reciew_id : ZOZFpmQLIAuTWlih7vPGow
+aspect: Price
+text: I joined in March and I have needed to get out of my contract because I can't afford it anymore for the past couple months, the manager won't work with me to figure out a way to cancel my extremely expensive membership and instead just keeps giving me half ass excuses.
+ -1
+
+reciew_id : 73V1hq_ZIgarMEh7XO8Vgw
+aspect: Price
+text:  Not worth the money or your dignity
+ -1
+
+reciew_id : kyAUbL478ux1JRoHVld0mQ
+aspect: Price
+text: Don't waste your money unless your already in the sport.
+ -1
+
+reciew_id : DpUWdLXH5tapf9qv5R-Jng
+aspect: Service
+text: Worst gym and customer service ever!
+ -1
+
+
+reciew_id : OLCBxBCg4Udksy5xqblt9A
+aspect: Service
+text: Worst customer service.
+ -1
+
+
+reciew_id : _tcjUW505awLHvidc3nOZQ
+aspect: Service
+text: poor customer service and argumentary with me.
+ -1
+
+
+reciew_id : _tcjUW505awLHvidc3nOZQ
+aspect: Service
+text: Be aware this owner\/operator had delivered argumentative, poor customer service to me.
+ -1
+
+
+reciew_id : XbLO0Iaom_bMzDl9V7jO0Q
+aspect: Service
+text:  Absolutely the worst customer service I have ever received.
+ -1
+
+
+reciew_id : J1XK4ESmMxzrR9hQf8-QVA
+aspect: Price
+text:  Over priced trainer prices!
+ -1
+
+reciew_id : 779zMki_HAlDgRoBEUav8w
+aspect: Price
+text: Don't waste your time and money on a place that could care less if this is your first or 100 th class.
+ -1
+
+reciew_id : 779zMki_HAlDgRoBEUav8w
+aspect: Price
+text: Save your money and get a great trainer that will partner with you to reach your fitness goals!
+ -1
+
+reciew_id : SUteC2a3-cFBH54wL-mKeg
+aspect: Service
+text: For this extreme lack of speed and service (on a recurring basis), I can no longer give this place a rating higher than 1.
+ -1
+
+
+reciew_id : 8tIqiVnRJE3vgawbcWP0dA
+aspect: Service
+text: Poor poor customer service.
+ -1
+
+
+reciew_id : 8tIqiVnRJE3vgawbcWP0dA
+aspect: Service
+text: This gym is the WORST with customer service.
+ -1
+
+
+reciew_id : Gi1X1Ek9qKM8eXxV1KCFTA
+aspect: Service
+text: The bottom line is I will not be recommending anyone to this gym, I'm clearly disappointed in the service and that's why I took the time to write a review and this is my first review EVER...
+ -1
+
+
+reciew_id : 5tO0-2YyfY8u9WbkYZxtHQ
+aspect: Price
+text: I did an unlimited membership ...pricey...
+ -1
+
+reciew_id : bCGKAX2nZXfGezidSD0LmQ
+aspect: Price
+text: Low price, low quality.
+ -1
+
+reciew_id : FYMBPuX38c-1wV1huFT5Dg
+aspect: Price
+text: What a waste of money and a huge regret.
+ -1
+
+reciew_id : Nykt9tvVP-iefYHANkKqig
+aspect: Price
+text:  That is stupid and a waste of time, money and a drive over there.
+ -1
+
+reciew_id : g1JBAT1RqZL2ceIYrgezYw
+aspect: Service
+text:   Worst customer service I have ever had.
+ -1
+
+
+reciew_id : 5JL5skYTVZ7OPlv3l-9J8w
+aspect: Price
+text: Way over priced.
+ -1
+
+reciew_id : Tm6GQuvg0cA7d396gN5oiw
+aspect: Service
+text: That is 2 months of payments I was being forced to pay because of their lack of working phone lines and terrible customer service.
+ -1
+
+
+reciew_id : vHCNSMD1MYljBiX604DZCQ
+aspect: Service
+text:  The owner is very poor at customer service and the gym itself tired and gloomy.
+ -1
+
+
+reciew_id : vHCNSMD1MYljBiX604DZCQ
+aspect: Price
+text: Horrible experience for the extremely expensive price tag.
+ -1
+
+reciew_id : zRMMArcQeKxuoy_-zoG8Bw
+aspect: Service
+text: The main reason why I left this gym is because the staff are rude and lack customer service skills.
+ -1
+
+
+reciew_id : tV9Wfm68T65MUUrAgFsLig
+aspect: Service
+text: Terrible customer service.
+ -1
+
+
+reciew_id : QTfrC5f2w4dbkF31p79brA
+aspect: Service
+text: Customer service is horrible.
+ -1
+
+
+reciew_id : 8UX22hN8eTG4FyyRLGpIHA
+aspect: Service
+text: Very disappointed at the customer service I recieved that day...
+ -1
+
+
+reciew_id : x-sQMJ86yPHPI08insiRMg
+aspect: Price
+text: I've heard it's the most expensive of the YMCA network and that is definitely unfortunate.
+ -1
+
+reciew_id : nfTdJ7spKd0wyP9nsgjhZQ
+aspect: Price
+text: To over price for gym membership $200 a month.
+ -1
+
+reciew_id : -kgdV6DIQPZort_uOu_2YA
+aspect: Service
+text:  Very bad customer service from the owner himself Mark harriger.
+ -1
+
+
+reciew_id : 2k_nZQRjxuqnYP2iOg7XIw
+aspect: Service
+text: Horrible customer service.
+ -1
+
+
+reciew_id : QviSQ-aZT-Vmw0PFrYNS2A
+aspect: Price
+text: First of all they are overly priced and if you try to cancel they try to charge you ridiculous money.
+ -1
+
+reciew_id : VQy40Qszf4MOYL7cjIAC-w
+aspect: Service
+text: The absolute WORST customer service at the store level and Head Office that I have EVER experienced 
+ -1
+
+
+reciew_id : VQy40Qszf4MOYL7cjIAC-w
+aspect: Service
+text:  Poor customer service, cheap equipment that has issues and reps that dont have the proper product knopwlegde.
+ -1
+
+
+reciew_id : Foa3h_u2lBOUFRUbFWZKhQ
+aspect: Price
+text: Lesson learned, albeit an expensive one!
+ -1
+
+reciew_id : Yooi3lAmAOJf_DiigZfLUA
+aspect: Price
+text: Turns out, they had signed me up for the most expensive membership which was 29.95, and literally made me pay it.
+ -1
+
+reciew_id : 0e9I1hNb_fYh29kjZwsv9w
+aspect: Service
+text: I love the leggings, but refuse to shop in this store due to the terrible customer service!
+ -1
+
+
+reciew_id : Mwk58Wxl0jZqGBJYo0s0VQ
+aspect: Service
+text: very rude customer service.
+ -1
+
+
+reciew_id : khiCO465hHXI35Go6pMu5Q
+aspect: Price
+text: If anyone has ever hired a personal trainer, they know that they are expensive but an investment.
+ -1
+
+reciew_id : AFtb6dXKtLPsFKPNockYtg
+aspect: Service
+text: Very bad service very rude argent manger with very bad attitude he lies and miss lead people with false adds
+ -1
+
+
+reciew_id : xa4uLzJNS2PuhmcNiOFWPQ
+aspect: Price
+text:  This gym is over priced I wish I read the reviews before tempting to join !
+ -1
+
+reciew_id : 5U7u0YHQJFlNK7O0fR5muw
+aspect: Price
+text: This is a very small and overpriced gym.
+ -1
+
+reciew_id : QIRCTV3BnTTmBuVruR9JEg
+aspect: Service
+text: very rude customer service.
+ -1
+
+
+reciew_id : Yx14sx8CSSnjF5yEqpOOfg
+aspect: Service
+text: Very bad customer service and never care attitude..
+ -1
+
+
+reciew_id : mxJq8Wr_dx6i2qDSf_2AOA
+aspect: Service
+text: But obviously good customer service is not their policy.
+ -1
+
+
+reciew_id : BnceOHojRJPPoZsRTbytKA
+aspect: Service
+text: Plus, don't get me started on their terrible customer service.
+ -1
+
+
+reciew_id : BnceOHojRJPPoZsRTbytKA
+aspect: Service
+text: In what world does that make sense? You've lost a customer FOREVER simply because of your terrible customer service.
+ -1
+
+
+reciew_id : M5iSow_gbgDSW5V4TA6SsQ
+aspect: Price
+text: It is overpriced and binds you into a contract that you can't get out of even though you can't workout when it's most convenient for people (after work).
+ -1
+
+reciew_id : CCiHoHDDSlZxSg_qm80Vhw
+aspect: Service
+text: I love the leggings, but refuse to shop in this store due to the terrible customer service!
+ -1
+
+
+reciew_id : MagAcA9rDBLodEgAzy4QAA
+aspect: Price
+text: It's also very expensive for an old, run-down facility.
+ -1
+
+reciew_id : dSiGBfzjO92lwcWCDeKsxg
+aspect: Service
+text: Very bad customer service.
+ -1
+
+
+reciew_id : Ccer7WQEVOfynJBDKH6RjA
+aspect: Price
+text: It's also pricey for a small gym without a pool and it is always crowded.
+ -1
+
+reciew_id : 0A9JcCp3ZXrshOrrKjnhpg
+aspect: Service
+text: Pretty much they have poor customer service.
+ -1
+
+
+reciew_id : g25xritFfA0g6qoWNcihDQ
+aspect: Service
+text: I think it is the worst client service ever in the whole world.
+ -1
+
+
+reciew_id : pijmdV4FdoOx8c4pVyfk4w
+aspect: Service
+text:   Are you kidding me???  Why would I give them more money?  Needless to say, I was shocked and disgusted with the poor customer service and lack of concern for their clients.
+ -1
+
+
+reciew_id : HSGHG5msjQ7GSUE9VjXvyw
+aspect: Price
+text: Also expensive prices.
+ -1
+
+reciew_id : aLdxvRT0AoI3d8YaOvfw7g
+aspect: Service
+text: Given that lack of services rendered for moneys paid, I demanded that LA Fitness immediately refund my entire money for the remainder of my gym and personal trainer memberships.
+ -1
+
+
+reciew_id : -id1_a5ycYzCshxlviPAow
+aspect: Service
+text: however, the service and facilities have subsequently deteriorated significantly.
+ -1
+
+
+reciew_id : aaMocLo_w2F_vmlYbouizw
+aspect: Service
+text: Terrible customer service.
+ -1
+
+
+reciew_id : 4AasYeQgzKTyuAtic_c9VA
+aspect: Service
+text: HORRIBLE customer service.
+ -1
+
+
+reciew_id : Ygtlx-lEREMteE7J4CPMvg
+aspect: Price
+text: Expensive, lately the air inside is not fresh and they don't turn the AC on.
+ -1
+
+reciew_id : 9kxvLMApNezGHCx0r3_exw
+aspect: Price
+text: Way over-priced for the value you receive.
+ -1
+
+reciew_id : ApBjiW1XRmGkVFxXNSuiGw
+aspect: Price
+text:  This place is a scam that is over priced....
+ -1
+
+reciew_id : Pv_dclbXxgOgu3GOjWALcA
+aspect: Service
+text: Always seem to have issues with billing, equipment usually out of order, horrible customer service.
+ -1
+
+
+reciew_id : _lwx4iFZyS4BNBOUrWak5g
+aspect: Service
+text:  The mother company that manages them is Lift Brands or Lift Brand, they both have horrible customer service and ripped me off!
+ -1
+
+
+reciew_id : xuB3-8aVDOAtLU7SwrbIIg
+aspect: Price
+text: I do not recommend and is overpriced.
+ -1
+
+reciew_id : FoQrsNQ8nYHQQKJOAaUIEg
+aspect: Service
+text: Terrible customer service.
+ -1
+
+
+reciew_id : pXpam7v5A8aD6syjsdQjJw
+aspect: Service
+text: Im very disappointed 0 customer service.
+ -1
+
+
+reciew_id : 86iwHotPh5srRWagiPtHzg
+aspect: Service
+text: Terrible customer service!
+ -1
+
+
+reciew_id : vhfFylxu9H-lJ-abwKVI8w
+aspect: Service
+text: The people who work at this gym lack customer service at a fundamental level.
+ -1
+
+
+reciew_id : y-ujR0ugf6dUAj-yNYekCQ
+aspect: Service
+text: The assistant manager wasn't friendly and lacks customer service skills.
+ -1
+
+
+reciew_id : y-ujR0ugf6dUAj-yNYekCQ
+aspect: Service
+text: Very disappointed in the service.
+ -1
+
+
+reciew_id : OJxJg8g9uE975id2Z7TP3A
+aspect: Service
+text: Terrible customer service.
+ -1
+
+
+reciew_id : CApTZ8Sam5ewBdDbcyDqoQ
+aspect: Service
+text: Awful customer service.
+ -1
+
+
+reciew_id : U1VTW9w4TulLAHmGxNvTxw
+aspect: Service
+text:  Horrible customer service.
+ -1
+
+
+reciew_id : lwTSNZYbrVc0xwDAT-6G0Q
+aspect: Price
+text: Here's a text my freind gets from the sales guy Tanner after texting him were not interested it's overpriced compared to Anytime Fitness or Talisman: \"Really you guys are that cheap hey.
+ -1
+
+reciew_id : T6x_v5yi7JGHX1H4IDghbg
+aspect: Price
+text: While the gym has everything you need, it is pricey and the amenities do not justify the $40 bi-weekly price.
+ -1
+
+reciew_id : 84RbHq5bqF7_rI2_O6UF2Q
+aspect: Service
+text: I was displeased with the service and policies over gift card usage at the spa, so I posted my experience on Facebook.
+ -1
+
+
+reciew_id : _x8l0UBU1bTBAWJpoTG4XQ
+aspect: Price
+text: There is no way to buy out a contract but without a contract the gym is very expensive.
+ -1
+
+reciew_id : ckbxYX6F5hLIoZazPQEGmg
+aspect: Price
+text: Getting out of a contract is tedious and expensive.
+ -1
+
+reciew_id : l_iVGmmHww94kPBzWqRfzA
+aspect: Service
+text: I'm giving this gym a bad review because of the horrible customer service I just experienced.
+ -1
+
+
+reciew_id : aG94SXnq3q0DjZffuQ4WCQ
+aspect: Price
+text: It's over priced, the meal plan he provides are all common knowledge and nothing you can't research online.
+ -1
+
+reciew_id : Bhap5eX-ExFNuOHs6zuUzw
+aspect: Price
+text: He is super expensive not worth it!
+ -1
+
+reciew_id : a7RBdr7GAYK5xV0h6D8xlA
+aspect: Price
+text: These memberships are expensive so you deserve real customer service.
+ -1
+
+reciew_id : _uhrm7YCBGCR-aIHY5U_1A
+aspect: Service
+text: Worst service I have ever dealt with in any capacity.
+ -1
+
+
+reciew_id : 2osJnLZbOyxdb4DgZwpqIg
+aspect: Service
+text: Terrible customer service.
+ -1
+
+
+reciew_id : z-BYt1xCBSRSlhCLktJRAA
+aspect: Service
+text:  Terrible service as I tried to use the Facility while my Bethel Park Planet Fitness was under construction from water damage due to extreme flooding in the area!
+ -1
+
+
+reciew_id : GQVAmWkH91811RVGhSjYkQ
+aspect: Service
+text:  The only reason I am giving this place a 2 star is because of poor customer service.
+ -1
+
+
+reciew_id : LectThmg0riNXSDQRTHe4Q
+aspect: Service
+text: Absolutely HORRIBLE customer service.
+ -1
+
+
+reciew_id : jWNfIDhDfvrVd4nLZOGHLg
+aspect: Price
+text: The membership is extremely expensive for what you get, in my experience, I've learned more about kickboxing from YouTube videos.
+ -1
+
+reciew_id : XPWR5bCdgYOlpRLmTJhTGQ
+aspect: Service
+text: This gym has the worst customer service, I had paid for first and last month gym membership plus a tanning membership a week later none of the tanning equipment worked.
+ -1
+
+
+reciew_id : 1XzH13tzlQos0Ef8jvYZKg
+aspect: Service
+text: By far the absolute worst customer service I have ever seen.
+ -1
+
+
+reciew_id : nNUPg6LAiw8nNfmNwiR8Fg
+aspect: Service
+text: Their customer service is the worst I've seen anywhere.
+ -1
+
+
+reciew_id : YBViKaiqBuX_Y7tgjlaErg
+aspect: Service
+text: I am glad that we ended our contract as when looking for other gyms I found out that Gold gym was the most expensive gym with definitely the worst customer service.
+ -1
+
+
+reciew_id : YBViKaiqBuX_Y7tgjlaErg
+aspect: Price
+text: I am glad that we ended our contract as when looking for other gyms I found out that Gold gym was the most expensive gym with definitely the worst customer service.
+ -1
+
+reciew_id : wWg92udLjaMiNI_4b-C_Aw
+aspect: Service
+text: Horrible customer service.
+ -1
+
+
+reciew_id : XBeggEffFdNZGFaxMDOPxw
+aspect: Price
+text:  Man those poles are expensive
+ -1
+
+reciew_id : bW_tt3jtPu9Y8UuZ0W6wPg
+aspect: Price
+text: Overall shady business practices, unclear pricing,  musty, old, bad crowd, overpriced for competition.
+ -1
+
+reciew_id : 3x1yiLRQfDbbVh7-pbHkNg
+aspect: Service
+text: While he did refund my money, I was appalled at the reaction and lack of customer service.
+ -1
+
+
+reciew_id : 9-DiZhIB8afFiEhSVd4KJA
+aspect: Service
+text: Really bad customer Service.
+ -1
+
+
+reciew_id : 0EaKf8H4o4tkeRnK-JavYQ
+aspect: Service
+text: The worst customer service I have EVER come across!
+ -1
+
+
+reciew_id : h9XWRLaI4-zlcbtKP_AB0g
+aspect: Price
+text: The prices are absurd.
+ -1
+
+reciew_id : OP7VntwkTct8x8eciewA8g
+aspect: Price
+text: They never fit, were always uglier then your grandmas couch from the 80's, and were ridiculously overpriced.
+ -1
+
+reciew_id : 7R35LcWop2-GbPakP7XN9Q
+aspect: Price
+text: Very expensive and robotic workouts.
+ -1
+
+reciew_id : Qv_gyTkbWvOl2xOw-eZoyw
+aspect: Service
+text: Worst kind of service ever and their web link for unsubscribing doesn't even work.
+ -1
+
+
+reciew_id : JWhFGRAdnw2dKYST0DfyeA
+aspect: Service
+text: Lastly, there's a lack of personal service there.
+ -1
+
+
+reciew_id : NLrXiwljSvyrElZ4kn-40A
+aspect: Service
+text: I'm sure this could be a good opportunity for some, but I feel obligated to warn you of their horrible customer service.
+ -1
+
+
+reciew_id : serva6zX_CGy1jM9esu23w
+aspect: Service
+text: I understand that it's not under the control of GoodLife, but the front desk person who also was a manager was seriously lacking customer service.
+ -1
+
+
+reciew_id : zbzv_W-_VEO7XtM37VANmQ
+aspect: Price
+text:  This evaluation is meant to upsell you to the personal training sessions which are grossly overpriced before you get your membership.
+ -1
+
+reciew_id : aXUpATw887ejE3rYh-37jA
+aspect: Price
+text: 1.) When I first started there I fell for the stupid scam of the a \"Free Consultation\", which is just an upselling technique for their way over priced personal trainers.
+ -1
+
+reciew_id : gkoiUc-e6MCsx8HZgbT1pg
+aspect: Service
+text: I finally got a call from their head office and she was rude and had no customer service.
+ -1
+
+
+reciew_id : 92Hji44zvlmuyD608PGDJA
+aspect: Service
+text: Extremely poor customer service at this location.
+ -1
+
+
+reciew_id : 92Hji44zvlmuyD608PGDJA
+aspect: Service
+text: This employee having us leave showed an awful example of customer service.
+ -1
+
+
+reciew_id : 92Hji44zvlmuyD608PGDJA
+aspect: Service
+text: Absolutely poor customer service at this AF.
+ -1
+
+
+reciew_id : 9x5_Xgy9Vv4SjiAnJjAQ1w
+aspect: Price
+text: I've never been to a place so expensive and everything about this place is so not worth it.
+ -1
+
+reciew_id : NlMrOflm-mDOB-mtf1G0Ug
+aspect: Price
+text: And let's be honest, WAY too expensive for kickboxing classes that you can do at LVAC or EOS.
+ -1
+
+reciew_id : Hk5GQOKHh6LcDLLn7cR9Lg
+aspect: Price
+text: Very Expensive!
+ -1
+
+reciew_id : wt0PEypmT6OlmiV4z6c32A
+aspect: Price
+text: Chris (the salesperson) asked me to sign up for the most expensive membership and didn't tell me I have other options.
+ -1
+
+reciew_id : nEHvYnhoKCOgg8a9W3u8kQ
+aspect: Price
+text: Expensive and can't get into a class even a month ahead.
+ -1
+
+reciew_id : yqtW6M1lUthD3K7TKAw2Qw
+aspect: Service
+text: worst customer service.
+ -1
+
+
+reciew_id : Xk92RvzIKi4mJkXwaKniTw
+aspect: Service
+text: Probably the worst customer service I have encountered.
+ -1
+
+
+reciew_id : 2AZRThoFi7VlZxJK97iVBg
+aspect: Price
+text: Rude staff,  poor facility, and at $44 a month extremely over priced.
+ -1
+
+reciew_id : a7DCLz-LDFcpIb-0Qao9Ag
+aspect: Service
+text:  I completely understand the legal implications of these types of contracts but it is really dissatisfying to encounter this lack of customer service and understanding.
+ -1
+
+
+reciew_id : k_paKJFSGZUmDnbKP4MYPg
+aspect: Service
+text: While I appreciate the energy and enthusiasm at this gym, I would not recommend this gym because of the poor customer service.
+ -1
+
+
+reciew_id : k_paKJFSGZUmDnbKP4MYPg
+aspect: Service
+text: It's just such disappointing and greedy customer service.
+ -1
+
+
+reciew_id : jIHvqqAQW_o0jlnPaoPs4w
+aspect: Service
+text: This will be my last and final time attending this studio for its poor customer service and find my inner peace elsewhere.
+ -1
+
+
+reciew_id : zYM-3EQPnzMi-sy8syeyGw
+aspect: Service
+text: Absolute WORST place ever for customer service and personal training and would highly recommend not coming here for your fitness training goals.
+ -1
+
+
+reciew_id : WYIjilS55hq2YiOSN0wqvg
+aspect: Service
+text:  Unprofessional and absolute ignorance on customer service.
+ -1
+
+
+reciew_id : gq-yTr4lZPsoI3M7U-fI4g
+aspect: Service
+text: This behavior is unacceptable and poor customer service.
+ -1
+
+
+reciew_id : k-autyR-T8QKNwISFVbNIg
+aspect: Service
+text: Terrible customer service , very small gym and people are exercising a few inches from one another.
+ -1
+
+
+reciew_id : k-autyR-T8QKNwISFVbNIg
+aspect: Price
+text: Expensive for what they offer.
+ -1
+
+reciew_id : GyYGItBjwzVslpmFM0-K7A
+aspect: Service
+text: They also seem to be short staffed and no customer service skills.
+ -1
+
+
+reciew_id : 2JziJeTCkhG0LMjTwuPKPQ
+aspect: Service
+text: Great workout, horrible customer service.
+ -1
+
+
+reciew_id : zuhGTutpGGVMEwfFwqzAdQ
+aspect: Price
+text: Keep in mind, when you start going here 4awhile say 3-months we did notice that other parents were paying monthly and that would of been better 4 us do I addressed this with the lady at the front desk and she said we do have this option but you wanted a guarantee that they would come in and get instruction and I said yes, just like everyone else and they said well you had to also sign a contract because you wanted to save money because you said it was too expensive.
+ -1
+
+reciew_id : 8sCXcXVQFbn0T1N0K1C-QA
+aspect: Service
+text: The customer service at that location is horrible!
+ -1
+
+
+reciew_id : hZhmlTNTpDmYubIunelEDA
+aspect: Price
+text: Ridiculous off-contract prices...
+ -1
+
+reciew_id : 49OypJSmVvgKKkgFZfYZpw
+aspect: Price
+text: Goodlife Fitness is overpriced, I was paying too much for the level of service I was receiving.
+ -1
+
+reciew_id : ZmJX4ikNrS5GYWQFXjSV3Q
+aspect: Price
+text:  The facility is extremely overpriced relative to its product offering which I can only assume is justified by the fact that the location is in Leaside.
+ -1
+
+reciew_id : 80J075_Cmpz0J-A6LJvMkw
+aspect: Price
+text: I do not suggest CorePower- over priced and terrible customer service.
+ -1
+
+reciew_id : kdYtHlDaj4AkQs-Xrn4xbg
+aspect: Price
+text:  She proceeded to quote some ridiculously priced dance packages to us.
+ -1
+
+reciew_id : tirxccJjDoynZgElcQ1uPw
+aspect: Price
+text: This is a ridiculous price.
+ -1
+
+reciew_id : 7EbBeBQSCWIzAd80CPWbbw
+aspect: Price
+text: It's so exclusive and expensive for a towel service.
+ -1
+
+reciew_id : kauaJP3PaL-lOlLjnnPl3Q
+aspect: Price
+text: Classes and memberships are very expensive for what this gym offers.
+ -1
+
+reciew_id : Ear8CEWaiXoxs3ZRHpQkKw
+aspect: Price
+text: Very clicky and overpriced.
+ -1
+
+reciew_id : pb-U3E1dEPjTjufHidVplw
+aspect: Price
+text:  Their personal trainer\/nutritionalist service is over priced, and the place is always crowded minus weekends.
+ -1
+
+reciew_id : UA98afg7xEQudj5UQFu9XA
+aspect: Price
+text: It needed some pretty aggressive and expensive meds to get rid of my nephews rash but my son did not respond to them and now we are removing them 3-4 at a time with laser treatment (on his neck and face mind you) out of pocket!
+ -1
+
+reciew_id : _JiXVA4KLSB6F56PbtXglw
+aspect: Price
+text: Over priced and the staff sucks!
+ -1
+
+reciew_id : EsH3uki0L1eNxNLOXQg4qg
+aspect: Price
+text: I refused because the training was too expensive, but the manager convinced me to continue by offering to waive the cancellation fee of 10% of the total cost.
+ -1

@@ -1,0 +1,1601 @@
+review_id : fdnYkWFGL7c4EI_fDSGkaw
+aspect: Food
+text : The owner goes to great lengths to get the highest quality beans he can find and it shows in each cup they brew.
++1
+
+review_id : fdnYkWFGL7c4EI_fDSGkaw
+aspect: Service
+text : They roast the beans on site and take great care with each batch.
++1
+
+review_id : fdnYkWFGL7c4EI_fDSGkaw
+aspect: Food
+text : The cafe itself is cute but the patio is very special.
++1
+
+review_id : fdnYkWFGL7c4EI_fDSGkaw
+aspect: Service
+text : All of the employees are so nice and they are quick to get you your drink.
++1
+
+review_id : 1zqNrqYRw-9WtMubomlp7w
+aspect: Food
+text : I think they have the best fresh meat selection in Pittsburgh and its all available at very reasonable prices.
++1
+
+review_id : 1zqNrqYRw-9WtMubomlp7w
+aspect: Price
+text : I think they have the best fresh meat selection in Pittsburgh and its all available at very reasonable prices.
++1
+
+
+review_id : 4v1rJ_q_pLprta0JqRwTKA
+text : The pizza was unbelievable, I think this might have been one of the best crusts I have ever had. 
+aspect: Food
++1
+
+review_id : OjosDWR69Zubl6EcJM4E6g
+text : The food was very different from any other taco truck, and different in a really good way. 
+aspect: Food
++1
+
+review_id : OjosDWR69Zubl6EcJM4E6g
+aspect: Service
+text : Everything looked brand new and clean, the team was smiling and seemed to enjoy their work. 
++1
+
+review_id : jCkE6SgnfSZuQi6LTd3WWw
+aspect: Service
+text : The drinks come out fast, have yet to be made incorrectly, and the staff is always friendly, courteous, and helpful.
++1
+
+review_id : Kz55UeGm_R27oWSq8XwAwA
+aspect: Food
+text : Great sandwiches and pastries made on site for very reasonable prices.
++1
+
+review_id : Kz55UeGm_R27oWSq8XwAwA
+aspect: Price
+text : Great sandwiches and pastries made on site for very reasonable prices.
++1
+
+review_id : jfXNUnJsHV2474ljNSAg2Q
+aspect: Food
+text : Meats perfectly seasoned and cooked over charcoal, nice ambiance and the owner lady (? I think) is absolutely lovely.
++1
+
+review_id : y60SZJbrUyRNFXwgVpoI_g
+aspect: Service
+text : Friendly service and delicious breads!  
++1
+
+review_id : 9LdtPLtuDNNPWOVHpPzHwQ
+aspect: Food
+text : In love with the food at this place, my wife and I could eat here for days on end!
++1
+
+review_id : 9LdtPLtuDNNPWOVHpPzHwQ
+aspect: Food
+text : High quality ingredients prepare perfectly.
++1
+
+review_id : qpTOaY0jACxcjjrybyCyeg
+aspect: Food
+text : Very reliable, great food, excellent service.
++1
+
+review_id : qpTOaY0jACxcjjrybyCyeg
+aspect: Food
+text : Their chipotle and hot wings are exceptionally delicious and I didn't expect that the first time I ordered them.
++1
+
+review_id : -p4unYj5svP_hvJk8e6RBw
+aspect: Food
+text : The seafood buffet at the Mresort is real good .
++1
+
+review_id : p068DZK2m_MBYXIhfB2iug
+aspect: Food
+text : With everything from fresh produce, cheese, natural foods, free-trade organic coffee and an entire health & body care department, Blush Lane truly is a gem of a store.
++1
+
+review_id : 0gIfe2fQNOHPMsNaJd70hw
+aspect: Food
+text : Stumbled in here for brunch at TIFF- great healthy food and good service!
++1
+
+review_id : gXMCT-KLdRqk_at9H-N05g
+aspect: Food
+text : Been here a few times, great food and menu. The service was good, however the 2 beers I requested they were out of stock.
++1
+
+review_id : 0hinpXF3RMVsVxzqkDdJQg
+aspect: Food
+text : The most delicious food in Toronto.
++1
+
+review_id : 4zodjwpuRsht_lGJ8-vZ-w
+aspect: Food
+text : I love coming here because I able to make many of my comfort foods.
++1
+
+review_id : Bdu5aa1eP0zt_sfElp_3RA
+aspect: Food
+text : Low on atmosphere, very friendly staff and delicious food. 
++1
+
+review_id : Bdu5aa1eP0zt_sfElp_3RA
+aspect: Food
+text : Had an assiette merguez which was scrumptious.
++1
+
+review_id : 8FkajQXmLyBxrHkVdX8gVw
+aspect: Food
+text : Even though this place is small, the service and food was stupendous.
++1
+
+review_id : 8FkajQXmLyBxrHkVdX8gVw
+aspect: Food
+text : The crust is thin and crunchy, the cheese is fresh, and if you get the garlic and spinach sauce, it really adds a kick.
++1
+
+review_id : j7Ta7JG9wPA3Hdl6cEN19Q
+aspect: Food
+text : Great bread, great hot table featuring great food every day. Nice people to serve you. A nice family run bakery.
++1
+
+review_id : xgzws8Ajq3P7qISH7Pbbmg
+aspect: Food
+text : As others have said their Hot Food bar is very good and its great for me to take food into work, salad bar is very good as well as is their soup bar.
++1
+
+review_id : Casg6upS8ulvWEOU-n--Xg
+aspect: Food
+text : This place the food is amazing and the service really great.
++1
+
+review_id : h_NMeh2zqDR2vrQ8w_kU0Q
+aspect: Food
+text : I absolutely loved prepared food.
++1
+
+review_id : _5sJJQpW6_PLbQ4vZ72GLQ
+aspect: Food
+text : The fresh food is really fresh.
++1
+
+review_id : 8UKwo3GgU2CHoeC8yEjwlA
+aspect: Food
+text : This is one of my favorite Food Lion's to go to, it's clean with plenty of cashiers to check you out!
++1
+
+review_id : 0c-56al-00J_M2mc2J11yA
+aspect: Food
+text : Really good home made food .
++1
+
+review_id : fEnKr69qgjaO_8YKjLBH-A
+aspect: Food
+text : Very clean, friendly people working there, the food was hot, fresh, and very good!
++1
+
+review_id : bj2X6YzlapUgzoZtWP7Zng
+aspect: Food
+text : Their flavored tortilla were definitely a nice touch! Highly recommend tracking this food truck down and trying it!
++1
+
+review_id : eCEL3ygxjwwozTnh0nRomg
+aspect: Food
+text : The food made at the little restaurant is the best.
++1
+
+review_id : LwRMC4ecNqHXA_STi5QPdg
+aspect: Food
+text : The food was so delicious, cooked and spiced to perfection. 
++1
+
+review_id : QTxRCkvQg_G0CBkzJJb74Q
+aspect: Food
+text : If I had to choose between whole foods and organic garage, this place gets my vote!
++1
+
+review_id : NY9OsOcLapGh2OawJQ3CLg
+aspect: Food
+text : The food is amazing as well!.
++1
+
+review_id : rWCFjF_vMY3XIgywEJ9wVQ
+aspect: Food
+text : Amazing quality foods and selection.
++1
+
+review_id : 5sVuk6ys0zpN6fN7RcnyPw
+aspect: Food
+text : The food is unique and flavourful, and the service is impeccable!
++1
+
+review_id : ZrbVKBxBn5MbHd0lfFKwnw
+aspect: Food
+text : The food is prepared in house and is always fresh.
++1
+
+review_id : ZrbVKBxBn5MbHd0lfFKwnw
+aspect: Food
+text : Great soups, salads and cakes and more.
++1
+
+review_id : xH9QPisq_ZNjl-B4bksGbQ
+aspect: Food
+text : We go out for breakfast only occasionally, so it's kind of a big deal to get some good food.
++1
+
+review_id : xH9QPisq_ZNjl-B4bksGbQ
+aspect: Food
+text : All the food was fresh and presented in a very appealing manner.
++1
+
+review_id : OspIDM6wNe4fniyIHoPPwA
+aspect: Food
+text : The food, including the hot food and baked goods, are all delicious.
++1
+
+review_id : hgMOrHB6E6eRqNPovzzKng
+aspect: Food
+text : I got to try the mackerel and it was good and crispy.
++1
+
+review_id : 9U6h44h0hdV55skN27zsQA
+aspect: Food
+text : One of my favorite places for breakfast or lunch in a city famous for its food!
++1
+
+review_id : jmVi3rTcWD4v-gR2MQfI4A
+aspect: Food
+text : They have a nice bakery and a wonderful hot food section with a cafe to sit in.
++1
+
+review_id : c6C1WikAMJafLfy_phnKWw
+aspect: Food
+text : The staff was very friendly and the food was great considering that we're pretty spoiled with Chinese restaurants back home.
++1
+
+review_id : TOM5HMFQDRz1ljDyyMAk9A
+aspect: Food
+text : Their noodle soups are amazing.
++1
+
+review_id : TOM5HMFQDRz1ljDyyMAk9A
+aspect: Food
+text : My husband, a chef, and I love trying new Vietnamese foods but I have to say this is the best we've found yet in Phoenix.
++1
+
+review_id : A7CkQG-PSq-U6IDNrBqE_g
+aspect: Food
+text : This place has always provided great customer service and even better food!!
++1
+
+review_id : A7CkQG-PSq-U6IDNrBqE_g
+aspect: Food
+text : From their burgers, to their pizza, to their calamari--delicious!
++1
+
+review_id : qvZWrUHdyvRkyCY9LmKOdQ
+aspect: Food
+text : The tea quality here at Nos Thes is by far one of the best in any tea shops.
++1
+
+review_id : ukbGLEQUbjqAb0nwiGr7eg
+aspect: Food
+text : The food is so good!
++1
+
+review_id : WJZaXsDMdATXCKbHDrrHAw
+aspect: Food
+text : Food is great.
++1
+
+review_id : WJZaXsDMdATXCKbHDrrHAw
+aspect: Food
+text : The beans are amazing.
++1
+
+review_id : MAHRfU4gh-OxBIO5NrU5ng
+aspect: Food
+text : The seafood is the freshest in Charlotte.
++1
+
+review_id : vEUNPsXnSdzw8WA_KP52RQ
+aspect: Food
+text : Great hot foods with unique specials like pierogies.
++1
+
+review_id : PycPeyzTOLmicXOoqc0GZw
+aspect: Food
+text : Hooked on Hummus, that's what my family tells me, I have craving for their Hummus, the rest of the food is great, but the hummus is like no other, it's fabulous!
++1
+
+review_id : 6GuultGPULCmU12tcWLZIw
+aspect: Food
+text : It had a lot of food in it which I love when it comes to soup.
++1
+
+review_id : K_Xe31d5HIeA-89FiBr44g
+aspect: Food
+text : Delicious, food porn-worthy sweet treats with personality?
++1
+
+review_id : jflS1sL7Q_3CiuTRZuTSIA
+aspect: Food
+text : Great service and absolutely fresh meats, goat meat, pork, chicken, seafood, all kinds of beef (feet, skin, tripe).
++1
+
+review_id : uRUXuxEwyz7a-4-EiBPePg
+aspect: Food
+text : Food looked excellent and delicious, though we didn't enjoy anything but coffee drinks.
++1
+
+review_id : rNGPmbWLvzHP8aVOeylzpA
+aspect: Food
+text : Their food is delicious and their staff are super friendly.
++1
+
+review_id : 86TDrstr0okfOM99d9gstQ
+aspect: Food
+text : I order lunch for the office at least once a month and everyone loves the food.
++1
+
+review_id : isdrLcL-MxifoNmlrLOlTw
+aspect: Food
+text : Had the Grillin' Chicken Club (SO GOOD WITH THE MUSTARD!!) and spicy Mac 'N' cheese.
++1
+
+review_id : F63QP35vTg0Tn39C4MdtEA
+aspect: Food
+text : Weird location for sure signage not good but very nice people and excellent fresh healthy food.
++1
+
+review_id : JDkDCseN8dPblGkro9rjMw
+aspect: Food
+text : The beer was good, order a full flight to try it all.
++1
+
+review_id : JDkDCseN8dPblGkro9rjMw
+aspect: Food
+text : Wow! Some of the best German food we have had since visiting Munich.
++1
+
+review_id : NzTs9tfGVEQdjTVM2CrFKw
+aspect: Food
+text : Its a small place and doesn't look like much, but the food is very good; always get the Singapore noodles, which are very tasty; the hungry man specials is great for $10 includes a drink, chicken balls, fried rice, etc;
++1
+
+review_id : KOwzj5nbHPTaV8mkZLSbaw
+aspect: Food
+text : This food truck is delicious! They have homemade flavored tortillas. I have never had anything like it! So good!!
++1
+
+review_id : UoIZMh8Vo1iOMklo7zJu9g
+aspect: Food
+text : The food and drink is amazing.
++1
+
+review_id : 7ICgF5jK2v0V2fNq-8Ewxg
+aspect: Food
+text : Salted Caramel Shake! Here they are good food too.
++1
+
+review_id : kQOBfAfyMxWfAOj2wbIYgA
+aspect: Food
+text : The delivery was on time, and the food was hot.
++1
+
+review_id : JNZHnukz3b_RLi5S5kCNFA
+aspect: Food
+text : The best international food ever.
++1
+
+review_id : Vifr3oy0Hd8ci6IYfrId6A
+aspect: Food
+text : Cold cuts and sausages, cheeses and nuts,  olives and breads, pastries and crêpes, fish and seafood,  the best butcher counter (Kefta, souvlaki and filet mignon are a must).
++1
+
+review_id : Vifr3oy0Hd8ci6IYfrId6A
+aspect: Food
+text : Salads and dips, and my favorite of all: the made to order spot.
++1
+
+review_id : ehMdl5v4cileuXFmxz9LLw
+aspect: Food
+text : They also have a great selection of produce and refrigerated and frozen foods.
++1
+
+review_id : pI-CJfGNTgANkTWCeIGJAA
+aspect: Food
+text : Their food is outstanding and the customer service is exceptional.
++1
+
+review_id : JJf-EaV_1QHFwVAR7X3kUQ
+aspect: Food
+text : Track this food truck down for wonderful food!
++1
+
+review_id : E26LoXnFZir9-7aff6Vd1w
+aspect: Food
+text : I have had them a few times and am still in love with the food.
++1
+
+review_id : umH7xXUwJeSxCs0RrzVsug
+aspect: Food
+text : I also love this food truck!
++1
+
+review_id : iZsoXyDa4HjDTKtKQIiuwQ
+aspect: Food
+text : The kitchen is spotless and the food is fresh.
++1
+
+review_id : 2rG8kmR0yOq3mFnyZ237vw
+aspect: Food
+text : I love this place. Fresh and tasty.
++1
+
+review_id : EpwhFJPVSpmSBMuhJkHEHQ
+aspect: Food
+text : And my food always taste fresh.
++1
+
+review_id : wlIldUMH7R9mAoTOrdCAUg
+aspect: Food
+text : Otherwise, go to the Urban Bulk Emporium and support local small businesses, get great quality food at reasonable prices, and get great customer service to boot.
++1
+
+review_id : SRO4Ai5a4lWFIavMI2U25g
+aspect: Food
+text : So many changes for the better, more international food items like frozen durian, frozen jackfruit, aged beef, new bakery, new deli, new curry bar, coffee roasted on site and made fresh, salad bar, pizza, entrees to go.
++1
+
+review_id : 6o1q2x5CNb-oZRMt3XgkKA
+aspect: Food
+text : Best food court option in the Pickering Mall.
++1
+
+review_id : RhLlfKxYipyq1LMMB173Uw
+aspect: Food
+text : This is probably my favorite Grocery store they always have good food and cigars always have some offers all types of cigars and cigarettes.
++1
+
+review_id : jJ7A8NFj27kU7ZDNQ_icPA
+aspect: Food
+text : Great food.  Very generous portions.
++1
+
+review_id : muyV86u8jaBmIgnT8TE3oQ
+aspect: Food
+text : Consistent food, love the potatoes with breakfast special and the service is fantastic.
++1
+
+review_id : HVc_mPILvGAozm9GSiyZKA
+aspect: Food
+text : The quality of the food they serve is good and the cleanliness and service were also good.
++1
+
+review_id : oQpVils3RQX6FlvpK58r7w
+aspect: Food
+text : High quality food at reasonable prices.
++1
+
+review_id : NvnoWwiGce2WLRgoWeEjwA
+aspect: Food
+text : The free wi-go is awesome I use it a lot, and the All American food is made locally and sourced locally so it's All American.
++1
+
+review_id : v6TZHXLFnkQA6H0XCOmnGw
+aspect: Food
+text : The food is very tasty.
++1
+
+review_id : APG3TcIsA4SuM2NPE6tvXw
+aspect: Food
+text : The owners are so nice, its immaculate, great selection of foods, nostalgic, an assest to a struggling neighborhood.
++1
+
+review_id : UhuFqyfSBQ8mB_EDNhW1JQ
+aspect: Food
+text : The food is always fresh and delicious!
++1
+
+review_id : NpojhSh5ywfdSBBgbYXIvQ
+aspect: Food
+text : Great healthy food.
++1
+
+review_id : tf36C-oyogBbPzf_5nWnUA
+aspect: Food
+text : The food is freshly made by Olivia and the ingredients she uses are good.
++1
+
+review_id : SyOmj6Ml2TP5nBx8jyDrng
+aspect: Food
+text : Amazing fresh seafood with an always great selection.
++1
+
+review_id : SyOmj6Ml2TP5nBx8jyDrng
+aspect: Food
+text : I love the recent addition of local spices, sauces, pasta and meats.  
++1
+
+review_id : SyOmj6Ml2TP5nBx8jyDrng
+aspect: Food
+text : In addition to the normal great selections, their Taco Tuesday special is awesome with all the makings for mahi-mahi fish tacos.
++1
+
+review_id : vmnqib4inLdmdwYe1qmUpg
+aspect: Food
+text : Great food I had the yogurt with fruit it was awesome great variety of food from healthy to sweet this place is the best.
++1
+
+review_id : NshyGSrp9K5hZiM-KcAwCQ
+aspect: Price
+text : Prices were great when compared to online companies.
++1
+
+review_id : PW9hhACa6HoB9AaQoorjNA
+aspect: Price
+text : Incredibly good pastries, no joke. Good coffee and great prices too.
++1
+
+review_id : lH42Ln7-t_G8UU3fu5-lhQ
+aspect: Price
+text : Organic Garage continues to have the very best prices for Organic Produce all year round! 
++1
+
+review_id : QipkuFdHzmGCalj6wH7cWQ
+aspect: Price
+text : The prices are low and the tax is included in the price tag, but the best reason to shop here is Sam.
++1
+
+review_id : gP4mjMG6HQEXWyHRE-7mFQ
+aspect: Price
+text : Reasonably priced supplements, large selection, and products others don't carry.
++1
+
+review_id : Vifr3oy0Hd8ci6IYfrId6A
+aspect: Price
+text : Tnis can truly do no wrong,  on top of low prices they have.
++1
+
+review_id : ehMdl5v4cileuXFmxz9LLw
+aspect: Food
+text : They also have a great selection of produce and refrigerated and frozen foods.
++1
+
+review_id : pI-CJfGNTgANkTWCeIGJAA
+aspect: Food
+text : Their food is outstanding and the customer service is exceptional.
++1
+
+review_id : JJf-EaV_1QHFwVAR7X3kUQ
+aspect: Food
+text : Track this food truck down for wonderful food!
++1
+
+review_id : Up_HPjt0uK6CLZmwukp9UQ
+aspect: Food
+text : Food was very fresh, especially the vegetables.
++1
+
+review_id : 1JPRSmOns5s_230q0CCapg
+aspect: Food
+text : Great food and very nice owners.
++1
+
+review_id : yI9szMR2rtJN_0Vd2ay_IA
+aspect: Food
+text : Hot and sour soup is best in whole area.
++1
+
+review_id : yI9szMR2rtJN_0Vd2ay_IA
+aspect: Food
+text : There food is always consistent and fresh.
++1
+
+review_id : ZvWG-Yd8EVGkafsvfd0r9Q
+aspect: Food
+text : My favorite course might have been the purple carrot cake with goat cheese, ground cherries, candied walnuts, and dandelion jelly.
++1
+
+review_id : ZvWG-Yd8EVGkafsvfd0r9Q
+aspect: Food
+text : The beef cheek with wheat berry risotto and celery root puree was also crazy good. 
++1
+
+review_id : 2S1rXiDA0P5qb30upxb2Gg
+aspect: Food
+text : Some of the best chinese food I have had.
++1
+
+review_id : 2S1rXiDA0P5qb30upxb2Gg
+aspect: Food
+text : In town for business and we ordered combination plate ( chicken balls, chop suey and rice ) was so delicious.
++1
+
+review_id : KoS7jlWwbOs1QUNpTDzlTA
+aspect: Food
+text : They make such creative dishes which complement all the other great food trucks around for an amazing dessert.
++1
+
+review_id : lqDATviaqyFN9qZj7l2PTw
+aspect: Food
+text : Delicious food, incredibly huge portions, and the owner is really nice and caring.
++1
+
+review_id : ck0QR4AeEmI13UQU3-bfJg
+aspect: Price
+text : The prices at Lakshmi are quite reasonable, especially compared to what some of the exact same products are being sold for at the big box stores.
++1
+
+review_id : ck0QR4AeEmI13UQU3-bfJg
+aspect: Price
+text : Low prices are also a great incentive for trying new products and experimenting in the kitchen.
++1
+
+review_id : bidmwDK2jFzFAjIWiMGV8g
+aspect: Price
+text : They have quite good number of itmes, and their price is good.
++1
+
+review_id : W2fhbc2pj3-kf35LlNgjQw
+aspect: Price
+text : Every time I go to this donut shop on Brownsville and i am ALWAYS greeted with a inviting smile and great conversation everyone there is always so nice and the donuts and coffee are EXCELLENT the prices are perfect.
++1
+
+review_id : -Stq71aSUfxH66xNMe66Ng
+aspect: Price
+text : I think the prices are cheap for the amount of food you get.
++1
+
+review_id : qF2o-wXV07g5IuV6lSBFhQ
+aspect: Price
+text : Everything was delicious and reasonably priced.
++1
+
+review_id : k3wCLLDEkpwMJqmRluj_Uw
+aspect: Price
+text : The prices are pretty reasonable as well.
++1
+
+review_id : Fcl9V_Z4vIhWRZBQKp82uw
+aspect: Price
+text : It's a big meal for a very good price ($10) and it always has me happy and full at the end.
++1
+
+review_id : -gBj4Mwp10gbPoFJWQh74A
+aspect: Price
+text : Nothing fancy, service is good, prices are good and food is great.
++1
+
+review_id : fdCNADjFqeKT3W-aFAt1_g
+aspect: Price
+text : The prices were awesome too!
++1
+
+review_id : 3dv2ZbYLn8yvNUESCBbuXQ
+aspect: Price
+text : This store must be privately owned because they seem to cater to an Italian populated area with lots of fresh and dried olives, dried fruits, etc. accepts the pump perks cards to lower prices on specials and to get money off gas at CoGos.
++1
+
+review_id : uZcTkmCgnQJwcrgDHs5ntw
+aspect: Price
+text : The employees are friendly and offer flavor suggestions of you are stumped. Prices are super cheap and this sweet treat is perfect for the hot summer weather.
++1
+
+review_id : MMLNI4g7YvCmlT8u4SvXmw
+aspect: Price
+text : Prices are fair and the portions are pretty big, I could split a medium with a friend.
++1
+
+review_id : ER7C0oR0GC_GTQS-yAQ7jg
+aspect: Price
+text : I usually get the 100 count and its reasonably priced.
++1
+
+review_id : _h8cjdhtDxuzZEgJ7k-Scw
+aspect: Price
+text : Prices for things like giant frozen shrimp are probably the lowest I've seen anywhere.
++1
+
+review_id : R6npLfeHBQ9WUh6fFB9rug
+aspect: Price
+text : Prices range from $5.99 - $23.99 per 50g, fairly reasonable.
++1
+
+review_id : -YOGCEQEaW6ieAEL0ATJXA
+aspect: Price
+text : The prices are totally reasonable, especially considering the slightly more labour intensive approach they take.
++1
+
+review_id : JU1piKXBxgpOfStYvNq_8A
+aspect: Price
+text : I'm sold, great food at a decent price.
++1
+
+review_id : g-brnffucRpE0_WEB1zPCw
+aspect: Price
+text : The prices here is much better then other smith's as well.
++1
+
+review_id : qPqCvVghcXp9XVIu7c4yvQ
+aspect: Price
+text : And very reasonable prices compared to other locals.
++1
+
+review_id : lWiEAJekvml706BZyrrqWw
+aspect: Price
+text : Prices are more than fair for the great quality.
++1
+
+review_id : XcuXk6CBJnj4eCJSOALKFw
+aspect: Price
+text : They were fun, engaged the crowd and play all of our musical requests and used their experience to keep the dance floor packed all evening. Seeing my mom and dad dancing it up was priceless.
++1
+
+review_id : nCQLLw5hQTKJ-xbHXdecjA
+aspect: Price
+text : The prices here are not expensive at all.
++1
+
+review_id : afuU7KUHWay63KpBFz4wQg
+aspect: Price
+text : Delicious treats, great staff, affordable prices.
++1
+
+review_id : zaO04OMSndF9BYRaOe8UYg
+aspect: Price
+text : Prices were on the money if not cheaper than places I'd compared them with (In fact, Bob's Mill products are almost $2 less a bag than Loblaws across the street!).
++1
+
+review_id : GSqlzzbJLhX5wblP2sGDhg
+aspect: Price
+text : Health Palace is my go to source and has the best prices.
++1
+
+review_id : 7i5d49l23jMvfbojctFb7A
+aspect: Price
+text : Great prices and selection.
++1
+
+review_id : vKhFpYcdg0kX9KDglvOWQg
+aspect: Price
+text : This little Armenian café deserves 5 stars for the price, service and the amazing decoration of the place.
++1
+
+review_id : Nd3qvIzOOLSBKOvaXazuKQ
+aspect: Price
+text : The buffalo wings are delicious and a good value for the price of ten dollars a pound.
++1
+
+review_id : EzIOj8EmQEoXg2B2JniYoQ
+aspect: Price
+text : This is my local spot to grab a coffee, and for a great price !
++1
+
+review_id : B3cKt0pLJ4vsvWMEEw7sRQ
+aspect: Price
+text : What makes this place so great? Lots of organic options at incredibly inexpensive prices.
++1
+
+review_id : s58-YV72EPT1auhHTZc3xw
+aspect: Price
+text : The price also very reasonable comparing to other alternatives. 
++1
+
+review_id : yqrPxDQu9i86i4hw_QIrIw
+aspect: Price
+text : The event planning and vendor cost were fair and reasonable, and I had no surprises.
++1
+
+review_id : gmh1CdQFiKipwq3yvF258Q
+aspect: Price
+text : Prices are very good and service is excellent.  
++1
+
+review_id : Jt0zRDSdahAcUv77SUHt_Q
+aspect: Price
+text : Best Indian store in Charlotte! Great prices, and good customer service. Nice, clean store and convenient parking.
++1
+
+review_id : m_EJe7yis7V75XvgvwH2-Q
+aspect: Price
+text : Amazing meat at a great price and their veggies and fruit are always fresh!
++1
+
+review_id : bk-yzsVd6oHnM9aMetQMVg
+aspect: Price
+text : Also she gave me a great price for the tattoo (three arrows on my spine), better than what most other areas are offering.
++1
+
+review_id : JLypcLVUpbzD7QBXbhXHQw
+aspect: Price
+text : The ingredients are good quality,  like the cheese for example, it is amazing and you can't beat the price!
++1
+
+review_id : Mxv85Tj72kxQwvrUy8Ljjg
+aspect: Price
+text : Prices are unbeattable !
++1
+
+review_id : wKJ5Gd60kHQFQMFi40LW9Q
+aspect: Price
+text : The prices are all extremely reasonable - I had a BLT bagel sandwich, which was under $4 and freshly made. 
++1
+
+review_id : 5pdt07hN3HsSnD6ziaMPcA
+aspect: Price
+text : Their prices are ridiculously low (make sure you bring cash!!). 
++1
+
+review_id : d8AQpnLMJWLVySYXN-zjzQ
+aspect: Price
+text : the prices are really good for their pizza its not over priced like other pizza places
++1
+
+review_id : Z_sFvSePMomSR89UFiejUA
+aspect: Price
+text : The fries are great as are the prices.
++1
+
+review_id : yiyoDcgpwvfyU6_0hAeGlw
+aspect: Price
+text : The staff is really friendly and helpful and the prices are good.
++1
+
+review_id : onvKHeh9ujN9jHEOlr6k8Q
+aspect: Price
+text : Good product and fair prices.
++1
+
+review_id : u3CLEJtJdKKbU1gu272QyA
+aspect: Price
+text : In addition the price for all of this was so cheap that I had to ask the delivery person to repeat himself to make sure I had heard him correctly.
++1
+
+review_id : HoHRe-SUH7JhGgOXIcchAg
+aspect: Price
+text : Since the lunch price is so reasonable we also got a Mongolian Beef to share. 
++1
+
+review_id : e8efnH0WlwBR-XwV92gitQ
+aspect: Price
+text : I was so impressed with the selections in this store and found their prices to be comparable to other local stores.
++1
+
+review_id : x4HDMiwfIuG8LV4TkD834Q
+aspect: Price
+text : Breakfast menu prices were really good too.
++1
+
+review_id : mNOK2Q-CC0Dbj5HtelPzZg
+aspect: Price
+text : Amazing prices for good food.
++1
+
+review_id : PHPbrfc3DUF8SVVHIqSXHA
+aspect: Price
+text : They have a great floral department, lots of bouquets and arrangements and the prices are very reasonable.
++1
+
+review_id : g_KTN7fkCco3lyIjmJsrzg
+aspect: Price
+text : Very fair prices and the owner is always onsite to offer helpful service.  
++1
+
+review_id : PAjBUkHtUVga4rIqNZD3Yg
+aspect: Price
+text : Pricing is very reasonable for how Asian markets typically price groceries.  
++1
+
+review_id : PAjBUkHtUVga4rIqNZD3Yg
+aspect: Price
+text : Usually cheaper than your typical Metro, Maxi, IGA, Super C.
++1
+
+review_id : ekuPsEduG-XnNl9ZIeYJ2A
+aspect: Price
+text : There are a lot of fresh, quality  produce options,  organic section, and lots of household needs at great prices.
++1
+
+review_id : u_C7zQjNqNHnRr-97GqKKQ
+aspect: Price
+text : Their prices are very reasonable and we bought fresh fruit for less than half what our previous market on Pearl Road charged when we stopped there earlier in the day.
++1
+
+review_id : A_zkGa0qm33mClVTh7QTVg
+aspect: Price
+text : Portion size is big so the price is worth it. 
++1
+
+review_id : oMlamyzI_GoNs34LIIjuJw
+aspect: Price
+text : But then again the price was just right!
++1
+
+review_id : 9eTZzwY_swuH1XsEDk4Osw
+aspect: Price
+text : Lots of coffee flavors and a pretty good price on gas.
++1
+
+review_id : rBxWNStCh4AfYJE9XwXXUQ
+aspect: Price
+text : Keep an eye out around Father's Day when they come out with their Man Cave Steaks for a great price.
++1
+
+review_id : rfG5EnFYHQvIwMFi8KEJnA
+aspect: Price
+text : They have a whole section for kitchen essentials, pet stuff, medications (wish I knew about this place when I was sick a couple months ago) and even though their prices are crazy cheap they have a clearance section too!
++1
+
+review_id : Cd53YMETJMVBrBff7U0crw
+aspect: Price
+text : Convenience with a smile, all my prescriptions are here and the new Theranos  lab is very well priced and friendly.
++1
+
+review_id : -BE5LMkCwBywRze4QmiesA
+aspect: Price
+text : Beautiful cupcakes and they were reasonably priced.
++1
+
+review_id : nXvr8r3xnklGh5fWo78LeA
+aspect: Price
+text : Food is like my grandmas homemade. Price is great but they only take cash.
++1
+
+review_id : HUAJyPwljt-jSmToYvxZGw
+aspect: Price
+text : Prices are excellent considering the portion sizes. 
++1
+
+review_id : 7eobe2sVeiUYq19uH_J5Cw
+aspect: Price
+text : Maxi has excellent prices for many items, including low prices for bulk items. 
++1
+
+review_id : vVfDyoCbUGlF7BwStVj4Kg
+aspect: Price
+text : Very friendly staff, reasonable prices on cigars, quality assortment of liquor and an impressive selection of draft beer.
++1
+
+review_id : rKGxH6kJcnnfFl9VlQewog
+aspect: Price
+text : The environment is relaxing and it offers a great selection of coffee, tea, beer and good at a reasonable price.
++1
+
+review_id : _hTBAJ82BQZ8GfhhChiwGw
+aspect: Price
+text : Raise the Root has great prices, fresh produce, particularly delicious apples, and good vibes.
++1
+
+review_id : qQlnaZB-qEPOboltku3EwA
+aspect: Price
+text : Great food at good prices, most of the entrees are in the $7.95 to $11.95 range.
++1
+
+review_id : a3GNdiyzokvpgPyqNfo9Dg
+aspect: Price
+text : Find me a place with such a wonderful variety of fair-trade beans at such a low price.
++1
+
+review_id : ICg5H2n-LHaIR4T28N4uUQ
+aspect: Price
+text : The selection is unique and the prices are extremely reasonable.
++1
+
+review_id : aIoVDYqsheoXx99EX7_m7A
+aspect: Price
+text : Giant Eagle but this is well worth the price and you get what you pay for.
++1
+
+review_id : VUs-ZAm0kGhRyF6328bFpw
+aspect: Price
+text : I was very impressed with the quality, prices and the cleanliness!
++1
+
+review_id : ViOIAjdo12gToe4QXLJgRw
+aspect: Price
+text : The price is perfect.
++1
+
+review_id : wkyAckpEGGFL7gs5GppHGw
+aspect: Price
+text : They have an excellent selection, including many Sugar Free varieties (which I prefer), their portions are very generous and reasonably priced, and they refer to it as Shave Ice (not Shaved Ice or Sno Cones).
++1
+
+review_id : 6QhHM35r4wDagogUASTKNQ
+aspect: Price
+text : The arrangements were reasonably priced.
++1
+
+review_id : TDSm5JV4QsgcIIc3DCe76A
+aspect: Price
+text : We have not broken into anything but the cherries, they are spectacular and worth the price we paid!
++1
+
+review_id : Vzzb78mAlsyW6X_seEI5eg
+aspect: Price
+text : It's really good, great selection and reasonably priced.
++1
+
+review_id : OGAEED_z0-Maj5HupVcxwA
+aspect: Price
+text : The prices are even cheaper than Chinatown supermarkets, though they carry lots of things that you simply can't get anywhere else.
++1
+
+review_id : lzV-_hQ03GsD6WF9vStsLg
+aspect: Price
+text : Everyone was nice and everything was really well priced in both the store and cafe .
++1
+
+review_id : HxvMaQyDHTxSbtT23NnZCQ
+aspect: Price
+text : Highly recomend as they sell great stuff at a reasonable price to match.
++1
+
+review_id : le7Z5VdUofKcpNGkTNrgWQ
+aspect: Price
+text : Homesick expats and curious foodies alike satisfy their cravings for Kalle's Kaviar, Milka chocolate, spaetzle or salty liquorice at amazingly affordable prices.
++1
+
+review_id : m0aaJqNxy-4ozZ8B8LtmOw
+aspect: Price
+text : Fresh meats that look the way they're supposed to, Gerber's chicken at a great (not Heinen's) price, good variety of prepared foods and local jarred\/ canned\/ frozen goodness.
++1
+
+review_id : hvoqtbmiadA2lkndD9N0Rg
+aspect: Price
+text : Very nice owner, great service, cheap prices.
++1
+
+review_id : maJK4X5NlcL6v15gzpQsng
+aspect: Price
+text : Prices weren't outa the roof.
++1
+
+review_id : Z_xoNjudZQsxlOxypw4EqA
+aspect:
+text : Great chocolates, great pasteries, great coffee, great hot chocolate, great breakfasts, great service, great smile, great prices, and GREAT view.
++1
+
+review_id : u9DZvmSMy4X2o4Tm3Eq4kQ
+aspect: Price
+text : Cost was fine.
++1
+
+review_id : aJZJvF7TjNBnbxuCbgshmQ
+aspect: Price
+text : Their smoothies are really good and cost less than $6.
++1
+
+review_id : KQaLr3Cny2tagC45RqGjLA
+aspect: Price
+text : High quality wines with perfect prices.
++1
+
+review_id : ZqR_ZdOeKks7hjQUC6IXfg
+aspect: Price
+text : Coffee was on point and cookies were rather large and priced right!
++1
+
+review_id : SaNQ2wlCJYMLPqNFDyp2hA
+aspect: Price
+text : Great service, affordable prices, and always delicious food, why not choose T.G.I. Friday's?
++1
+
+review_id : EREx3jZ5ooCHPW3OKfoStQ
+aspect: Price
+text : Their 3 layer mousse pastry is amazing and so are their biscuits. Literally everything on their menu is priced very reasonably .
++1
+
+review_id : g1PBFdgzSIA7xsYJwq7GUg
+aspect: Service
+text : The service is friendly and fast.
++1
+
+review_id : IdkyckSdw93jhQZx9mcR-A
+aspect: Service
+text : I highly recommend this place for anyone looking for a good beer selection with friendly service.
++1
+
+review_id : H9ypjXmCQs4knInQY67oaA
+aspect: Service
+text : The service is splendid and they are lovely people.
++1
+
+review_id : GdF9Hv3LpswTUJu4cru3mw
+aspect: Service
+text : It was very quick service they were really nice and they got my order perfectly. 
++1
+
+review_id : p068DZK2m_MBYXIhfB2iug
+aspect: Service
+text : With the same great service and products you may have encountered at their booth inside The Calgary Farmers' Market, Blush Lane is the perfect extension of the experience we've come to love.
++1
+
+review_id : 0gIfe2fQNOHPMsNaJd70hw
+aspect: Service
+text : Stumbled in here for brunch at TIFF- great healthy food and good service!
++1
+
+review_id : NHnox3HgS7lPDLpcoGjsTQ
+aspect: Service
+text : They genuinely care about their customers, have excellent conversation and customer service skills, and make a pretty mean shake if you know what I'm saying.
++1
+
+review_id : 0hinpXF3RMVsVxzqkDdJQg
+aspect: Service
+text : Great stuff an great service.
++1
+
+review_id : hSOcR44z248Q2oUUCoSWYQ
+aspect: Service
+text : Good customer services, Fast serve drinks.
++1
+
+review_id : 8FkajQXmLyBxrHkVdX8gVw
+aspect: Service
+text : Even though this place is small, the service and food was stupendous.
++1
+
+review_id : Casg6upS8ulvWEOU-n--Xg
+aspect: Service
+text : luvvvvv this place the food is amazing and the service really great. 
++1
+
+review_id : ym_3vOqBx-vO5ubcf5P8UQ
+aspect: Service
+text : Great and friendly service, too!
++1
+
+review_id : jMGQvVdKfT-DLjYoZbUExA
+aspect: Service
+text : This mom and pop shop offers service with a smile and were very pleasent.
++1
+
+review_id : otr_u-x-IotH0I4qOiJpAg
+aspect: Service
+text : They treat the customers with respect and have very good service.
++1
+
+review_id : Hd2xL9BsICAN8OuouvTD3g
+aspect: Service
+text : Service was quick and staff were friendly.
++1
+
+review_id : _5sJJQpW6_PLbQ4vZ72GLQ
+aspect: Service
+text : Let's support a shop that is really making an effort to give great service, great surroundings and great products!!
++1
+
+review_id : o2fwlQ1YXBlHpYGFEC10Bg
+aspect: Service
+text : Great costumer service always super clean .
++1
+
+review_id : dWd_zgTYKreTQnuHTk3kfg
+aspect: Service
+text : Best tasting sweets and great service.
++1
+
+review_id : ZJjQpZufj5-6SpZKsuWTBQ
+aspect: Service
+text : Best service you could find in QuikTrip.
++1
+
+review_id : urkaeadQBVZCG3nrbtE0Qg
+aspect: Service
+text : They truly do have the best customer service and product, Amin is great to work with.
++1
+
+review_id : o-sIwhqZ987mDXqHg3rUrA
+aspect: Service
+text : The service was also great.
++1
+
+review_id : Qc9fRiLwoj50RbjbxT8Mhg
+aspect: Service
+text : The service is exelent, you can get samples from some of the pastries.
++1
+
+review_id : 9qD21I5_QPiQGx-fJBeYMA
+aspect: Service
+text : Prices are very affordable and service is Great !
++1
+
+review_id : Zzt5SoGFeEUJJI_0G6OMFw
+aspect: Service
+text : The inside decorations are a little outdated and could use some freshening up but it doesn't take away from the quality of the food and the great service. 
++1
+
+review_id : Xp5NY0EJt1GecOvalomquQ
+aspect: Service
+text : Had a great service experience here!
++1
+
+review_id : Xp5NY0EJt1GecOvalomquQ
+aspect: Service
+text : There was one barista working today that was particulary friendly and we chatted about our fave mix and match drinks!\nvery impressed with the service here!
++1
+
+review_id : cDp63QyFUwT5Vcfspv5rrQ
+aspect: Service
+text : Staff is friendly great customer service.
++1
+
+review_id : dO_-KOH8Sgjpr-yI5a8Kbg
+aspect: Service
+text : It's always been clean and the service has always been on point.
++1
+
+review_id : NY9OsOcLapGh2OawJQ3CLg
+aspect: Service
+text : They have amazing customer service an treated me with respect even tho I came crawling in with no shoes an puffy eyes on a Sunday Hung over needing some pho to help my hang over. 
++1
+
+review_id : SrlZKr2xbAXeNFaRSzO-PA
+aspect: Service
+text : There is no one harder working, dedicated to customer service and all around great person.
++1
+
+review_id : 2tKmrAvX8O7oMHkQw6yhZA
+aspect: Service
+text : The service is fast and efficient, well worth the extra price (compared to Tim Hortons, where it's often slow and heartless). 
++1
+
+review_id : dF1Qal7rChAhoUyO3gPqAw
+aspect: Service
+text : The service is awesome and even though I don't give a lot of notice when I need something, they always come through for me!
++1
+
+review_id : 8lBKCMKAZEtFwH-kUSHWaw
+aspect: Service
+text : Love the customer service, the best sandwiches and the fastest service without sacrificing taste!
++1
+
+review_id : ViJ56ja2fRBpeAw1alwDBA
+aspect: Service
+text : Friendly, helpful service and lots of parking.
++1
+
+review_id : 2ROzIMt7Zji5nKLmeUV_pw
+aspect: Service
+text : Peek a Boo Bakery has great service and easy to work with, just tell them your vision and she brings it to life !!
++1
+
+review_id : RSw0LuwFUTVsMIbN4_goAw
+aspect: Service
+text : The service was fast and they all worked together.
++1
+
+review_id : RSw0LuwFUTVsMIbN4_goAw
+aspect: Service
+text : great service! Had lunch their and was absolutely amazing.
++1
+
+review_id : AkQgmzneJkn59IdHBIHuRw
+aspect: Service
+text : The service is magnificent and the owner, Henry, is the nicest of the nicest.
++1
+
+review_id : A45_Ws8pJz_CEOY2OzSEDA
+aspect: Service
+text : Very friendly service, great meat selection and always have doritos and tortillas on sale. Great selection overall.
++1
+
+review_id : e0__capYc41AzAOui7kwsw
+aspect: Service
+text : I forgot to write this review weeks ago but since trying this service I have additionally tried two other similar services available in town and they have all been pretty good. 
++1
+
+review_id : e0__capYc41AzAOui7kwsw
+aspect: Service
+text : The 2nd service was also called meal prep (had a remarkably similar name in other words ) and had a great automated website but was otherwise very impersonal and the meals seemed like they have been merely assembled from somewhere .
++1
+
+review_id : UodlyaVprWQwUD2f6v10QA
+aspect: Service
+text : Service was polite and helpful.
++1
+
+review_id : Zc-zIBIwts0fYdXS7qxdMQ
+aspect: Service
+text : I worked in the field of customer service for several years in the past and I can say with certainty that his service was one of the top 10 best experiences I had in a store.
++1
+
+review_id : ZumDXiaB6iHaMPWbRekG6Q
+aspect: Service
+text : She had us laughing and provided great customer service.
++1
+
+review_id : cmpQ2VDGPdJgk9nrdZgE9Q
+aspect: Service
+text : I always have had great service at this location.
++1
+
+review_id : B0ch_PKQkyIcxi8rZjxi7w
+aspect: Service
+text : Great food great service I would recommend this place to anyone.
++1
+
+review_id : i8WawfiswBl3m1QseaL32Q
+aspect: Service
+text : I have enjoyed Starbucks services in Toronto, Ottawa and Montreal, I have been to at least 10 different outlets altogether.
++1
+
+review_id : FTywBL4PIciuslQDtoVB3Q
+aspect: Service
+text : Service was quick with wonderful ambience of the cafe.
++1
+
+review_id : FTywBL4PIciuslQDtoVB3Q
+aspect: Service
+text : The owners are very warm.
++1
+
+review_id : 17KGmJfxY7QWPd4H0RCWgA
+aspect: Service
+text : Without Laura and her willingness to provide excellent service  my daughter would not have a wedding cake on this special day.
++1
+
+review_id : Q2ZzbhD95IqANRXdLWmSYw
+aspect: Service
+text : Great quality, unique tasting blends, amazing services!
++1
+
+review_id : xosmsSFjmZT_yTEKdAo_xw
+aspect: Service
+text : The food is and the service is better.
++1
+
+review_id : xosmsSFjmZT_yTEKdAo_xw
+aspect: Service
+text : Good friendly service.
++1
+
+review_id : xosmsSFjmZT_yTEKdAo_xw
+aspect: Service
+text : Fast and easy and ready to eat.
++1
+
+review_id : AgR1E4buEgNv8uk-WF-XKw
+aspect: Service
+text : The service was the best.
++1
+
+review_id : -bKOeABMX1M0KZDzMZayMA
+aspect: Service
+text : Great food, great service, great experience.
++1
+
+review_id : AtRu86Dpn2OuZyL1NV47oQ
+aspect: Service
+text : The service is always friendly and personal and always comes with a smile from her many young helpers.
++1
+
+review_id : dfte6VL88pGuCTZ567JHfA
+aspect: Service
+text : Absolutely the best carne I've ever had and the service is great also.
++1
+
+review_id : 6fx2qscc3CRShUGlo4pnQg
+aspect: Service
+text : Robeks always has the best service!
++1
+
+review_id : Ti3XoGeSerLthbPixOFR6w
+aspect: Service
+text : Anyway the pizza pizza is awesome and the service is excellent and friendly and fast and it's cheap.
++1
+
+review_id : fIqdlQ2XAvaD8liMuZFRDw
+aspect: Service
+text : Five star review because the customer service is amazing here.
++1
+
+review_id : kQxAIUboaEGSDEIvp5SN4w
+aspect: Service
+text : YoFruitty gets 5 stars in my book. Awesome flavors, friendly service, and just can't be beat with those other competitors.
++1
+
+review_id : UvZD-wk7kc6SaF9grb-Sjg
+aspect: Service
+text : Best drinks and fast service and lovely faces.
++1
+
+review_id : Rn4HTRfmOipJEMtC0Nj59A
+aspect: Service
+text : The owners were so friendly I had to write a review.
++1
+
+review_id : 5ySZNTE-YC1IRxEZMUVzlg
+aspect: Service
+text : Thrilled with the customer service front line manager!
++1
+
+review_id : 5ySZNTE-YC1IRxEZMUVzlg
+aspect: Service
+text : Honestly, this front line manager made the difference by going above and beyond to ensure customer service and satisfaction.
++1
+
+review_id : 5ySZNTE-YC1IRxEZMUVzlg
+aspect: Service
+text :  Very impressed with this service and many people will be benefiting from this transaction.
++1
+
+review_id : CR5YptfrkvEkbZxMM2ZMrQ
+aspect: Service
+text : Nice store, always clean and good customer service.
++1
+
+review_id : rRD0gHvrmGJ5-AvgdddyiQ
+aspect: Service
+text : Finally a full service Tim Horton's that I can now go to and have a double double in a China mug while just relaxing in the environment is what I have been waiting since the beginning of December.
++1
+
+review_id : qH6Dzk5JTJdBoIaM6J6jAw
+aspect: Service
+text : I am a weekly visitor to this little fruit and veg store. Given the price of fresh produce in the city this place is definitely worth a trip. Good quality, variation and very friendly service.
++1
+
+review_id : 0xruzaILlZ3npueBEWQyjA
+aspect: Service
+text : This place has the best cookies and customer service!
++1
+
+review_id : 0xruzaILlZ3npueBEWQyjA
+aspect: Service
+text : Their staff is so nice and accommodating.
++1
+
+review_id : sO5iUocRU_QsgH8QNY1TCA
+aspect: Service
+text : Superior product and excellent service.
++1
+
+review_id : VUsCxDskwjPsJ6SWvcYuPQ
+aspect: Service
+text : Friendly service  by this Romanian lady.
++1
+
+review_id : LbKNOgj6tVGBuCSkbderuQ
+aspect: Service
+text : This quaint cafe with friendly service was a bright & fresh stop to end our day.
++1
+
+review_id : _03PhloP1lOmwGuC9pnl2w
+aspect: Service
+text : Overall, the customer service was great and I will definitely order from her again!
++1
+
+review_id : aRD5tsbTxajkuwlZQGAkkw
+aspect: Service
+text : The service is good and they don't charge for their bags either.
++1
+
+review_id : 2mgtgw1Gm0CfLXA5gfwMQA
+aspect: Service
+text : Amazing staff, great quality and perfect service.
++1
+
+review_id : dQcANqAIQP3Vg-m1NyXIRQ
+aspect: Service
+text : Staff were friendly and cheery.
++1
+
+review_id : i8SNwhdqI7wbeXIZVSlBkQ
+aspect: Service
+text : It is rare these days to find companies that will be so focused on welcoming their clients in a warm matter.
++1
+
+review_id : XnfYu2EsEG0byidbi8gwqQ
+aspect: Service
+text : The service is impeccable.
++1
+
+review_id : ktmGzxb83PAo9G8jDWsBmg
+aspect: Service
+text : The service is always awesome and I love that you can buy huge tins and just bring them to get refilled!
++1
+
+review_id : aS7GlVjE1iZaOHRscphkrQ
+aspect: Service
+text : Prices are a bit higher than Marc's but cheaper than Giant Eagle, Heinen's, Whole Foods, etc. and the level of service is fantastic.
++1
+
+review_id : Hj0Joq_pog8xMWQ_QlBkgg
+aspect: Service
+text : I came here with a client today and service was friendly and warm, made me happy when they asked if we had been there before and if we wanted the menu explained.
++1
+
+review_id : OYp270Ax5aRKUJ7sTnm2OQ
+aspect: Service
+text : The staff\/service was very friendly, and the drinks were delicious and fairly priced!
++1
+
+review_id : qpR_-ZElK-l3LQA7XJN04g
+aspect: Service
+text : Service was very kind, both owners were knowledgeable and willing to share their ingredients and had a clear passion that'll definitely have me coming back.
++1
+
+review_id : gp7CmjZDvn5FyKOjhFzL_A
+aspect: Service
+text : The customer service did not disappoint.
++1
+
+review_id : v_cENfQrmxeApS2SWPd73g
+aspect: Service
+text : Quick drive thru service and they are always friendly!
++1
+
+review_id : ZAsddWQkC854uJvWPo0gdA
+aspect: Service
+text : The service and quality are amazing!!!!
++1
+
+review_id : lZut1lJn0TnhJbh7SXD5Iw
+aspect: Service
+text : It's always been fast with friendly service, even in bad weather.
++1
+
+review_id : V4No1O_5mDU6mv-7qeiq3A
+aspect: Service
+text : I've been three times and had really good service all three.
++1
+
+review_id : Ud2N7VhSTnHxphEHgslS7w
+aspect: Service
+text : Lots of flavors and excellent customer service.
++1
+
+review_id : lRLMuJZNM71DIs5D89Vg2Q
+aspect: Service
+text : Friendly cashiers and great customer service (once an employee checked the freezers in the back of the store and found a product that I was looking for that was not out in the general freezer location) make this my favorite Rabba location in the area.
++1
+
+review_id : n3rkdby70WVH_jEzr8T1jA
+aspect: Service
+text : Service is great and the food is always prepared quickly.
++1
+
+review_id : w9fwEv90N8Yx9Ivgd4PeoA
+aspect: Service
+text : The service definitely was not nearly as good as this Quail Corners location and they didn't have the Peanut Butter Cup flavor, I was devastated!
++1
+
+review_id : 4P0BemMQBrqK8A4PNOf2xQ
+aspect: Service
+text : Their service is unparalelled to anyone else there.
++1
+
+review_id : jZ4bjL-A4X1iFtRzzvPLBQ
+aspect: Service
+text : It's worth the drive if you want to learn more about tea and if you appreciate truly nice customer service.
++1
+
+review_id : opIakXMHg_G6pcIP6QPHMw
+aspect: Service
+text : This is my favorite convenience store to go to by far! Exceptional customer service, the main owner is super cool and always give the best deals!
++1
+
+review_id : 6xRrT-7eW4aoVPFS_-wdyw
+aspect: Service
+text : Very friendly service and everything is homemade on the premises.
++1
+
+review_id : 2f9nsyRloObnELzJ9cZ8_A
+aspect: Service
+text : The store is clean and most important of all great service.
++1
+
+
+
+
+
+

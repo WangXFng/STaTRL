@@ -1,0 +1,1067 @@
+review_id : O57rdBxAwY2WSd6Fk3Tm1w
+aspect: Service
+text: Doesn't even qualify as customer service.
+ -1
+
+review_id : sSvYxTYRs1jo6NAiI7vKwg
+aspect: Service
+text: They give conflicting information and give VERY bad customer service.
+ -1
+
+review_id : ZLoGKngkttBqByCgObKMMg
+aspect: Service
+text: The customer service was bad, i found them rude.
+ -1
+
+review_id : F8SO_6cLVF2qetbmuKXe_Q
+aspect: Service
+text:  I have never been treated so rudely by a service provider in my life.
+ -1
+
+review_id : 5QQBvXg152qfE55XPCFHwQ
+aspect: Service
+text: I felt bullied into leaving a tip for service not gotten
+ -1
+
+review_id : BlN-uU5FOGmPsEUF_qCUeA
+aspect: Service
+text: I am very unhappy with the service we received at the hound huddle, we have a puppy and we were told that she has too much energy and we shouldn't bring her anymore.
+ -1
+
+review_id : QuLGzjpZHK0ymhYhMWJ_8A
+aspect: Price
+text:  The price is high and the work is horrible.
+ -1
+review_id : rgvmoZUeyuT90qDpXpwN4Q
+aspect: Service
+text:   There is a new Owner, Mike, who is extremely rude and offers no customer service.
+ -1
+
+review_id : _cyQIXzdWH0wqZisM1Yyvg
+aspect: Price
+text: It also happened to be their most expensive harness.
+ -1
+review_id : dPux9cAbRzM6hLrcCRKBkA
+aspect: Price
+text: This place is overpriced and the items smell like an old lady's closet.
+ -1
+review_id : gWz0gQ_s6FNiJIue4IV06Q
+aspect: Service
+text: Poor customer service, lack of care or concern of how I was going to feed my horses when they had my money.
+ -1
+
+review_id : EKz5i95_V9PoY0FbzbWihA
+aspect: Service
+text: try to avoid this place for grooming service
+ -1
+
+review_id : oLWfTU5Mh21LyEnkL83bDA
+aspect: Service
+text: No customer service skills whatsoever and a smug, take it or leave it attitude.
+ -1
+
+review_id : qJiJdsk21XjGWWlH0BYg8Q
+aspect: Service
+text: Horrible customer service!
+ -1
+
+review_id : X5LLD6chyufL4JdWpCI-pg
+aspect: Service
+text: Friendly staff, decent customer service, many animals.
+ -1
+
+review_id : ZaeRRU7NmVON_fq9x3NBpA
+aspect: Service
+text: Way too expensive for the low quality of service they are proving
+ -1
+
+review_id : E_Ao2VWnjfmX1SuXLY9UtA
+aspect: Service
+text:   NO Customer Service Etiquette whatsoever!
+ -1
+
+review_id : hG5QZtPVpA7sX19vcJMfKg
+aspect: Service
+text: Terrible service with rude people on the counter.
+ -1
+
+review_id : SeEuquFotZlO6vTrJoYRXA
+aspect: Service
+text: We will not be using their services again
+ -1
+
+review_id : 6NPy7a7tdMXtWq6mDr-s9w
+aspect: Service
+text:  I pay more money  and get the worse service.
+ -1
+
+review_id : sjgCITatedeuBaA_-clbNA
+aspect: Price
+text: I think that they should be shut down permanently for selling overpriced Mutts and Cats and other animals.
+ -1
+
+review_id : ePRfl6JCAz-4m_2uvLVsdw
+aspect: Service
+text: What a waste of our money for poor and dishonest service!
+ -1
+
+review_id : xM-fGa4pOuq539W9A9bWJA
+aspect: Service
+text:  Read the more recent reviews and there is a trend of poor customer service, lack of professionalism and defensiveness.
+ -1
+
+review_id : MfpZjTpB4Z3D-Lehvm4UoA
+aspect: Price
+text: They are way overpriced with their stuff and the female red headed manager is extremely rude.
+ -1
+
+review_id : mrMd9cW6Sw9TttuPQnbtrw
+aspect: Price
+text: Overpriced and lacking in communication skills.
+ -1
+
+review_id : -uWt6yEUwa5Tsco2Oefs3w
+aspect: Service
+text: I am highly disappointed with the service.
+ -1
+
+review_id : 6fjaqHE-v0bU0AgK98gV0Q
+aspect: Service
+text: Essentially, customer service is so bad I moved vets because of HER.
+ -1
+
+review_id : FH43iWvyEf8CHKm9ryS90w
+aspect: Service
+text:  Unacceptable, unprofessional, and just plain horrible customer service.
+ -1
+
+review_id : FH43iWvyEf8CHKm9ryS90w
+aspect: Service
+text: Anyone thinking about taking your dog to this place just look at their unprofessional response to my review and you can see how poor their customer service is.
+ -1
+
+review_id : sA8NAdwhK5RGp-SMwgE9Tw
+aspect: Price
+text: We were also quoted one price and paid well over that.
+ -1
+
+review_id : 0RYcna0eMD-jkf222dROJA
+aspect: Service
+text: I guess customer service has gone to the dogs....
+ -1
+
+review_id : lJjLr5TiUQ32CrbXsCyuUQ
+aspect: Service
+text: Such horrible customer service.
+ -1
+
+review_id : 3-2sSQmMMl20NEgvRHXJrw
+aspect: Service
+text: Poor and incomplete service.
+ -1
+
+review_id : kKbgTKqVi95ufji7gNie6w
+aspect: Service
+text: No need to ask for customers service cuz it will take you no where .
+ -1
+
+review_id : X-qCIKN8Ajf4A_smhe2IrA
+aspect: Service
+text: In summary: Extremely poor customer service.
+ -1
+
+review_id : gFnV9S0T-c3rBQQBfKAfKA
+aspect: Service
+text:  Nothing is worse then poor customer service when you have been loyally using a service.
+ -1
+
+review_id : Mib15fm9nO4vEGubPNeh7A
+aspect: Service
+text:  Never experienced a rude customer service call like so.
+ -1
+
+review_id : xU0_MJEQFEV2O9CP1vZEwg
+aspect: Price
+text: High pressure, ultra high price, scare tactic approach.
+ -1
+
+review_id : 3sYyCBa3_zSQbKshf8MSsA
+aspect: Price
+text:  I was charged $90....absolutely crazy price for a small dog to be groomed...will NEVER go back!
+ -1
+
+review_id : ZRHLD17SZhSX3NHn-jrTuQ
+aspect: Price
+text: I found them to be unclear, deceptive, overpriced and at times even ignorant.
+ -1
+
+review_id : ZRHLD17SZhSX3NHn-jrTuQ
+aspect: Price
+text: They suggested expensive tests with no clinical implications and misquoted prices.
+ -1
+
+review_id : mGpWHorbsdwPW873AOvcpA
+aspect: Price
+text: Prices are all over the place and subject to change it seems at whim.
+ -1
+
+
+review_id : CnTXMT45k4mYf71UZwF4pA
+aspect: Price
+text: Very dark, Smells like urine, and over priced.
+ -1
+
+review_id : gRMVFArzJlggTvE4oZJucA
+aspect: Price
+text:   Of the 3 or so times I have gone in here in the past year, I leave frustrated with nothing in hand because either it is ridiculously overpriced or out of stock.
+ -1
+
+review_id : G3Kg-rGNrYpO3S5_1Rl_Xw
+aspect: Price
+text:  Smelled awful and WAY WAY overpriced for this type of environment.
+ -1
+
+review_id : oqs4u2z58roSBsu9wUqZ3A
+aspect: Price
+text: Do no go unless you want to pay for overpriced products and to treated less than a human being.
+ -1
+
+review_id : bgDGTbOkk-_IpAZagWAAHw
+aspect: Price
+text:  Jason will always order the biggest most expensive first and then tell you this is all they have or just play stupid.
+ -1
+
+review_id : T7e3oaHwchIPqfCm-B79DA
+aspect: Price
+text: It is completely overpriced and it was the first and last time we went.
+ -1
+
+review_id : FV_P1btUBdAGbRh2_q-EIw
+aspect: Price
+text: This woman always tries to up-sell her overpriced services which are not even effective.
+ -1
+
+review_id : rKEuDHqWpLtuFzP6ZKnC6A
+aspect: Price
+text: The prices they charge are crazy.
+ -1
+
+review_id : xaAOTLJF52NssTKUqNLAug
+aspect: Price
+text: This has been a very expensive and time consuming proplem and one that you should be cautioned about.
+ -1
+
+review_id : M7t6bblN3-iWsFGzuS0eGQ
+aspect: Price
+text: This was the WORST cut my dog has ever received and also the most expensive.
+ -1
+
+review_id : AXByONgJ1pd3o3lPHcPCDQ
+aspect: Price
+text: That because these ingredients are so expensive, he's going to need to charge more.
+ -1
+
+review_id : 5Mjrrto4eWV3rSABrDFScQ
+aspect: Service
+text:   We Will NEVER use his services again!
+ -1
+
+
+review_id : -7naagJuc7Qn0yEC9783Tg
+aspect: Service
+text: And we are very disappointed in the customer service, especially as the person we spoke to said that they don't intend to look into this at all.
+ -1
+
+
+review_id : AT7ETpPzt0MJqrjgvHdBtQ
+aspect: Price
+text: Worst store I ever stepped foot into, over priced and not friendly.
+ -1
+
+review_id : Virk9jgmTs2tKidcEOehqA
+aspect: Price
+text:  They are expensive for starters.
+ -1
+
+review_id : p9gMh4gKrdjC5Nz0DSO1XQ
+aspect: Service
+text: But, my real issue with Tails R Waggin and the reason for a One Star rating is the incredibly poor customer service, poor management, and general lack of respect.
+ -1
+
+
+review_id : v3tfnZezDdFlaSYxloLQuw
+aspect: Service
+text:   Horrible customer service, mislead us twice about when things would ship, made promises they could not keep.
+ -1
+
+
+review_id : 5RJJ97GcpluQHG2GbeKxiA
+aspect: Service
+text: My husband and I just got a new puppy and so I called to know\/learn more about their facility and their services.
+ -1
+
+
+review_id : vKx6HqSvHC-wNEgHrQhJGQ
+aspect: Service
+text: Terrible Customer Service and the staff have No Idea what they are talking and to top it all off they give completely opposite and wrong advice just so you spend the money on things that you are not looking for or need.
+ -1
+
+
+review_id : l94Ej-E_16Q1b2lex_KZsQ
+aspect: Service
+text:  Terrible Customer Service since the first time that I dealt with them!
+ -1
+
+
+review_id : l94Ej-E_16Q1b2lex_KZsQ
+aspect: Service
+text: My dog has been sitting here for 1 and half weeks now waiting for her prescription all because of their incompetence and terrible customer service
+ -1
+
+
+review_id : ABbOfualJ8PsmMZX1s2alwI 
+aspect: Price
+text:  I have always thought highly of this vet office aside from their outrageous prices, until today.
+ -1
+
+review_id : ABbOfualJ8PsmMZX1s2alwI 
+aspect: Service
+text: I am not returning because of the rude customer service.
+ -1
+
+
+review_id : w-rg80n9gM40y9xWDZyKuA
+aspect: Service
+text: Horrible service, I didn't take my quote from them and will NOT be doing any business with them.
+ -1
+
+
+review_id : 7_A3GMYKOyr-okKBefk68w
+aspect: Service
+text: I would never recommend this place and the shoddy customer service and indifferent attitude will one day out this place out of business.
+ -1
+
+
+review_id : 8qHlkn3B0CscMDedHhqvGw
+aspect: Service
+text: Terrible customer service.
+ -1
+
+
+review_id : sbVZypc8ybnJR0pinMo3iQ
+aspect: Service
+text: We just took our dog to your Mcknight road location and we are extremely unhappy with the service.
+ -1
+
+
+review_id : PHcjCuf1VMmUK9fzwrhc6g
+aspect: Service
+text: We choose to publicly document our bad experiences, especially with those persons\/companies who lack basic customer service and communucation skills, to the benefit of other readers.
+ -1
+
+
+review_id : m6r6irCBdGz7yFJMQ7zkkQ
+aspect: Service
+text:  I have found that they are grossly overpriced, and the service leaves much to be lacking.
+ -1
+
+
+review_id : m6r6irCBdGz7yFJMQ7zkkQ
+aspect: Price
+text:  I have found that they are grossly overpriced, and the service leaves much to be lacking.
+ -1
+
+review_id : rUEW-9iSTXLOkH_KxIr9mw
+aspect: Price
+text: Way over priced, very expensive just to get a evaluation.
+ -1
+
+review_id : 5ox3xxc-FqdTviMqGZWCwg
+aspect: Service
+text: This is the worst service ever.
+ -1
+
+
+review_id : Q_EjF2o6FPI_1vA_yYQxJA
+aspect: Service
+text: Friendly staff, but poor service for the money.
+ -1
+
+
+review_id : ngo8sKX0BQ5ddUuKSsshPg
+aspect: Service
+text: rude and abrupt customer service as usual and always out of stock for treats!
+ -1
+
+
+review_id : Udeab_iFcsGS_gL4u57oVw
+aspect: Service
+text: The absolute worst customer service I have ever experienced.
+ -1
+
+
+review_id : W9XAZXJ1p3frNFG0F9PCZw
+aspect: Service
+text: Let me tell you how horribly disappointed I was with the customer service at this location.
+ -1
+
+
+review_id : NPUAy-wAgFRG0FI0xoDOqw
+aspect: Service
+text: NOT SERVICES - which could be justified if they were providing superior service - but PRODUCT.
+ -1
+
+
+review_id : vKWV0ayeXIb5yTkQVC8GrA
+aspect: Service
+text:  Horrible Customer Service.
+ -1
+
+
+review_id : zkWhTD0f_XOnf2Gm3spTIg
+aspect: Service
+text: Customer service was horrible and they will try to get over on you.
+ -1
+
+
+review_id : 0Uu2Db1YHzNTkY4nB6_zDw
+aspect: Price
+text: Very expensive but we were willing to make the investment to continue her growth and development.
+ -1
+
+review_id : mB30sri-FJgxioSLEpcPrg
+aspect: Price
+text: Very over priced pet toys were double of what pet smart charges better get chew toys from Walmart as they are way cheaper there
+ -1
+
+review_id : LDGFv9wemAaLUAXlEfA3bQ
+aspect: Service
+text: It is one of the best selection bird shops I have been and ironically the worst service ever!
+ -1
+
+
+review_id : njYTq05-4whGPWy3QZELFw
+aspect: Service
+text: Worst customer service, do not come to this shop!
+ -1
+
+
+review_id : EvzGEjskT7a88Cdb2Dwx3w
+aspect: Service
+text: They cannot retain skilled groomers, do not show any signs of empathy or customer service at all.
+ -1
+
+
+review_id : 0J9_pFQs1o19whWi3Cv6aQ
+aspect: Service
+text:   He lacks any sort of customer service skills and actually hung up on me when I called to ask a question over the phone.
+ -1
+
+
+review_id : p3yf5LPcnx67qkdqayQtfQ
+aspect: Price
+text: When I was unhappy with the price after spending over $700 already she said she wanted to just treat her without knowing what was wrong.
+ -1
+
+review_id : xTn4lYdWqrXgBWu2RD9MBA
+aspect: Service
+text:  The service this time around was horrible and made me uncomfortable especially  after I told the nurse that her attitude was unprofessional and she yelled at me and slammed the door.
+ -1
+
+
+review_id : Av6i_LVzbPecfyZofQWS1g
+aspect: Service
+text: No apology from customer service to even try to make this right.
+ -1
+
+
+review_id : wNpJMfDVsiC2Qn2l8KNofw
+aspect: Service
+text: worst customer service i have called mark since nov to come look at my tank to do maintenance  after being told time after time he would call me to come by 4 months later he shows up then tells me he will get me on the schedule.
+ -1
+
+
+review_id : VRWn3_nRMp-zAEgvGlbcVw
+aspect: Service
+text: Very poor customer service.
+ -1
+
+
+review_id : kyfUd8bgYl8K7AuWuHmcSw
+aspect: Service
+text: Long story short this shop is far from quality customer service.
+ -1
+
+
+review_id : XBPKzMz3--WgzOpZyCxmPg
+aspect: Service
+text: I have found that this rescue agency is extremely careless and obviously lacks basic customer service skills.
+ -1
+
+
+review_id : cBdOKXmYbNEveewsQH4F9w
+aspect: Service
+text: I will not be taking my dogs back, not because of poor service, but because of complete dishonest practices.
+ -1
+
+
+review_id : Q0500dJTwZJhV-mozOPlBg
+aspect: Price
+text:  The prices are probably high due to location.
+ -1
+
+review_id : DqNaxFkdLTrz3xjAnh4J5Q
+aspect: Price
+text: This medication is extremely expensive and has significant side effects but I gave it to her daily at their instruction.
+ -1
+
+review_id : N50mREw7Fzbp000ZLsaUtg
+aspect: Service
+text: The manger was extremely rude, didn't give good customer service at all.
+ -1
+
+
+review_id : mjlpWhYpouI8PZ94k8-fpw
+aspect: Price
+text: Puppies stuffed into cages, no interaction, over priced mixed breeds, no information about where they come from, and absolutely no way of viewing the parents of these pups!
+ -1
+
+review_id : 3JgPd8XvT0dFh2-9v19r1Q
+aspect: Price
+text: This is all completely aside from the very high prices they want to charge (which we would have paid anyway if it meant saving a dog instead of getting one from a breeder).
+ -1
+
+review_id : bpLUVpRGgm3-erKvypg0iA
+aspect: Service
+text: I am sure that Nate is as fantastic of a trainer as everyone says he is, but I found that a lack of communication, poor customer service skills, and I guess difficulty coming together between both of our schedules made this trainer a bad fit for us, so I'll never know.
+ -1
+
+
+review_id : VzNiuiUR1p2VgYdeCOvRGg
+aspect: Service
+text: They have no sense of customer service, and no sense of general  human fairness.
+ -1
+
+
+review_id : 916LPyixioGv8vDnDBkXxw
+aspect: Service
+text: Very poor updated service, cost us almost $500.00 and they wanted even more for unnecessary x-ray's.
+ -1
+
+
+review_id : GTrjy1hEWwffaf8_5mPd2g
+aspect: Price
+text: Nice place with nice bird selections, but highly overpriced.
+ -1
+
+review_id : GTrjy1hEWwffaf8_5mPd2g
+aspect: Service
+text: He's making a huge profit already and doesn't have customer service skills.
+ -1
+
+
+review_id : KK0Au76HS3TjDYaxqLFEEA
+aspect: Service
+text: Forbes and the poor customer service provided.
+ -1
+
+
+review_id : gPfO6kYkUKoGtsTHA_rylw
+aspect: Service
+text: The fact that I was willing to shell out $60 for a 4 week class that I didn't really need should have resulted in some better customer service.
+ -1
+
+
+review_id : ZEAewrkm8Wb5kZDd7a3arg
+aspect: Price
+text:  That is when we found out that this extremely expensive training (we purchased the $1500 one for 6 lessons) was non-refundable.
+ -1
+
+review_id : puomytCrV1GOkivJToNV9g
+aspect: Service
+text: No customer service skills & I do not feel comfortable taking my dog their any longer.
+ -1
+
+
+review_id : M8M4LBXcQ32ObftoVuCxPQ
+aspect: Service
+text: I cannot imagine worst service especially having gone to other pet stores where individuals are friendly and helpful!
+ -1
+
+
+review_id : M8M4LBXcQ32ObftoVuCxPQ
+aspect: Service
+text:  Absolutely no regard for customer service or care, nor was this a policy since he had no problems refunding my other item.
+ -1
+
+
+review_id : PvyD7ut4Ee2M4UL6df-xAQ
+aspect: Service
+text: And the customer service at the cashier is terrible.
+ -1
+
+
+review_id : UynjOp5QiM0LnCsfBB1gtw
+aspect: Price
+text: I would NOOOOOT recommend going here as this poor dogs are sick & way over priced.
+ -1
+
+review_id : akPelkpDg1_ATZNwaMn4Uw
+aspect: Service
+text: Was told this is why they don't recommend booking services using the app.
+ -1
+
+
+review_id : CmYR4BrFoXBjFOoQ9K06Yg
+aspect: Service
+text: Although we really liked the groomer at this location, their customer service is HORRIBLE.
+ -1
+
+
+review_id : CmYR4BrFoXBjFOoQ9K06Yg
+aspect: Service
+text:  Of course, I found this practice frustrating & inconsiderate, so I made a comment to my daughter about liking the groomer, but not the customer service.
+ -1
+
+
+review_id : oH0BsHaqjk8AKvr3P3DaRQ
+aspect: Service
+text: Worst people on earth, horrible attitudes, years of terrible service.
+ -1
+
+
+review_id : BgFRRzsF3b3M5VwWx9ncbg
+aspect: Service
+text:  Ill never recommend her service to ANYONE!
+ -1
+
+
+review_id : ymA5GbW2n9sDM4YYFbos7w
+aspect: Service
+text: I walked out furious after commenting on rudeness and lack of service.
+ -1
+
+
+review_id : hGv6cu--8yrmSGiMtGEhAw
+aspect: Price
+text: The \"weekend convenience\" is not worth the price.
+ -1
+
+review_id : E6VZmg-n0ias_AJO5ltiOA
+aspect: Service
+text: The owner was rude and did not even apologize for the horrible service.
+ -1
+
+
+review_id : gHm-9vCDBA3PDJcVQ4tBbQ
+aspect: Service
+text:  customer service is awful.
+ -1
+
+
+review_id : a4WH4u1zSldIpspeVAUcvA
+aspect: Service
+text: The worse customer service I have ever experinced.
+ -1
+
+
+review_id : lr1mjDnr542ovRNQYJSolA
+aspect: Service
+text: There customer service is terrible and I dread to see the craftsmanship of my dogs collar.
+ -1
+
+
+review_id : skYNwedfDp11ezlvTBuEyA
+aspect: Price
+text:  Always seemed overpriced.
+ -1
+
+review_id : BF0bAOmv1Jln8FrVEAoRRQ
+aspect: Service
+text: I was taken back by the rudeness and lack of customer service.
+ -1
+
+
+review_id : d-vp1kPO9AB3rtYDIFc8qA
+aspect: Service
+text: i'm never going back there and i hope this review helps someone out there to avoid the bad service!
+ -1
+
+
+review_id : DvPYKrKHnyPJOudl2QmTWw
+aspect: Service
+text: Policy aside it was just terrible customer service.
+ -1
+
+
+review_id : gvMc_Bfjb64rjIrp3rqB3w
+aspect: Service
+text: We received very poor customer service while visiting the self service dog wash.
+ -1
+
+
+review_id : i3t7uXlaScNYtV5Fk2_WLw
+aspect: Service
+text: Can't believe the terrible customer service!
+ -1
+
+
+review_id : hDaxGDnRdG9WczUHEiCrzw
+aspect: Service
+text:  Poor customer service on Susan & her team means I cannot recommend them to others
+ -1
+
+
+review_id : llYRhVRgIJ5GWTJwrQMz8Q
+aspect: Service
+text: I am VERY DISAPPOINTED in the service from this company.
+ -1
+
+
+review_id : U7Tu0fIXaZwkbbpmKWY5Qw
+aspect: Service
+text:  Probably the worst customer service I've EVER received.
+ -1
+
+
+review_id : ZM_uW5FDFpUnUnhwHb-uDw
+aspect: Service
+text: We had gone several times last year but stopped because we didn't like the service.
+ -1
+
+
+review_id : pLKvn0b3zPVdbsITeKcPMQ
+aspect: Service
+text: Using this service was truly heinous.
+ -1
+
+
+review_id : pLKvn0b3zPVdbsITeKcPMQ
+aspect: Service
+text: In my opinion, these people don't have any customer service or grooming skills.
+ -1
+
+
+review_id : Y14rhl_fNFnpt3MkvQhw9w
+aspect: Service
+text: Poor customer service by the owner, Shauna!
+ -1
+
+
+review_id : Z-8SZHS5G1pAxZCNlm-nOw
+aspect: Service
+text: All in all I think A Leg Up is a poor service that really doesn't go the extra mile for the dogs.
+ -1
+
+
+review_id : Snq6F-URy4IvXZkVB2YJdQ
+aspect: Service
+text: This is unrealistic and again unacceptable service.
+ -1
+
+
+review_id : Snq6F-URy4IvXZkVB2YJdQ
+aspect: Service
+text: This is also our very first experience with using embrace and I am, again, very disappointed with our service.
+ -1
+
+
+review_id : AvWeHuhzATZwmYMRBK3qJQ
+aspect: Price
+text:  This has been heartbreaking and expensive.
+ -1
+
+review_id : eShGAYX1k1IXah20wvF59w
+aspect: Price
+text: As soon as I talk to the vet it just seemed like they wanted me to purchase their one year plan which seemed expensive.
+ -1
+
+review_id : QuyK1RVZe0g8b94e92uLKw
+aspect: Price
+text: There very expensive, and you sure do not get your moneys worth, I fired them\/him (He kept saying it was his company, but there using his daughters name for tax reasons)after 2 so called secessions, about 20 minutes each, where all I did was write and be talked down to, he's in a speed race to leave, but, he sure knows to get that check.
+ -1
+
+review_id : 0dC-TqYkxstvPObpVYyziw
+aspect: Price
+text: I have to put my kitten in very expensive intensive care ($1000+) for the next 24-48 hours as the condition went too long without proper treatment.
+ -1
+
+review_id : aVuG8B5yta46SxMoQXW81w
+aspect: Price
+text: She gave us a script for steroids, the most expensive ear meds on the market and a special shampoo.
+ -1
+
+review_id : ZemeVg-sUMNk9hblZDAL7A
+aspect: Price
+text: Your items are too expensive for a thrift store.
+ -1
+
+review_id : k3A8tAAWfDt_3ilgaFmyNg
+aspect: Price
+text: We paid our very expensive vet fee (in which she basically did nothing) and left, but the next day, his ears were completely filled with the same black gunk again.
+ -1
+
+review_id : f9LnvxppTOuw5uf2mZnB9g
+aspect: Price
+text:  A few weeks ago,  I brought my cat in, she recommended to go through all kinds of unnecessary expensive tests.
+ -1
+
+review_id : 2iKXRJMgF4wPJhr7QTHoHQ
+aspect: Price
+text: I asked why it was so expensive, and Dr Badri said the surgery was more complicated than expected.
+ -1
+
+review_id : 2iKXRJMgF4wPJhr7QTHoHQ
+aspect: Price
+text: I can't believe how expensive her care was and I realize now how privileged I am to have been able to pay for it]
+ -1
+
+review_id : nc6LAL6xhCkLZSZPPMn17A
+aspect: Price
+text: They quote the most expensive option every time and mock you if you refer to reading up on the issue your dog has prior to coming in.
+ -1
+
+review_id : 8aFB72G3JF8g0YC-x-MIBg
+aspect: Price
+text:  I ended up having to put the one cat on RX food, purchased from the vet which is very expensive to try to get the vomiting under control.
+ -1
+
+review_id : vtbNPX03KdLGTgaNdKKPbQ
+aspect: Price
+text: The prices are so expensive as usual
+ -1
+
+review_id : xskP9vdHLMTnYzOF0qPu8Q
+aspect: Price
+text: The doctor on site didn't have a clue about the issues, was completely unprofessional and this whole experience was awful and really expensive.
+ -1
+
+review_id : FQZA3nmGI5gxWsfQ5yCG5A
+aspect: Price
+text: Crowded, expensive, no regard for people's time, no caring about the animals, pushing expensive \"prescription\" diet food and remedies...
+ -1
+
+review_id : k7o_IsZEoYIQZNEfSNrKXA
+aspect: Price
+text: Barnes at Del Lago last year and it was a bit expensive but I was told that all of his front teeth were stitched in to ensure they were stronger.
+ -1
+
+review_id : 6VJ__w6_QGdE4YSsc9NPJg
+aspect: Price
+text: They are expensive and do a very poor job!
+ -1
+
+review_id : OokINzEWy3hKAvH6rhDLww
+aspect: Price
+text: Incredibly expensive and they don't seem to care about if the fish are taken care of properly.
+ -1
+
+review_id : 4__iX5hWlmXIRxeJ1R_0WQ
+aspect: Price
+text: Honestly way too expensive for the shoddy work that I got, and she told me, \"you think that's expensive it's going to be $90 next time.\" I pay for service.
+ -1
+
+review_id : TqfYvfZfSNy7UaA_65m95A
+aspect: Price
+text: This inconsistency is extremely frustrating, especially when it's so expensive.
+ -1
+
+review_id : coI_O6rzvom1iSFrvA5Qyg
+aspect: Price
+text:  Unfortunately, the wait is extremely long and the care is expensive.
+ -1
+
+review_id : vCprMMyXpet1C97n8Lf-ag
+aspect: Price
+text: We're sad to leave, but visits are pretty expensive and we're just not comfortable with the new staff.
+ -1
+
+review_id : LmmxKY_p3mydBlr6poNFXw
+aspect: Price
+text: One of the beds I purchased, which was the most expensive, had a zipper that broke after the first time I washed the cover.
+ -1
+
+review_id : HthfiA8rChSB-ApKUOfXrA
+aspect: Price
+text:  They are bit more expensive than their competition.
+ -1
+
+review_id : LNDbXah_JWkwvOxNKowVJg
+aspect: Price
+text:  Very expensive for a vet that has no idea what she's doing!
+ -1
+
+review_id : o1_Yj_tV3Yic94A-f4dxvA
+aspect: Price
+text: This place is very expensive.
+ -1
+
+review_id : lu4eKIYlYt1GnoXyXvwItA
+aspect: Price
+text:  Trying to cancel the very expensive health plan now for both dogs.
+ -1
+
+review_id : bJquC4JsWTVm7tAUbXar1Q
+aspect: Price
+text: First off, it is WAY expensive.
+ -1
+
+review_id : 4gV7ycDxWLQTOfJkxpzVeA
+aspect: Price
+text: We would never go back to that clinic and it was expensive.
+ -1
+
+review_id : zfA1qvj9KayVgZGJ_IBMDA
+aspect: Price
+text: Not good at all-very expensive, kept adding all sorts of  unecessary tests, madly trying to upsell treats and toys and junk to me at the counter when I was checking out, won't be back.
+ -1
+
+review_id : SBadSehDejCtFEB7fs1zgg
+aspect: Price
+text: And he is  the most expensive or more appropriately overpriced vet in North America.
+ -1
+
+review_id : fWNYlGMDMG9lDXiR1UnejQ
+aspect: Price
+text:   They will also make you sign a waiver that allows them to clip your dogs nails, feed them their expensive food and provide other treatment that they deem necessary then charge you for it when you return to pick up your dog!
+ -1
+
+review_id : LqoXYDatm7hOTp3KPD3A2Q
+aspect: Price
+text: We followed the prescribed dietary protocol for 2yrs (very expensive, but He was worth it!
+ -1
+
+review_id : 4Xn4Mo4fl6qLRPHsYqcDzA
+aspect: Price
+text: for two days my puppy didnt eat or get up from his bed and he peed blood i took him back and told them that the medicine gave him this  side effects they charged me for the visit and the blood work for something they caused i dont think it was fair i changed to pet lovers and friendly doctors and less than half of the price they are too EXPENSIVE.
+ -1
+
+review_id : P6MnO4KVC0oPmRUX5I2KbA
+aspect: Price
+text:  Of 5 estimates, this company was by far the most expensive.
+ -1
+
+review_id : XYltMIIMNmJJW-tMaey0Ng
+aspect: Price
+text: We've had far better care and service at the Downtown Animal Hospital - although it's also quite expensive.
+ -1
+
+review_id : MaW6BK3SX94WIx-ZT-gbkA
+aspect: Price
+text: Staff has high turn over, never apologizes for the wait, expensive for mediocre care.
+ -1
+
+review_id : TV_n222rKcPkmuTH4HSJMA
+aspect: Price
+text:  I dont mind paying $ to make my dog feel better but Dr Siglars office is very expensive and not worth it especially since they gave me wrong information.
+ -1
+
+review_id : WUFFCvUC6pvgi3SYWqvT1g
+aspect: Price
+text: Also, Links Road did NOT do any followup whatsoever on the very expensive blood work that I paid for to make sure my rabbit is not deficient in any crucial vitamins.
+ -1
+
+review_id : wUNs5ang-ZD5G0ApB4gZaw
+aspect: Price
+text: I paid for expensive tests and still nothing.
+ -1
+
+review_id : rocjvjKSCku6DFZv6feOIA
+aspect: Price
+text: Dishonest in how they bill and very, very expensive.
+ -1
+
+review_id : hDmVhQkmjYGIMP6KRQQqqQ
+aspect: Price
+text:  Prices for livestock are way too high.
+ -1
+
+review_id : hDmVhQkmjYGIMP6KRQQqqQ
+aspect: Price
+text: Bird department:  Live stock extremely overpriced, and larger birds are longing for interaction.
+ -1
+
+review_id : KmdtcYjQNyFKdjroraZj-A
+aspect: Price
+text: Price is already high to begin with.
+ -1
+
+review_id : maN0_KYG6MZUASHb4yn4og
+aspect: Price
+text: Not to mention in the end, she was COMPLETELY overpriced.
+ -1
+
+review_id : rpJv4lobaE95ON4zYor8tA
+aspect: Price
+text: Please don't waste your money
+ -1
+
+review_id : eZ7k5kHWFU_hHgX_3kqFPg
+aspect: Price
+text: Gave this place a lot of business over priced and will not be going back.
+ -1
+
+review_id : IcXXudDzygUejo3krkcpgQ
+aspect: Price
+text:  The services they do for the monthly payment you pay is completely over priced!
+ -1
+
+review_id : B2mX4vn9rK5OpNdmcQGBog
+aspect: Price
+text: I started my search for a French Bulldog and had decided between two breeders, one that was closer to home but the price was a little too unbelievable, and this woman.
+ -1
+
+review_id : LpjpfBleuvqpynmPzYm_zA
+aspect: Price
+text: This place is a rip off both the vet and specially the grooming you pay the highest price for the worst service of your life.
+ -1
+
+review_id : XhxN4ZSEPPamP4uteEp4nQ
+aspect: Price
+text: overpriced and most of the time incompetent.
+ -1
+
+review_id : ZCNliya66QMX4DAuR6AehA
+aspect: Price
+text:  The prices are unbelievable!
+ -1
+
+review_id : NxdlH7ff_zTR1yChNPLtqw
+aspect: Price
+text: I told them that i couldn't afford their over priced surgery and they told me to go to the Humane Society!
+ -1
+
+review_id : z749A4vUbJsTHe3bBpeRVQ
+aspect: Price
+text: I told them that i couldn't afford their over priced surgery and they told me to go to the Humane Society!
+ -1
+
+review_id : klCjlX4QXapbwPOiD5afgQ
+aspect: Price
+text: Ridiculous prices for everything available.
+ -1
+
+review_id : qQRT-aeFQ9Qf8LmIA4s3oA
+aspect: Price
+text: Nice office, took my new puppy here for all of his beginning stages shots but very overpriced for vet services and really difficult to get a nexguard & heartguard prescription since they want to sell you their grossly overpriced meds.
+ -1
+
+review_id : phfujhxFopiNXNs34dFdGg
+aspect: Price
+text: super stinky, bad service and over priced.
+ -1
+
+review_id : _J5Ny8WkdjvBIYhZXs0CBw
+aspect: Price
+text: Eglinton-Hwy10 recommended immediate surgery for a very high price and quickly offered a number of payment plans to help me decide (the cost was several thousand dollars!
+ -1
+
+review_id : oqeMS-cYRS5L6FInzBJqVg
+aspect: Price
+text: Poor quality, expensive prices, don't bring your Samoyed here.
+ -1
+
+review_id : Z3-218z_DGL0oT2fz2yZcQ
+aspect: Price
+text: their stuff is overpriced , low quality and they always try to push extra useless stuff on you .
+ -1

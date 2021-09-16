@@ -1,0 +1,1106 @@
+
+review_id : oDmvN1XnnysZh_QJWLQN1A
+aspect: Service
+text: Front desk receptionist needs a lesson in customer service.
+ -1
+
+
+review_id : 8aQ_-HEnWYazAfUFUu2W4g
+aspect: Price
+text: Sadly, an entire waste of time and money.
+ -1
+
+review_id : hFyWd179vMWNHoJLoks4QA
+aspect: Service
+text: I'm amazed at their poor customer service.
+ -1
+
+
+review_id : sZhOg0VmETiiXOaiOZZygA
+aspect: Service
+text:   I phoned her back only to be told no apology, no I am sorry, no customer service skills whatsoever.
+ -1
+
+
+review_id : ZZtfzwyTp693fNU1dzKppg
+aspect: Service
+text: From a customer service stand point, worst I've ever seen.
+ -1
+
+
+review_id : 39hPknN1bYcXgJlCt6WQCw
+aspect: Service
+text: We have been through treatment, and now the follow ups, and I must say that the service in his office is horrendous.
+ -1
+
+
+review_id : 8Y1F98e9ZspstX3q9dZehQ
+aspect: Price
+text:  Not only was I disappointed about the price, but the sale associate was rude and didn't care about what had happened.
+ -1
+
+review_id : h4L2N1Iz8n6CKTikRAIwog
+aspect: Price
+text: We saw the same product in Carolina's mall in sears Optical's at a way lower price point.
+ -1
+
+review_id : z1_giVTKelKEUheDJaIc2g
+aspect: Service
+text: I also liked that they weren't shy that they provide abortion services.
+ -1
+
+
+review_id : z1_giVTKelKEUheDJaIc2g
+aspect: Service
+text: I greatly admire doctors who provide abortion services and I admire the ones who don't mind hiding that they provide this procedure.
+ -1
+
+
+review_id : L0R0B5cAPi9N5N0J_oW1dg
+aspect: Service
+text: What a joke this place is worst customer service and lack of professionalism by this doctor raj!
+ -1
+
+
+review_id : X-n9Vhp6mpzOWrrPcG2QSA
+aspect: Price
+text: When I wouldn't ask my elderly parents to pay for the expensive treatment she wasn't happy.
+ -1
+
+review_id : FTz6IxDJlppTZ2dgjlb6xg
+aspect: Service
+text: I indicated that this is poor customer service and poor patient care.
+ -1
+
+
+review_id : 8MD8cu4TQ_Ja2RMcI1X5WQ
+aspect: Service
+text: If that doctor has awful wait times and horrible service, patients will leave.
+ -1
+
+
+review_id : eq_MoRPtq47sZQt0CplXVQ
+aspect: Service
+text: Horrible service, poorly managed operation with too much time spent on operation table.
+ -1
+
+
+review_id : 10ZkY_4udJ6zLMBO1wHTaQ
+aspect: Price
+text: I warn everyone to save your money and  go to a normal doctor thy cares and will work with you.
+ -1
+
+review_id : -a0EtVQ0xIlpBb9aviocyg
+aspect: Price
+text: Call back or anything, once they have your money, you're on your own.
+ -1
+
+review_id : qzQ5HOgIV5Pt5FZpDrBiWw
+aspect: Price
+text: About a year later things looked fogy and dim I could no longer read thinking I needed glasses and now a waste of money for these lenses.
+ -1
+
+review_id : qzQ5HOgIV5Pt5FZpDrBiWw
+aspect: Service
+text: For the extra amount of money I spent for these lenses it was a waste of money as well as very poor service from a doctor who doesn't bother to take the time with each patient to really explain things before he hurries off to see another patient.
+ -1
+
+
+review_id : qzQ5HOgIV5Pt5FZpDrBiWw
+aspect: Price
+text: For the extra amount of money I spent for these lenses it was a waste of money as well as very poor service from a doctor who doesn't bother to take the time with each patient to really explain things before he hurries off to see another patient.
+ -1
+
+review_id : lqC-N9dJ7iUPMBJ17OlBdg
+aspect: Service
+text: I have to say I'm highly disappointed in the services I received here.
+ -1
+
+
+review_id : WnNfDz1P9jATxjxX7WbHmw
+aspect: Service
+text: Very bad services and inconsiderate!
+ -1
+
+
+review_id : WnNfDz1P9jATxjxX7WbHmw
+aspect: Service
+text: Very disappointed that I have to change doctor due to the poor staff services!
+ -1
+
+
+review_id : lOLtHHovvAMoJrvpfFqcag
+aspect: Price
+text: Don't waste your time or money here.
+ -1
+
+review_id : PrnN9478MmHbNnvEWVKlRw
+aspect: Price
+text: Great on setting apts however extremely expensive & IF YOU DO NOT follow their orders & do all 3 injections in each set they will not refill prescriptions for you.
+ -1
+
+review_id : klTB0TDc1EJ6pxItzZPZsA
+aspect: Service
+text: Trupin's service was remarkably rude, impersonal, tactless, and wholly without care of a miserable shred of the patient's well being neither during the procedure nor after.
+ -1
+
+
+review_id : klTB0TDc1EJ6pxItzZPZsA
+aspect: Service
+text: I feel traumatized by her lousy service and inexistent care for patients.
+ -1
+
+
+review_id : 3kSmrqfRzO1lkUtcbW3Z7Q
+aspect: Service
+text: Poor service, billing operations, and overall care.
+ -1
+
+
+review_id : A-__GPc2aIMV73hRcSTYBA
+aspect: Service
+text:  HORRIBLE CUSTOMER SERVICE!
+ -1
+
+
+review_id : RN2Js2qU499foQnuYzasWw
+aspect: Price
+text: They do a comprehensive and very expensive drug screen that my insurance doesn't cover the cost because of the frequency .
+ -1
+
+review_id : 1G6u0BJSggu6kE8UTYSWQw
+aspect: Service
+text: Worst service ever.
+ -1
+
+
+review_id : a3in7s6jZmioXtC90LL5Tg
+aspect: Price
+text: He focus is money, not recovery.
+ -1
+
+review_id : m5mq0ljytkcilC_RfiRBAw
+aspect: Price
+text:  Please people, keep your money!
+ -1
+
+review_id : KfzAvhc_VW28nVkVAwll4A
+aspect: Service
+text: Horrible service, had to make an appointment for my child at Beachwood pediatrics.
+ -1
+
+
+review_id : 4r087kRhNzkcDtEaZPZYpQ
+aspect: Service
+text:  This was the worst service and experience I have ever received!
+ -1
+
+
+review_id : sfp4sJO6GqR8xkDa0Ofk7A
+aspect: Service
+text: Absolutely horrible service.
+ -1
+
+
+review_id : 39aTzg-NObTUvjYgc14yXg
+aspect: Price
+text: They refused to refund any money.
+ -1
+
+review_id : yCcp3nqwBfvN9Z16S5Qc-A
+aspect: Price
+text: This time they refilled extremely expensive supplements I've never seen or taken in my life and NOT what I asked for.
+ -1
+
+review_id : R8JPhtJxDbyD9SX4BS41mA
+aspect: Service
+text:   Chris (Christine) the alleged office manager has absolutely no customer service skills.
+ -1
+
+
+review_id : R8JPhtJxDbyD9SX4BS41mA
+aspect: Service
+text:  I guess poor service starts with the doctors and runs rampant throughout the office.
+ -1
+
+
+review_id : fATFjZSent-vzOlcxdgLYA
+aspect: Service
+text: They should be ashamed that they offer such poor service to women on such sensitive health issues.
+ -1
+
+
+review_id : UT1G5ji07Ou2OrP7DEktXQ
+aspect: Service
+text: Very horrible service don't recommend to anybody.
+ -1
+
+
+review_id : xsWrg8sjNnbJNK8zzRrOwg
+aspect: Service
+text: Bummer - great doctor terrible customer service.
+ -1
+
+
+review_id : Yy7NBwT6fmwzaHE1MNImQw
+aspect: Service
+text: Poor customer service and lengthy time to get results!
+ -1
+
+
+review_id : Yy7NBwT6fmwzaHE1MNImQw
+aspect: Service
+text: I will never return for any radiological services here at DR and do not recommend them.
+ -1
+
+
+review_id : _GnkumIGos9PWGvSS50JIQ
+aspect: Price
+text: I got my eyes checked, purchased one of their most expensive pair of glasses and paid for everything.
+ -1
+
+review_id : 7m8iTX8PRUf3R-prsyJKOw
+aspect: Price
+text: They are more worry about taking your money than taking care of the patient!
+ -1
+
+review_id : ezmva0uV-ZEbY5-vkl_RQQ
+aspect: Price
+text: A waste of money.
+ -1
+
+review_id : ezmva0uV-ZEbY5-vkl_RQQ
+aspect: Price
+text:  This visit was a waste of money and time.
+ -1
+
+review_id : xWd6zGDKBXIUkKci7mbXgg
+aspect: Service
+text: NOT GREAT SERVICE not EVEN GOOD SERVICE to you or me.
+ -1
+
+
+review_id : mlVCjBUX-EnlNskuysDm4w
+aspect: Price
+text: Huge waste of money.
+ -1
+
+review_id : fNtz262RzaoJRx7gjXEm1Q
+aspect: Service
+text: I was denied service by staff becuase it was work related injury.
+ -1
+
+
+review_id : ea-lQ0xfAYVy9aWO4hx6Jg
+aspect: Price
+text: It was a waste of money and on top of that, I have never had 1 follow up phone call from the office to see how the procedure went or how it progressed.
+ -1
+
+review_id : h8lD96Q2k6kdufUGhlakJA
+aspect: Service
+text: No customer service nor do they care to treat you with any proper bedside manner.
+ -1
+
+
+review_id : JF1QycjOGgA2KLPnivzM-A
+aspect: Price
+text: Don't waste your time (which the wait can be very long) or money going to this place
+ -1
+
+review_id : Af6dglCw2f5juqiN8QMahA
+aspect: Service
+text: Terrible service.
+ -1
+
+
+review_id : 1b-pcCr3Dgqb4KPNtiX8Dg
+aspect: Price
+text:  Don't waste your time or money!
+ -1
+
+review_id : wS6MJxT6EBNL-n9zk95bYA
+aspect: Price
+text: The doctors are good, their glasses are good, but very expensive.
+ -1
+
+review_id : j4sPQ_7IIYEUmhCWP0wKIQ
+aspect: Price
+text:  You will waste your time and money.
+ -1
+
+review_id : Y9OwrffYVBQxz7Vz2xgYRA
+aspect: Price
+text: It was worse, and came with a price tag of over $100.
+ -1
+
+review_id : as7-Dt01-ahVmT_QnosFuQ
+aspect: Service
+text: Clearly the worst case of customer service i have ever seen.
+ -1
+
+
+review_id : Hl7vxMVIM5nFMlzekTD47Q
+aspect: Price
+text:  I wish we hadn't moved so I wouldn't have had to waste the time, and money to give me what resulted in a 4th grade education on the evils of corn, and it's effects on mid-west cattle.
+ -1
+
+review_id : YH8UDXDwdDRCIJ6VSMhIlA
+aspect: Service
+text: I won't go somewhere that is only after money - no service and I won't be going back.
+ -1
+
+
+review_id : oKFx2KwS1_NlCoeqcZqiXA
+aspect: Price
+text: Their only concern is completing unnecessary, overpriced injections that make things worse.
+ -1
+
+review_id : uHjC-TlE3Bkj9fukSl5qoQ
+aspect: Service
+text:  Wonder if she is aware of how many patients she probably looses a day due to poor customer service!
+ -1
+
+
+review_id : eMK0RwWBiwlK6H4N6nIYBQ
+aspect: Service
+text: Absolutely terrible service, so unprofessional and very uncaring as to their patients needs.
+ -1
+
+
+review_id : T_kRsnO-HcIx7zxkelJRsQ
+aspect: Price
+text: It's unbelievable how you spend all your money you've saved for so many years, for a Doctor and staff that  simply irresponsible, Insensitive, and compassionate !
+ -1
+
+review_id : MMYtgHqMp-je5kWFBqvX0A
+aspect: Price
+text: Save your time and money, go somewhere else.
+ -1
+
+review_id : pEQ2d4OjPXV6Q5shjLVn_g
+aspect: Price
+text:  And for a company that doesn't even bother to call to see if I am OK nor offering an apology or refund, I leave it up to you to decide if you are going to waste your money and risk your health to go try this place out.
+ -1
+
+review_id : gNcDm9ClBkDwKilCfPzlgA
+aspect: Price
+text: Unprofessional, they only want your money.
+ -1
+
+review_id : MtAULJko_72eHnHMD4etXw
+aspect: Price
+text: They only care about your money.
+ -1
+
+review_id : G9eBmTmUGjhvb9_AsOACVw
+aspect: Service
+text:  I am amazed how such a lack of customer service is allowed with so much direct contact with customers.
+ -1
+
+
+review_id : zmQnMO3rmUhyuXD2z8OOJA
+aspect: Price
+text: I am WARNING you: DO NOT WASTE YOUR MONEY OR TIME HERE!
+ -1
+
+review_id : zmQnMO3rmUhyuXD2z8OOJA
+aspect: Price
+text: She also takes 5-10 minutes to access a patient, which is ridiculous because it is quite expensive for an appointment!
+ -1
+
+review_id : 4FTVa8lqh0FHkErSgu6LZg
+aspect: Price
+text: He didn't help us, wanted us to buy his supplements when you can buy the same at Sprouts for much cheaper, and he was ridiculously expensive.
+ -1
+
+review_id : nxsJSC4B9arXRnsuFZTxQw
+aspect: Price
+text: Do not trust this money grubber.
+ -1
+
+review_id : raBjPziuixysEFQdR1XC7Q
+aspect: Price
+text: This is a total waste of my time and money to be told what to do by a pa.
+ -1
+
+review_id : g_7UWcW-MyEyLdSfXzxD0w
+aspect: Service
+text: Horrible Horrible Service!
+ -1
+
+
+review_id : Y7RGy-xQK2MdA_3nTsIgkw
+aspect: Service
+text: Hands down the most ridiculous customer service of all time.
+ -1
+
+
+review_id : cLn_K1SkfzJ5UooEroeNiQ
+aspect: Service
+text: Terribly unreliable and bad service.
+ -1
+
+
+review_id : cLn_K1SkfzJ5UooEroeNiQ
+aspect: Service
+text: Absolutely ridiculous service, or lack there of.
+ -1
+
+
+review_id : JkMPlpSCqfApGqVEo2qJ6Q
+aspect: Price
+text: I would have NEVER spent this money contracting someone unless they sold me.
+ -1
+
+review_id : Ony3rIAXWrZB_8M5lsa8Lw
+aspect: Price
+text: Don't waste your money if you actually care about someone you're trying to help.
+ -1
+
+review_id : UBcoiPNtU5R19-fSylxEKw
+aspect: Service
+text: False advertising on website and poor customer service.
+ -1
+
+
+review_id : fW94zVx1UCcbS5ES-Qs_Zg
+aspect: Price
+text:  Beware and don't give them your money!
+ -1
+
+review_id : EDfCkk2LRbkV7fvnx5mT4g
+aspect: Service
+text: This place has the worst customer service I've ever received.
+ -1
+
+
+review_id : E9Et4RNFFGgaFlIXGv-9vQ
+aspect: Service
+text: I received poor service, received multiple calls to schedule appointments I had already schedule.
+ -1
+
+
+review_id : tZD0VAAc3GfWyUQ7MahiXA
+aspect: Price
+text: No testing, or anything that should require more money but they charged my insurance over $400.
+ -1
+
+review_id : N8P3VlmY9d2GC1TTPTuxuA
+aspect: Price
+text: Making me think about have Joe from channel 15 stop by and dig in on why they wont refund money for unused services.
+ -1
+
+review_id : VFKqzNOSk2VPLwdlfwE9TQ
+aspect: Price
+text: I wanted to take him to court, but I had no money to get it done.
+ -1
+
+review_id : 99AbKNdNXB58aTzQGSufKw
+aspect: Service
+text: Overall for customer service I give it a 1 - need it improvement
+ -1
+
+
+review_id : YX3Jf1uvivoR484mNiyMPA
+aspect: Service
+text: HORRIBLE service.
+ -1
+
+
+review_id : -5YNvZunqU-f8sZ3XXlvWw
+aspect: Price
+text: Don't waist your time and don't waist your money like I did lose $850 they did eye lenses and didn't work for me at all, No Recommend This Doctor !
+ -1
+
+review_id : vM6Az2v4xWOBxQAyvh37wA
+aspect: Service
+text: I've been sitting in a empty room for a hour now waiting on this doctor, really bad service today!
+ -1
+
+
+review_id : RSdhWbKt4vyYSTU4bA-TyA
+aspect: Service
+text: The service here is terrible.
+ -1
+
+
+review_id : ZfJRK_UlXOFE_tBg5-V7kg
+aspect: Service
+text: Had they not been so terrible with customer service, maybe I would have waited a little longer.
+ -1
+
+
+review_id : bz4HbnplQGI6yvlD5BNaNQ
+aspect: Service
+text: Although the doctor may be okay, the customer service is terrible.
+ -1
+
+
+review_id : kraD3IhNqlKKO_dNi6m-DQ
+aspect: Service
+text: I have had really poor service from this group.
+ -1
+
+
+review_id : oH9mr4si7G-c3GJwzasU4Q
+aspect: Service
+text: I know for a fact that even the staff think this particular doctor and general service level is pretty poor.
+ -1
+
+
+review_id : XgqlqzLNMKmHPfAP79ooqw
+aspect: Price
+text: They are seriously overpriced and painful to work with.
+ -1
+
+review_id : EcaUVBYVp7hi9meebtd7Vw
+aspect: Price
+text: Such a waste of time and money.
+ -1
+
+review_id : XocvbPJ1c_89pmlHs2T8kA
+aspect: Price
+text: This place in it for the money not the people.
+ -1
+
+review_id : ZV_uTksOPI9rFH0eLSVZHg
+aspect: Service
+text:  I experienced horrible customer service at check-in when they asked for $160 before I'd be seen!
+ -1
+
+
+review_id : jJLJlGa_GGjpQJHiQqcUfg
+aspect: Price
+text:  Don't waste your time or money.
+ -1
+
+review_id : J1Nr7SvCGT3FUiS4jSOZ7A
+aspect: Service
+text: This is the worst service I've ever received.
+ -1
+
+
+review_id : KMBYCanRv3UtzyYgJPjWVQ
+aspect: Price
+text: And again, has cost me extened pain, hassle, work lost, money lost, and anxiety while trying to get treatment.
+ -1
+
+review_id : e-G5DhPxN-uzMat73E3glA
+aspect: Service
+text: Awful customer service!
+ -1
+
+
+review_id : CdT2xgIRRuc0dm-4w6sgkQ
+aspect: Service
+text: Hire more doctors or do something different because what you are doing is horrible customer service.
+ -1
+
+
+review_id : kR_HN-v-YwREkTRAMUizdw
+aspect: Service
+text: He agreed with me that the customer service was terrible, that it had been terrible for many months and said he already knew that CVC had a 2-star rating.
+ -1
+
+
+review_id : Gc2ll3f5VdMZdHEUeBUDSg
+aspect: Service
+text: As time goes by, there is no customer service.
+ -1
+
+
+review_id : qPuELoOnnM6YQ6zDXoRPWw
+aspect: Price
+text:   Waste of time and money
+ -1
+
+review_id : DDxFCKLr3jo9wejF8Fm3zA
+aspect: Price
+text:  He wasn't worth the time or money.
+ -1
+
+review_id : PD3l4SBsOQHuysJBkuBN5Q
+aspect: Price
+text: So that was just a big waste of money.
+ -1
+
+review_id : 8lzogVXU4aJiZR5Pw7SGGg
+aspect: Price
+text: Will not return money.
+ -1
+
+review_id : HSGR4KwPlMP5AoIpP8vGUw
+aspect: Price
+text: They have extremely high prices which saddened me as I later found out the wig the wanted me to buy at $4500 retailed elsewhere for only $2000.
+ -1
+
+review_id : wK6HG_n3rYGlCGtIZp4uMg
+aspect: Price
+text: Unprofessional money hungry excuse for someone who is supposed to care for you.
+ -1
+
+review_id : IlzMsO5O4GG7zyIeTuhmfg
+aspect: Price
+text: Save your money and avoid this location.
+ -1
+
+review_id : JgPxm7dHwbmI6BdykHOUKg
+aspect: Price
+text: DO NOT WASTE YOUR TIME OR MONEY LIKE I DID!
+ -1
+
+review_id : YaK-ijOWtoWMu8SW3ZP2Hg
+aspect: Price
+text:  A waste of money in my case.
+ -1
+
+review_id : ZIErn3H9GYN3wMZa3QhObQ
+aspect: Price
+text: It's fraud and they are steeling money.
+ -1
+
+review_id : URADgKIZr1JrDc5mruaUHA
+aspect: Price
+text:  What a total and painful waste of time and money.
+ -1
+
+review_id : 7hgoMClf9KJWSFV__LQVoQ
+aspect: Service
+text: As a 70 yo arthritus sufferer, I am impressed with the doctor I saw but dealing with the office staff is very frustrating, they are very lacking in in customer service skills.
+ -1
+
+
+review_id : qYq7G5Wd4vU-2wuhaHifdg
+aspect: Service
+text: Very disappointed in the level of service tonight.
+ -1
+
+
+review_id : Lfu-gT3vWYG7D-Su3Sz_qw
+aspect: Service
+text: WORST CUSTOMER SERVICE EVER!
+ -1
+
+
+review_id : zy-WTAUTQ-pORnt8J569Zg
+aspect: Price
+text:  If you want to waist your time and money, go to Dr.
+ -1
+
+review_id : Hw6zeW5xWgUWXOcPI2v1SA
+aspect: Service
+text: Avoid this place at all cost it has the worse service imaginable.
+ -1
+
+
+review_id : pk-DpQZHrD46ZJk9nt8SlA
+aspect: Price
+text:  save your money.
+ -1
+
+review_id : f35OWXI8TqE3PigxQ9QLEQ
+aspect: Price
+text:  I simply refuse to pay the high price of health care and be treated this way.
+ -1
+
+review_id : _QbWDy9pcKUwXti80aKCQA
+aspect: Service
+text: You spend way too much money and the service is pretty horrible.
+ -1
+
+
+review_id : _QbWDy9pcKUwXti80aKCQA
+aspect: Price
+text: You spend way too much money and the service is pretty horrible.
+ -1
+
+review_id : _QbWDy9pcKUwXti80aKCQA
+aspect: Service
+text: Worst medical and clinic service I've ever had.
+ -1
+
+
+review_id : n8lEAWgeX3Aaq9-s9nxqUA
+aspect: Service
+text: Their customer service is the worst I have ever encountered.
+ -1
+
+
+review_id : JvuaUB0m6Qg7P4EBnboxRg
+aspect: Service
+text: This has been the worse customer service i have ever experienced.
+ -1
+
+
+review_id : 0kxj1ij02xL7FG8sivEzZA
+aspect: Service
+text: Customer service is worst in this branch.
+ -1
+
+
+review_id : 8zkW6wcur3IdSh14-rcs2Q
+aspect: Price
+text: If I want to know the results of these very expensive tests, I have to schedule another $100 office visit.
+ -1
+
+review_id : 6OQkHHvqSAyqEcKfb2itZA
+aspect: Price
+text: Wasted my time and money repeatedly.
+ -1
+
+review_id : tMT0oJTBoR2P4xJlOjOjaA
+aspect: Service
+text: Unbelievable...how bad the service is..
+ -1
+
+
+review_id : 212Hnj89-EyBnJVd5VXewA
+aspect: Price
+text: Schmidt did a 5 minute exam, ordered the most expensive type of imaging, had another 5 minute appointment a week later where he told me the results came back normal, he didn't have any answers for why I was in pain and referred me to a different doctor.
+ -1
+
+review_id : 212Hnj89-EyBnJVd5VXewA
+aspect: Price
+text: Completely useless and a massive waste of time and money.
+ -1
+
+review_id : 9h2d6BkeGKx8ByHs3vEO9g
+aspect: Price
+text: Save your money and go somewhere else
+ -1
+
+review_id : EIdkTnmDMzeO3GPLXjfSLg
+aspect: Service
+text: If are very poor customer service experience existed yet surgical outcome was excellent that would be one thing.
+ -1
+
+
+review_id : vyGrpHLiwljTLIorIl7TrQ
+aspect: Service
+text:    Extremely bad service.
+ -1
+
+
+review_id : RlNI7EuKSqeY0F73_qg6tw
+aspect: Service
+text: The customer service at this place is so bad that I recommend you not schedule an appointment here to avoid the stress it has caused me!
+ -1
+
+
+review_id : xCemGs1q9MKuGToVUTmqtg
+aspect: Price
+text: Over three years ago the dr recommended very very expensive blood work, after billing my insurance over 3k for an evaluation of the blood draw and the review of the results.
+ -1
+
+review_id : u9hQQvJRnQ8F01XmrwiF-g
+aspect: Service
+text: Worse costumer service of all time.
+ -1
+
+
+review_id : CCl6dFvmEabgDcUgw5r20Q
+aspect: Service
+text: That's crappy customer service.
+ -1
+
+
+review_id : qcVKdboc5xXIkxoRiNXMYg
+aspect: Service
+text: Front desk and staff rude with poor customer service skills had a 9 o'clock appointment and still waited entirely too long.
+ -1
+
+
+review_id : 5KJf4TJIMNAbEWQPfxs29g
+aspect: Service
+text: Worst customer service ever!
+ -1
+
+
+review_id : DW-9HJmRDY2bJWv0NQ4c0Q
+aspect: Service
+text:   Their customer service is also severely lacking and it took me over a month to get an appt.
+ -1
+
+
+review_id : 47OlVZiwldyfCv24BRAeVw
+aspect: Service
+text: The person who answers the phone name Rebecca has zero customer service!
+ -1
+
+
+review_id : 49Bk90u07ttyyGreWcaaPw
+aspect: Service
+text: The service is horrible there is a $3.00 fee for using a debit or credit card which was not explained to me over the phone and the reason that I'm scoring them this low.
+ -1
+
+
+review_id : ja_fine8kKc2ncMgZmjXnA
+aspect: Service
+text:  Not good customer service.
+ -1
+
+
+review_id : yLzejYP1H-Ysw2Aw2xj2YA
+aspect: Service
+text:  Shitty place and shitty customer service!
+ -1
+
+
+review_id : h3kfk5-0Hvy4BNnwx_jDzA
+aspect: Service
+text: What horrible customer service!
+ -1
+
+
+review_id : YFzSyFwMuMw8kcrxdTykpg
+aspect: Service
+text:  Terrible customer service, this people are not well educated and have no idea to deal with patients at all.
+ -1
+
+
+review_id : XHqGDC1VHuVv_djbOIDy6g
+aspect: Service
+text: What horrible scheduling service.
+ -1
+
+
+review_id : YOrIBqHdhzom27XIaNPBYw
+aspect: Service
+text: She gets a zero stars poor customer service I had a 11am appointment I arrived 45 min early for paper work only to wait three hours in a small over packed waiting room.
+ -1
+
+
+review_id : -UQZ9b7IRENi7r30lbczHw
+aspect: Service
+text: I received very poor service from The Pain Center, which actually caused more harm than good.
+ -1
+
+
+review_id : Q3fILvynN-VsTsSf2Ormtg
+aspect: Service
+text: This is by far the worst service...
+ -1
+
+
+review_id : Q3fILvynN-VsTsSf2Ormtg
+aspect: Price
+text: this clinic could do a lot more for people who need the help and regular docter are expensive...
+ -1
+
+review_id : cOp9ptcOzl-1bPL5ew1OVA
+aspect: Service
+text:  We have never been so embarrassed and would not recommend a place like that due to lack of customer service.
+ -1
+
+
+review_id : g74sv0c3zJ-xkJDqZvM4Cg
+aspect: Service
+text: Mind you, my insurance paid them for visit #1 and visit #2, but yet they wanted more for the worse service ever.
+ -1
+
+
+review_id : mNI0caUxL9Hop7Xs9E5V5g
+aspect: Service
+text: MAN first of all worst service.
+ -1
+
+
+review_id : xxhs3dYwcKn8XEtKqon0Jg
+aspect: Service
+text:  Very poor customer service and even worse results.
+ -1
+
+
+review_id : R9_VViUQvNAwIWCP1lAVwg
+aspect: Service
+text:  The service was extrememly slow also.
+ -1
+
+
+review_id : i0yWAaMQr3pGMPEnbKUicQ
+aspect: Service
+text: Poor customer service made for a bad experience, no consistency among Curaleaf stores, one store honors a deal and another doesn't different prices at each store is odd.
+ -1
+
+
+review_id : WKPw1OE81feCwjwSwzvpjg
+aspect: Price
+text: Then I asked him why their bud is so expensive and he continued to tell me how great their subpar product is.
+ -1
+
+review_id : jasJ1m7s-Bp13iRp1-k8BA
+aspect: Service
+text: Poor poor slow service today.
+ -1
+
+
+review_id : gwssYDHQGdjeTDnshDEJCQ
+aspect: Service
+text: I have NEVER experienced such shaddy service in my life.
+ -1
+
+
+review_id : XvqdH-VVi20tKrmmbRwdiw
+aspect: Price
+text: A high priced shoe store.
+ -1
+
+review_id : Nq9LsXC42DjvQkmp_hzXbw
+aspect: Service
+text: The service is very poor here.
+ -1
+
+
+review_id : ttRJh1OtUIDDorCXByJ23w
+aspect: Service
+text: Absolutely the worst customer service, they mix up appointment times.
+ -1
+
+
+review_id : Fefpb2sFLAel_VYWIrnkTA
+aspect: Price
+text: I did a research for facial dark spot treatments at other places in Las Vegas and Utah and her prices were too high ...
+ -1
+
+review_id : VBOLtqzRS4Ft56YSaeGuIA
+aspect: Service
+text: Completely unacceptable customer service over my cholesterol medicine.
+ -1
+
+
+review_id : Sd0-aIeG9JSRuHr87sG7Hg
+aspect: Service
+text: HORRIBLE customer service, I've never experienced anything like it.
+ -1
+
+
+review_id : IRKwsgj_pEVJ_tDem_Vehw
+aspect: Service
+text: Absolutely the worst service I have ever received.
+ -1
+
+
+review_id : 6Pw0PqHUGrwadS-0YLm-kA
+aspect: Price
+text:  Then they try to sell you really expensive creams.
+ -1
+
+review_id : ztQDFA0hM03MXfWseAHfbw
+aspect: Price
+text: Expensive, rude with a total disregard for clients wishes.
+ -1
+
+review_id : n2A-J8Xkw7YECCapD24eTw
+aspect: Price
+text: He wrote me two prescriptions and a referral for an extremely expensive test.
+ -1
+
+review_id : n2A-J8Xkw7YECCapD24eTw
+aspect: Price
+text: One prescription is indeed not covered by my insurance, and far too expensive for me to gamble on.
+ -1
+
+review_id : n2A-J8Xkw7YECCapD24eTw
+aspect: Price
+text: We have now wasted 4 hours of the day on a very expensive wild goose chase.
+ -1
+
+review_id : fke_r0zmu5YpbDtxPEC7Tg
+aspect: Price
+text: and his place as a part of the UPMC empire, would have known the insurance wouldn't  cover his worthless, albeit mind bogglingly expensive, follow up visits.
+ -1
+
+review_id : QnC-HbUA_Wu_REGfoLSQAA
+aspect: Price
+text: They stacked her very expensive china on top of one another and broke several items.
+ -1
+
+review_id : upTMGMthtPL7CiIwqPDWIg
+aspect: Price
+text: Besides, you probably need an MRI, and that's really expensive, and then surgery.
+ -1
+
+review_id : tRJVvRkAdKC4YGX0aorgpw
+aspect: Price
+text: They soaked me for 300 bucks and had me taking all their overpriced vitamins.
+ -1
+
+review_id : oxMFhWzIvjVWPi91fDT8bw
+aspect: Price
+text: hearing assistance is a life changing experience and expensive.
+ -1
+
+review_id : oxMFhWzIvjVWPi91fDT8bw
+aspect: Price
+text: just my need for a hearing aid and one of the most expensive and annually re-occuring costing ones at that.
+ -1
+
+review_id : vG61XzX5ZX9aKIB5NcXfQg
+aspect: Price
+text: I highly recommend you don't get into this trap of false promises and very expensive non FDA approved treatment center.
+ -1
+
+review_id : afRf48UUIK6WNDxU1bN0mw
+aspect: Price
+text: Horrible experience and expensive.
+ -1
+
+review_id : MDKPgFcdtlSBMfM8_SFM4w
+aspect: Price
+text: Patel Has no bed side manner and is very expensive.
+ -1
+
+review_id : Rrh9wVsWabzsTO0xwX5PeA
+aspect: Price
+text: I think all doctors should follow up personally when they order these expensive test.
+ -1
+
+review_id : KDFIMVagTWjZRP1nxljWzw
+aspect: Price
+text: Ever wonder why glasses are ungodly expensive  here? YouTube: luxottica 60 minutes.
+ -1
+
+review_id : KDFIMVagTWjZRP1nxljWzw
+aspect: Price
+text: The insanely high prices wouldn't be the worst of things if they at least took care of me after the sale.
+ -1
+
+review_id : CXu0hW8WmYyNGNf3xgEwdg
+aspect: Price
+text: After three visits and some very expensive prescriptions it was obvious my sons skin condition was misdiagnosed.
+ -1
+
+review_id : Wp-Vk4Ba0ZyPrUKRdJh5bA
+aspect: Price
+text: Roy gave me a wrong diagnosis, my insurance billed me for expensive unwanted lab tests.
+ -1
+
+review_id : y7_dp8ie8gn5OiqxFLv4IA
+aspect: Price
+text: Save your mental health by taking your money elsewhere.
+ -1
+
+review_id : l9XsSS-0T8s4LLa7vos87A
+aspect: Price
+text: Save your money.
+ -1
+
+review_id : C3XJnvrfGm7PL6BTdUK9vA
+aspect: Price
+text: & I went in to her office about 5 times for nothing, not to mention all the testing was super expensive!
+ -1
+
+review_id : pkxhL412OAo30ruPtEg3zw
+aspect: Price
+text: The pharmacist wanted to verify I was going to be picking up the 3 drugs because they were extremely expensive.
+ -1
+
+review_id : 1kvzVnWpmg-3aIi1nVV0Dw
+aspect: Price
+text: I told her I wanted to know how much it was because I would not have wanted it if my part was too expensive.
+ -1
+
+review_id : _vZHLvYtU0SkwlLokoBYDA
+aspect: Price
+text: Wagner is overpriced in comparison to others I have gone to.
+ -1

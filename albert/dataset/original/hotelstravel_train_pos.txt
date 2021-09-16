@@ -1,0 +1,1628 @@
+review_id : p7ndw41PmXktwYjnwBQj-g
+aspect: Price
+text:  The price was reasonable, a little higher than off strip, but was willing to pay for the convenience.
+ -1
+review_id : p7ndw41PmXktwYjnwBQj-g
+aspect: Service
+text:  The service was awesome.
+ -1
+
+review_id : nlO6Ex6AGPrzuTQJjeG69Q
+aspect: Service
+text: Excellent service from a friendly, competent stuff, and a great price.\nThank you Mike Cranna!
+ -1
+
+review_id : xJzt-ZSDr1T4S8dKlCILbQ
+aspect: Service
+text: Excellent service used them several times to get back and forth to the airport.
+ -1
+
+review_id : x41CI661WfvbsiPQ2YU3mA
+aspect: Service
+text: Great cars, excellent service, friendly team.
+ -1
+
+review_id : plTeJvmUuMnFB4uxmWVd3A
+aspect: Price
+text: Reasonable prices too.
+ -1
+review_id : lEwg3v8FDNBDtudTYj4aEg
+aspect: Price
+text: Clean comfortable room at a great price for King Suite!!
+ -1
+review_id : -RHAlMVFFrXBQetZ3EEpTg
+aspect: Service
+text: Easily some of the best service I've ever had and it's consistently great.
+ -1
+
+review_id : U8BUXNd6dFT0I-w-f4Jv7Q
+aspect: Price
+text: The price was so reasonable.
+ -1
+review_id : LMlOZ3arNLSaYviRhyQx8A
+aspect: Service
+text: Really nice clean pool and fantastic customer service.
+ -1
+
+review_id : rrhsWXBJw9x_LdbAVMssxQ
+aspect: Service
+text: Thanks for the great service.
+ -1
+
+review_id : wrOYBG7S0D6MJXBiXGZx8Q
+aspect: Food
+text:  They also sell souvenirs and a variety of snack foods.
+ -1
+
+review_id : wrOYBG7S0D6MJXBiXGZx8Q
+aspect: Service
+text: The customer service is amazing, and all my expectations were exceeded!
+ -1
+
+review_id : ywBDfxPnHnqjsaT6JbHKTw
+aspect: Service
+text: Jose Viveros was absolutely amazing in customer service and guest relations and if I could give him more than 5 starts I would do that.
+ -1
+
+review_id : 7JNksX5PVSgL4RaRPmLbvA
+aspect: Service
+text: Staff was friendly, polite and service minded!
+ -1
+
+review_id : X3K6nYCQaaG2fQZDwMd5zQ
+aspect: Price
+text: Price is right.
+ -1
+review_id : Voso82X21yCfoEkNi9B6uQ
+aspect: Service
+text: I would completely recommend their services to anyone in need of transportation.
+ -1
+
+review_id : 70n33qUjR8NmA1ne7tGi6g
+aspect: Service
+text: The restaurant \"Twist\" had great food, drinks and service.
+ -1
+
+review_id : 70n33qUjR8NmA1ne7tGi6g
+aspect: Service
+text: Ben was incredible with customer service and knowledge.
+ -1
+
+review_id : 70n33qUjR8NmA1ne7tGi6g
+aspect: Service
+text: Great weekend stay and customer service was perfect throughout the entire hotel!
+ -1
+
+review_id : gMxSur1FvTySd0n2fEtKpQ
+aspect: Price
+text: The price is affordable for those traveling alone or with others.
+ -1
+review_id : LJS5N2BfuJ8eGf9tP4UChQ
+aspect: Service
+text: Excellent customer service.
+ -1
+
+review_id : OtH8Wpk2aVT3e7sXYO5c0w
+aspect: Service
+text: 5 star service at its best!
+ -1
+
+review_id : cu6rBo_919VjOkw-5R54oA
+aspect: Service
+text: Staff friendly, valet service great, and the pools were amazing especially lazy river!
+ -1
+
+review_id : PnIJeP5spEbMXs8KoFGFiQ
+aspect: Service
+text: The staff was top notch, the service impeccable, and the room comfortable & appealing.
+ -1
+
+review_id : aFB7tZbOX2o4-9-QGOng6w
+aspect: Service
+text: That's what I call great customer service.
+ -1
+
+review_id : TiOy4bNOXkLYUbOS56pSSQ
+aspect: Service
+text: Extremely good customer service!
+ -1
+
+review_id : TiOy4bNOXkLYUbOS56pSSQ
+aspect: Service
+text: I think Enterprise in general does such a good job because they are family owned and truly care about their employees and the focus on quality customer service.
+ -1
+
+review_id : R91P17CvwYDeLCWsxO7RKA
+aspect: Service
+text:  The first time was over a year ago, and the service was impeccable.
+ -1
+
+review_id : dw6JmV4E7PY_XFHv5pgDoQ
+aspect: Price
+text: They offer so many great packages at super great prices on their website.
+ -1
+review_id : oAqVB8kXQ0VS9M4QuSVx7w
+aspect: Service
+text: I was very satisfied with the rental process, the vehicle's performance, and the excellent customer service I recieved.
+ -1
+
+review_id : BxDKhh5-dBWS051LLqrj2Q
+aspect: Service
+text: The service was also excellent, in particular, Vlada (the nice person who helped us) also made recommendations about sights to see on the way to Niagara.
+ -1
+
+review_id : V7QEslfj3eSh1v51PAkRqg
+aspect: Food
+text: The food & coffee were plentiful and the presentation was excellent.
+ -1
+
+review_id : 9kc6WMNfA1hPSGKL4jOCXQ
+aspect: Service
+text: Great service, will definitely use again.
+ -1
+
+review_id : ZikjIwHNWU4PA2RapUSgJA
+aspect: Food
+text:  We visited camps and lodges in Botswana, Zimbabwe and South Africa - all wonderful properties with skilled safari guides and trackers, superb food and friendly, service-oriented staff.
+ -1
+
+review_id : gyGBVAM9gU7EAtTHdGYWIQ
+aspect: Price
+text: PRICE: worth the price, we were out in the dessert for quite some time.
+ -1
+review_id : gyGBVAM9gU7EAtTHdGYWIQ
+aspect: Service
+text: SERVICE: the guides are super friendly.
+ -1
+
+review_id : 56_hlNyxY1qnIuV4anfh0A
+aspect: Service
+text: Service is second to none.
+ -1
+
+review_id : 7YQcVi6jI9FvBx531rzTlg
+aspect: Price
+text: The price was Ok.
+ -1
+review_id : 7YQcVi6jI9FvBx531rzTlg
+aspect: Service
+text: You have VIP service directly to your car.
+ -1
+
+review_id : 7YQcVi6jI9FvBx531rzTlg
+aspect: Service
+text: I'm recommend enterprise but remember ask for GREG LEVY best costumer service EVER
+ -1
+
+review_id : twavvFqzFd2K6igWU71SSw
+aspect: Service
+text:  The breakfast was wonderful everyday and the shuttle service is always on time.
+ -1
+
+review_id : twavvFqzFd2K6igWU71SSw
+aspect: Service
+text:  It is always wonderful to get great customer service and this place sets the bar.
+ -1
+
+review_id : t46E3QYz0w_4IQf7vHspbg
+aspect: Service
+text: Great savings and service!!!
+ -1
+
+review_id : t46E3QYz0w_4IQf7vHspbg
+aspect: Service
+text: Lucky he didn't as we had a great service from Usaved.
+ -1
+
+review_id : kiPkeIOKvaWiQkshxRAVow
+aspect: Service
+text: I rent from this location once per month and I am always impressed at the amazing and quick service.
+ -1
+
+review_id : 4kcPyH8Ek07j9zjJ_IL24g
+aspect: Service
+text:  Great price, great room, and amazing service.
+ -1
+
+review_id : 4kcPyH8Ek07j9zjJ_IL24g
+aspect: Price
+text:  Great price, great room, and amazing service.
+ -1
+
+review_id : glmXnf9VvKzSgNQKCnt9aw
+aspect: Price
+text: I would highly recommend a room through them, the quality and experience were amazing and the price was right.
+ -1
+
+review_id : _u6rumq6jszDq5gpgSDZ3w
+aspect: Price
+text: The price is very fair.
+ -1
+
+review_id : _IWflGXAT8RqiigDuYKuPA
+aspect: Price
+text: Gorgeous hotel for a reasonable price.
+ -1
+
+review_id : 2u19L4t2usXV3dVC-TTQWw
+aspect: Price
+text:  You can't beat it for the price if you have a big group of people.
+ -1
+
+review_id : P6Odm-X49_vKttBrPFu5pg
+aspect: Service
+text: The quality of service Chris provided was absolutely terrific.
+ -1
+
+review_id : P6Odm-X49_vKttBrPFu5pg
+aspect: Service
+text: Great service, great pricing and great product.
+ -1
+
+review_id : yf4LsaWx4i4-bQc4PfhL_g
+aspect: Service
+text: Bliss Travel and Dominique are hands down the best service i have received from a travel agent\/agency.
+ -1
+
+review_id : IzqwzQ7dvlbVwe7A1d_Isg
+aspect: Food
+text: The staff was wonderful and the food was great (see below).
+ -1
+
+review_id : aBiBXlpmISexB2Kbm3zdNQ
+aspect: Food
+text: Lots of food nearby, always a bunch of people meeting from Kijiji and stuff in front and a fairly safe and comfortable station.
+ -1
+
+review_id : lw7ZstBekmru65Sdov5b0Q
+aspect: Service
+text: I stayed here a a while ago and was really impressed with the level of service and cleanliness exhibited by Highland Inn.
+ -1
+
+review_id : lw7ZstBekmru65Sdov5b0Q
+aspect: Service
+text: They seem to really understand customer service.
+ -1
+
+review_id : bsWZvgHIR6YUQnccLk-o_Q
+aspect: Service
+text: SENSIBLE CHAUFFEUR is a wonderful airport shuttle service!!
+ -1
+
+review_id : bsWZvgHIR6YUQnccLk-o_Q
+aspect: Service
+text: I HIGHLY RECOMMEND this great chauffeur service!
+ -1
+
+review_id : lcvbH_ThUW9TZ2xpJnnM5Q
+aspect: Service
+text: Great service, on time pickup and a message when we landed at Hopkins so we could easily find him curbside.
+ -1
+
+review_id : Hwz9Non7spEA09ZVmFgK5g
+aspect: Service
+text: Efficient staff and excellent customer service.
+ -1
+
+review_id : 3oYaMEP4bZmRWYkh9ep9eg
+aspect: Service
+text: Nice coffee service in patio as you enjoy fresh morning air.
+ -1
+
+review_id : qGoWMn-c2NCuDucy6F7JWw
+aspect: Service
+text: This location has GREAT service.
+ -1
+
+review_id : qGoWMn-c2NCuDucy6F7JWw
+aspect: Service
+text: I've booked several trips here and will continue to for its impeccable service!
+ -1
+
+review_id : D6rIbeOVbd6lkypuFt_Kkg
+aspect: Service
+text: Nice clean rooms with powerful AC, strong WiFi (which is a must), lots of good TV channels and the best part was customer service.
+ -1
+
+review_id : 5SC3m2VHXUj5tbYecb3YBg
+aspect: Food
+text: Good food and awesome entertainment.
+ -1
+
+review_id : 1U1Kar7HyudtsfpFvfSqUw
+aspect: Food
+text: Comfy beds, great work out facility, good food and hospitality.
+ -1
+
+review_id : tsKMKYdLNI7sZ2WbbL3ScQ
+aspect: Price
+text:  The price was amazing as was the view, service at the MGM Signature as well as the staff at Las Vegas Suites.
+ -1
+
+review_id : NutfZLjzwrUrsr78bMz3hQ
+aspect: Price
+text: For the price its amazing.
+ -1
+
+review_id : u106xj4CKIOEeC3mDj7m1Q
+aspect: Price
+text: We called around and they had the best prices.
+ -1
+
+review_id : h_T0N7qnknq1Bby3Uy4d4w
+aspect: Price
+text: Comparing against the other limo\/bus service companies in the area, the price was a lot cheaper and I would highly recommend Wayne Ace.
+ -1
+
+review_id : 1HwHt5zpBbjQCa8bJ5fNPg
+aspect: Food
+text: The best Chinese food in USA .
+ -1
+
+review_id : N04tmylcwOqNZpXbHTU3Eg
+aspect: Price
+text: I expect just another hotel with basic rooms but what we got for such a low price was amazing.
+ -1
+
+review_id : ABQkdDV_WMZdG2BR9b4-xw
+aspect: Food
+text:  Also, the food is really good.
+ -1
+
+review_id : AV1WvTSdleM2jK2Mp5M0Zw
+aspect: Food
+text: Food is excellent, private dining, all accommodating to the fullest.
+ -1
+
+review_id : qOdMhVYKTWCLm_GE3ZpI-A
+aspect: Price
+text: The staff was great, room much better than normal for the price and the bar was fun and food decent.
+ -1
+
+review_id : _TOkB5a8JGmlPpeuIdcIQw
+aspect: Food
+text: breakfast food is awesome..
+ -1
+
+review_id : gsgJHSA74egaSW6rIqAy0A
+aspect: Price
+text: Great attitudes, very patient, busses that are beautiful and reasonable prices.
+ -1
+
+review_id : 7DewmgnG77D6VwJZNcNXwQ
+aspect: Price
+text:  The price was reasonable as well.
+ -1
+
+review_id : blT0hHd-6IN_652BEiTsTw
+aspect: Food
+text: I went with my mom and sister for lunch at The Paiza and all the food that we ordered were presented well and it tasted great.
+ -1
+
+review_id : blT0hHd-6IN_652BEiTsTw
+aspect: Food
+text:  If you decide to go for Chinese food and you're at the Venetian\/Palazzo, you should definitely try to eat there.
+ -1
+
+review_id : k7vyYgOy6kWCmvgPthLunw
+aspect: Food
+text:  They also had an impressive selection of food.
+ -1
+
+review_id : ctJ6zZq8GdmfeG2jBJK1rw
+aspect: Price
+text: Fantastic employees, great prices, reasonable hold on my CC.
+ -1
+
+review_id : -MxXaww3WbuWYnUHyTNaew
+aspect: Food
+text: Food is awesome .
+ -1
+
+review_id : t9mqdHG9kcnWR51IkPHDfg
+aspect: Food
+text: Not only do they have a ton of seating but they had a huge selection of hot foods, juices, cereal and more.
+ -1
+
+review_id : t9mqdHG9kcnWR51IkPHDfg
+aspect: Price
+text: The extra details may not always be offered and the prices were the best I could find in the immediate area.
+ -1
+
+review_id : RtOHC9NOhlUdmhfisiFVsg
+aspect: Price
+text: Had a great time at a reasonable price! Was close to the main MGM which is connected to the pool, food court, casino and out onto the strip.
+ -1
+
+review_id : Deg1beVDyZ3RwawLowu5DA
+aspect: Food
+text: There was also a nice spread of food, which was great to have as an appetizer, snack, or dinner.
+ -1
+
+
+review_id : jG9xPDVhwTmOD49LbWDKmA
+aspect: Food
+text: The food bar was the exactly what was needed with a hungry tired child in tow and the drink ticket made for a very happy mama! 
+ -1
+
+
+review_id : rmrVuj9OHy5vz-3RWvziNg
+aspect: Price
+text: Great prices and great place for a dog owner.
+ -1
+
+review_id : zYQ7BZYu0eEScMganDt1Zg
+aspect: Food
+text: They serve breakfast and a afternoon happy hour for free the food is not the best quality.
+ -1
+
+
+review_id : k2U9dPhxLW80nT44iWgEwQ
+aspect: Price
+text:  Easy reservation, price was reasonable.
+ -1
+
+review_id : BNUzfV2xId286eEV5DlDlQ
+aspect: Price
+text: Awesome service got me and my car home, the drive was fun but professional, also it was a great price!!
+ -1
+
+review_id : eiOEYxb8zy2IxqMMb1nHbg
+aspect: Food
+text: Great Food, Great Service, Comfortable Beds and most if all an awesome fitness center!
+ -1
+
+
+review_id : teQnUG4oqv71lR1T_s5vtg
+aspect: Price
+text: The reviews were good, the price was excellent, so ...
+ -1
+
+review_id : teQnUG4oqv71lR1T_s5vtg
+aspect: Price
+text: It's not trying to be anything it's not - clean, well managed, comfortable friendly place at a very good price.
+ -1
+
+review_id : j27AKAjYvaV0d7ZijEWjFA
+aspect: Price
+text: The price was good, staff friendly & helpful.
+ -1
+
+review_id : bS4zF_Yeenr3bd0YYDx8WQ
+aspect: Price
+text: I would recommend this company to anybody looking for a reasonably priced \/ dependable transportation.
+ -1
+
+review_id : 9uCWZk59npI1Ws36LhMisQ
+aspect: Food
+text: Food service with complementary bfast was amazing.
+ -1
+
+
+review_id : bicBkDB2i_jVuOoBaKBPrw
+aspect: Price
+text: Large two room suites for a good price! Free breakfast as always.
+ -1
+
+review_id : Z6_wgDf4OUVroZ716RSiuQ
+aspect: Food
+text: Amazing hotel, friendly staff, great breakfast with lots of options (and ACTUALLY good food!).
+ -1
+
+
+review_id : vx_FjuVHVZhiAlSmqP1q3w
+aspect: Price
+text: Especially since it was perfectly priced and was beating others nationwide.
+ -1
+
+review_id : IvW9JGvAK9Cs8EsTFKx-vA
+aspect: Food
+text:  The food was some of the best Cantonese Chinese I had ever had.
+ -1
+
+
+review_id : tXp91ocoeKmbzoSnQXrQkA
+aspect: Food
+text:  The best Asian food ever.
+ -1
+
+
+review_id : l4drwDpg1m91JHpmtVLnog
+aspect: Food
+text: Food is good and rooms are very modern and nice with new flat screen TVs.
+ -1
+
+review_id : l4drwDpg1m91JHpmtVLnog
+aspect: Price
+text: Reasonably priced also.
+ -1
+
+review_id : qYlQ2YhzTXISntQgrabCVg
+aspect: Price
+text: I also like the price and appreciate the service.
+ -1
+
+review_id : 0v3yIHEqbWahwCeyHK1msA
+aspect: Price
+text: Would highly recommend to anyone looking to stay in the Vegas area at a reasonable price.
+ -1
+
+review_id : ZYyaehwDb8fnbecko5vp8g
+aspect: Price
+text:  All the amenities of the big names (indoor pool and whirlpool, bar, free hot breakfast) for a much better price!!
+ -1
+
+review_id : ydUdkHCirHSZcQjWH26aCw
+aspect: Price
+text: Very good motel for the price.
+ -1
+
+review_id : QuukJl10fhiKgzpF19Y5Lw
+aspect: Price
+text: Very clean, friendly front desk staff, good price, great location just off freeway...
+ -1
+
+review_id : Ko8SeTnSP0zuonpp7f9mRw
+aspect: Food
+text: Every summer I visit the beautiful city of Montreal for its food, festivals, art, and music.
+ -1
+
+
+review_id : Ko8SeTnSP0zuonpp7f9mRw
+aspect: Food
+text:  This is a Green B&B-style hostel with plenty of natural light, fresh air, local food, and an international, knowledgeable staff.
+ -1
+
+
+review_id : M0RmqSBAIYKT4-SafmXf9Q
+aspect: Food
+text: Good food, courteous staff, and quick service!!!
+ -1
+
+
+review_id : 1IPZ7b_p3g7LuB-rKUcOUA
+aspect: Food
+text: Wide variety of breakfast food here as well.
+ -1
+
+
+review_id : _COxNz9ECDV8F1WQlsU1ig
+aspect: Price
+text: Great suite, reasonable price & excellent customer service.
+ -1
+
+review_id : rMZQ7NF61SSIhgU4kznpfA
+aspect: Price
+text: This is a great tour at a great price.
+ -1
+
+review_id : YCgGA7V3VMy5t4IfiBU6sQ
+aspect: Price
+text: overall very recommended for the price you pay.
+ -1
+
+review_id : GB9SziSUu0eY1RVjB76W7Q
+aspect: Price
+text: Excellent services, New cars in perfect condition for great prices, and Great customer service.
+ -1
+
+review_id : g_Y56cIMLryJ_cbMkRKEBQ
+aspect: Food
+text: The food is OK, but since it's part of your stay, it's decent.
+ -1
+
+
+review_id : xqCVawxj-dDqAtMAof_Sqg
+aspect: Price
+text: The price was very reasonable.
+ -1
+
+review_id : c5pdwt8VIWinlhWeg9Ipbg
+aspect: Price
+text: And the you can't beat the price.
+ -1
+
+review_id : w5GTc9QEsX6PqyJMhzIFiw
+aspect: Price
+text:  The price is very reasonable as well.
+ -1
+
+review_id : NPKgtyyiEz-wyaS_jG6fNw
+aspect: Food
+text: It's slightly far from downtown Calgary (20 minutes without traffic), but there aren't many good food options nearby so expect to drive to lunch\/dinner.
+ -1
+
+
+review_id : 39xrQGWk4GFhD-GXYqZskA
+aspect: Price
+text: The rooms are clean and modern and very reasonably priced.
+ -1
+
+review_id : wxIuTxbbKDUPaN2VzDWzrw
+aspect: Price
+text: THE BEST experience - great price for plenty of drive time.
+ -1
+
+review_id : 0bWJBmlEpEQXIJpni-Rc8g
+aspect: Price
+text: Great location, reasonable prices, and very clean! 
+ -1
+
+review_id : LZrRE2Yk8JUvcdrRG6XDEw
+aspect: Price
+text: I would recommend them to anyone great price but better yet great work and great people .
+ -1
+
+review_id : Ezl17scPl7jx7ToygR6g5A
+aspect: Food
+text: The food in the restaurant is very delicious and gives you a taste of the French sidewalk dining experience when you dine on the patio.
+ -1
+
+
+review_id : 4lSCO4QQ0qM1Bl01_b1yJQ
+aspect: Price
+text: I know it was off season so our price was really great.
+ -1
+
+review_id : 4lSCO4QQ0qM1Bl01_b1yJQ
+aspect: Price
+text: Although, even at regular prices, it is well worth whatever they charge.
+ -1
+
+review_id : ETbdxqY6roPUT5-oUy0jew
+aspect: Price
+text: The hotel location is perfect for those goals and at good price with spacious room, comfortable mattress and fast-asleep down blanket and pillowssss.
+ -1
+
+review_id : ZHwOGQra6J447tzFwPcvug
+aspect: Price
+text: The price on the car was excellent (I did hours of research and comparisons beforehand) so there was no negotiating to be had.
+ -1
+
+review_id : jqCPqENey2iP7sjc6Au2Jw
+aspect: Food
+text:  Private gaming rooms, 24 hour chefs at your becking call, a luxurious lounge, and a huge dining room to enjoy some great food.
+ -1
+
+
+review_id : qyr3jaU3Nk6weqRMiMfajA
+aspect: Price
+text: The price are very cheap with lots of options.
+ -1
+
+review_id : qyr3jaU3Nk6weqRMiMfajA
+aspect: Price
+text: Overall very good service, reasonable price, and good tour guide.
+ -1
+
+review_id : TLsLqNrG00rGcXCQj3C63Q
+aspect: Price
+text: Quiet, clean room at a reasonable price and low security deposit.
+ -1
+
+review_id : h8KPRtyyKxx39ycLp31yKA
+aspect: Price
+text:  They worked day and night to make sure I had the best experience for the most competitive price.
+ -1
+
+review_id : ackzraGsQ_aNfPe0RbRqmA
+aspect: Food
+text: Love the food, love the casino.
+ -1
+
+
+review_id : bdvpVJJQvWDtPBxHrwo7Rg
+aspect: Price
+text: Discotech is amazing great prices easy to use can do pretty much anything on here from purchasing  tickets bottle service , adding yourself to guestlist and a schedule of events at softener venues
+ -1
+
+review_id : gs0Kl1_GFrqohNvRabnSmg
+aspect: Food
+text:  Also the breakfast food was really good, way above average.
+ -1
+
+
+review_id : 2SrmAEWpLA-Wx_2wQutjiw
+aspect: Food
+text: Beyond amazing food, service and experience.
+ -1
+
+
+review_id : r0ay8R3Kk9lNTD8qMiHN0g
+aspect: Price
+text: Reasonably priced and great service.
+ -1
+
+review_id : HM04Uk_ON-CuDWNM6sVsXg
+aspect: Food
+text: They have a great selection and the food was delicious.
+ -1
+
+
+review_id : -2AGdHYqU3284g_v7pCD5w
+aspect: Price
+text: Definitely most the reasonably priced bottle and table service I have ever had.
+ -1
+
+review_id : z8RKaqPlkZXl2cA6LISxbQ
+aspect: Food
+text: The food selection was very subpar, not worth the $21 per person.
+ -1
+
+
+review_id : jxlORv9A8pSEo4E7_9SuMA
+aspect: Price
+text: Newer hotel, price is great with 2 beds and a sofa bed , free breakfast.
+ -1
+
+review_id : zQrZiokjk6UfGFOIA2h8ug
+aspect: Price
+text: They were very reasonably priced and I booked several hours to get some rest.
+ -1
+
+review_id : 9Hv86jhYGFykwXaYNimjMw
+aspect: Price
+text: The price for such a great property was amazingly low, especially since our stay was during the \"snowbird\" season.
+ -1
+
+review_id : 53i-MWjBA330mptEmCDDOA
+aspect: Food
+text: Food at the Louis Louis restaurant was good too.
+ -1
+
+
+review_id : 21lQszretLuK_frYP2qkCA
+aspect: Price
+text: This place is very nice for the price.
+ -1
+
+review_id : 8zI3q3MLqNj-Z4DV1m_9tw
+aspect: Food
+text: Food was excellent and the staff was so friendly and accommodating! Definitely recommend staying here anytime you are in Phoenix!
+ -1
+
+
+review_id : RjlLsBWNOqKHZnGEvpLiww
+aspect: Food
+text: Drinks and food are reasonably priced.
+ -1
+
+
+review_id : RjlLsBWNOqKHZnGEvpLiww
+aspect: Price
+text: Drinks and food are reasonably priced.
+ -1
+
+review_id : f2T9LKemUqnuZr5Mll_q-A
+aspect: Price
+text:  About 20 minutes south from Charlotte at a favorable price.
+ -1
+
+review_id : KhQGNziTavujD13WNAGmrg
+aspect: Price
+text: The kitchen has very reasonable priced daily specials too.
+ -1
+
+review_id : EzyQ1xv1cFHEVAsRNKJpKQ
+aspect: Price
+text: Great hotel for the price!
+ -1
+
+review_id : _VYCWswdybNK2yAuqphjGA
+aspect: Food
+text: The food was really good, better than we expected.
+ -1
+
+
+review_id : 3f3dES7jCM4K0-cre-_rrw
+aspect: Price
+text: All very reasonably priced too!
+ -1
+
+review_id : gjoUZiA-VLSE7iQE7_Oj8A
+aspect: Price
+text: The prices are good too.
+ -1
+
+review_id : X3Wm9lihMr77zg8S1bHzLw
+aspect: Price
+text: The prices are always affordable!
+ -1
+
+review_id : twyyfwz2MYEZFJRCWfmpfQ
+aspect: Price
+text: Their prices are very reasonable and the company is reliable.
+ -1
+
+review_id : twyyfwz2MYEZFJRCWfmpfQ
+aspect: Price
+text: My out-of-town guests were so happy that transportation was available and I'm glad that the price was in our budget.
+ -1
+
+review_id : 2HtrwdkurFQynRC0hzsxlw
+aspect: Price
+text: For the price you pay this hotel is great.
+ -1
+
+review_id : WgVdmnrwys6mGKuEa4GsNg
+aspect: Price
+text: The price is right and the locations are plenty, giving you the opportunity to travel around the neighborhoods you know and love.
+ -1
+
+review_id : Sw7pKEIuksQFSxq8qdymvg
+aspect: Price
+text: A great price for a clean room and comfy bed.
+ -1
+
+review_id : 8flsx1QbRCn30cOQQqlSqQ
+aspect: Price
+text: Call Kevin and book! He's amazing! The bus was seriously incredible! Super super nice inside and fairly priced.
+ -1
+
+review_id : 5_QopqZU2jKR7jTHjl28yg
+aspect: Food
+text: Amazing food amazing people, amazing ride! Get away from the strip, must must do this!!
+ -1
+
+
+review_id : jOHpcnYzSKfEkRRMa7TVuQ
+aspect: Food
+text: We were here several times during our stay and I was very impressed with the food.
+ -1
+
+
+review_id : AJDStNOPiN54uJ0U4VCHGQ
+aspect: Price
+text: Despite that, the staff was extremely friendly and helpful and their services seem to be the most reasonably priced in Phoenix.
+ -1
+
+review_id : 0f1Aq1_-6FrnxWtnL2M7AQ
+aspect: Food
+text: Riding the horses is so much fun, scenery is beautiful, food is delicious and the staff is great!! We'll be back!!
+ -1
+
+
+review_id : DMYiZhdyZAOPXyX_U1z-Fw
+aspect: Price
+text: Clean hotel with a nice classical ambience, reasonably priced rooms, good breakfast, and kind staff.
+ -1
+
+review_id : AiaXYeFJ6vDsmOR9J_UdBw
+aspect: Food
+text: Great food and service! Here for work and was pleasantly surprised at restaurant food choices.
+ -1
+
+
+review_id : jg15_1pVLNRqMQhLaNi25w
+aspect: Price
+text:  For the price I would definitely stay here again.
+ -1
+
+review_id : KjOHx1j9bKR5SuwTe0jRqA
+aspect: Price
+text:  The price was right, and the van was perfect, a Dodge Ram 1500 van with tons of space that was actually kind of fun to drive.
+ -1
+
+review_id : kPIsHMjQ1JBgYmSYK-5ryw
+aspect: Price
+text: Great breakfast the next morning too, and reasonably priced even for Vegas!!
+ -1
+
+review_id : v8x-1
+FMpd-1
+PCb22EV4daw
+aspect: Food
+text: Luckily in the Delta terminal there is plenty to choose in terms of food and drink from coffee shops, a wine bar and a subway!
+ -1
+
+
+review_id : KYnvqY02Oo0Dggu9n-zoFQ
+aspect: Price
+text: The rooms were clean, comfortable and definitely worth the very reasonable price per night.
+ -1
+
+review_id : -AjlGCCcsudkfS8tqL1goA
+aspect: Food
+text:  Really great selection of food.
+ -1
+
+
+review_id : eBkFPaM48VnFj_4J5WBHrg
+aspect: Price
+text: Great location, price and customer service.
+ -1
+
+review_id : 6WSnaUI3O0--x2CS0SABRw
+aspect: Food
+text: Nice little sports bar with great food.
+ -1
+
+
+review_id : xu8viBwaH4wcUx8j7ZNTgA
+aspect: Price
+text: All this excellent service and a fair price too.
+ -1
+
+review_id : 6YnyZh0vZn3VhcxEDBZPjQ
+aspect: Price
+text:  The price was the lowest we can find.
+ -1
+
+review_id : Vlxnns5EcjXISBApTkGG0A
+aspect: Food
+text: Good food, great horses, stunning scenery.
+ -1
+
+
+review_id : I6fBhORvBnWET4dWY6HV5Q
+aspect: Price
+text: Excellent hotel with reasonable price.
+ -1
+
+review_id : qrzfmHKgF6KFwN-pJQEvRQ
+aspect: Price
+text: The prices are very reasonable.
+ -1
+
+review_id : CHeOxerWgtKKhQS1KMXe5Q
+aspect: Price
+text: Excellent tour and great price compared to other tour agencies.
+ -1
+
+review_id : T27V7SPNHRrLSyLWpqszrg
+aspect: Price
+text: I search prices and Budget normally has the best price.
+ -1
+
+review_id : BzUq9GsbZoR-iOJC2ea9pw
+aspect: Food
+text: The food was very delicious, as the owner will prepare just about anything you request.
+ -1
+
+
+review_id : Bbcp4zB8PtRnniZZFLdzMA
+aspect: Food
+text: Travel China inexpensively, see major UNESCO sites, eat tasty and interesting food, meet friendly people.
+ -1
+
+
+review_id : y2EXi6aey93w7F46gMWCyA
+aspect: Food
+text: The food was excellent..everyone at the ranch were very enthusiastic, patient and knowledgeable!!
+ -1
+
+
+review_id : PmOQFmBj9wMTr6Kc3O9vZw
+aspect: Food
+text:  So its great that you can easily walk to the food and bars.
+ -1
+
+
+review_id : AbqWct_sPxWKo3PcMx4dNw
+aspect: Price
+text:  Very fairly priced.
+ -1
+
+review_id : iQpjgrns-F4Vul0LkuGkgw
+aspect: Food
+text: The food they served was nice too.
+ -1
+
+
+review_id : cdcRnK4DykBMhP5A_B_VGA
+aspect: Price
+text: Too good a price to say no.
+ -1
+
+review_id : MFcMLWpjiotvqOufjHX6HQ
+aspect: Price
+text:  car is warm when you get into it and price is very good for door to door service.
+ -1
+
+review_id : kTZwbpnxK7O9IYIFVnPxHQ
+aspect: Food
+text: The food is all pretty much the same - you will get sick of it.
+ -1
+
+
+review_id : LKLRpiepOxfJxDJX07vt9w
+aspect: Price
+text: For the price it was great.
+ -1
+
+review_id : coHDJTBgbho8V1dpVlPdyQ
+aspect: Food
+text: Food is great as well.
+ -1
+
+
+review_id : n_rCez8h1XDziDp8v2y0UA
+aspect: Price
+text: They were extremely friendly and the price was reasonable.
+ -1
+
+review_id : 4iurkGOQXcEo7wDBwhfAzw
+aspect: Food
+text: Charming decor, restaurant with live music and good food - GREAT overall!
+ -1
+
+
+review_id : 6HpmO4vvvxUvjmA4GHo4GA
+aspect: Food
+text: The food was great!
+ -1
+
+
+review_id : m6l07v1GYoW9nQsSqjHnSw
+aspect: Price
+text: Global travel is fast and professional with a good price.
+ -1
+
+review_id : 185z5D7zD9a6E_KbISZTpQ
+aspect: Price
+text: The price of the room was very reasonable, so I will definitely be back when in the area.
+ -1
+
+review_id : 68qOxhIILOiB6fx67ToOvw
+aspect: Price
+text: Good hotel for the price and excellent location.
+ -1
+
+review_id : K096CXtmY74jHd3MX1VD-g
+aspect: Food
+text:  Every need was met or exceeded, the food was excellent, the service fast and extraordinary.
+ -1
+
+
+review_id : EW5qsX5Mom5psp6IIb7zuA
+aspect: Food
+text: Also, for breakfast I was expecting your typical rolls and orange juice, and maybe some cereal, but there was a great selection of different breakfast foods and the dining room was very cute.
+ -1
+
+
+review_id : gFjQHVZprVjOQ6rdfr3tbw
+aspect: Food
+text: He was excited and happy to not have junk food!
+ -1
+
+
+review_id : PNYJcuSzw9IkiNvepm9wAA
+aspect: Food
+text: Our driver\/guide, James, was super friendly throughout the experience and his food was delicious.
+ -1
+
+
+review_id : YRUjJTLgu96qLH3OGpdB4g
+aspect: Food
+text: The food was amazing!!
+ -1
+
+
+review_id : EWL2kq3l-8J4X1ZPkRB7jg
+aspect: Food
+text: The breakfast bar is super clean and well stocked, the food was excellent each day.
+ -1
+
+
+review_id : 5RudZdEoZY6tF5q7JC9Q-w
+aspect: Food
+text: Lots of places covered, many miles traveled, delicious food.
+ -1
+
+
+review_id : Sl9OqTTfDl2vyUTKwUGQCA
+aspect: Food
+text: The bistro they have open for dinner had amazing food, one of the best burgers I've ever eaten! And the breakfast choices were amazing as well.
+ -1
+
+
+review_id : TNK135nXt2g4N_upnFBliA
+aspect: Food
+text: The food afterwards was amazing as well.
+ -1
+
+
+review_id : 3ywEfM0PVLTTP_SSeQA3tw
+aspect: Food
+text: And last but certainly not least,  Lionel prepares the most beautiful and delicious breakfast dshes which will impress the most critical of food enthusiasts!
+ -1
+
+
+review_id : W2gjoWqdPhEa4LBNVHGxqA
+aspect: Food
+text: Great food review Toronto to Taipei!!
+ -1
+
+
+review_id : CrjT7vmHdvH2PRv38lK4oA
+aspect: Food
+text: We had such a great time cruzin Vegas in these scooters!! The sights where amazing, the food delicious and most of all the tour guide was so nice ,polite and knowledgeable of the area a must do
+ -1
+
+
+review_id : 6BdTF0FqujWKaqQh64SCkg
+aspect: Food
+text:  There's always delicious food available, particularly homemade chocolate chip cookies, and Karl and Jeff, the owners are incredibly thoughtful, accommodating and flexible.
+ -1
+
+
+review_id : 8ZlmYvr3aGsz0vGV6H_ytA
+aspect: Food
+text:  Service, food, ambiance was absolutely stellar.
+ -1
+
+
+review_id : Vp6KpdBjGfahB6VlbrawaQ
+aspect: Food
+text: Breakfast food is fresh and nicely presented with appealing apps in the eve and a well stocked cocktail bar.
+ -1
+
+
+review_id : kgB4GEw34S2Ie46_Jq0wLg
+aspect: Food
+text: this is one hell of a deal for all the delicious food you get..
+ -1
+
+
+review_id : nI2oxJfZ-DgpHJjv8Dq2oA
+aspect: Food
+text: Food is awesome.
+ -1
+
+
+review_id : d7SuZMxJimZPJRGoOHxMLQ
+aspect: Food
+text: We love the onsite bar that offers good food and they serve past the time other places are closed.
+ -1
+
+
+review_id : jPGfKDL0k69tuVJDVIw0Cw
+aspect: Food
+text: Fantastic modern hotel room, comfortable stay, friendly staff, and excellent food!
+ -1
+
+
+review_id : AGXbppke79Y8ltNyN4VryQ
+aspect: Food
+text: The food was excellent at both restaurants.
+ -1
+
+
+review_id : WwW6qTPJ8uWpXRLASYwfcg
+aspect: Food
+text: Where do I begin? I love this place the staff is wonderful the food is good and they are a really good hotel.
+ -1
+
+
+review_id : AWfQgtPY_Rr_YwjD98Jfiw
+aspect: Food
+text:  Staff was very friendly, food at the bistro was nice and fresh, rooms were immaculate, beds were comfortable.
+ -1
+
+
+review_id : OtH5ruyZ-RoSRZLT-AFWxw
+aspect: Food
+text:  hotel has a lounge and restaurant built in--food very good.
+ -1
+
+
+review_id : L1KdxuwYCaD8m41yF_H-Lg
+aspect: Food
+text: The bar also has some good food.
+ -1
+
+
+review_id : Z26DGqVqvFkaBsGbs05PGg
+aspect: Food
+text: The food is delicious and light.
+ -1
+
+
+review_id : gfKJ_U1nsgbATIKw5zdexA
+aspect: Food
+text: Great drivers, passengers, environment, food, drink, and wifi.
+ -1
+
+
+review_id : dm-rQtjVZ-ar6h-vt4Z4tg
+aspect: Food
+text: Food at the restaurant was amazing and the gentleman who served us (Jon) was amazing.
+ -1
+
+
+review_id : CgzEF0wNeqhdpvGN-eT7DQ
+aspect: Food
+text: Place is amazing place to take a loved one great food lots of things to do with the family amazing staff.
+ -1
+
+
+review_id : CgzEF0wNeqhdpvGN-eT7DQ
+aspect: Food
+text: Amazing atmosphere amazing food and nice pools water falls
+ -1
+
+
+review_id : ZzamvkB9jM9fI45--5tT0A
+aspect: Food
+text: Fortunate Fox is the hotel restaurant and bar which made some great cocktails and food.
+ -1
+
+
+review_id : 1YEAyq0j_SQfTP_rd2TZOg
+aspect: Food
+text: And please do not eat before you take the food tour.
+ -1
+
+
+review_id : 1YEAyq0j_SQfTP_rd2TZOg
+aspect: Food
+text: So much delicious  food, we were stuffed.
+ -1
+
+
+review_id : w9E34NRZlcM84k10qW_sbg
+aspect: Food
+text: The food was good too! Overall this is one of the best hotels I've ever stayed in, and I've stayed in a lot!
+ -1
+
+
+review_id : tWyocDT25QQfWRA8Irszmg
+aspect: Food
+text: Nice selections of foods and snacks.
+ -1
+
+
+review_id : vzvvBl_BR5pJSxYGVDHnIw
+aspect: Food
+text: The food was great, the daily specials were key, the birthday shots were fun and the PECAN PIE WAS PHENOMENAL!
+ -1
+
+
+review_id : vJuxVpJlb3Z_uaitA5x0iw
+aspect: Food
+text: We made 5 stops and the food was excellent at all of them.
+ -1
+
+
+review_id : tfcpR8Ho6UOHX3NHXwykBA
+aspect: Food
+text: Great atmosphere, friendly staff and excellent food.
+ -1
+
+
+review_id : PzlLzQaB6s6I3KAI3uvaXA
+aspect: Food
+text: It's good down home food.
+ -1
+
+
+review_id : PzlLzQaB6s6I3KAI3uvaXA
+aspect: Food
+text: Delicious warm comfort food.
+ -1
+
+
+review_id : pO6C-0Ka4xV6kNKMmJaqog
+aspect: Food
+text:  The food was delicious!  
+ -1
+
+
+review_id : ax3k0UKRB0rUVKXc0SN7RQ
+aspect: Service
+text: The staff and service there is exceptional! Keep it up!
+ -1
+
+
+review_id : MeEf9em8eCN4ehs772aCew
+aspect: Service
+text: Shuttle service was very prompt and Jermaine even gave me a quick ride to the store with no issues.
+ -1
+
+
+review_id : lQak_2pzFimVgBRJ0_nmlw
+aspect: Service
+text: She goes above and beyond and has the exceptional Customer Service.
+ -1
+
+
+review_id : 7NGGIGSnrpU8hGWM1xDKmQ
+aspect: Service
+text: Amazing place, amazing service.
+ -1
+
+
+review_id : 7NGGIGSnrpU8hGWM1xDKmQ
+aspect: Service
+text: Thank you for the great service and superb car!
+ -1
+
+
+review_id : 7NGGIGSnrpU8hGWM1xDKmQ
+aspect: Service
+text: Wonderful car, wonderful service.
+ -1
+
+
+review_id : _r1QqR1roluJuPqN4PxNxQ
+aspect: Service
+text: Their customer service is superior, they truly prioritize the customers needs.
+ -1
+
+
+review_id : CSUQ_cZMrFJTV3Pbo9AfWw
+aspect: Service
+text: It was our tremendous good fortune to find Samstrans Car Service Transportation.
+ -1
+
+
+review_id : CSUQ_cZMrFJTV3Pbo9AfWw
+aspect: Service
+text: For the very best in car service transportation, contact Samstrans.
+ -1
+
+
+review_id : O3icXLsVFWP1ghV8if9HOw
+aspect: Service
+text: Thank you so much Sam for creating this super service.
+ -1
+
+
+review_id : 4BvFXk-aRpDqU0Jj2kH1vQ
+aspect: Service
+text: I am amazed at the service Robert has provided me as I travel my corporate group cruise.
+ -1
+
+
+review_id : 65g_SFIEDyR33LPyCajWOg
+aspect: Service
+text: Haley is fantastic!!! Always great customer service and professionalism.
+ -1
+
+
+review_id : vYODb33Rx_I3CgnvKUPVLg
+aspect: Service
+text: Everytime I use enterprise they give me a great service at Sweettouch definitely recommend
+ -1
+
+
+review_id : GbeZsu1joltDvJqP4osHQA
+aspect: Service
+text: We were very happy with the service Noam Meppen provided when we contacted him regarding an Alaskan cruise.
+ -1
+
+
+review_id : bBOlic0wtqPfmd5881VBhA
+aspect: Service
+text: This was the best service and they fulfilled a 15 year vision of mine to visit Las Vegas and drive an exotic car.
+ -1
+
+
+review_id : tHXqVsDuq8MyjCwt_YI22A
+aspect: Service
+text: Excellent service, multiple times!  Clean, comfortable cars and excellent drivers.
+ -1
+
+
+review_id : 7PmtdPZ6fO_vnDy08dCwDw
+aspect: Service
+text:  I will use this service in the future.
+ -1
+
+
+review_id : L_2jIQF0w0LDHc3va9zycg
+aspect: Service
+text: Best shuttle service I've had with short notice and family emergency.
+ -1
+
+
+review_id : L_2jIQF0w0LDHc3va9zycg
+aspect: Service
+text:  Customer service and booking was great.
+ -1
+
+
+review_id : 8ORqVpAsK5-XvERXXHKqbw
+aspect: Service
+text: William gave me great customer service, and worked with me for weeks to find me the best flight options for London.
+ -1
+
+
+review_id : Vnvc3tGv4rigXKUJ1U3ulg
+aspect: Service
+text: I arranged for one of their party buses to take a group of 13 on a pub crawl around the Burgh and I can't say enough good things about the service.
+ -1
+
+
+review_id : bNm-e4WEfrZsDJt3c5Inmw
+aspect: Service
+text: I have used this service and Jason B in particular has been very responsive, very helpful, very diligent, and nice to speak with on the phone.
+ -1
+
+
+review_id : bNm-e4WEfrZsDJt3c5Inmw
+aspect: Service
+text:  I will use this service again, and happily write this review.
+ -1
+
+
+review_id : mYprCBxvo729S1q0F5yLeA
+aspect: Service
+text: Thank you Katrina for helping me find my lost coat! Also, thank you Enterprise for the friendly service.
+ -1
+
+
+review_id : nzQ3MKrEDv07gcvPnqdj1g
+aspect: Service
+text: Awesome company excellent customer service.
+ -1
+
+
+review_id : S6BDD3urChXhxXEnm0wmIQ
+aspect: Service
+text: The staff was great to work with and definitely will use their service next time in town.
+ -1
+
+
+review_id : xv6txrpfLWPbmC23UlVKuw
+aspect: Service
+text: Great service! Reasonable prices!
+ -1
+
+
+review_id : gtQcDhRzx1fJmT-rLpKF3w
+aspect: Service
+text:  Thanks to him I ended up buying 4 boxes lol Great customer service.
+ -1
+
+
+review_id : QT1t7UF4NA44aBjO4Jj-zgL
+aspect: Service
+text: Because of exotic car but more about the superior customer experience and service!
+ -1
+
+
+review_id : EMCKREKsoj8vA16F5DYLeA
+aspect: Service
+text: Enrique Martinez and both agents at this location are always their to help and give the best service.
+ -1
+
+
+review_id : s_pr2XizHyc8tFXtDJ2iHA
+aspect: Service
+text: Awesome transportation service.
+ -1
+
+
+review_id : JiSSrihnnYfIL5Q0dfrgPw
+aspect: Service
+text: I was very happy with the service here - I think I will continue to book my trips here versus online.
+ -1
+
+
+review_id : Ix57T-bBqVH_XzorNRm6Yw
+aspect: Service
+text: Excellent customer service!!
+ -1
+
+
+review_id : Ix57T-bBqVH_XzorNRm6Yw
+aspect: Service
+text: The guy who helped us was SUPER friendly and even offered us an upgrade for free.
+ -1
+
+
+review_id : oAkV_d7tlZvZkbNkGpLxhQ
+aspect: Service
+text: Very clean hotel, services are pretty standard for Hampton but the front desk was great and the room was clean and quiet.
+ -1
+
+
+review_id : VWz4aBWZUvNRyO-fi-aQrQ
+aspect: Service
+text: Great place to rent your dream car! Also, as others say, Vegas Luxury Rides has great customer service.
+ -1
+
+
+review_id : d74WVX2NkxMBTd3NY4yv8Q
+aspect: Service
+text: The service is exceptional, fast, and friendly.
+ -1
+
+
+review_id : uwu3wncxTjs7vDy3vxNUYQ
+aspect: Service
+text: It was amazing! Service was great and quick, very polite and helpful guy who explain everything to us.
+ -1
+
+
+review_id : 7EF88pdrdGv7YuNI8CB0fA
+aspect: Service
+text: always service with a smile...
+ -1
+
+
+review_id : o-kqzh_Szh2I0gGDrE5v3w
+aspect: Service
+text: They are always able to give me great service.
+ -1
+
+
+review_id : t4DTY63kNYIVDMtI0vj2XQ
+aspect: Service
+text: Ladies and Gentlemen, I cannot, with all literary indulgence nor wit at pen lend discerning realization of the abundant boutique charm coupled with unsurpassed luxury and most importantly: warm reception and speedy service.
+ -1
+
+
+review_id : t4DTY63kNYIVDMtI0vj2XQ
+aspect: Service
+text: A stocked minibar, with 5 Church on dial for speedy and prompt room service.
+ -1
+
+
+review_id : qu4fy3NJTb9IcULZ_u-mRA
+aspect: Service
+text: Their prices are great with the added exemplary customer service.
+ -1
+
+
+review_id : Cm1hllvQ7s0XkXHwXYV-2g
+aspect: Service
+text: EXCELLENT Customer Service, unbeatable rates and courteous helpful staff!
+ -1
+
+
+review_id : QOlPdxZctelIzlEyacpymQ
+aspect: Service
+text: Thank you for your support and exemplifying the meaning of stellar customer service.
+ -1
+
+
+review_id : D7NGg_0gN9B6g7Afn9P0sA
+aspect: Service
+text: Great service, formerly known as Handicapped Vehicle Specialists.
+ -1
+
+
+review_id : -_urBQyyFPK4Zi6OJF6Tsg
+aspect: Service
+text: Great service from everyone and after sale support .
+ -1
+
+
+review_id : 7-b8Z9yHynOCJKT495-Gmg
+aspect: Service
+text: Service was excellent from valet, reception staff, housekeeping to library lounge bartender.
+ -1
+
+
+review_id : QfzqhUB6igJD_QXnxFwz2A
+aspect: Service
+text: I highly recommend this transportation service and plan to do so with each visit.
+ -1
+
+
+review_id : 8D1BRixxoaDUdMJWka2hNw
+aspect: Service
+text: Fantastic service and amenities.
+ -1
+
+
+review_id : z8xDMD7sL7Um0ax-0qXAIQ
+aspect: Service
+text: They provide wonderful and courteous service.
+ -1
+
+
+review_id : _kPSnVCd4O60lk1XM1chiA
+aspect: Service
+text: I definitely recommend this place excellent service and great cars..I'm going there for a second time!
+ -1
+
+
+review_id : edjgKvtoGFfvZ9_0TX3dFw
+aspect: Food
+text: It's a great way to experience the sights and culture of Italy, and yes, the food and wine.
+ -1
+
+

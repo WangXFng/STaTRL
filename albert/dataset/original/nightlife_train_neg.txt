@@ -1,0 +1,1587 @@
+review_id : OO8lRYxkfaV7kfioYR9osA
+aspect: Food
+text: Horrible food, worse music, inattentive staff and overpriced drinks.
+ -1
+
+review_id : OO8lRYxkfaV7kfioYR9osA
+aspect: Price
+text: Horrible food, worse music, inattentive staff and overpriced drinks.
+ -1
+review_id : gMo_6J-HqUcbhpK_ODGSKA
+aspect: Service
+text: Horrible customer service!
+ -1
+
+review_id : gMo_6J-HqUcbhpK_ODGSKA
+aspect: Service
+text: I will never use their services.
+ -1
+
+review_id : YUQu3MGEIfWvyJhI0JVZTw
+aspect: Service
+text: Service was rude and security was rude.
+ -1
+
+review_id : jcbWKI7nezr9kV-muKPGqw
+aspect: Service
+text: Both trips the service was extremely poor.
+ -1
+
+review_id : dUjj8XUf1b4er_oCXHdnyA
+aspect: Service
+text: I agree on the bad service!!! the last 2 times have been BAD! I got up and left the last time.
+ -1
+
+review_id : dUjj8XUf1b4er_oCXHdnyA
+aspect: Food
+text: The problem I have is that I sent in to them recent a concern about this and the poor food and never got a reply from them We use to eat there 2 or more times a week
+ -1
+
+review_id : RTsfldUtWnr0vFA2qcfDbQ
+aspect: Food
+text: Absolutely nasty food, terrible service and a customer base that's straight out of the trailor park.
+ -1
+
+review_id : RTsfldUtWnr0vFA2qcfDbQ
+aspect: Service
+text: Absolutely nasty food, terrible service and a customer base that's straight out of the trailor park.
+ -1
+
+review_id : BAEyugo6mZHc2DJ5dRQ7IA
+aspect: Food
+text: I'd avoid spending your hard earned cash on what seems to be pre cooked frozen food.
+ -1
+
+review_id : p1eF2CDPLlOiRRMsj3Y-jA
+aspect: Food
+text: -majority of the food was cold
+ -1
+
+review_id : p1eF2CDPLlOiRRMsj3Y-jA
+aspect: Food
+text: -a lot of the food was stale 
+ -1
+
+review_id : p1eF2CDPLlOiRRMsj3Y-jA
+aspect: Service
+text: Not sure why anyone would expect a tip when they provide the worst possible service.
+ -1
+
+review_id : 3A1D_nfQOLf-UGQyKU3Dgg
+aspect: Service
+text: Worst service I've ever had in Calgary.
+ -1
+
+review_id : 3A1D_nfQOLf-UGQyKU3Dgg
+aspect: Food
+text:  The food had also clearly been sitting under the lamp for quite some time, as the fries were lukewarm and the lettuce on the burgers wilted.
+ -1
+
+review_id : 3A1D_nfQOLf-UGQyKU3Dgg
+aspect: Service
+text:  The manager ended up comping 2 of our meals after we complained about the terrible lack of service we had recieved, but it wasn't enough to make me ever go back.
+ -1
+
+review_id : 2IY8lFtB47WCY7zFrdo7Jw
+aspect: Food
+text: Food was meh, and overpriced.
+ -1
+
+review_id : 2IY8lFtB47WCY7zFrdo7Jw
+aspect: Service
+text: Food was meh, and overpriced.
+ -1
+
+review_id : Xbrxw-SHwjsIVfD28ni9OQ
+aspect: Service
+text: She didn't get very good tips from us because the food was so so and her service was terrible.
+ -1
+
+review_id : LgN8uSj14xum5nhlRzWO9g
+aspect: Service
+text: Service was horrible.
+ -1
+
+review_id : AF377LGf8seBf7UvGkQLiA
+aspect: Service
+text: One one occasion, I got my iPhone stolen by the busboy, and when I went yesterday we got the rudest service from the barman.
+ -1
+
+review_id : nUUehYWHX0xbpimA0zHMnw
+aspect: Service
+text: Awful service.
+ -1
+
+review_id : 9Nt-chL6bt39zLst4HKSFA
+aspect: Food
+text: The waitstaff and hostess were completely clueless to nearly every single question we had (we were asking about happy hour specials), their menus are outdated such that the waitress had to explicitly mention that it was not valid, and the food experience was very poor.
+ -1
+
+review_id : 8Sb93fxcfb3n8oB72dhcIw
+aspect: Service
+text: Don't know if it was lack of service or what because I left too...
+ -1
+
+review_id : Z9V6ZOmvZM56bYKxKOWPHg
+aspect: Service
+text: The service is poor.
+ -1
+
+review_id : 41D6M6JPSQjK24tuNoBySw
+aspect: Service
+text: The service was extremely slow and we had to wait 20 minutes for our check
+ -1
+
+review_id : BChX1jeU-0kKpCNJazhkoA
+aspect: Food
+text: The food sucks especially the pork sisig too fatty, fat all the way.
+ -1
+
+review_id : Lc4Y1pjnLdVzbN1rzXbevg
+aspect: Service
+text: The service was awful.
+ -1
+
+review_id : Lc4Y1pjnLdVzbN1rzXbevg
+aspect: Food
+text: we had also ordered food, The food was very subpar and took quite awhile.
+ -1
+
+review_id : uDoGTdWxCDX-X4mFNwNWow
+aspect: Service
+text: Service was extremely SLOW only one server, my family was halfway done w\/ dinner before I got my cold pizza, asked for fettuccini Alfredo but got  fettuccini noodles with red sauce,  never got drink refills, took 15 minutes to get my check and the owner just sitting at bar could care less.
+ -1
+
+review_id : fnYQa3akHz0VifyYchA9Ww
+aspect: Price
+text: Drinks are well overpriced for such a dirty establishment.
+ -1
+review_id : 6kt6DOGD1H2syNv4FFcDXA
+aspect: Price
+text: On top of everything the menu was overpriced and the food under delivered.
+ -1
+review_id : iSAKrP8sT8uSy9GtAwJnKw
+aspect: Service
+text:  Oh...and for such crappy service, they make sure to tack on a 15% gratuity at their discretion.
+ -1
+
+review_id : apgV7k1i8e8M3obodmYmWA
+aspect: Service
+text: First of all the service is very poor, no one was around to even ask for water after the food was served.
+ -1
+
+review_id : 4pySJJKs7uDLr0ECySbaKg
+aspect: Food
+text: Very disappointing service, I found the food extremely overpriced and the menu boring.
+ -1
+
+review_id : 4pySJJKs7uDLr0ECySbaKg
+aspect: Price
+text: Very disappointing service, I found the food extremely overpriced and the menu boring.
+ -1
+review_id : 4pySJJKs7uDLr0ECySbaKg
+aspect: Service
+text: Very disappointing service, I found the food extremely overpriced and the menu boring.
+ -1
+
+review_id : 6piydhDr7hitQqo27PG33w
+aspect: Food
+text:  Service poor, food not great.
+ -1
+
+review_id : 6piydhDr7hitQqo27PG33w
+aspect: Service
+text:  Service poor, food not great.
+ -1
+
+review_id : KXppGzAbKOATEXrRM_Ih8w
+aspect: Price
+text: Over priced for what you get.
+ -1
+review_id : pL_LMLiDsOw244mG7ZKx5w
+aspect: Service
+text: The worstttt service! Actually I didn't get any service!
+ -1
+
+review_id : MXeRTHlayZ21zNFazMZdkg
+aspect: Food
+text: Food was also way overpriced.
+ -1
+
+review_id : Iux1vgl2OKi3Bg2X0grjGg
+aspect: Service
+text:   The rudest customer service i have ever had in madison.
+ -1
+
+review_id : 5krVys6NWeVqthrHO7DGRg
+aspect: Service
+text: Service was terrible, gyro was not cooked all the way, order was short( no gyro sauce).
+ -1
+
+review_id : 9DNxmiQ6aMKMkvGm3C8WQA
+aspect: Service
+text: The service is awful.
+ -1
+
+review_id : 9DNxmiQ6aMKMkvGm3C8WQA
+aspect: Food
+text: The people that received they're orders stated the food was cold.
+ -1
+
+review_id : 1pU73RDxigv0nA9o2HrKEQ
+aspect: Price
+text: Overpriced and watered down drinks.
+ -1
+
+review_id : dI_wQMzAC91wjmdCQwH3yg
+aspect: Price
+text: Prices are not true, table d'hote plread carefully, all +$ ceaser salad +2$, coffee they tell you pick any but not true add
+ -1
+
+review_id : Z40p107hZoNnSAq7U_rEkw
+aspect: Service
+text:  The service is horrid, the wings were way over fried, dry, dry, dry.
+ -1
+
+review_id : YZ8QH-zfLWwU09bMi6Bi5Q
+aspect: Price
+text:   For what I spent at this \"festival\" on teeny tiny samples of wine and over priced food - I could have gone to a good concert.
+ -1
+
+review_id : I9NMrmnRQh4gkPOaykEn7Q
+aspect: Service
+text: Worst bar services ever.
+ -1
+
+review_id : i0w-KBz7ec5wBWyzqWYeuA
+aspect: Food
+text: Food was lackluster and environment just was to dark for my tastes.
+ -1
+
+review_id : vjfiPJsnqN8T7BP41wC8kw
+aspect: Service
+text: Service I snot only slow but cheap and almost not existent.
+ -1
+
+review_id : zXhr6J-Gq0nCo_IoeHM5sw
+aspect: Price
+text: You have to pay for all wine tastings, really anything at the event which was very over priced
+ -1
+
+review_id : lTawhwR8CbM3mJOd3wdCag
+aspect: Food
+text: Even on an empty stomach, the food we ordered was pathetic.
+ -1
+
+review_id : FLVEst-XTvlrnt99w2tYCQ
+aspect: Food
+text: The food is also not very good, the calamari is very salty.
+ -1
+
+review_id : FLVEst-XTvlrnt99w2tYCQ
+aspect: Food
+text: The food gets cold quickly too because of the poor insulation.
+ -1
+
+review_id : e6IGsw6XlbaNRT8DLZAHzA
+aspect: Service
+text: The service here is pretty bad.
+ -1
+
+review_id : e6IGsw6XlbaNRT8DLZAHzA
+aspect: Price
+text: We ordered four entrees and two apps, all were equally bad and overpriced.
+ -1
+
+review_id : EWkBeZrbUL9Jwf0wsBAMwA
+aspect: Food
+text: Did I mention the food came to us cold.
+ -1
+
+review_id : 7oirYAdTkG1mBShTyIn4XA
+aspect: Food
+text: The food was awful and tasteless.
+ -1
+
+review_id : Hs09uECVz1n6VY0WVrRyrg
+aspect: Service
+text: Very bad service and i had the worst martini ever !!!
+ -1
+
+review_id : NY5piIdOhMr9vc9-l-1TZw
+aspect: Service
+text: Worst service at sports bar.
+ -1
+
+review_id : ce8hNyO4JWb8qAH5NW-wVQ
+aspect: Food
+text: The food took 1h45 minutes to arrive and was cold.
+ -1
+
+review_id : G5wnqLR9q2qZuGVHftHbsQ
+aspect: Service
+text: Customer service stinks
+ -1
+
+review_id : j-lhFi3OIDWnBHUr7VhxaA
+aspect: Price
+text: Drinks are WEAK and way overpriced.
+ -1
+
+review_id : 3ruiigfNTuA9W0FjCtRHxA
+aspect: Service
+text: Worst bottle service experience I have ever had!!
+ -1
+
+review_id : _eEit0xIApcyh0FzsY3Pfg
+aspect: Service
+text: The worst service I've ever had.
+ -1
+
+review_id : 07KlriBEb_dL_7hbg79LhA
+aspect: Service
+text: The service is absolutely terrible.
+ -1
+
+review_id : 07KlriBEb_dL_7hbg79LhA
+aspect: Food
+text: The food is overpriced, makes my stomach hurt and me feel sick, and it gives me the shits.
+ -1
+
+review_id : 07KlriBEb_dL_7hbg79LhA
+aspect: Price
+text: The food is overpriced, makes my stomach hurt and me feel sick, and it gives me the shits.
+ -1
+
+review_id : QaDYg4i-snpj27rOlh4fsQ
+aspect: Service
+text: The service now is horrible I will never eat at this restaurant again I asked for medium spice and it was brought to the table as Extra hot and the lamb chop in the platter was a small bone piece.
+ -1
+
+review_id : QaDYg4i-snpj27rOlh4fsQ
+aspect: Food
+text: On behalf of all Africans I apologize for the horrible service and food here.
+ -1
+
+review_id : QaDYg4i-snpj27rOlh4fsQ
+aspect: Service
+text: On behalf of all Africans I apologize for the horrible service and food here.
+ -1
+
+review_id : zh1PnQHAWyVCNjJTPK71AA
+aspect: Service
+text: This ordeal of deafening music and bad service lasted over 1.5 hours.
+ -1
+
+review_id : X429lzW1hsLBqBoOmFpZqQ
+aspect: Service
+text: It was dirty, service was bad.
+ -1
+
+review_id : VBnH6epWnWWTpbq3lF_lSQ
+aspect: Food
+text: The food was disappointing and the music was terrible and way to loud.
+ -1
+
+review_id : vlDhnVnJ6Xd_YpZ8xh-erw
+aspect: Food
+text: Food is really bad and staff is rude
+ -1
+
+review_id : 7RGSPehZ4JIz_EP-rO2E3Q
+aspect: Service
+text: This place has the worst customer service skills, they act as if they are all that.
+ -1
+
+review_id : 7kt0mZuO5BCUSQYlrGSNWQ
+aspect: Service
+text: Food was good when it finally arrived but the service was horrible.
+ -1
+
+review_id : 7kt0mZuO5BCUSQYlrGSNWQ
+aspect: Service
+text: The food was good but because if the slow service, poor management, and sudden price changes, I would not recommend going here.
+ -1
+
+review_id : RyGC76WqM9wjhB0aRr9CEg
+aspect: Service
+text: this is been by far the worst service we've ever experienced.
+ -1
+
+review_id : MwpXBdPyurGo_46VohFO5w
+aspect: Price
+text: Also, it is incredibly overpriced for what you get.
+ -1
+
+review_id : bKGbORTAmMpU6izJlK2YPA
+aspect: Price
+text:  Drinks were overpriced and mediocre.
+ -1
+
+review_id : AhooOXMj_eWUyl380GzppA
+aspect: Service
+text: Terrible customer service, what kind of place is this doesn't even take credit card?!?
+ -1
+
+review_id : wLfeiwgI-nnw1g4VjCoFdA
+aspect: Service
+text: I've been there on several occasions and the service is consistently awful.
+ -1
+
+review_id : -6J-tFDf6DY5S7TGDIGXFQ
+aspect: Service
+text: In my mind that is just terrible service.
+ -1
+
+review_id : Lw-oDAm69JmoM9aWMxo17A
+aspect: Food
+text: Food is extremely greasy and tasteless.
+ -1
+
+review_id : 7jaABbqQlw8rBUc5aUIbZg
+aspect: Service
+text: Constantly messing up orders and awful customer service.
+ -1
+
+review_id : ofUKQQjI9AXnjDbGPllPUA
+aspect: Price
+text: Overpriced and totally not worth it.
+ -1
+
+review_id : 9DV3DTIgSKUwVamSsBYYdw
+aspect: Service
+text: No seats at the bar and no service at our table.
+ -1
+
+review_id : sbCF_rinOj-GI9LV0xC0Kg
+aspect: Service
+text:  Bottom line - terrible service - I will never go back - nor would I recommend if to anyone.
+ -1
+
+review_id : ngN-Bl46U6eDb9AfQ3mcdg
+aspect: Price
+text: Ridiculous price.
+ -1
+
+review_id : __CnxjWHV_3UTUM4TOeISg
+aspect: Food
+text: Very bad food.
+ -1
+
+review_id : OmHpvXczJPdHSsqLj-WywQ
+aspect: Service
+text: I have to second the review about the unbelievably rude customer service.
+ -1
+
+review_id : JyiWj3vNa-Z9Ls4B0f8lnw
+aspect: Service
+text: This club was absolutely awful & the service was even worse.
+ -1
+
+review_id : 9vjTsH7O7DhB6o6zIJ-UKA
+aspect: Food
+text: Crappy food!!! Worst wings & steak skewers are garbage.
+ -1
+
+review_id : _liaYADCRU0EmAfAiCaruQ
+aspect: Food
+text: Horrible service, horrible food.
+ -1
+
+review_id : _liaYADCRU0EmAfAiCaruQ
+aspect: Service
+text: Horrible service, horrible food.
+ -1
+
+review_id : JHXlbW4uNnk1u5rJ6XAJFQ
+aspect: Food
+text: The food is substandard, the drinks selection is heavily lacking, and get this, CREDIT AND DEBIT CARDS AREN'T ACCEPTED.
+ -1
+
+review_id : XWGn-xEBRfAxzcbhJ9cjXQ
+aspect: Food
+text: Horrible service, horrible food.
+ -1
+
+review_id : ThMFwOoAnmSQsRD5VjV1DQ
+aspect: Food
+text: Horrible service, horrible food.
+ -1
+
+review_id : 1vdSH7xcTf5LRwsATbWhiw
+aspect: Price
+text: this place is cool but no! The food is over priced and the pizza crust is absolutely awful! 
+ -1
+
+review_id : 277dEOh4jm8juSGf4NWR4g
+aspect: Food
+text: Horrible service, horrible food.
+ -1
+
+review_id : 277dEOh4jm8juSGf4NWR4g
+aspect: Service
+text:  Bartenders are not friendly and the service is horrible.
+ -1
+
+review_id : z4X56jhcTaxZzWeCazVb7w
+aspect: Service
+text: It's very unorganized which has caused bad customer service.
+ -1
+
+review_id : J3CXUFn6C67nXQMmJ2puXg
+aspect: Service
+text: Their customer service is pathetic.
+ -1
+
+review_id : bWOYZA5K7Y0CXCqb3B5y7g
+aspect: Service
+text: Juke box music and no service.
+ -1
+
+review_id : mxQVeC6g1x8WtgZzjEP64Q
+aspect: Service
+text: I've been coming here for years , new ownership a few months back and since then the bartenders that has been here for years quit and service now is horrible .
+ -1
+
+review_id : c7tfYq5eHMllFr7F4J4OwQ
+aspect: Service
+text: Very bad service black lady with a door haircut that wears a ball cap is extremely rude this is not the first time I've been in there but this will be the last..my advice to her treat people the way you want to be treated if you want to be treated like some dumb broad and keep treating people like we are all dumb broads.
+ -1
+
+review_id : 0r3pJJUVjMpGHOAA-DaEYA
+aspect: Service
+text: Service is slow.
+ -1
+
+review_id : 8zjHOk9pA6v02jq7RXZpQQ
+aspect: Service
+text: Service so slow and unorganized!
+ -1
+
+review_id : VmgUCw5WP8Ni3gHD2Ql2_A
+aspect: Service
+text: Real terrible service.
+ -1
+
+review_id : mRtGczjmSDF6CrZp-XZNYw
+aspect: Service
+text: Terrible food, terrible service.
+ -1
+
+review_id : BwHnOHnCeX-xx-wIF-Uw4Q
+aspect: Service
+text: We went to have dinner there a couple of weeks ago but the service was horrible.
+ -1
+
+review_id : M43XA8RHvZvNioHJX5QVmg
+aspect: Service
+text: Bottom line: bad service, bad drinks, bad music, bad dancers.
+ -1
+
+review_id : 3TqE5OK4u08ycNu1nIDurg
+aspect: Service
+text: Horrible service with poor leadership!
+ -1
+
+review_id : MGrWnfQA_4URKnMeNOdGYg
+aspect: Service
+text: Horrible service and they expelled me as a shit.
+ -1
+
+review_id : Im4c6TDukkghIcaAGpjfdg
+aspect: Service
+text: Service is horrendous!  I will never be back even if it was the last bar in Montreal !  Zero stars!  Had to give 1 star only because it made me!
+ -1
+
+review_id : IJoyujiiOS2khs2UJqCtYw
+aspect: Service
+text: Service overall was extremely slow.
+ -1
+
+review_id : Ih8jHIcaBj8cD-vsVEGMVw
+aspect: Price
+text: The drinks are way over priced.
+ -1
+review_id : btzQCJzTe3YiugJgY6Fc0g
+aspect: Service
+text: The service is worthless.
+ -1
+
+review_id : UdcIgOGMBwOr6gBaUF-_lA
+aspect: Price
+text: Overpriced, poor quality drinks and warm beer, won't be back.
+ -1
+
+review_id : 3WuLelHqezKYpfdS9jo0zw
+aspect: Price
+text: but this one was just run down, decor inside was crap, drinks decent, and the offers for high priced \"fun\" keep coming throughout the evening, making a visit to simply watch & experience the atmosphere most uncomfortable.
+ -1
+
+review_id : Cl8Yko3O12sbkQfNRyoy3Q
+aspect: Price
+text: - trying to charge ridiculous prices for minimal venue involvement ($2,500 just to use the venue as a hotel and to take pictures there),
+ -1
+
+review_id : nvOhtYVkQN1UnLQ7QZCfDw
+aspect: Service
+text: Terrible service it took 45 minutes to get a drink.
+ -1
+
+review_id : jj-I2lGHlLwfF7bCY2TLbg
+aspect: Service
+text: Worst service imaginable.
+ -1
+
+review_id : jj-I2lGHlLwfF7bCY2TLbg
+aspect: Service
+text: I blame this on several things, not necessarily terrible service staff (although they really didn't handle the situations well) - there is one computer at the bar.
+ -1
+
+review_id : Q94uax3LvjGT6OugvkBu7w
+aspect: Price
+text: Horrible drink prices.
+ -1
+
+review_id : 7JbPCD-ZA-NCrTY7oWK3Gw
+aspect: Service
+text: Absolutely terrible service from the bar staff.
+ -1
+
+review_id : rpYd6YT2hv982DUyJNrg4g
+aspect: Service
+text: Service was horrible.
+ -1
+
+review_id : sZddr4ciq2FmAE9_AwJ2SA
+aspect: Service
+text:  The service would have to have improved greatly to just be bad.
+ -1
+
+review_id : n1ZnEN0ahDmKxs7RjUPC0g
+aspect: Service
+text: The lack of service and attitude really put a damper on our visit to this establishment.
+ -1
+
+review_id : 8nk7r151yPd6SvxwNWygYg
+aspect: Service
+text: Poor service, the waitress stayed behind the bar the majority of our night, cold flatbreads (went home to heat it up & still was sub par), the French fries are frozen (menu indicated they were skin on so had hoped for fresh cut).
+ -1
+
+review_id : c3vD2AEy9jsM0g-jr6Z8gg
+aspect: Service
+text: The service was terrible from the moment I walked in, rude and very bad staff.
+ -1
+
+review_id : 8Zcl50Qb1bm9BYSfe_5BfA
+aspect: Price
+text: 2) The drinks are over priced
+ -1
+
+review_id : C-xlFdmKeI28d82Yb01_1Q
+aspect: Service
+text: Went to the new spot that opened called the parlor and the service was horrible.
+ -1
+
+review_id : Cwj4iSqo8XrUYvuV6L3fsw
+aspect: Service
+text: Worst service I've experienced in some time.
+ -1
+
+review_id : bSAk1xlHSDJJR1la2P8TGA
+aspect: Price
+text: If you like filthy bathrooms, overpriced bad beer with a dose of racism and homophobia thrown in, this is the bar for you.
+ -1
+
+review_id : nErVFD9-EyKfnWYhMvKkJA
+aspect: Service
+text: Is dirty bad service and bad food
+ -1
+
+review_id : 6yzO97wFsEeSLiG1qEcL4A
+aspect: Price
+text: This bar is not worth your time or money! Liquor is over priced and the staff are shady and try to rip the few customers off that they have.
+ -1
+
+review_id : AbuIsZ3qUVH0GW1lsCBXow
+aspect: Service
+text: The service is always sub-par and the drinks and food are about the same.
+ -1
+
+review_id : s8l6fVV7foZGaK3mBay92g
+aspect: Service
+text: Worst customer service in years!!
+ -1
+
+review_id : 1x3SA_GrqZHTRXi9Ucua8Q
+aspect: Service
+text: Our bottle service girl was horrible, each time she brought our juice canters shed drop one or a couple of our drinks and just walk away! 
+ -1
+
+review_id : OFZV2B797Y_p5iCNPlIJ8A
+aspect: Service
+text: Poor service and horrible food.Ordered food that took forever and just was awful.
+ -1
+
+review_id : RtI-Wgv8nsfLq0UOlP5FJA
+aspect: Service
+text: Wow, service was none existent.
+ -1
+
+review_id : D0msk2p9koE4pQU8v6x4wQ
+aspect: Service
+text: Unimpressed with the service.
+ -1
+
+review_id : NitmTrbwIWdkNLuTKlRayQ
+aspect: Service
+text: Service is bad food is bad I think she microwaves everything I would not recommend this place!
+ -1
+
+review_id : iYdeAtYUgXG1yY9jCEthsQ
+aspect: Service
+text: Awful service, got order wrong and didn't offer to remake it or comp it on the bill.
+ -1
+
+review_id : wY48FJP6eTMzcnryXSQ1EA
+aspect: Service
+text:  The manager ended up covering the bill of my whole party due to the horrendous service.
+ -1
+
+review_id : fwbRGuXlUv9vc7AhZxlQYA
+aspect: Service
+text: Had the WORST service ever.
+ -1
+
+review_id : oZUTQ1v4_gO0EwTdx52Omg
+aspect: Service
+text: Worst service I have ever had in a bar!! Had the bartenders looking over at the 4 of us as they drank shots.
+ -1
+
+review_id : JAY9iu1Y3RJT22W4eAcXEg
+aspect: Service
+text: I had horrible service from Harkey and saqeeb.
+ -1
+
+review_id : 49UhuLYe9nyb52BhNvk7sg
+aspect: Price
+text: Service is terrible, food is terrible, overpriced and they false advertise prices on their own menu.
+ -1
+
+review_id : LgWZ_IwLENbd9RM8kIv6ww
+aspect: Service
+text: The service is really spotty.
+ -1
+
+review_id : AhJrRml85t9PYncj_W8DJQ
+aspect: Service
+text: Lousy service.
+ -1
+
+review_id : _w-D8YPsIZxbnXB_8vIfww
+aspect: Price
+text: The food was so overpriced and tasted terrible.
+ -1
+
+review_id : Eqm0N1AntyQTGSF42ogbTQ
+aspect: Service
+text: Cannot remember the last time I had worse service, or worse food.
+ -1
+
+review_id : Eqm0N1AntyQTGSF42ogbTQ
+aspect: Service
+text: Slow service, people who came in 20 minutes after we were seated got their meals before we had received our drinks, let alone order meals.
+ -1
+
+review_id : -1AxFhSyECV8grYC_VZmhg
+aspect: Service
+text: Terrible to go service...
+ -1
+
+review_id : lxVZ7FXZcxyCj_1mGZCNvA
+aspect: Service
+text: The service was terrible, bar tenders had no clue how to make a simple cocktail, wait times for drinks were north of 20min and everything was way overpriced.
+ -1
+
+review_id : lxVZ7FXZcxyCj_1mGZCNvA
+aspect: Price
+text: The service was terrible, bar tenders had no clue how to make a simple cocktail, wait times for drinks were north of 20min and everything was way overpriced.
+ -1
+
+review_id : lxVZ7FXZcxyCj_1mGZCNvA
+aspect: Service
+text: The bar has plenty of potential with the large space they occupy, though I don't see them lasting too long with such horrible service.
+ -1
+
+review_id : z2KFjYzaYxItsAoxnhvhtA
+aspect: Price
+text:  I dont expect much from bottle service girls but at least come and check up on us once in a while...we just gave you a 15% tip on top of overprice bottles.
+ -1
+
+review_id : ZYbPQ8GL75MKUf8mlxuqRg
+aspect: Price
+text:  Now, the menu is a little pricey for bar food.
+ -1
+
+review_id : MpIcDGrwrolIET9HgI9BHg
+aspect: Price
+text:  Also, the drinks are way over priced.
+ -1
+
+review_id : I5aVqH5TVX3kS9zk8Oyq2Q
+aspect: Price
+text: Decent food, way overpriced.
+ -1
+
+review_id : N_L7W2kO_ACuWJfXz5TmjA
+aspect: Price
+text: the drinks are incredibly over priced.
+ -1
+
+review_id : GFGo7BayMucZfdP3Jn8lPg
+aspect: Price
+text: Over priced beers and nobody knows anything about there beers .
+ -1
+
+review_id : eTqAf2mwiwFyhyL4TMrDog
+aspect: Price
+text: Drinks were ridiculously priced as I had to pay for the full Redbull to accompany a Jagerbomb.
+ -1
+
+review_id : 06sX2BM5daJCVXTMMpgX6w
+aspect: Price
+text: The prices are ridiculous for such a place.
+ -1
+
+review_id : r6b6q7jh03Y26NjJbkjV5A
+aspect: Price
+text: I don't know if the drinks are pricey because my friend and I were driving, so that means no drinking.
+ -1
+
+review_id : 0eJk1LbS8MlX1xPNWp86jw
+aspect: Price
+text: Poor managment , overpriced foods , low quality and overpriced cocktails.
+ -1
+
+review_id : S5XzU4fM_wCw_86lPZeKdg
+aspect: Price
+text: Food prices are ridiculous.
+ -1
+
+review_id : sixiF7emTWePjXABFxXhBg
+aspect: Price
+text: Over priced and I couldn't not believe their attitude.
+ -1
+
+review_id : go4OiDU9mMlkZbRI1XTmBQ
+aspect: Price
+text: Way overpriced for the quality, go elsewhere!
+ -1
+
+review_id : XRY1YxcKYb404eknIYu3CA
+aspect: Price
+text: Worst of all for the ticket price and lousy food the servers couldn't even be attentive enough to fill my water glass.
+ -1
+
+review_id : qg9Lk6jyG16Tf5A29VQsWg
+aspect: Price
+text: What an absolute chaotic, overpriced mess...
+ -1
+
+review_id : 3I2pOditkuZ3_bTDzbcnBQ
+aspect: Price
+text: Everything is overpriced and the staff is terrible.
+ -1
+
+review_id : P4nvKR18AaxcJ6XN84fRBg
+aspect: Price
+text: The food did not taste fresh at all and very overpriced.
+ -1
+
+review_id : 7C75IcJ7myat9kpVPKC1kw
+aspect: Price
+text: While we ordered the usual drinks (they were fine), the food is overpriced and lacking.
+ -1
+
+review_id : ZfYfoUT1gDZ1SEi79whUOQ
+aspect: Price
+text: Absolutely disgusting! Waaay over priced!
+ -1
+
+review_id : WR5CUw4UD4angrWxPb2-vw
+aspect: Price
+text:  Pussycat's is expensive to get in, looks like a flophouse, and the lap dances are all a complete scam.
+ -1
+
+review_id : xAT85pxbxiLIt9B6MVf06A
+aspect: Price
+text: Boring music, expensive drinks..
+ -1
+
+review_id : hhmza-wLh_5TKyDskfRuww
+aspect: Price
+text: But no, this new menu was very expensive! $15-$10 apps and $30 entrees...no pizzas anywhere on the menu.
+ -1
+
+review_id : -YmvvWL2D1f_kPemF1U9fQ
+aspect: Price
+text:   These tickets were expensive.
+ -1
+
+review_id : 9gyN6qHdmFU0SvbGyfKa0A
+aspect: Price
+text: The music is too loud, the drinks are expensive and the bar stuff is rude.
+ -1
+
+review_id : _jjQV54AasPkWBPrSBBrDw
+aspect: Price
+text: A fucking rip-off and way too expensive...
+ -1
+
+review_id : rFwM2a6fOrsm2hwdZPyOzQ
+aspect: Price
+text: and the drinks were expensive.
+ -1
+
+review_id : oBDODyMR6IFg1pmPDCtdFw
+aspect: Price
+text: The selection was expensive and all canned.
+ -1
+
+review_id : EWmhVoKe30QcWcQQOccB-Q
+aspect: Price
+text: Also very expensive food for what it really is.
+ -1
+
+review_id : Ww64a4CVZg-G4VKZUHSTiQ
+aspect: Price
+text: Literally a rip off drinks are expensive as hell and watered down.
+ -1
+
+review_id : cCBzRFAyCzGeOENav637Yg
+aspect: Price
+text: It's expensive to get in, the girls are average and they are very pushy getting you to spend money (much more than usual).
+ -1
+
+review_id : A5plFzbyN1qgojurKA-NNA
+aspect: Price
+text: Holy crap this place is expensive.
+ -1
+
+review_id : TbAPGTa_51-tHAFHxzTmuA
+aspect: Price
+text: Drinks are super expensive too.
+ -1
+
+review_id : FMO8gCZBk1FMFz_wUd8gag
+aspect: Price
+text: Tried to pay overpriced bill with credit card and was told machine wasn't working , but I could get cash out of their atm.
+ -1
+
+review_id : p2A6th9RlqWVjyPgaa8-gA
+aspect: Price
+text: Inside it's a stick up its butt, overpriced, dimly lit place where the pretty people can grind to hip hop and talk about their favorite Kardashian.
+ -1
+
+review_id : jcRE2awag6Mn-WHffI2aFg
+aspect: Price
+text: It was pretty good and very pricey,  but they double charged my card as did the steak house too.
+ -1
+
+review_id : 5O4kpxzSaqEx4R6exkb9qw
+aspect: Price
+text: Very over priced and not a lot to do.
+ -1
+
+review_id : 5O4kpxzSaqEx4R6exkb9qw
+aspect: Price
+text: And very over priced for the food you get.
+ -1
+
+review_id : fK-ZjNSliFNoQH6WaikbZA
+aspect: Price
+text: Be prepared to pay incredibly high prices for shitty beer, from the smuggest bartenders in the land.
+ -1
+
+review_id : L8TVk4tJQ_y_gd0nInO20Q
+aspect: Price
+text: Prices overall were higher than normal for subpar service.
+ -1
+
+review_id : qJwLfZEDyFQv-lcQWG6PrQ
+aspect: Price
+text:  But the prices just seem outrageous.
+ -1
+
+review_id : craoKgZiwDUpdlbzwot1yQ
+aspect: Price
+text: Moreover, this place is overpriced.
+ -1
+
+review_id : -_zX_v8JgzRzmNXKWJUu1A
+aspect: Price
+text: All in all this bar's staff was rude and overly pretentious, the service was poor and the drinks were over priced.
+ -1
+
+review_id : UXO_rDhgUu-12YU_9ib1Dg
+aspect: Price
+text: The drinks as expected overpriced and seriously what is it about Canadian bartenders and their lack of knowledge on how to make shots?
+ -1
+
+review_id : iDae0FSARpk5H40df85K8Q
+aspect: Price
+text: Poorly managed, average overpriced food, no alcohol
+ -1
+
+review_id : r5CT8KjUvSdPqK6YeLMHBw
+aspect: Price
+text: Super over priced bottle service, not worth the money for this place.
+ -1
+
+review_id : Ef9UQt2ba5UOC1E0ESvuUA
+aspect: Price
+text: Horrible costumer service and super over priced! They charge ridiculous amount of money or force you to purchase 5buckets of beer just to sit down.
+ -1
+
+review_id : vSNiKyru3Jf-weUGPpJDpQ
+aspect: Price
+text: you'll find yourself paying for way over priced food , that I honestly don't think they even have a license to sell.
+ -1
+
+review_id : 7th7DcZOy3k7J5ZbVLQuIg
+aspect: Price
+text: Poor food high priced and terrible service.been there once would never go back.
+ -1
+
+review_id : 7VW4_tR-gin4NZ4i-esvXw
+aspect: Price
+text: The worst service I have ever had in a pricey restaurant.
+ -1
+
+review_id : 7VW4_tR-gin4NZ4i-esvXw
+aspect: Price
+text: When the bill came, we fortunately double checked it, but guess what? We were charged the higher price.
+ -1
+
+review_id : 7VW4_tR-gin4NZ4i-esvXw
+aspect: Price
+text: The food was just fair and overpriced.
+ -1
+
+review_id : 0t6bgpn1flnZHbgA2xaUcQ
+aspect: Price
+text:  They were very pricey for what you got!
+ -1
+
+review_id : UiSvxy-YwInTR9z9HMqctQ
+aspect: Price
+text: Way too pricey even for North Scottsdale.
+ -1
+
+review_id : rtTNFOQSH5QEsx45Hgw5vA
+aspect: Price
+text: One look and you know you're in for an over priced, bad airport bar experience, and they really deliver on that promise.
+ -1
+
+review_id : -dAXcCgwFoQdRrAmXizfIA
+aspect: Price
+text:  Food was lousy and very over priced.
+ -1
+
+review_id : nNWJuRI5TfckavczRoN-Kw
+aspect: Price
+text: Pretty overpriced for very average food! The wine was ok though.
+ -1
+
+review_id : maiXvzP-XeKR_L-nCf556w
+aspect: Price
+text: There are too many other good restaurants in Toronto to deal with the rude service and high prices.
+ -1
+
+review_id : QeXlHOVM_ArC8KnrSNG2pg
+aspect: Price
+text: Wine pretty expensive for the quality but that may not be unique to this place - i have little experience in Toronto to compare.
+ -1
+
+review_id : 0opydQzqXeFVIjmCJneQcQ
+aspect: Price
+text: The drinks were expensive for what you get.
+ -1
+
+review_id : Uk6lxKljiXpFO1RTMTZGPw
+aspect: Price
+text: this is just taking advantage because prices are too expensive for tasteless food !!!
+ -1
+
+review_id : eWmEV9D0oHmM4ymvllFw9A
+aspect: Price
+text: this is just taking advantage because prices are too expensive for tasteless food !!!
+ -1
+
+review_id : W-KLIZJEcEOQRJhRg_6CaQ
+aspect: Food
+text: Service was terrible, Beer was flat, Food was overcooked and nachos had no cheese.
+ -1
+
+
+review_id : qKxtLhn2INLTN-8TK_qZLw
+aspect: Food
+text: The food was inedible and the beer was overpriced.
+ -1
+
+
+review_id : wLWlpvqhBt5M7aUV8C5bWA
+aspect: Food
+text: The food was terrible.
+ -1
+
+
+review_id : mocc7G2Z2-bFwDmwHusxIQ
+aspect: Food
+text: No flavor to the food...awful.
+ -1
+
+
+review_id : xo7NAN03Uz6nM1ByogY2sQ
+aspect: Food
+text: Food just plain bad.
+ -1
+
+
+review_id : QfxmXTnS7fy4funFAcu3bA
+aspect: Food
+text: Worried about food poisoning and threw it all away!
+ -1
+
+
+review_id : OQ7QM84m1ZI_eYlz6S4nSQ
+aspect: Food
+text: If possible avoid this place! The ideas of it seem great!!! But the service and food was below standard.
+ -1
+
+
+review_id : jGaIfpFo8axuk8FhA97GIA
+aspect: Food
+text: The food dribbled out so some were about done eating as others food came out.
+ -1
+
+
+review_id : 7FwTtUQ8u9jMILKq2CAGjQ
+aspect: Food
+text: slow slow slow nasty cold food.
+ -1
+
+
+review_id : PXo3UEzuBASlzHCShmPwZQ
+aspect: Food
+text: The food was awful, My wife and I went there a few months ago and I hope they have improved their bar food or stopped serving food all together.
+ -1
+
+
+review_id : tIbNkbd0porTjUF_-xIeTw
+aspect: Food
+text: The service was terrible, the food was awful.
+ -1
+
+
+review_id : JgHG0wbAZMdUpnYFUmixLw
+aspect: Price
+text: The crowds are douchey, cover is too expensive, and the music is usually Top 40 crap.
+ -1
+
+review_id : OD58i76Gz7OmnrKnPPOQAA
+aspect: Price
+text: Juices are over priced.
+ -1
+
+review_id : I_0TUgT3DnJo9JTzAncqYg
+aspect: Price
+text: Watch out for over priced wings and rooms on weekends.
+ -1
+
+review_id : SB4mgutqN54683JtOGCCtw
+aspect: Price
+text: Overpriced drinks, horrible coffee.
+ -1
+
+review_id : z3jfCxVjE33vu6ai7AGLLQ
+aspect: Price
+text: This place is ridiculously over priced.
+ -1
+
+review_id : k_Tw8yfIrT_QFwXxWHzLHA
+aspect: Food
+text: Service was horrible,  food was horrible,  I hope I don't get food poisoning later.
+ -1
+
+
+review_id : na3ZgM_b1d3nCgm9Y4Jnuw
+aspect: Price
+text: Originally it had over priced drinks with some music and a lounge environment.
+ -1
+
+review_id : Jey7QrEvKftgnT_qj7Bk9g
+aspect: Food
+text: I hope they can improve the food soon.
+ -1
+
+
+review_id : y8Ze4-Qu5I1wGB7NYpIUUw
+aspect: Price
+text: Ridiculously over priced.
+ -1
+
+review_id : JDB-O7oWG2r1o-QfWxfd7Q
+aspect: Food
+text: Very slow service, mediocre food.
+ -1
+
+
+review_id : nU3jSh7NLtF8QlP16MlTnw
+aspect: Price
+text: The food was just ok, if not a bit overpriced.
+ -1
+
+review_id : ALvqUAJ030m-XzjBDJbfmg
+aspect: Food
+text: From the bad food to the transphobic humour , and poor drink selection
+ -1
+
+
+review_id : J9FKfCxDtOWIbjonrjKkUQ
+aspect: Price
+text:  Though the bartender made us some bomb shooters, they were 8 bucks a piece!  Also, I really dont come to a downtown bar to see little skanks wearing \"catholic school\" outfits serving overpriced drinks to the wanna be hot guys only, completely ignoring us chicks.
+ -1
+
+review_id : Lplvtiff6xvIqGJiotS6PQ
+aspect: Price
+text: Absolutely terrible music, no real dance floor, and very pricey overall.
+ -1
+
+review_id : ZN2UUBh2QRb7v8fj7Zi8SA
+aspect: Food
+text: Food was horrible.
+ -1
+
+
+review_id : 7kOmPlw2vJr5Ohw0VfiOvg
+aspect: Price
+text: So I went to finish my high priced cheap drink in the vacant pool room out back whilst talking to a friend on my phone.
+ -1
+
+review_id : KO9RAGwCSbSzoicBCrv8ug
+aspect: Food
+text: They kept bringing us wrong food that we said wasn't ours.
+ -1
+
+
+review_id : SCgl0eXXbtfrCZXm-wOJCw
+aspect: Food
+text: The food is mediocre at best.
+ -1
+
+
+review_id : mxonY4ra_BLCApSVxFvR-Q
+aspect: Food
+text: The food is terrible and the management just proved incompetent for even so much as an apology.
+ -1
+
+
+review_id : 1Ra8SturXUTfceoYLzFGcg
+aspect: Food
+text: Furthermore, the food was not fresh, nor authentic- rice with the meal was not even boiled properly.
+ -1
+
+
+review_id : F1lnIkbpNLuMWPzZmx031w
+aspect: Food
+text: Experienced long waits, horrible service and poor food quality.
+ -1
+
+
+review_id : qpKtYisIHRaHla-jHRfg_Q
+aspect: Food
+text: The waitresses are rude, there food is awful.
+ -1
+
+
+review_id : qpKtYisIHRaHla-jHRfg_Q
+aspect: Food
+text:  Unless you enjoy bad food, an indifferent, rude experience from the staff and overpriced drinks, I would stay away.
+ -1
+
+
+review_id : Gb57sZABgLsmxAd-Ns5eQQ
+aspect: Food
+text: Our food was not good at all.
+ -1
+
+
+review_id : fyFy5D0gPMG35h0Q2TsPNg
+aspect: Food
+text: Food: awful! The fajita plates were a joke.
+ -1
+
+
+review_id : Skk92zU5MFpp1pbKMkeLoQ
+aspect: Food
+text: Food was meh.
+ -1
+
+
+review_id : wFtZ-xQ5gEXDOvexGR1T5g
+aspect: Food
+text: The food was just bad.
+ -1
+
+
+review_id : 5gU7pR8uTRC-OBQti41utg
+aspect: Food
+text: Horrible food, terrible service, low life crowd.
+ -1
+
+
+review_id : 6lF69fQcNNLIh-4VXwUIEg
+aspect: Food
+text:  The food is awful and very overpriced.
+ -1
+
+
+review_id : CbuVD5sJ1qB192Poo53wmA
+aspect: Food
+text:  food was terrible and high dollar.
+ -1
+
+
+review_id : CbuVD5sJ1qB192Poo53wmA
+aspect: Food
+text:  i guess we will see what comes next...need mexican food place badly.
+ -1
+
+
+review_id : 6pEMdjxq5_9VB3fvaoTThQ
+aspect: Food
+text: Food is so unseasoned, I don't even believe they put salt on the chicken.
+ -1
+
+
+review_id : CNwtCF_Rvv03fuc1mKRvMQ
+aspect: Food
+text: Food is pricey and nothing special at all.
+ -1
+
+
+review_id : wPpFJ3r25-XVcZyTlt-u9g
+aspect: Food
+text: Food is freezer burnt.
+ -1
+
+
+review_id : yv3V1S6gpEziwPPH6MGtNA
+aspect: Food
+text:  Pretentious, eclectic and disjointed menu coupled with an overpriced and underwhelming food and service.
+ -1
+
+
+review_id : BpfeIBwmQ4ErTxhXnbwyvw
+aspect: Food
+text: Food quality is a crap shoot as well.
+ -1
+
+
+review_id : BpfeIBwmQ4ErTxhXnbwyvw
+aspect: Food
+text: the food is TERRIBLE and the service is ATROCIOUS!!!!!!
+ -1
+
+
+review_id : 5UeXfghXTbFCOmCn3RGkCQ
+aspect: Food
+text: Our food was cold, the portions are very small and totally different from the menu.
+ -1
+
+
+review_id : f1GPW5qqFAZhYxkqH30_dA
+aspect: Food
+text: A trend in reviews and comments I have heard in the restaurant.....bad food.
+ -1
+
+
+review_id : xc_ihZv-E1a7oW6cWRhB4w
+aspect: Food
+text:  Not good food or prices!
+ -1
+
+
+review_id : -xxE8OKRe0GLm1Ou_LalcA
+aspect: Food
+text: Slow, cold food and dry cold noodles.
+ -1
+
+
+review_id : kYm-qDdQgPEkAqlejCMqPg
+aspect: Food
+text: From the service to the actual food, everything was bad.
+ -1
+
+
+review_id : kYm-qDdQgPEkAqlejCMqPg
+aspect: Food
+text: Extremely overpriced, terrible service, and even worse food.
+ -1
+
+
+review_id : JLKwjGWo2E01-ri0a8WHzg
+aspect: Food
+text: The food does not satisfy you what so ever! I got one small avocado toast and it's cost $19, disgusting! I wanted to cry.
+ -1
+
+
+review_id : Ohc-v0O1rOwGoW-aHs-4YA
+aspect: Food
+text:  The food is horrible and the service is extremely slow.
+ -1
+
+
+review_id : TW7wBk8mRXzEWorrZVDVcA
+aspect: Food
+text: It tasted like microwave food.
+ -1
+
+
+review_id : qsfdN09m2EgyBEGmzM4xIw
+aspect: Food
+text: My food tasted like smoke.
+ -1
+
+
+review_id : qsfdN09m2EgyBEGmzM4xIw
+aspect: Food
+text: Food was terrible...think microwave specials.
+ -1
+
+
+review_id : 01VoQ2VXImLv9dWx0trJXQ
+aspect: Food
+text: Food served stone cold.
+ -1
+
+
+review_id : BAnyh2byrBAZIMt6l1TF4w
+aspect: Food
+text:   Food was otherwise not too bad.
+ -1
+
+
+review_id : kzKV1AVvcs9DsiVA3ziiQw
+aspect: Food
+text: Food is horrible, and the waitress\/bar tender is clueless.
+ -1
+
+
+review_id : pOeVmgsMQ3JIQx8JEt1d3g
+aspect: Food
+text: Just overall poor service (lack there of) and the food is not great either.
+ -1
+
+
+review_id : FjDlJlWQzwK5irpDmC5p_w
+aspect: Food
+text: Food served stone cold.
+ -1
+
+
+review_id : FOrUBvl1F-A27rT_W_AYjw
+aspect: Food
+text: Food had no flavor, my michelada was nothing but Clamato..
+ -1
+
+
+review_id : L63BTjUUn9abj8aAicssrw
+aspect: Food
+text: Long waits, cold food, and a less-than-spotless floor and general area.
+ -1
+
+
+review_id : PVsLSI4DZg7VhlDq3zLeZw
+aspect: Food
+text: The food was horrible!!! The food in the pictures definitely changed Chicken fingers?...
+ -1
+
+
+review_id : GT10gUye-yv_3mr14dd0CA
+aspect: Food
+text: I used to frequently go to Tumbleweeds (the restaurant before this one) and always got awesome service and awesome food.
+ -1
+
+
+review_id : p-NxETj12chHjKYn3y8R6A
+aspect: Food
+text: Forgot dishes, poor service, nearly inedible food.
+ -1
+
+
+review_id : _6tvsFZhe-mMDFEt_eXGiQ
+aspect: Food
+text: Food was overcooked and the waitress didn't really seem to care.
+ -1
+
+
+review_id : 78EZNzVzMtziFRvU_INBlg
+aspect: Food
+text: Ugly decor, terrible service, disgusting food.
+ -1
+
+
+review_id : 4kpr3zP7oTATHZCXzkGt8w
+aspect: Food
+text: The atmosphere and interior design of the place is great, unfortunate the food, drinks and service left a lot to be desired.
+ -1
+
+
+review_id : YIodhld1BePEe9M7JmvWag
+aspect: Food
+text: Food samples tasted pretty awful.
+ -1
+
+
+review_id : Vk0D8Iz1EDMTTDYIXRcVSw
+aspect: Food
+text: The food here is as bad as the restaurant name.
+ -1
+
+
+review_id : SjK9TavrQQRhuKTt39Ii-g
+aspect: Food
+text: The food was not worth the $17 I paid.
+ -1
+
+
+review_id : It26UJUBAHsTyjWcSN2-Dg
+aspect: Food
+text: Food is not so great, place itself is generally dirty and grimy.
+ -1
+
+
+review_id : 0Ukfrfwc-4_DgHQWZbAisQ
+aspect: Food
+text: Food served stone cold.
+ -1
+
+
+review_id : fOpwD0eYNBlhsi2d8Amq1g
+aspect: Food
+text: The food was not good.
+ -1
+
+
+review_id : tdAm7gjBFQf9Y_Vd1bdtuA
+aspect: Food
+text: The food was not tasty, and it finished soo fast and they didnt refill it.
+ -1
+
+
+review_id : SFTyiIGgFetNnr_jCMB6Mg
+aspect: Food
+text: The service was ok but the food was a huge disappointment.
+ -1
+

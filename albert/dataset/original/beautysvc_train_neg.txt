@@ -1,0 +1,1101 @@
+review_id : 5V_ao8-10qAAp4tlDUIw0g
+aspect: Service
+text: but it is absolutely not ok to not let your clients with appointments know about it! Terrible customer service at this place! I won't be back.
+ -1
+
+review_id : kxnKqlUNsPn54EoExfG3pA
+aspect: Service
+text: Horrible service.
+ -1
+
+review_id : BkglD0ARwdYmGLvGlIoeRQ
+aspect: Price
+text: Inexperienced staff and overall overpriced for all services.
+ -1
+
+review_id : J3eYDzuLXxlrbN6rnJWBZQ
+aspect: Service
+text: Service has gotten worse and so impersonal.
+ -1
+
+
+review_id : J3eYDzuLXxlrbN6rnJWBZQ
+aspect: Service
+text: The value of services and amenities is not worth the $$$.
+ -1
+
+
+review_id : a0eI9RbFElvokTp2wRawbg
+aspect: Service
+text:  The worst customer service ever!!!
+ -1
+
+
+review_id : O7XJVDEvryQyJUEeg2kz-A
+aspect: Price
+text: Overpriced and overall awful experience.
+ -1
+
+review_id : ycmaeWSfreARLIAuMvEeHg
+aspect: Service
+text: VERY UPSET with this kind of service.
+ -1
+
+
+review_id : IcnvhqyB4G4UpWRO0ec8rw
+aspect: Service
+text:  However, I was VERY disappointed with the customer service, cleanliness, inability for the employees to communicate and comprehend my questions\/concerns.
+ -1
+
+
+review_id : 8uhPkzqKjwtMgldItfnKiQ
+aspect: Service
+text: Over time threading service has kept declining.
+ -1
+
+
+review_id : fVjHzdHt8YCttDTDzWZMxA
+aspect: Price
+text: Price was a complete ripoff.
+ -1
+
+review_id : N9QItfdIuE7lixTfNn4pnQ
+aspect: Service
+text:  There was no customer service.
+ -1
+
+
+review_id : BAJNNhXaUiNKvxqGyeffwg
+aspect: Service
+text: Terrible customer service and overpriced products is all you'll find here.
+ -1
+
+
+review_id : BAJNNhXaUiNKvxqGyeffwg
+aspect: Price
+text: Terrible customer service and overpriced products is all you'll find here.
+ -1
+
+review_id : BP9BFLanYspeo8zAUC-JKA
+aspect: Service
+text: Wow! Not any more, horrible service and to top it off rise and uncaring owner, don't forget where you started
+ -1
+
+
+review_id : ckEtSQHSECH2YqM-uJh6OQ
+aspect: Service
+text: Consistency in customer service is nonexistent.
+ -1
+
+
+review_id : ckEtSQHSECH2YqM-uJh6OQ
+aspect: Service
+text: At this point I was so disgusted with the lack of service, I just wanted out.
+ -1
+
+
+review_id : ckEtSQHSECH2YqM-uJh6OQ
+aspect: Service
+text: However, customer service was never great.
+ -1
+
+
+review_id : VVToVtT6YfcafHswZUdRPQ
+aspect: Service
+text: I agree with previous reviews, poor  customer service for sure.
+ -1
+
+
+review_id : fCoj2qJahxI3n0eKTmfsAw
+aspect: Service
+text: BAD customer service, Margarita the owner was not helpful to my needs!
+ -1
+
+
+review_id : 2t0tnfhxtNmAueHBHZebLQ
+aspect: Service
+text: Bad customer service and unreliable staff to be honest.
+ -1
+
+
+review_id : 5sVqba6u-_-uONoEtNmS2A
+aspect: Service
+text: Not the experience I wish I had to write about, but have to make potential customers aware of the terrible customer service and to make sure they select the right barber here.
+ -1
+
+
+review_id : cSpZFJ72hun8PBZRC4eY0Q
+aspect: Service
+text: I received horrendous customer service and it was the equivalent of purgatory, no, I am not over exaggerating.
+ -1
+
+
+review_id : mno4JreGFUK8p06Nlh6G7Q
+aspect: Service
+text: Unfortunately the haircut and customer service were both awful.
+ -1
+
+
+review_id : fIguEB4lF1ePWQPnzTcPIw
+aspect: Price
+text: The nail salon's   prices were higher then other salons in the Vally.I'll never go back again.
+ -1
+
+review_id : 6uHjlmwMOaRw-S6AFj5qkQ
+aspect: Service
+text: I could understand that if I simply didn't like the product but not exchanging a malfunctioning container is simply horrible customer service!
+ -1
+
+
+review_id : Qm7KyEp3J3r7q4ILdMUkdQ
+aspect: Service
+text: Worst customer service EVER! None of them would even crack a smile and I was super nice to them.
+ -1
+
+
+review_id : TOE0MiYSvPoezawN_5bbRg
+aspect: Service
+text: I highly doubt that I will ever be going back there, and am genuinely disappointed in the service I received
+ -1
+
+
+review_id : wqNMIGrndiPV1hcXZjaAHQ
+aspect: Service
+text: The absolute worst service me and my girlfriend have EVER received at a beauty salon.
+ -1
+
+
+review_id : 2wbyBJFf-DttsAM3bQ00Ww
+aspect: Service
+text: Listening to your customer is a huge part of quality customer service and for that, I'm not returning or referring anyone here.
+ -1
+
+
+review_id : AxxOqMWy19u5-1
+tyyTJ0Aw
+aspect: Price
+text:  Extremely overpriced!!
+ -1
+
+review_id : u7dXAjXzroPI3Qy-QUAqcA
+aspect: Service
+text: Terrible customer service.
+ -1
+
+
+review_id : u7dXAjXzroPI3Qy-QUAqcA
+aspect: Service
+text: She was just completely rude and it was terrible customer service.
+ -1
+
+
+review_id : tYhPXdhHkpfv6B6LMA6FCg
+aspect: Service
+text: Maybe it's not fair for me to rate 1 star if I didn't receive their services but based on the quality of customer care before even making it into their salon I feel it's valid.
+ -1
+
+
+review_id : pSDx9AJz8tSdxElTZEObmg
+aspect: Service
+text: My low rating is mainly for the threat of the $35 fee, lack of technology, long wait times and the customer service experience.
+ -1
+
+
+review_id : fnGC2VvasD-vfV6HUHci7Q
+aspect: Service
+text: The service was fast but horrible.
+ -1
+
+
+review_id : xgDjwE11gMatUH_luOGlgA
+aspect: Service
+text: Helen is the worst manager, the worst person, the worst customer service I have ever had to deal with.
+ -1
+
+
+review_id : QTM14fZTgbCR2sXYIvrWRA
+aspect: Service
+text: Nail services felt very rushed, and not relaxing at all.
+ -1
+
+
+review_id : MtiyUD0dfeMnAvJbVDXs3A
+aspect: Service
+text: They rent their salon to people that they don't know the quality of their service.
+ -1
+
+
+review_id : rb8nZMwVWwY5p4EPfJViAw
+aspect: Service
+text: The service was not worth the price.
+ -1
+
+
+review_id : vIvlfYN714Mtl56sJOWX4A
+aspect: Service
+text: Unhappy with the quality of service I received here.
+ -1
+
+
+review_id : 7pEDwryuU_oITzsbiIAGZg
+aspect: Service
+text: I am super disappointed with their customer service.
+ -1
+
+
+review_id : u3Z-NeBP9-1
+TM80Lnf32iA
+aspect: Service
+text: I was very disappointed with the service my daughter received.
+ -1
+
+
+review_id : u3Z-NeBP9-1
+TM80Lnf32iA
+aspect: Service
+text: I was very disappointed with the service my daughter received.
+ -1
+
+
+review_id : Lu1--R5OiKyW1t2bYuI0-w
+aspect: Service
+text: Bad service so we'll just took our business elsewhere.
+ -1
+
+
+review_id : 0ajI8IH6Adv_M-AkSFSERg
+aspect: Service
+text: This is the poorest customer service I have ever recieved by far from a salon!!
+ -1
+
+
+review_id : TPXalxtvVoJRer_cJqToHA
+aspect: Service
+text: The customer service here sucks.
+ -1
+
+
+review_id : SIbhMurFFUg-8CchD2w-MQ
+aspect: Service
+text: Horrible customer service.
+ -1
+
+
+review_id : PUVl1Gra2R-8qfZC_7WOyw
+aspect: Service
+text: Why doesn't she change her fine print? But poor customer SERVICE skills.
+ -1
+
+
+review_id : pEjYO1-Nwen1fEZUCtauPw
+aspect: Service
+text: Moral of the story, NEVER prepay for a hair service or you'll just get screwed and taken advantage of.
+ -1
+
+
+review_id : pEjYO1-Nwen1fEZUCtauPw
+aspect: Service
+text: After spending 600 dollars, in ONE consultation, I thought I would be treated a lot better, and given the quality service I had paid for.
+ -1
+
+
+review_id : uPub82Yo74OuVSejqzO5fg
+aspect: Service
+text: the service is definitely not the best....
+ -1
+
+
+review_id : uPub82Yo74OuVSejqzO5fg
+aspect: Price
+text: Not to mention the manicures and everything are ridiculously overpriced.
+ -1
+
+review_id : vmXKuwJIcnD-vdkEI2TDhA
+aspect: Service
+text: Customer service skills are the backbone of any business, and she has none.
+ -1
+
+
+review_id : ADIG3niFLWtdQRXVPMLlFA
+aspect: Service
+text: Not impressed with the job they did or their customer service.
+ -1
+
+
+review_id : wsESOAm3lZuhTrMYDd7BYg
+aspect: Service
+text: The service was awful.
+ -1
+
+
+review_id : Gl8jZfBIrVzjoSqckYKtUQ
+aspect: Service
+text: The quality of service is very hit or miss too.
+ -1
+
+
+review_id : HkrCZYT7H753lZwBRKA2_Q
+aspect: Service
+text: I paid for the services but definitely didn't leave a tip.
+ -1
+
+
+review_id : ysUm7yII4mBqzrL63ALtHA
+aspect: Service
+text: The owner is not friendly and lacks customer service.
+ -1
+
+
+review_id : ysUm7yII4mBqzrL63ALtHA
+aspect: Service
+text: The lack of customer service and professionalism is probably one of the reasons why no one wants to work there and is why people who did work there left.
+ -1
+
+
+review_id : ysUm7yII4mBqzrL63ALtHA
+aspect: Service
+text: In my opinion that is a lack of customer service.
+ -1
+
+
+review_id : ysUm7yII4mBqzrL63ALtHA
+aspect: Service
+text: If I am paying for a service you provide great customer service as well.
+ -1
+
+
+review_id : ysUm7yII4mBqzrL63ALtHA
+aspect: Service
+text: Without customer service and personality you will be dry like your lips are.
+ -1
+
+
+review_id : 9YfRgVql9KAr_ze0k8TWiA
+aspect: Service
+text: I can't understand how a business fails at customer service so much!!
+ -1
+
+
+review_id : BrLf5hEnmiXLd9cgFVp4zw
+aspect: Service
+text: Horrible customer service!
+ -1
+
+
+review_id : gItVjAliQydnymcuMaqTpQ
+aspect: Service
+text: Not only was the service poor during my visit on 10\/8, but the quality of the pedicure and gel polish manicure were awful.
+ -1
+
+
+review_id : -6NY3ENaY9rGgAANt0h0qQ
+aspect: Service
+text: Quality of service and experience  is really poor.
+ -1
+
+
+review_id : zXYAtqsabsQF9CD8uD8jCg
+aspect: Service
+text: Not at all happy with the service.
+ -1
+
+
+review_id : c2_lrd3JRHDFo8vXn6XkYw
+aspect: Price
+text: Their prices are high, especially considering my pedicure was starting to peel off by that evening, even though I was in open toe sandals the whole day.
+ -1
+
+review_id : fYc54-DiE8MSoG8fHpCK3g
+aspect: Service
+text: Worst customer service!
+ -1
+
+
+review_id : X1dt3v7-wDmIAjV-aWsVDg
+aspect: Service
+text: Service wasn't very friendly.
+ -1
+
+
+review_id : oqwwEBkNRL11PcJChCL0uw
+aspect: Price
+text: HORRIBLE! Their price board is confusing and over priced.
+ -1
+
+review_id : dgdlUQ_6QDbqKY5jWTCylQ
+aspect: Price
+text: This place is very basic with basic ikea furniture but the price is not basic.
+ -1
+
+review_id : dgdlUQ_6QDbqKY5jWTCylQ
+aspect: Service
+text: The staff there are polite but the actual service is terrible.
+ -1
+
+
+review_id : y9Cc_rSAUS70N3jfdpd0tA
+aspect: Price
+text: Oh yhea his jewelry sucks and is overpriced too!
+ -1
+
+review_id : XhW2Mqn4TmEW6yL0oOPQlA
+aspect: Service
+text: What a horrible service.
+ -1
+
+
+review_id : G0oq2CnQndZhNwSN__BCrg
+aspect: Service
+text: This is my first review, and only because I was so disappointed with the service here.
+ -1
+
+
+review_id : 0p1heKc_OxGU50W3iHqJCw
+aspect: Service
+text: I just walked out of this place after experiencing terrible customer service.
+ -1
+
+
+review_id : 9iroCX8qOQk9q61uF3n0iA
+aspect: Service
+text: The worst service ever.
+ -1
+
+
+review_id : M2RlOADIxxoeIlJ-wUmaOA
+aspect: Price
+text: Ive gone here twice, and they are SO over priced for what they produce.
+ -1
+
+review_id : y7Vh1JPfOpv5C5KqYCEEIQ
+aspect: Service
+text: Chubbier fellow, and terrible personality, and terrible customer service, I definitely can get a better haircut in the mall at the barber there, for a cheaper price, and way better customer service.
+ -1
+
+
+review_id : PI7n1_4ohykHZ1kHGhXRJA
+aspect: Service
+text: Worst customer service & experience hands down!
+ -1
+
+
+review_id : qWhZP4TIcAGiSoaTq6vWBQ
+aspect: Service
+text: I've never had such shitty service in my whole entire existence.
+ -1
+
+
+review_id : OUKwbNYHniPhT4a7sxRIqg
+aspect: Service
+text: Worst customer service I've ever had!
+ -1
+
+
+review_id : OUKwbNYHniPhT4a7sxRIqg
+aspect: Service
+text: Terrible service, awful management.
+ -1
+
+
+review_id : _5CUitRvsWpWT829a-6ESg
+aspect: Service
+text: Horrible customer service.
+ -1
+
+
+review_id : _5CUitRvsWpWT829a-6ESg
+aspect: Service
+text:  Was a loyal customer but the have really let the service slide.
+ -1
+
+
+review_id : Wv8qOvstQnO2XMFAqJLNqw
+aspect: Service
+text: I have never had such terrible service in my liiife! Please do not go here...
+ -1
+
+
+review_id : Zp5PJcHzdXIgxy5MKnIjsQ
+aspect: Service
+text: The fact that they intended to keep the 20 dollars change as a tip without asking, for such horrible service, was absolutely ridiculous.
+ -1
+
+
+review_id : 5r_vZg7R054oK451gS6BMQ
+aspect: Service
+text:  She has no Customer Service Skills what so ever.
+ -1
+
+
+review_id : fi0hqXQSxG0QNaqEsWE3vw
+aspect: Service
+text: WORST customer service I've ever experienced.
+ -1
+
+
+review_id : 6x38_UEsVnurYlYMYuGNeA
+aspect: Service
+text:  The service was so terrible and my boyfriend was in pain the rest of the afternoon!
+ -1
+
+
+review_id : oLcUSuflVsJYocFl53i7EQ
+aspect: Service
+text: So angry and disappointed with the terrible service.
+ -1
+
+
+review_id : cFtaQ_SC6uUAqYS26ELnGw
+aspect: Service
+text: Absolutely horrible service.
+ -1
+
+
+review_id : ndwIIS9N4amjJSc2ckjcEA
+aspect: Service
+text: And at this place it cost 40 bucks to get bad service.
+ -1
+
+
+review_id : jRc01gmh11uJ8_N4JREScg
+aspect: Service
+text: Staff is rude, and services are adequate but overpriced.
+ -1
+
+
+review_id : agTncKE9sZ_DHcwjPKa5IQ
+aspect: Service
+text: Both locations were poor customer service.
+ -1
+
+
+review_id : HAcl3Z88gqNO6BSo6vvG9g
+aspect: Service
+text: Horrible service!
+ -1
+
+
+review_id : pIaCkjyH5TAzYbYSCA6llA
+aspect: Price
+text: Over priced for poor quality.
+ -1
+
+review_id : bAHGPSGZCAKxZWJcSqNPuA
+aspect: Price
+text: so why would i drive an hour just for them to give me an outrageous price?
+ -1
+
+review_id : 9rmV9BGX9SCvm5VkcryHVA
+aspect: Price
+text:  Poor quality\nhair products at very high prices, never going back.
+ -1
+
+review_id : 3CQMVb09b6F-nqbjRirZOA
+aspect: Price
+text: Over priced and bad quality.
+ -1
+
+review_id : sGgil0vb9sdz0VNCpQ83kA
+aspect: Price
+text:  The service was slow and way over priced.
+ -1
+
+review_id : rwqOcJthF0_vgQkC_khjVw
+aspect: Price
+text: The prices are also high at this establishment (33 for pedicure, 30 for manicure), but seem to be consistent with the area.
+ -1
+
+review_id : 2_mpaG8QQK7_es6-_uwCuw
+aspect: Price
+text: She was trying to UPCHARGE  me for a very expensive gel\/shellac mani\/pedi without my knowing.
+ -1
+
+review_id : zb5oqAhc7-GyMMRxqdvi2w
+aspect: Price
+text: They were quite expensive and I have only worn them a few times.
+ -1
+
+review_id : mALHINVsHuNJOWZIVwyTFQ
+aspect: Price
+text: Most expensive and worst gel manicure I have ever had.
+ -1
+
+review_id : -xPVIYCdflbefvdG_dDw-A
+aspect: Price
+text: It's extremely expensive and the beds are old and not in great shape.
+ -1
+
+review_id : -xPVIYCdflbefvdG_dDw-A
+aspect: Price
+text: I bought the most expensive bed package,$120 for 15 tans, which I think is ridiculous when they can't even clean their beds.
+ -1
+
+review_id : yJ7HlI_ETiVtaVbMD30sHg
+aspect: Price
+text: And thirdly I should say that Lust for lashes is kinda overpriced for the quality of services they provided.
+ -1
+
+review_id : oQV69y7G34irUKdIKsiYAw
+aspect: Price
+text: worst\/most overpriced shellac manicure around.
+ -1
+
+review_id : tqSPGQ37aByfI_5TVFctfA
+aspect: Price
+text: It's always disorganized, chaotic and overpriced.
+ -1
+
+review_id : RsnXXDyvNr7Opa_EGfZThw
+aspect: Price
+text:  Price is also a lot higher than any other salon I have been to.
+ -1
+
+review_id : p9BPeag7dppS0ARb7ZptHg
+aspect: Price
+text: It was incredibly dirty, prices are high and the nail techs are awful and rude.
+ -1
+
+review_id : p9BPeag7dppS0ARb7ZptHg
+aspect: Price
+text: High prices & extremely poor customer service are two reasons to avoid this place at all costs.
+ -1
+
+review_id : SorX2IKLDbQJHa1VAO8HTQ
+aspect: Price
+text: Overpriced to begin with I expected my mu h better service.
+ -1
+
+review_id : yPLbNtPcqefDesA3UuI-Wg
+aspect: Price
+text: Overpriced chaos! Four cuts on my fingers from the filing during the $40 p&w fill and a $35 fifteen minute pedicure! Worst experience ever in a nail salon!
+ -1
+
+review_id : A2tTvHIekStvZu-ZtmDfwQ
+aspect: Price
+text: Anyway the new Juno hair is a disaster and definitely very over priced compared to the service before.
+ -1
+
+review_id : so3JdQmzvltl_6d2q-JuRQ
+aspect: Price
+text: This salon is very expensive with prices as high as beautiful downtown salons.
+ -1
+
+review_id : 66dR6sWv1hti9WYYe5rsVA
+aspect: Price
+text: Way overpriced!  $36 for  trimmer that took 15 minutes.
+ -1
+
+review_id : wrToe8UoEwHN4y_QoKvuyg
+aspect: Price
+text: Overall, this place is overpriced, and run by an egotistical evil little man.
+ -1
+
+review_id : FKmpQ_ofPP-m8U5ncNwK5w
+aspect: Price
+text: Unfortunately today has made me come to a realization that it's just way too overpriced and they've officially lost my business.
+ -1
+
+review_id : flnednjkM6zxqfa2Q3WBuA
+aspect: Price
+text: I was extremely disappointed and upset because that's very overpriced for someone who just got their hair washed and straightened which will only last a day or two.
+ -1
+
+review_id : QB2vDjydcw5XkSiE63Ylow
+aspect: Price
+text: Misleading information and stupidly overpriced.
+ -1
+
+review_id : fC29Z4cu4ILQcgMziwogGw
+aspect: Price
+text:  Totally not worth their crazy prices.
+ -1
+
+review_id : 7UAzraQCJ3YPtrWGXYkFOg
+aspect: Price
+text: They are also quite pricey!!!
+ -1
+
+review_id : ex1bbCdTRve88MoBrc3Dyw
+aspect: Price
+text: The facials are below average, overpriced and rushed.
+ -1
+
+review_id : CUuJQUrIc6Nxi7_fd5jzgA
+aspect: Price
+text:  A few hours later she updated her website with higher prices and the non-refundable clause.
+ -1
+
+review_id : YYf6S98jOSl5jDhjZs1qDA
+aspect: Price
+text: The prices of the food was expensive, which was a shock because the place does not look like a 5 star restaurant.
+ -1
+
+review_id : YYf6S98jOSl5jDhjZs1qDA
+aspect: Price
+text:  The food was not worth the price.
+ -1
+
+review_id : dH0LWQvJVbmtd8ctKWJvGw
+aspect: Price
+text: Their prices are not posted and doubled in a year.
+ -1
+
+review_id : 2Sj0nMGAgNJCmgcLNxDU0g
+aspect: Price
+text: The barbers are extremely slow, and the place is over priced! $20 just for basic haircut! 
+ -1
+
+review_id : SK5fulMs2ixZ9OCLDWqSZQ
+aspect: Price
+text: For what it's worth, I told them that their prices are too high and the barber next to me told me, \"well it's $700K homes around here.
+ -1
+
+review_id : XB64PU8LbHMjbFSuXD0j4g
+aspect: Price
+text: It's overpriced for a crappy nails.
+ -1
+
+review_id : VuIh235m7MJdHGfSLU2TYQ
+aspect: Price
+text: It was way overpriced.
+ -1
+
+review_id : IFZgL0f87z54iGW8Vocpuw
+aspect: Price
+text: The price was not reasonable either.
+ -1
+
+review_id : OG0lPUHedEowUDTgBkBxWA
+aspect: Price
+text: Besides all of that it was extremely pricey for the work that was done.
+ -1
+
+review_id : 1S3mjHxU5C6Kt7LvLEc7ZQ
+aspect: Price
+text: So it's definitely overpriced.
+ -1
+
+review_id : IsL2Xth5bavii-xp6qjVUQ
+aspect: Price
+text: They can't get appointments correct, are too expensive for their quality of service & have no professionalism.
+ -1
+
+review_id : lQSu0LTTsTjZnu0jQKJhkg
+aspect: Price
+text: The price is expensive.
+ -1
+
+review_id : zYhFE-8KPYvj1eH4dZLu-Q
+aspect: Price
+text: Soooo overpriced for what I got.
+ -1
+
+review_id : cftc8hq5x6ZsmgCUgidjMw
+aspect: Price
+text: Also, the colour selection is lacking and is really overpriced.
+ -1
+
+review_id : LaihKoziv573RL5odk7AZA
+aspect: Price
+text: Over priced $20 for basic cut.\nunprofessional barber shop.\nNo customer service skills.
+ -1
+
+review_id : 6PS1bbAp_jGA7eMxoj99Mw
+aspect: Price
+text: Price is very high as well ($40 for a fill and gel only) very disappointed in quality.
+ -1
+
+review_id : TB2KRtPas1Oyb1ZXqx3-8w
+aspect: Price
+text: The salon is highly overpriced and scheduling is very inconvenient and unprofessional.
+ -1
+
+review_id : rT5iwAzdZEELRC58suytLQ
+aspect: Price
+text:  Seriously over-priced.
+ -1
+
+review_id : qKzrPHAEfx0VYMTjgZ4RVA
+aspect: Price
+text: Didn't have a good experience at this over-priced salon.
+ -1
+
+review_id : 6nbVMQ6WJHsegT_Gq9kshw
+aspect: Price
+text: They are so over priced for what you get.
+ -1
+
+review_id : 8WGMkO6hVbwaKkqykdc8nA
+aspect: Price
+text: They're also highly overpriced for basic jobs, $35 per person for a simple pedicure -- no massage, no designs, nothing besides simple nailpolish.
+ -1
+
+review_id : Nzc8ovUI8CUjh3Yx92xQsw
+aspect: Price
+text: The mani\/pedi is listed for $35 and i asked for shellac on both my hands and feet and was charged an extra $15 for each, which seemed kind of over priced, but I went with it.
+ -1
+
+review_id : cMX7KvTQ0q_riwOexro3xg
+aspect: Price
+text: Way too overpriced for a service and rude costumer service.
+ -1
+
+review_id : OlXiXtcXZ5sOElGjUfWuDA
+aspect: Price
+text: Why? Over price for a BAD haircut for my 10 year old son.
+ -1
+
+review_id : k8gL6iSq9HWRq17tLz846w
+aspect: Price
+text: Absolute Horrible service! its very expensive and you don't get the service that goes with the money you spend.
+ -1
+
+review_id : HjIIaNQ20FSUzAZy3VmYew
+aspect: Price
+text: Worst and overpriced pedicure ever! 
+ -1
+
+review_id : vlNFm5miZyVL-jHZ08QhUw
+aspect: Price
+text: This is a very overpriced spa.
+ -1
+
+review_id : MboSKKXZcHJnTfVJb6V4Yw
+aspect: Price
+text: If you value yourself, your time and budget this place is not suitable for you, as you will be getting low-quality overpriced shellac and disregarded if you show them proof of its low quality.
+ -1
+
+review_id : n0QcYTKSU4oTy2DyYOOy6A
+aspect: Price
+text: They are very over priced for the type of work and service they provide.
+ -1
+
+review_id : hWkMU_l5zqHpfWBg93r1jQ
+aspect: Price
+text: The job on all of our nails was pathetic and way over priced and was not consistent with the care of each one of us.
+ -1
+
+review_id : l1RIgOEz1-6SJN3xnzWzIw
+aspect: Price
+text: Over priced and slow and they do a terrible job.
+ -1
+
+review_id : 4wlHjVSC-OOPGzK2CR2DzQ
+aspect: Price
+text: The braiders haggle with the customer over prices, have VERY bad attitudes and talk about the customers in their language (French).
+ -1
+
+review_id : zfo2g8brFQ349-OiKMZpew
+aspect: Price
+text: They're also very overpriced.
+ -1
+
+review_id : wxWXbb2WLZkEK8wW-Olb9Q
+aspect: Price
+text: The price is unreasonable high too, I spent $200, plus tips, for a result I don't even like.
+ -1
+
+review_id : XoukjNYfDvuy5A-zOBwK5g
+aspect: Price
+text: terrible service, the owner as well as many of the stylists are racist bigots, they will talk over you at the shampoo bowls like you can not hear them (you clearly can talking badly about co workers and superiors) and wildly overpriced.
+ -1
+
+review_id : IoHHc-s5xDdG-aNFeKlLGg
+aspect: Price
+text: Did manicure and nail polish for my daughter, very pricey and the nail polish was not done smoothly but very thick I could have done a better job !
+ -1
+
+review_id : 28mFZjJNXjnMUyiS30u7HA
+aspect: Price
+text: It was unpleasant and unsanitary and quite pricey.
+ -1
+
+review_id : 4AFlHZuTHaeOIQpyshp9Bw
+aspect: Price
+text: Over priced and very poor quality.
+ -1
+
+review_id : tMXTz3dXEBS2XhWhdQtxqg
+aspect: Price
+text: The owner was rude and the service was terrible and overpriced.
+ -1
+
+review_id : rKc_XR04PoVkjTbBP_QyvA
+aspect: Price
+text: Prices are extremely misleading.
+ -1
+
+review_id : xSgT-3Y7yAx2gvb1S9awvA
+aspect: Price
+text: i definitely do not recommend to anyone plus, their prices are expensive.
+ -1
+
+review_id : cHJKgqI03CJg67V_UQCPyQ
+aspect: Price
+text: The price does not match the service and they definitely rip everyone off.
+ -1
+
+review_id : eS5HcUXo98Cb7wI3Nz9SbA
+aspect: Price
+text: Not only was the price outrageous, the guy who did my hair, yanked and pulled, and scratched my face with the brush like 5 times.
+ -1
+
+review_id : w2YSzraVe-WKnJor7y-PQQ
+aspect: Price
+text: The price is unreasonable high too, I spent $200, plus tips, for a result I don't even like.
+ -1
+
+review_id : m1_1YQjbhhvk94n0I957Hw
+aspect: Price
+text: Horrible! Overpriced! My daughter and myself went to this salon only because it was opened Monday.
+ -1
+
+review_id : kKV2Ib7nDC7aLsiGVcyCzg
+aspect: Price
+text: Inconsistent and overpriced for quality of work.
+ -1
+
+review_id : MvlNEbrl2FAQd_d4JvLMdA
+aspect: Price
+text: Super hard sell, wildly overpriced, but a special \"deal\" for you.
+ -1
+
+review_id : WtxDsROeJYpJu5OtdHmRTw
+aspect: Price
+text: Crappy work, over priced and terrible management.
+ -1
+
+review_id : CmEXvLczxa6oX6FoQed1_g
+aspect: Price
+text: Prices went up so high! Not worth it!
+ -1
+
+review_id : aXmyXedG23h4Ws1O1VMy8w
+aspect: Price
+text: My tattoo was extremely overpriced.
+ -1
+
+review_id : tmF3io9ty17fnZ1FJAdA_A
+aspect: Price
+text:   Visit the place on tuesday because I was In a rush to get a nail job done...not only is it very expensive...but the Chinese speaking reps are very annoying.
+ -1
+
+review_id : P4S0rQZ36PnS-rfJw5Z1UQ
+aspect: Price
+text: This place is ridiculously over priced! Went in for a mani\/pedi (shellac on my hands), when I booked I was told that it would be $55.
+ -1
+
+review_id : TmKMHKqzXSwb3DgBtYkddg
+aspect: Price
+text: They charge a very high prices.
+ -1
+
+review_id : jZt0nKUFaq6mBlscZKBKFg
+aspect: Price
+text: Their high prices are not worth it for the low level of quality and service they provide.
+ -1
+
+review_id : 6qcMLnQoOXiHzKKn6Th_7g
+aspect: Price
+text: Very high priced services yet when you walk in, it is hard to get attention from the front desk.
+ -1
+
+review_id : e7Y6NOyb70x6xk0u9QGVjw
+aspect: Price
+text: I was in the chair for at least 45 minutes, with high pressure sales pitch.
+ -1
+
+review_id : uJk3x9zki8NVubf1_SKTZA
+aspect: Price
+text: Anyway, I won't be returning here and I suggest if you're in the market for a high price salon you look elsewhere as the price does not reflect the quality given.
+ -1
+
+review_id : bm2eo-p10vmdi7d2xAiOpw
+aspect: Price
+text: I am well aware of the average price of getting your hair done these days, but believe this salon needs to educate this stylist a lot more before allowing her to be on the floor by herself and charge such a high price for the talent I left with on my head.
+ -1
+
+review_id : o6-0LXZaFtV0-rZOMP8khQ
+aspect: Service
+text: When i expressed my issue, they told me to save my certificate and pay for the appt - it cost me $80.00 for a disgusting nail job and bad serice.
+ -1
+
+
+review_id : c-d_5gWrkVuhiWUGi5z8Qg
+aspect: Service
+text: Horrible customer service and very overpriced.
+ -1
+
+
+review_id : XrQDWP112G9Sz793LJPsBg
+aspect: Service
+text: As you can read from other reviews, Tiffany has very poor customer service.
+ -1
+
+
+review_id : IVEfEuav587LvdB2ObUt7A
+aspect: Service
+text: Boo to you for taking the money up front and then giving horrible service.
+ -1
+
+
+review_id : UuKULKWSsjTkN3TPUl_Hsg
+aspect: Service
+text: I will not be back, don't waste your time for such poor customer service!
+ -1
+
+
+review_id : jrplRBbzqrpwV9lH-tJK7g
+aspect: Service
+text: aweful customer services.
+ -1
+
+
+review_id : dCgMm3H3YZwilfXq8zu-8Q
+aspect: Service
+text: Terrible place! They change the price for the exact same service as they please.
+ -1
+
+
+review_id : 2u3bfDiR9HDSXSzZZ1YPVQ
+aspect: Service
+text: Needless to say, I am never going back to this salon with such arrogant disrespectful customer service.
+ -1
+
+
+review_id : zG6fTT-ObeFfFlGABjP98w
+aspect: Service
+text: Customer service is absolutely horrible.
+ -1
+
+
+review_id : VP5d-EOXwiHt60FkCaI4Qg
+aspect: Service
+text: Worst customer service ever.
+ -1
+
+
+review_id : WawAZ9wWdHORha7F3UXz6A
+aspect: Service
+text: Horrible customer service and horrible management.
+ -1
+
+
+review_id : Vr1Fw3Qn5uGubqn5jbSpiw
+aspect: Service
+text: I am extremely disappointed in service I've received here lately.
+ -1
+
+
+review_id : GPn2aERz5cMVh77Hc9-owg
+aspect: Service
+text: Absolutely horrible service and I will never go back.
+ -1
+
+
+review_id : haplVEMXRVCbA0SWFfVCAw
+aspect: Service
+text:  I've never experienced the lack of care or lack of customer service that this company offers.
+ -1
+
+

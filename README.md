@@ -11,7 +11,7 @@
 ### 1. Preprocessing
 * If you have already got the processed data which are [train_6.pkl](https://drive.google.com/file/d/17hVpGDsRuRnocdaLHxFHvO3cvmdgi_ZA/view?usp=sharing) and [test_6.pkl](https://drive.google.com/file/d/1Nt_zKTWYmIPZbS1AlLDeDiUJl1xIjVZn/view?usp=sharing), skip to step 2.
 * otherwise
-  * In **albert**, there are five steps to preprocess the original [Yelp open review data](https://www.yelp.com/dataset), which we used is version-2020.
+  * In the folder of **albert**, there are five steps to preprocess the original [Yelp open review data](https://www.yelp.com/dataset), which we used is version-2020.
   * step 1 training the albert-model.
   * step 2 filtering the POIs which have less than 10 visits and users who has visited less than 10 POIs, and obtain the numeric ids of POIs and users. In this step you can obtain the number of POIs and users, then you should mortify the setup of **TYPE_NUMBER** and **USER_NUMBER** in **transformer.Constants**.
   * step 3 to generate the dictionary which you can obtain the top category through the numeric ids of the POIs.

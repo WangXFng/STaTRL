@@ -226,6 +226,7 @@ def main(trial):
     parser.add_argument('-d_v', type=int, default=16)
 
     parser.add_argument('-n_head', type=int, default=4)
+    parser.add_argument('-n_dis', type=int, default=4)
     parser.add_argument('-n_layers', type=int, default=4)
 
     parser.add_argument('-dropout', type=float, default=0.1)
@@ -235,6 +236,8 @@ def main(trial):
     parser.add_argument('-log', type=str, default='log.txt')
 
     parser.add_argument('-ita', type=float, default=0.05)
+
+    parser.add_argument('-coefficient', type=float, default=0.05)
 
     opt = parser.parse_args()
 
@@ -272,20 +275,20 @@ def main(trial):
     # opt.ita = trial.suggest_uniform('ita', 0.03, 0.06)
     # opt.coefficient = trial.suggest_uniform('coefficient', 0.05, 0.15)
 
-    opt.lr = 0.0001
-    # # #
-    opt.n_layers = 2  # 2
-    opt.d_inner_hid = 1024  # 768
-    # opt.d_rnn = 128
-    opt.d_model = 1024
-    opt.d_k = 1024
-    opt.d_v = 896
-    opt.n_head = 12  # 8
-    opt.n_dis = 12
-    opt.dropout = 0.67834
-    opt.smooth = 0.01836
-    opt.ita = 0.037
-    opt.coefficient = 0.14
+    # opt.lr = 0.0001
+    # # # #
+    # opt.n_layers = 2  # 2
+    # opt.d_inner_hid = 1024  # 768
+    # # opt.d_rnn = 128
+    # opt.d_model = 1024
+    # opt.d_k = 1024
+    # opt.d_v = 896
+    # opt.n_head = 12  # 8
+    # opt.n_dis = 12
+    # opt.dropout = 0.67834
+    # opt.smooth = 0.01836
+    # opt.ita = 0.037
+    # opt.coefficient = 0.14
 
     print('[Info] parameters: {}'.format(opt))
     model = Transformer(

@@ -20,7 +20,7 @@
   * step 6 generate the input data, train_6.pkl and test_6.pkl
 
 ### 2. Training
-#> sh run.sh
+> sh run.sh
 
 ### Note
 * Right now the code only supports single GPU training, but an extension to support multiple GPUs should be easy.

@@ -6,7 +6,7 @@ import time
 
 # #########
 count = 0
-f = open('./data/yelp_academic_dataset_user.json', 'r')
+f = open('./dataset/dataset/yelp_academic_dataset_user.json', 'r')
 line = f.readline()
 whole_data = []
 while line:
@@ -20,13 +20,13 @@ while line:
 
 print(count)
 
-np.save('./data/11_0_4/yelp_user_level_1.npy', whole_data)  # 20 : 406925 390930 325871
+np.save('./dataset/dataset/11_0_4/yelp_user_level_1.npy', whole_data)  # 20 : 406925 390930 325871
 #
 #
 #
 #########
 count = 0
-f = open('./data/yelp_academic_dataset_business.json', 'r')
+f = open('./dataset/dataset/yelp_academic_dataset_business.json', 'r')
 line = f.readline()
 whole_data = []
 while line:
@@ -38,11 +38,11 @@ while line:
         print(count, len(whole_data))
     line = f.readline()
 print(count)
-np.save('./data/11_0_4/yelp_business_level_1.npy', whole_data)  # 63098 60932 52140
+np.save('./dataset/dataset/11_0_4/yelp_business_level_1.npy', whole_data)  # 63098 60932 52140
 
 
-users = np.load('./data/11_0_4/yelp_user_level_1.npy')
-businesses = np.load('./data/11_0_4/yelp_business_level_1.npy')
+users = np.load('./dataset/dataset/yelp_user_level_1.npy')
+businesses = np.load('./dataset/dataset/yelp_business_level_1.npy')
 
 us,bs = {},{}
 for i,u in enumerate(users):
@@ -53,7 +53,7 @@ for i,b in enumerate(businesses):
 
 def addContent(whole_data):
     # f = open('/home/g19tka20/Downloads/full Yelp/yelp_dataset/%s_review.txt' % city,'a')
-    f = open('./data/11_0_4/yelp_academic_dataset_review_level_1.json', 'a')  # 3882631 3783977 3361021
+    f = open('./dataset/dataset/yelp_academic_dataset_review_level_1.json', 'a')  # 3882631 3783977 3361021
     for er in whole_data:
         f.write(er)
     f.close()
@@ -61,7 +61,7 @@ def addContent(whole_data):
 
 count = 0
 stop_c = int(8021122*0.4)
-f = open('./data/yelp_academic_dataset_review.json', 'r')  # 8021122 4010561
+f = open('./dataset/dataset/yelp_academic_dataset_review.json', 'r')  # 8021122 4010561
 line = f.readline()
 whole_data = []
 w_count = 0
@@ -86,8 +86,8 @@ print(w_count)
 addContent(whole_data)
 
 
-users = np.load('./data/11_0_4/yelp_user_level_1.npy')  # 688832  # 406925
-businesses = np.load('./data/11_0_4/yelp_business_level_1.npy')  # 103803  # 63098
+users = np.load('./dataset/dataset/yelp_user_level_1.npy')  # 688832  # 406925
+businesses = np.load('./dataset/dataset/yelp_business_level_1.npy')  # 103803  # 63098
 
 us,bs = {},{}
 for i,u in enumerate(users):
@@ -103,7 +103,7 @@ b_a = [[] for i in range(len(businesses))]
 
 t1 = time.time()
 count = 0
-f = open('./data/11_0_4/yelp_academic_dataset_review_level_1.json', 'r')  # 3882631
+f = open('./dataset/dataset/yelp_academic_dataset_review_level_1.json', 'r')  # 3882631
 line = f.readline()
 while line:
     count += 1
@@ -128,11 +128,11 @@ while line:
 
     line = f.readline()
 
-np.save('./data/11_0_4/yelp_user_level_3_user_id_count.npy', u)  # 131291 34079 18721
-np.save('./data/11_0_4/yelp_business_level_3_business_id_count.npy', b)  # 67621 14728
+np.save('./dataset/dataset/yelp_user_level_3_user_id_count.npy', u)  # 131291 34079 18721
+np.save('./dataset/dataset/yelp_business_level_3_business_id_count.npy', b)  # 67621 14728
 
-np.save('./data/11_0_4/yelp_user_level_3_user_array.npy', u_a)  # 131291 34079
-np.save('./data/11_0_4/yelp_business_level_3_business_array.npy', b_a)  # 67621
+np.save('./dataset/dataset/yelp_user_level_3_user_array.npy', u_a)  # 131291 34079
+np.save('./dataset/dataset/yelp_business_level_3_business_array.npy', b_a)  # 67621
 
 print(count)
 
@@ -167,24 +167,24 @@ while flag:
 
     flag = flag_b or flag_u
 
-np.save('./data/11_0_4/yelp_user_level_4_user_id_count.npy', u)
-np.save('./data/11_0_4/yelp_business_level_4_business_id_count.npy', b)
+np.save('./dataset/dataset/yelp_user_level_4_user_id_count.npy', u)
+np.save('./dataset/dataset/yelp_business_level_4_business_id_count.npy', b)
 
 users = users[u!=0]
 businesses = businesses[b!=0]
 print(len(users), len(businesses))
 
-np.save('./data/11_0_4/yelp_user_level_4_user_id.npy', users)  # 119876  # 34079 # 30808 28038
-np.save('./data/11_0_4/yelp_business_level_4_business_id.npy', businesses)  # 62796 # 24406 # 22459 15745
+np.save('./dataset/dataset/yelp_user_level_4_user_id.npy', users)  # 119876  # 34079 # 30808 28038
+np.save('./dataset/dataset/yelp_business_level_4_business_id.npy', businesses)  # 62796 # 24406 # 22459 15745
 
-f = open('./data/11_0_4/dataset/Yelp_data_size.txt', 'w')  # 22459
+f = open('./dataset/dataset/dataset/Yelp_data_size.txt', 'w')  # 22459
 f.write(str(len(users))+"\t"+str(len(businesses)))
 f.close()
 
 
 # ############## get final users and reviews
-users = np.load('./data/11_0_4/yelp_user_level_4_user_id.npy')
-businesses = np.load('./data/11_0_4/yelp_business_level_4_business_id.npy')
+users = np.load('./dataset/dataset/yelp_user_level_4_user_id.npy')
+businesses = np.load('./dataset/dataset/yelp_business_level_4_business_id.npy')
 
 us,bs = {},{}
 for i,u in enumerate(users):
@@ -195,7 +195,7 @@ for i,b in enumerate(businesses):
 
 def addUser(whole_data):
     #  20 < user : 34079 poi: 24406 review: 1733082> 735092
-    f = open('./data/11_0_4/final_user.json', 'a')  # 30808
+    f = open('./dataset/dataset/final_user.json', 'a')  # 30808
     for er in whole_data:
         f.write(er)
     f.close()
@@ -203,7 +203,7 @@ def addUser(whole_data):
 
 r_count = 0
 count = 0
-f = open('./data/yelp_academic_dataset_user.json', 'r')  # 1968703
+f = open('./dataset/dataset/yelp_academic_dataset_user.json', 'r')  # 1968703
 line = f.readline()
 whole_data = []
 t1 = time.time()
@@ -224,7 +224,7 @@ addUser(whole_data)
 
 
 def addBusiness(whole_data):
-    f = open('./data/11_0_4/final_business.json', 'a')  # 22459
+    f = open('./dataset/dataset/final_business.json', 'a')  # 22459
     for er in whole_data:
         f.write(er)
     f.close()
@@ -232,7 +232,7 @@ def addBusiness(whole_data):
 
 r_count = 0
 count = 0
-f = open('./data/yelp_academic_dataset_business.json', 'r')  # 209393
+f = open('./dataset/dataset/yelp_academic_dataset_business.json', 'r')  # 209393
 line = f.readline()
 whole_data = []
 t1 = time.time()
@@ -253,7 +253,7 @@ addBusiness(whole_data)
 
 
 def addReview(whole_data):
-    f = open('./data/11_0_4/final_review.json', 'a')  # 1733082  # 1624688  # 1153324
+    f = open('./dataset/dataset/final_review.json', 'a')  # 1733082  # 1624688  # 1153324
     for er in whole_data:
         f.write(er)
     f.close()
@@ -261,7 +261,7 @@ def addReview(whole_data):
 
 r_count = 0
 count = 0
-f = open('./data/yelp_academic_dataset_review.json', 'r')  # 8021122
+f = open('./dataset/dataset/yelp_academic_dataset_review.json', 'r')  # 8021122
 line = f.readline()
 whole_data = []
 t1 = time.time()

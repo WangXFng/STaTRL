@@ -180,12 +180,12 @@ np.random.shuffle(train_data)
 
 
 data = {'dim_process': poi_num, 'train': train_data, 'poi_avg_aspect': poi_avg_aspect}
-data_output = open('./dataset/dataset2/train_6.pkl','wb')
+data_output = open('./data/train_6.pkl','wb')
 pickle.dump(data, data_output)
 data_output.close()
 
 data = {'dim_process': poi_num, 'test': test_data, 'poi_avg_aspect': poi_avg_aspect}
-data_output = open('./dataset/dataset2/test_6.pkl','wb')
+data_output = open('./data/test_6.pkl','wb')
 pickle.dump(data, data_output)
 data_output.close()
 

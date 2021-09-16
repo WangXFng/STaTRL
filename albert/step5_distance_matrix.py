@@ -7,16 +7,16 @@ import math
 
 # "latitude":35.4627242,"longitude":-80.8526119
 
-users = np.load('/home/g19tka20/Downloads/full_Yelp/yelp_dataset/11_0_4/yelp_user_level_4_user_id.npy')
-businesses = np.load('/home/g19tka20/Downloads/full_Yelp/yelp_dataset/11_0_4/yelp_business_level_4_business_id.npy')
+users = np.load('./dataset/dataset/yelp_user_level_4_user_id.npy')
+businesses = np.load('./dataset/dataset/yelp_business_level_4_business_id.npy')
 # print([ businesses[i] for i in range(10)])
 
 count = 0
-f = open('/home/g19tka20/Downloads/full_Yelp/yelp_dataset/11_0_4/final_business.json', 'r')  # 3433618
+f = open('./dataset/dataset/final_business.json', 'r')  # 3433618
 line = f.readline()
 
 t1 = time.time()
-w = open('/home/g19tka20/Downloads/full_Yelp/yelp_dataset/11_0_4/dataset/Yelp_poi_coos.txt', 'w')
+w = open('./dataset/dataset/dataset/Yelp_poi_coos.txt', 'w')
 while line:
     j = json.loads(line)
 
@@ -46,7 +46,7 @@ w.close()
 # count = 0
 # lats = []
 # lngs = []
-# # f = open('/home/g19tka20/Downloads/full_Yelp/yelp_dataset/11_0_4/dataset/Yelp_poi_coos.txt', 'r')
+# # f = open('./dataset/dataset/dataset/Yelp_poi_coos.txt', 'r')
 # f = open('../Gowalla/Gowalla_poi_coos.txt', 'r')
 # line = f.readline()
 # while line:

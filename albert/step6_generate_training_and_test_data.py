@@ -7,13 +7,14 @@ import ast
 
 # !/usr/bin/env python
 # -*-encoding:UTF-8 -*-
+from transformer import Constants
 
 min_time = 1098028800
 
 # path = '/home/g19tka20/Downloads/full_Yelp/yelp_dataset/11_0_4/dataset'
 # city = Constants.NOW_CITY
-user_num = 28038  # 119876
-poi_num = 15745  # 62796
+user_num = Constants.TYPE_NUMBER #28038  # 119876
+poi_num = Constants.USER_NUMBER  # 62796
 
 global disc
 disc = np.load("./dataset/dataset/disc.npy")

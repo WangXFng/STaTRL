@@ -1,6 +1,4 @@
-# Transformer Hawkes Process
-
-Source code for [Transformer Hawkes Process (ICML 2020)](https://arxiv.org/abs/2002.09291).
+# Spatial-Temporal and Text Representation
 
 # Run the code
 

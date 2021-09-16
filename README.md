@@ -15,7 +15,7 @@
   * step 1 training the albert-model.
   * step 2 filtering the POIs which have less than 10 visits and users who has visited less than 10 POIs, and obtain the numeric ids of POIs and users. In this step you can obtain the number of POIs and users, then you should mortify the setup of **TYPE_NUMBER** and **USER_NUMBER** in **transformer.Constants**.
   * step 3 to generate the dictionary which you can obtain the top category through the numeric ids of the POIs.
-  * step 4 to obtain the text visit sequence -- Yelp_reviews_test.txt. Before generating the file, you may need mortify ** model = torch.load('./model/3_2.pth.tar')**.
+  * step 4 to obtain the text visit sequence -- Yelp_reviews_test.txt. Before generating the file, you may need mortify **model = torch.load('./model/3_2.pth.tar')**.
   * step 5 to compute the distance matrix of all POIs.
   * step 6 generate the input data, train_6.pkl and test_6.pkl
 

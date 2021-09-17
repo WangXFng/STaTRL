@@ -1,4 +1,4 @@
-# Spatial-Temporal and Text Representation (STaTR)
+# Spatial-Temporal and Text Representation Learning (STaTRL)
 
 
 ### Dependencies

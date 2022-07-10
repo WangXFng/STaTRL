@@ -24,4 +24,4 @@
 
 ### Note
 * Right now the code only supports single GPU training, but an extension to support multiple GPUs should be easy.
-* If there is any problem, please contact to kaysen@hdu.edu.cn.
+* If there is any problem, please contact to kaysen@hdu.edu.cn or fukumoto@yamanashi.ac.jp.

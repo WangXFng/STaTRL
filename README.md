@@ -1,4 +1,4 @@
-# Spatial-Temporal and Text Representation Learning (STaTRL)
+# Spatial-Temporal and Text Representation Learning (STaTRL), Applied Intelligence.
 
 
 ### Dependencies

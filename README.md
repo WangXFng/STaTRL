@@ -1,6 +1,8 @@
-# Spatial-Temporal and Text Representation Learning (STaTRL) for Point-of-Interest (POI) recommendation, Applied Intelligence 2022. IF=5.019 JCR分区（Q2）
+# Spatial-Temporal and Text Representation Learning (STaTRL) for Point-of-Interest (POI) recommendation
 
-## If you want to make a comparison of STaTRL without Text Representation Learning, please kindly find the [STRL](https://github.com/wxf2445/STRL). That could be easily run, without processing Text Information.
+### Applied Intelligence 2022. IF=5.019 JCR分区（Q2）
+
+### If you want to make a comparison of STaTRL without Text Representation Learning, please kindly find the [STRL](https://github.com/wxf2445/STRL). That could be easily run, without processing Text Information.
 
 | dataset | # Users | # POI |
 |---------|---------|---------|

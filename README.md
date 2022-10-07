@@ -1,10 +1,17 @@
-# Spatial-Temporal and Text Representation Learning (STaTRL), Applied Intelligence.
+# Spatial-Temporal and Text Representation Learning (STaTRL) for Point-of-Interest (POI) recommendation, Applied Intelligence 2022. IF=5.019 JCR分区（Q2）
 
+| dataset | # Users | # POI |
+|---------|---------|---------|
+| Yelp2020     | 28038     |# 15745 |
+| Yelp    | 30887     |# 18995 |
+| Gowalla     | 18737     |# 32510 |
+| Foursquare     | 7642     |# 28483 |
 
 ### Dependencies
 * Python 3.7.6
 * [Anaconda](https://www.anaconda.com/) 4.8.2 contains all the required packages.
 * [PyTorch](https://pytorch.org/) version 1.7.1.
+
 
 ### Instructions
 

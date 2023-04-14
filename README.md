@@ -1,4 +1,4 @@
-# Spatial-Temporal and Text Representation Learning (STaTRL) for Point-of-Interest (POI) recommendation
+# STaTRL APIN'23
 
 ### Applied Intelligence 2022. IF=5.019 JCR分区（Q2）
 

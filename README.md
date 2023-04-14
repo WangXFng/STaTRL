@@ -2,7 +2,7 @@
 
 ### Applied Intelligence 2022. IF=5.019 JCR分区（Q2）
 
-### [STaTRL without Text Representation Learning（STRL）](https://github.com/WangXFng/STRL) could be easily conducted, without processing Text.
+<-- ### [STaTRL without Text Representation Learning（STRL）](https://github.com/WangXFng/STRL) could be easily conducted, without processing Text. -->
 
 | dataset | # Users | # POI |
 |---------|---------|---------|

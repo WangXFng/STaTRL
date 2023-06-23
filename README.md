@@ -36,3 +36,17 @@
 ### Note
 * Right now the code only supports single GPU training, but an extension to support multiple GPUs should be easy.
 * If there is any problem, please contact to kaysen@hdu.edu.cn or fukumoto@yamanashi.ac.jp.
+
+  
+If this repository helps you, please cite:
+
+    @article{wang2023statrl,
+      title={STaTRL: Spatial-temporal and text representation learning for POI recommendation},
+      author={Wang, Xinfeng and Fukumoto, Fumiyo and Li, Jiyi and Yu, Dongjin and Sun, Xiaoxiao},
+      journal={Applied Intelligence},
+      volume={53},
+      number={7},
+      pages={8286--8301},
+      year={2023},
+      publisher={Springer}
+    }
